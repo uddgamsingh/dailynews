@@ -45,6 +45,7 @@ section{margin-bottom:36px}
 .card p{margin:0;color:var(--mute);font-size:13.5px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .new{background:#dc2626;color:#fff;border-radius:4px;padding:0 5px;font-size:10px;font-weight:700;margin-right:6px}
 .empty{padding:28px;text-align:center;color:var(--mute);background:var(--card);border:1px dashed var(--line);border-radius:12px}
+.disc{margin:6px 0;max-width:900px;line-height:1.55}
 footer{border-top:1px solid var(--line);color:var(--mute);font-size:12.5px;padding:20px 0 40px}
 @media(max-width:600px){input{min-width:0;flex:1}.logo{font-size:22px}}
 </style>
@@ -86,13 +87,15 @@ footer{border-top:1px solid var(--line);color:var(--mute);font-size:12.5px;paddi
 
 <footer>
   <div class="wrap">
-    Updated automatically every 2 hours by GitHub Actions from free public sources (Hacker News Algolia API and publisher RSS feeds).
-    Every card links to the original publisher with its published time.
+    <div>By Uddgam Singh</div>
+    <div class="disc"><strong>Disclaimer:</strong> This website is a news aggregator. It only displays headlines, short summaries and links collected from publicly available RSS feeds and APIs. All news content, images and trademarks belong to, and are the sole responsibility of, the original publishers and source websites. We do not create, edit or verify this content, and we do not guarantee its accuracy or completeness. Please visit the original source for the full story.</div>
+    <div>&copy; <span id="yr">2026</span> Uddgam Singh. All rights reserved. News headlines and images remain the property of their respective publishers.</div>
   </div>
 </footer>
 
 <script>
 (function(){
+document.getElementById("yr").textContent=new Date().getFullYear();
 "use strict";
 const SECTIONS = {
   ai:{title:"Artificial Intelligence",color:"var(--ai)",limit:12},
