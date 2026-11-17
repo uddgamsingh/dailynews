@@ -1,8 +1,8 @@
-name: Update daily news
+name: Update news
 
 on:
   schedule:
-    - cron: "30 0 * * *"   # every day at 00:30 UTC (edit to change the time)
+    - cron: "15 */2 * * *"   # every 2 hours at :15 UTC (edit to change)
   workflow_dispatch: {}      # lets you run it manually from the Actions tab
 
 permissions:
@@ -31,6 +31,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "Update news $(date -u +%F)"
+            git commit -m "Update news $(date -u +%F\ %H:%M)"
             git push
           fi
