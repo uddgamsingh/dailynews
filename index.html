@@ -23,6 +23,9 @@ input{min-width:170px}
 nav{display:flex;gap:4px;overflow-x:auto}
 nav button{font:inherit;font-size:14px;font-weight:600;cursor:pointer;border:0;border-bottom:3px solid transparent;background:none;padding:10px 14px;color:var(--mute);white-space:nowrap}
 nav button.on{color:var(--ink);border-bottom-color:var(--brand)}
+.subbar{display:flex;align-items:center;gap:10px;padding:10px 0;border-top:1px solid var(--line);font-size:13px;color:var(--mute)}
+.subbar[hidden]{display:none}
+.tag{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:#fff;background:var(--c);border-radius:4px;padding:1px 6px;margin-right:6px}
 main{padding:24px 0 48px}
 .status{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;color:var(--mute);font-size:12.5px;margin-bottom:18px}
 section{margin-bottom:36px}
@@ -55,7 +58,6 @@ footer{border-top:1px solid var(--line);color:var(--mute);font-size:12.5px;paddi
         <div class="date" id="today"></div>
       </div>
       <div class="controls">
-        <select id="country" aria-label="National news country"></select>
         <select id="range" aria-label="Time range">
           <option value="1">Last 24 hours</option>
           <option value="2">Last 48 hours</option>
@@ -65,11 +67,15 @@ footer{border-top:1px solid var(--line);color:var(--mute);font-size:12.5px;paddi
       </div>
     </div>
     <nav id="tabs">
-      <button data-t="all" class="on">All</button>
+      <button data-t="all" class="on">Recent</button>
       <button data-t="ai">AI</button>
       <button data-t="intl">International</button>
       <button data-t="national">National</button>
     </nav>
+    <div class="subbar" id="countryBar" hidden>
+      <label for="country">Country</label>
+      <select id="country" aria-label="National news country"></select>
+    </div>
   </div>
 </header>
 
@@ -108,7 +114,7 @@ function ago(d){
   const h = Math.round(m/60); if(h<24) return h+"h ago";
   return d.toLocaleDateString(undefined,{month:"short",day:"numeric"});
 }
-function card(a,color){
+function card(a,color,tag){
   const d = new Date(a.published);
   const fresh = Date.now()-d < 6*3600*1000;
   const ph = `<div class="thumb ph">${esc(a.source)}</div>`;
@@ -117,7 +123,7 @@ function card(a,color){
     : ph;
   return `<a class="card" style="--c:${color}" href="${esc(safeUrl(a.link))}" target="_blank" rel="noopener noreferrer">${img}
     <div class="body">
-      <div class="meta"><span class="src">${esc(a.source)}</span><span>${fresh?'<span class="new">NEW</span>':""}<time datetime="${esc(a.published)}" title="Published ${esc(d.toLocaleString())}">${ago(d)}</time></span></div>
+      <div class="meta"><span class="src">${esc(a.source)}</span><span>${tag?`<span class="tag">${esc(tag)}</span>`:""}${fresh?'<span class="new">NEW</span>':""}<time datetime="${esc(a.published)}" title="Published ${esc(d.toLocaleString())}">${ago(d)}</time></span></div>
       <h3>${esc(a.title)}</h3>${a.summary?`<p>${esc(a.summary)}</p>`:""}
     </div></a>`;
 }
@@ -126,12 +132,24 @@ function render(){
   const cutoff = Date.now() - (+$("#range").value)*86400000;
   const q = $("#q").value.trim().toLowerCase();
   const cc = $("#country").value;
-  const keys = tab==="all" ? ["ai","intl","national"] : [tab];
+  if(tab==="all"){
+    const all = [].concat(
+      DATA.ai.map(a=>({a,k:"ai"})), DATA.intl.map(a=>({a,k:"intl"})), (DATA.national[cc]||[]).map(a=>({a,k:"national"}))
+    ).filter(x=>new Date(x.a.published)>=cutoff && (!q||(x.a.title+" "+x.a.summary+" "+x.a.source).toLowerCase().includes(q)))
+     .sort((x,y)=>new Date(y.a.published)-new Date(x.a.published));
+    const top = all.slice(0,10);
+    const short = {ai:"AI",intl:"World",national:DATA.countries[cc]||cc};
+    $("#out").innerHTML = `<section style="--c:var(--brand)"><div class="sec-h"><span class="dot"></span><h2>Recent · Top 10 latest</h2><span class="count">AI, International &amp; ${esc(DATA.countries[cc]||cc)}</span></div>`
+      + (top.length ? `<div class="grid">${top.map(x=>card(x.a,SECTIONS[x.k].color,short[x.k])).join("")}</div>` : `<div class="empty">No stories for this range or search. Try "Last 7 days".</div>`)
+      + `</section>`;
+    return;
+  }
+  const keys = [tab];
   $("#out").innerHTML = keys.map(k=>{
     const s = SECTIONS[k];
     const src = k==="national" ? (DATA.national[cc]||[]) : DATA[k];
     const list = src.filter(a=>new Date(a.published)>=cutoff && (!q||(a.title+" "+a.summary+" "+a.source).toLowerCase().includes(q)));
-    const shown = list.slice(0, tab==="all" ? s.limit : 60);
+    const shown = list.slice(0, 60);
     const label = k==="national" ? " · "+esc(DATA.countries[cc]||cc) : "";
     return `<section style="--c:${s.color}"><div class="sec-h"><span class="dot"></span><h2>${s.title}${label}</h2><span class="count">${list.length} ${list.length===1?"story":"stories"}</span></div>`
       + (shown.length ? `<div class="grid">${shown.map(a=>card(a,s.color)).join("")}</div>` : `<div class="empty">No stories for this range or search. Try "Last 7 days".</div>`)
@@ -142,7 +160,7 @@ function render(){
 $("#today").textContent = new Date().toLocaleDateString(undefined,{weekday:"long",year:"numeric",month:"long",day:"numeric"});
 $("#tabs").addEventListener("click",e=>{
   const b = e.target.closest("button"); if(!b) return;
-  tab = b.dataset.t; [...$("#tabs").children].forEach(x=>x.classList.toggle("on",x===b)); render();
+  tab = b.dataset.t; $("#countryBar").hidden = tab!=="national"; [...$("#tabs").children].forEach(x=>x.classList.toggle("on",x===b)); render();
 });
 $("#range").addEventListener("change",render);
 $("#q").addEventListener("input",render);
@@ -153,9 +171,8 @@ fetch("data/news.json?ts="+Math.floor(Date.now()/600000),{cache:"no-cache"})
   .then(j=>{
     DATA = j;
     if(!j.generated_at){ $("#stamp").textContent="No data yet. Run the “Update daily news” workflow once from the Actions tab."; return; }
-    const tz = {"Asia/Kolkata":"IN","Asia/Calcutta":"IN","Europe/London":"GB","Australia/Sydney":"AU","Australia/Melbourne":"AU","Asia/Karachi":"PK","Africa/Lagos":"NG","Africa/Johannesburg":"ZA","America/Toronto":"CA","America/Vancouver":"CA"}[Intl.DateTimeFormat().resolvedOptions().timeZone];
     $("#country").innerHTML = Object.entries(j.countries).map(([k,v])=>`<option value="${k}">${esc(v)}</option>`).join("");
-    const pref = store.get("dailybrief:country") || tz || "US";
+    const pref = store.get("dailybrief:country") || "IN";
     $("#country").value = j.countries[pref] ? pref : Object.keys(j.countries)[0];
     $("#stamp").textContent = "Last updated " + new Date(j.generated_at).toLocaleString([],{dateStyle:"medium",timeStyle:"short"});
     $("#srcline").textContent = j.failed_sources.length ? "Unavailable in last run: "+j.failed_sources.join(", ") : "All sources online";
