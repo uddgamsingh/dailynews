@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>DailyBrief — AI, International & National News</title>
-<meta name="description" content="Daily news on AI, international and national headlines, updated automatically every day.">
+<meta name="description" content="Daily news on AI, international and national headlines, updated automatically every 2 hours.">
 <style>
 :root{--bg:#f6f7f9;--card:#fff;--ink:#14171c;--mute:#667085;--line:#e4e7ec;--brand:#1d4ed8;--ai:#7c3aed;--intl:#0f766e;--nat:#c2410c;--shadow:0 1px 2px rgba(16,24,40,.06),0 1px 3px rgba(16,24,40,.08)}
 @media (prefers-color-scheme:dark){:root{--bg:#0d1117;--card:#161b22;--ink:#e6edf3;--mute:#8b98a9;--line:#262d36;--brand:#60a5fa;--ai:#a78bfa;--intl:#2dd4bf;--nat:#fb923c;--shadow:none}}
@@ -86,7 +86,7 @@ footer{border-top:1px solid var(--line);color:var(--mute);font-size:12.5px;paddi
 
 <footer>
   <div class="wrap">
-    Updated automatically every day by GitHub Actions from free public sources (Hacker News Algolia API and publisher RSS feeds).
+    Updated automatically every 2 hours by GitHub Actions from free public sources (Hacker News Algolia API and publisher RSS feeds).
     Every card links to the original publisher with its published time.
   </div>
 </footer>
@@ -106,6 +106,7 @@ const store = {
   get(k){try{return localStorage.getItem(k)}catch(e){return null}},
   set(k,v){try{localStorage.setItem(k,v)}catch(e){}}
 };
+const DEFAULT_CC = "IN";
 let DATA = null, tab = "all";
 
 function ago(d){
@@ -133,13 +134,14 @@ function render(){
   const q = $("#q").value.trim().toLowerCase();
   const cc = $("#country").value;
   if(tab==="all"){
+    const rc = DATA.national[DEFAULT_CC] ? DEFAULT_CC : Object.keys(DATA.national)[0];
     const all = [].concat(
-      DATA.ai.map(a=>({a,k:"ai"})), DATA.intl.map(a=>({a,k:"intl"})), (DATA.national[cc]||[]).map(a=>({a,k:"national"}))
+      DATA.ai.map(a=>({a,k:"ai"})), DATA.intl.map(a=>({a,k:"intl"})), (DATA.national[rc]||[]).map(a=>({a,k:"national"}))
     ).filter(x=>new Date(x.a.published)>=cutoff && (!q||(x.a.title+" "+x.a.summary+" "+x.a.source).toLowerCase().includes(q)))
      .sort((x,y)=>new Date(y.a.published)-new Date(x.a.published));
-    const top = all.slice(0,10);
-    const short = {ai:"AI",intl:"World",national:DATA.countries[cc]||cc};
-    $("#out").innerHTML = `<section style="--c:var(--brand)"><div class="sec-h"><span class="dot"></span><h2>Recent · Top 10 latest</h2><span class="count">AI, International &amp; ${esc(DATA.countries[cc]||cc)}</span></div>`
+    const top = all.slice(0,20);
+    const short = {ai:"AI",intl:"World",national:DATA.countries[rc]||rc};
+    $("#out").innerHTML = `<section style="--c:var(--brand)"><div class="sec-h"><span class="dot"></span><h2>Recent · Latest 20</h2><span class="count">AI, International &amp; ${esc(DATA.countries[rc]||rc)}</span></div>`
       + (top.length ? `<div class="grid">${top.map(x=>card(x.a,SECTIONS[x.k].color,short[x.k])).join("")}</div>` : `<div class="empty">No stories for this range or search. Try "Last 7 days".</div>`)
       + `</section>`;
     return;
@@ -170,9 +172,9 @@ fetch("data/news.json?ts="+Math.floor(Date.now()/600000),{cache:"no-cache"})
   .then(r=>{ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
   .then(j=>{
     DATA = j;
-    if(!j.generated_at){ $("#stamp").textContent="No data yet. Run the “Update daily news” workflow once from the Actions tab."; return; }
+    if(!j.generated_at){ $("#stamp").textContent="No data yet. Run the “Update news” workflow once from the Actions tab."; return; }
     $("#country").innerHTML = Object.entries(j.countries).map(([k,v])=>`<option value="${k}">${esc(v)}</option>`).join("");
-    const pref = store.get("dailybrief:country") || "IN";
+    const pref = store.get("dailybrief:country") || DEFAULT_CC;
     $("#country").value = j.countries[pref] ? pref : Object.keys(j.countries)[0];
     $("#stamp").textContent = "Last updated " + new Date(j.generated_at).toLocaleString([],{dateStyle:"medium",timeStyle:"short"});
     $("#srcline").textContent = j.failed_sources.length ? "Unavailable in last run: "+j.failed_sources.join(", ") : "All sources online";
