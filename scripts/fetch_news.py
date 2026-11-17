@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fetch AI, international and national news from free public sources.
 Standard library only. Writes data/news.json."""
-import json, re, sys, html, urllib.request, urllib.parse
+import json, re, sys, time, html, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
@@ -9,7 +9,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 OUT = Path(__file__).resolve().parent.parent / "data" / "news.json"
-UA = "Mozilla/5.0 (compatible; DailyBriefBot/1.0; +https://github.com)"
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 KEEP_DAYS = 7
 MAX_PER_BUCKET = 60
 
@@ -17,6 +17,7 @@ AI_FEEDS = [
     ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
     ("MIT Tech Review", "https://www.technologyreview.com/topic/artificial-intelligence/feed"),
     ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
+    ("Ars Technica AI", "https://arstechnica.com/ai/feed/"),
     ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
 ]
 INTL_FEEDS = [
@@ -28,7 +29,8 @@ INTL_FEEDS = [
 COUNTRIES = {
     "IN": ("India", [("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss"),
                      ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms"),
-                     ("Indian Express", "https://indianexpress.com/section/india/feed/")]),
+                     ("Hindustan Times", "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"),
+                     ("NDTV India", "https://feeds.feedburner.com/ndtvnews-india-news")]),
     "US": ("United States", [("NPR National", "https://feeds.npr.org/1003/rss.xml"),
                              ("Guardian US", "https://www.theguardian.com/us-news/rss"),
                              ("ABC News US", "https://abcnews.go.com/abcnews/usheadlines")]),
@@ -43,14 +45,25 @@ COUNTRIES = {
                         ("Express Tribune", "https://tribune.com.pk/feed/pakistan")]),
     "NG": ("Nigeria", [("Punch", "https://punchng.com/feed/"),
                        ("Vanguard", "https://www.vanguardngr.com/feed/")]),
-    "ZA": ("South Africa", [("News24", "https://feeds.news24.com/articles/news24/SouthAfrica/rss"),
+    "ZA": ("South Africa", [("Daily Maverick", "https://www.dailymaverick.co.za/dmrss/"),
                             ("IOL", "https://iol.co.za/rss/iol/news/south-africa")]),
 }
 
-def http_get(url, timeout=25):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
+def http_get(url, timeout=25, tries=3):
+    """GET with retries (handles 429 rate limits, timeouts and transient errors)."""
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, application/json, */*"})
+    for i in range(tries):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code in (403, 404, 410) or i == tries - 1:
+                raise
+            time.sleep(5 * (i + 1) if e.code == 429 else 2)
+        except Exception:
+            if i == tries - 1:
+                raise
+            time.sleep(2)
 
 def clean(text, limit=None):
     text = re.sub(r"<(script|style)[\s\S]*?</\1>", "", text or "", flags=re.I)
@@ -115,18 +128,20 @@ def fetch_feed(source, url, cat):
     return out
 
 def fetch_hn():
+    # Algolia has no OR operator, so run one query per keyword and merge.
     since = int(datetime.now(timezone.utc).timestamp()) - KEEP_DAYS * 86400
-    q = urllib.parse.quote("AI OR LLM OR OpenAI OR Anthropic OR Gemini OR GPT")
-    url = ("https://hn.algolia.com/api/v1/search_by_date?query=%s&tags=story"
-           "&numericFilters=created_at_i>%d,points>10&hitsPerPage=40" % (q, since))
-    out = []
-    for h in json.loads(http_get(url)).get("hits", []):
-        if not (h.get("title") and h.get("url")):
-            continue
-        host = urllib.parse.urlparse(h["url"]).hostname or ""
-        out.append({"cat": "ai", "source": "Hacker News", "title": clean(h["title"]), "link": h["url"],
-                    "summary": "%s points · %s comments on Hacker News · %s" % (h.get("points", 0), h.get("num_comments", 0), host.removeprefix("www.")),
-                    "image": "", "published": h["created_at"].replace("Z", "+00:00")})
+    seen, out = set(), []
+    for kw in ("AI", "LLM", "OpenAI", "Anthropic", "Gemini", "machine learning"):
+        url = ("https://hn.algolia.com/api/v1/search_by_date?query=%s&tags=story"
+               "&numericFilters=created_at_i>%d,points>10&hitsPerPage=30" % (urllib.parse.quote(kw), since))
+        for h in json.loads(http_get(url)).get("hits", []):
+            if not (h.get("title") and h.get("url")) or h["objectID"] in seen:
+                continue
+            seen.add(h["objectID"])
+            host = urllib.parse.urlparse(h["url"]).hostname or ""
+            out.append({"cat": "ai", "source": "Hacker News", "title": clean(h["title"]), "link": h["url"],
+                        "summary": "%s points · %s comments on Hacker News · %s" % (h.get("points", 0), h.get("num_comments", 0), host.removeprefix("www.")),
+                        "image": "", "published": h["created_at"].replace("Z", "+00:00")})
     return out
 
 def main():
