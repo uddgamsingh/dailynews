@@ -2,7 +2,7 @@ name: Update news
 
 on:
   schedule:
-    - cron: "15 */2 * * *"   # every 2 hours at :15 UTC (edit to change)
+    - cron: "15 */2 * * *"   # every 2 hours at :15 UTC
   workflow_dispatch: {}      # lets you run it manually from the Actions tab
 
 permissions:
@@ -30,7 +30,16 @@ jobs:
           git add data/news.json
           if git diff --cached --quiet; then
             echo "No changes."
-          else
-            git commit -m "Update news $(date -u +%F\ %H:%M)"
-            git push
+            exit 0
           fi
+          git commit -m "Update news $(date -u +%F\ %H:%M)"
+          for i in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push; then
+              echo "Pushed successfully."
+              exit 0
+            fi
+            echo "Push failed, retrying ($i)..."
+            sleep 5
+          done
+          echo "Push failed after 3 attempts."
+          exit 1
