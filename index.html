@@ -6,8 +6,8 @@
 <title>DailyBrief — AI, International & National News</title>
 <meta name="description" content="Daily news on AI, international and national headlines, updated automatically every 2 hours.">
 <style>
-:root{--bg:#f6f7f9;--card:#fff;--ink:#14171c;--mute:#667085;--line:#e4e7ec;--brand:#1d4ed8;--ai:#7c3aed;--intl:#0f766e;--nat:#c2410c;--shadow:0 1px 2px rgba(16,24,40,.06),0 1px 3px rgba(16,24,40,.08)}
-@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--card:#161b22;--ink:#e6edf3;--mute:#8b98a9;--line:#262d36;--brand:#60a5fa;--ai:#a78bfa;--intl:#2dd4bf;--nat:#fb923c;--shadow:none}}
+:root{--bg:#f6f7f9;--card:#fff;--ink:#14171c;--mute:#667085;--line:#e4e7ec;--brand:#1d4ed8;--ai:#7c3aed;--intl:#0f766e;--nat:#c2410c;--tech:#2563eb;--sport:#16a34a;--shadow:0 1px 2px rgba(16,24,40,.06),0 1px 3px rgba(16,24,40,.08)}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--card:#161b22;--ink:#e6edf3;--mute:#8b98a9;--line:#262d36;--brand:#60a5fa;--ai:#a78bfa;--intl:#2dd4bf;--nat:#fb923c;--tech:#60a5fa;--sport:#4ade80;--shadow:none}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 a{color:inherit;text-decoration:none}
@@ -69,9 +69,11 @@ footer{border-top:1px solid var(--line);color:var(--mute);font-size:12.5px;paddi
     </div>
     <nav id="tabs">
       <button data-t="all" class="on">Recent</button>
-      <button data-t="ai">AI</button>
+      <button data-t="ai">AI Overall</button>
+      <button data-t="aitech">AI Tech</button>
       <button data-t="intl">International</button>
       <button data-t="national">National</button>
+      <button data-t="sports">Sports</button>
     </nav>
     <div class="subbar" id="countryBar" hidden>
       <label for="country">Country</label>
@@ -98,7 +100,9 @@ footer{border-top:1px solid var(--line);color:var(--mute);font-size:12.5px;paddi
 document.getElementById("yr").textContent=new Date().getFullYear();
 "use strict";
 const SECTIONS = {
-  ai:{title:"Artificial Intelligence",color:"var(--ai)",limit:12},
+  ai:{title:"AI Overall",color:"var(--ai)",limit:12},
+  aitech:{title:"AI Tech · models, frameworks &amp; agents",color:"var(--tech)",limit:12},
+  sports:{title:"Sports",color:"var(--sport)",limit:12},
   intl:{title:"International",color:"var(--intl)",limit:12},
   national:{title:"National",color:"var(--nat)",limit:12}
 };
@@ -152,7 +156,7 @@ function render(){
   const keys = [tab];
   $("#out").innerHTML = keys.map(k=>{
     const s = SECTIONS[k];
-    const src = k==="national" ? (DATA.national[cc]||[]) : DATA[k];
+    const src = k==="national" ? (DATA.national[cc]||[]) : (DATA[k]||[]);
     const list = src.filter(a=>new Date(a.published)>=cutoff && (!q||(a.title+" "+a.summary+" "+a.source).toLowerCase().includes(q)));
     const shown = list.slice(0, 60);
     const label = k==="national" ? " · "+esc(DATA.countries[cc]||cc) : "";
