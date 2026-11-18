@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T05:11:44+00:00",
+ "generated_at": "2026-11-18T05:21:54+00:00",
  "failed_sources": [
   "VentureBeat AI"
  ],
@@ -16,6 +16,15 @@
  "ai": [
   {
    "cat": "ai",
+   "source": "Hacker News",
+   "title": "Why is Gemini 4 Carbon taking so long?",
+   "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+   "summary": "13 points · 2 comments on Hacker News · kernel.dev",
+   "image": "",
+   "published": "2026-11-18T04:14:04+00:00"
+  },
+  {
+   "cat": "ai",
    "source": "The Verge AI",
    "title": "Satya Nadella says he’s AGI-pilled now",
    "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
@@ -28,7 +37,7 @@
    "source": "Hacker News",
    "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
    "link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
-   "summary": "44 points · 19 comments on Hacker News · washingtonsun.com",
+   "summary": "45 points · 20 comments on Hacker News · washingtonsun.com",
    "image": "",
    "published": "2026-11-18T01:45:11+00:00"
   },
@@ -46,7 +55,7 @@
    "source": "Hacker News",
    "title": "Cerebras Disaggregated Inference",
    "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
-   "summary": "51 points · 13 comments on Hacker News · cerebras.ai",
+   "summary": "52 points · 13 comments on Hacker News · cerebras.ai",
    "image": "",
    "published": "2026-11-18T00:56:23+00:00"
   },
@@ -64,7 +73,7 @@
    "source": "Hacker News",
    "title": "Google's AI answers reducing search traffic by 40%",
    "link": "https://revscope.co/blog/search-seo-geo-2026/",
-   "summary": "215 points · 148 comments on Hacker News · revscope.co",
+   "summary": "228 points · 155 comments on Hacker News · revscope.co",
    "image": "",
    "published": "2026-11-18T00:17:58+00:00"
   },
@@ -154,7 +163,7 @@
    "source": "Hacker News",
    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
    "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-   "summary": "111 points · 161 comments on Hacker News · complexdiscovery.com",
+   "summary": "115 points · 167 comments on Hacker News · complexdiscovery.com",
    "image": "",
    "published": "2026-11-17T21:16:12+00:00"
   },
@@ -163,7 +172,7 @@
    "source": "Hacker News",
    "title": "Tencent Hy4 Flash",
    "link": "https://hy.tencent.ai/research/hy4-flash",
-   "summary": "86 points · 12 comments on Hacker News · hy.tencent.ai",
+   "summary": "87 points · 12 comments on Hacker News · hy.tencent.ai",
    "image": "",
    "published": "2026-11-17T21:06:08+00:00"
   },
@@ -217,7 +226,7 @@
    "source": "Hacker News",
    "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
    "link": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
-   "summary": "83 points · 14 comments on Hacker News · zerohedge.com",
+   "summary": "84 points · 14 comments on Hacker News · zerohedge.com",
    "image": "",
    "published": "2026-11-17T19:08:45+00:00"
   },
@@ -271,7 +280,7 @@
    "source": "Hacker News",
    "title": "MAI Code 2 and Code 2 Flash",
    "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-   "summary": "315 points · 144 comments on Hacker News · microsoft.ai",
+   "summary": "316 points · 144 comments on Hacker News · microsoft.ai",
    "image": "",
    "published": "2026-11-17T18:25:13+00:00"
   },
@@ -280,7 +289,7 @@
    "source": "Hacker News",
    "title": "Not Everything Needs an LLM",
    "link": "https://newsletter.posthog.com/p/decision-models",
-   "summary": "125 points · 52 comments on Hacker News · newsletter.posthog.com",
+   "summary": "126 points · 52 comments on Hacker News · newsletter.posthog.com",
    "image": "",
    "published": "2026-11-17T18:16:18+00:00"
   },
@@ -316,7 +325,7 @@
    "source": "Hacker News",
    "title": "GPT‑6.2 Astra and Sol",
    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-   "summary": "1175 points · 740 comments on Hacker News · openai.com",
+   "summary": "1176 points · 741 comments on Hacker News · openai.com",
    "image": "",
    "published": "2026-11-17T17:46:43+00:00"
   },
@@ -544,18 +553,45 @@
    "summary": "20 points · 9 comments on Hacker News · theatlantic.com",
    "image": "",
    "published": "2026-11-17T10:25:11+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "Hacker News",
-   "title": "Mem Is Shutting Down",
-   "link": "https://get.mem.ai/blog/mem-is-shutting-down",
-   "summary": "78 points · 123 comments on Hacker News · get.mem.ai",
-   "image": "",
-   "published": "2026-11-17T02:13:41+00:00"
   }
  ],
  "intl": [
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+   "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 second",
+   "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5",
+   "published": "2026-11-18T05:05:21+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "‘Human’ wins Cambridge dictionary’s word of the year",
+   "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+   "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionary In a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelli",
+   "image": "https://i.guim.co.uk/img/media/d3bff27441734d18c2feb427a057b23c1ce14bdc/1004_0_4725_3780/master/4725.jpg?width=140&quality=85&auto=format&fit=max&s=a34f5c5d68750204b892c4c4d64e18c3",
+   "published": "2026-11-18T05:00:34+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+   "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+   "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landm",
+   "image": "https://i.guim.co.uk/img/media/876babd774d84ecb98a5ee0e9eba98b14d862c89/1434_394_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=779e036d6f4f59b8c0421e3491fdb9bb",
+   "published": "2026-11-18T05:00:32+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Drinking beer and spirits raises risk of acute kidney damage, study suggests",
+   "link": "https://www.theguardian.com/society/2026/nov/18/drinking-beer-spirits-raises-risk-acute-kidney-damage-wine-protects-study",
+   "summary": "Research also shows consuming wine could cut risk, reopening debate on whether beverage has health benefits Drinking beer and spirits increases the risk of serious kidney damage, whereas consuming wine offers protection",
+   "image": "https://i.guim.co.uk/img/media/7eaca3050a2112cba947b3ef249ad497a50730bb/313_0_2974_2380/master/2974.jpg?width=140&quality=85&auto=format&fit=max&s=9742ac6ad2fa74f1f1f5381b61e6166f",
+   "published": "2026-11-18T05:00:31+00:00"
+  },
   {
    "cat": "intl",
    "source": "Al Jazeera",
@@ -568,27 +604,18 @@
   {
    "cat": "intl",
    "source": "The Guardian World",
-   "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-   "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 second",
-   "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5",
-   "published": "2026-11-18T04:46:35+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
    "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
    "link": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
-   "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU A Bandidos gang member says it is possible he used a fake $20,000 invoice fo",
+   "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU Get our breaking news email , free app or daily news podcast A Bandidos gang",
    "image": "https://i.guim.co.uk/img/media/134ce0b70d626daa9094506188ef9d19140795c2/0_0_1936_1549/master/1936.jpg?width=140&quality=85&auto=format&fit=max&s=d7b62503402128f4eaa81257126c2628",
    "published": "2026-11-18T04:42:07+00:00"
   },
   {
    "cat": "intl",
    "source": "The Guardian World",
-   "title": "Wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+   "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
    "link": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
-   "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Wages grew at their fastest pace since late 2023 over the three months to September, buoyed up by this y",
+   "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Get our daily political email , free app or daily news podcast Wages grew at their fastest pace since la",
    "image": "https://i.guim.co.uk/img/media/7ebf7b78f27fb886cb74a082d7f78b3e80603115/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=52d25424f6954f9e6c6eda6214f58f4b",
    "published": "2026-11-18T04:33:40+00:00"
   },
@@ -802,9 +829,9 @@
   {
    "cat": "intl",
    "source": "The Guardian World",
-   "title": "One Nation says it would cut Australia’s refugee intake by 90% under ‘tough stance’",
+   "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
    "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
-   "summary": "Pauline Hanson opens new war of words on immigration as Penny Wong accuses populist party of ‘dividing Australians’ Get our daily political email , free app or daily news podcast One Nation has vowed to cut Australia’s r",
+   "summary": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa program Get our daily political email , free app or daily news podcast One Nation has vowed to cut Aus",
    "image": "https://i.guim.co.uk/img/media/16091bd9c923d35459b46f7f811208abd0842535/424_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=314d54effab3dc3320b3d1700b05efd4",
    "published": "2026-11-18T00:53:51+00:00"
   },
@@ -891,15 +918,6 @@
   },
   {
    "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
-   "link": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
-   "summary": "England’s exam regulator says those caught using AI or smart glasses face disqualification from GCSEs and A-levels Students in England could suffer “life-altering” penalties if they are caught relying on AI or smart glas",
-   "image": "https://i.guim.co.uk/img/media/efcbf5966e70ac7fdc150878c56d20292fd9b3c7/299_0_2911_2329/master/2911.jpg?width=140&quality=85&auto=format&fit=max&s=bff45ca58a2890a34d56eb9828455ad9",
-   "published": "2026-11-18T00:01:25+00:00"
-  },
-  {
-   "cat": "intl",
    "source": "Al Jazeera",
    "title": "Iran war live: Bahrain, Kuwait intercept attacks, Manama blames Iran",
    "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
@@ -960,15 +978,6 @@
    "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme may not come fully into force until 203",
    "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf",
    "published": "2026-11-17T22:55:06+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
-   "summary": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday Hundreds of protesters filled the cobbled streets around Oriel College, Oxford, to voice their opposition to an a",
-   "image": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1934_751_4662_3729/master/4662.jpg?width=140&quality=85&auto=format&fit=max&s=09a3b9e2f05443b94624e8cc58dc6b57",
-   "published": "2026-11-17T22:50:16+00:00"
   },
   {
    "cat": "intl",
@@ -1086,19 +1095,46 @@
    "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
    "published": "2026-11-17T20:25:46+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
-   "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-   "summary": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residents A 72-year-old Palestinian woman has been shot dead in an overnight attack by Israeli settlers in a village",
-   "image": "https://i.guim.co.uk/img/media/b7d5959fd9dbbbea50ccb8f11198cd72513b020c/971_535_2513_2011/master/2513.jpg?width=140&quality=85&auto=format&fit=max&s=920a9cba3e838b02498259fbaa396d37",
-   "published": "2026-11-17T20:21:48+00:00"
   }
  ],
  "national": {
   "IN": [
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Director Rajkumar Periasamy on helming Dhanush-Mammootty’s ‘O.M’ and working with an ensemble of stars",
+    "link": "https://www.thehindu.com/entertainment/movies/rajkumar-periasamy-om-operation-mole-dhanush-mammootty-sai-pallavi-naseeruddin-shah-sreeleela/article71711384.ece",
+    "summary": "In a conversation ahead of the release of ‘O.M’, filmmaker Rajkumar Periasamy discusses bringing together a formidable ensemble and the creative choices behind the Dhanush-Mammootty starrer",
+    "image": "https://th-i.thgim.com/public/entertainment/movies/vi68th/article71711866.ece/alternates/LANDSCAPE_1200/OM%20Rajkumar%20Periasamy%20Dhanush%20Mammootty%20interview.jpg",
+    "published": "2026-11-18T05:11:50+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Jharkhand BJP delegation meets Governor, seeks Congress MLA’s arrest in assault case",
+    "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-delegation-meets-governor-seeks-congress-mlas-arrest-in-assault-case/article71714590.ece",
+    "summary": "Why is Bhushan Bara not behind bars despite FIR, asks BJP’s 8-member team led by State Tribal Morcha chief; Opposition party also seeks impartial inquiry into death of tribal activist Nisha Bhagat",
+    "image": "",
+    "published": "2026-11-18T05:10:01+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Hindustan Times",
+    "title": "9 years on, Niwari admin forms panel to audit Orchha’s Ram Raja temple treasury",
+    "link": "https://www.hindustantimes.com/india-news/9-years-on-niwari-admin-forms-panel-to-audit-orchha-s-ram-raja-temple-treasury-101794978601272.html",
+    "summary": "Niwari collector Jamuna Bhide dismissed rumours about a break-in, saying some people were spreading misinformation regarding the inspection",
+    "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/The-panel-has-been-constituted-to-inventory-donati_1794978592551_4eBg.jpg",
+    "published": "2026-11-18T05:10:00+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
+    "link": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-generates-73-tonnes-of-waste-during-2026-char-dham-yatra/article71712125.ece",
+    "summary": "Around 65.65 lakh pilgrims visit four Char Dham shrines and Hemkund Sahib in 2026 as Badrinath portals close for winter",
+    "image": "https://th-i.thgim.com/public/incoming/y3a6oy/article71713487.ece/alternates/LANDSCAPE_1200/PTI09_18_2026_000333B.jpg",
+    "published": "2026-11-18T05:09:47+00:00"
+   },
    {
     "cat": "nat",
     "source": "The Hindu",
@@ -1602,42 +1638,6 @@
     "summary": "The gunfight began during a search operation in the area, two days after security forces killed terrorist Umar Nisar Dar in an encounter in Kulgam.",
     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/Kulgam_1794969926426_XbyW_1794969926576_3BxI_f9131a69-cc4f-44f9-bb68-cdce6abb7870_7P6k.jpg",
     "published": "2026-11-18T02:46:22+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Fresh encounter in J&K’s Kulgam as security forces track escaped LeT terrorist Lateef Bhat",
-    "link": "https://www.thehindu.com/news/national/fresh-encounter-in-kulgam-lateef-bhat-november-18-2026/article71714380.ece",
-    "summary": "There was no exchange of fire since November 16; contact with the terrorists was established during the searches this morning, leading to a renewed firefight to neutralise the only surviving local terrorist in Kashmir va",
-    "image": "https://th-i.thgim.com/public/incoming/lmtj51/article71714384.ece/alternates/LANDSCAPE_1200/India_Kashmir_Gunbattle_41828.jpg",
-    "published": "2026-11-18T02:43:53+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Maharashtra Cabinet clears university law amendments, textile policy changes and new courts in Palghar",
-    "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cabinet-clears-university-law-amendments-textile-policy-changes-and-new-courts-in-palghar/article71712942.ece",
-    "summary": "The Cabinet approved a draft ordinance to amend Sections 13(12) and 100(5)(a) of the Maharashtra Public Universities Act, 2016, in view of changes in higher education and the implementation of the National Education Poli",
-    "image": "https://th-i.thgim.com/public/incoming/ytzp52/article71714389.ece/alternates/LANDSCAPE_1200/20261105285L.jpg",
-    "published": "2026-11-18T02:43:38+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Hindustan Times",
-    "title": "Rajnath, Jaishankar to meet Japanese counterparts tomorrow for 2+2 dialogue, deepen bilateral ties",
-    "link": "https://www.hindustantimes.com/india-news/rajnath-singh-s-jaishankar-to-meet-japanese-counterparts-tomorrow-for-2-2-dialogue-india-japan-news-101794969406083.html",
-    "summary": "In August, India and Japan signed a memorandum of arrangement to deepen maritime security cooperation.",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/India_Japan_1794969578555_LWKO_1794969601106_XDFg_ba559675-5dbc-4479-83e1-a25fd66a8eac_eGS5.png",
-    "published": "2026-11-18T02:41:03+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Kulgam anti-terror ops. continue; body of LeT terrorist Lateef Bhat’s ‘accomplice’ retrieved from encounter site",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kulgam-anti-terror-ops-continue-body-of-let-terrorist-latteef-bhats-accomplice-retrievedfrom-encounter-site/article71711187.ece",
-    "summary": "Security agencies released CCTV footage, which suggested Dar and Bhat were seen together on November 10 and 11 surveying multiple locations",
-    "image": "https://th-i.thgim.com/public/incoming/rg5wt1/article71711185.ece/alternates/LANDSCAPE_1200/16th-PEERZADA-rGOEGQB9FU.3.jpg.jpg",
-    "published": "2026-11-18T02:37:52+00:00"
    }
   ],
   "US": [
@@ -1932,15 +1932,6 @@
    {
     "cat": "nat",
     "source": "ABC News US",
-    "title": "Dolores Huerta, late labor leader and civil rights icon, honored at memorial",
-    "link": "https://abcnews.com/US/wireStory/dolores-huerta-late-labor-leader-civil-rights-icon-138191582",
-    "summary": "California public officials, labor leaders and members of the public are honoring the late Dolores Huerta at a memorial service in Sacramento",
-    "image": "https://s.abcnews.com/images/US/wirestory_527c73535f0dc97fc59cebcafdec611c_4x3_384.jpg",
-    "published": "2026-11-17T12:36:15+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC News US",
     "title": "US Catholic bishops meet after Democrats' big wins help reshape abortion debates",
     "link": "https://abcnews.com/US/wireStory/us-catholic-bishops-meet-after-democrats-big-wins-138205384",
     "summary": "U.S. Catholic bishops are meeting in Baltimore this week following the Democrats’ midterm victories",
@@ -2147,21 +2138,21 @@
    },
    {
     "cat": "nat",
-    "source": "ABC News US",
-    "title": "Rare North Atlantic right whale population drops, alarming scientists",
-    "link": "https://abcnews.com/US/wireStory/rare-north-atlantic-whale-population-drops-alarming-scientists-138172223",
-    "summary": "The population of one of the world’s rarest whales has fallen after trending upward in recent years",
-    "image": "https://s.abcnews.com/images/US/wirestory_ffb49dad741cf39a32867ace87a3194c_4x3_384.jpg",
-    "published": "2026-11-16T11:42:57+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "NPR National",
     "title": "Air traffic controllers' union head on the nationwide ground stop",
     "link": "https://www.npr.org/2026/11/16/nx-s1-6041644/air-traffic-controllers-union-head-on-the-nationwide-ground-stop",
     "summary": "NPR's Steve Inskeep asks the head of the air traffic controllers' union what it was like for controllers as the FAA issued a nationwide ground stop.",
     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6041644",
     "published": "2026-11-16T11:38:58+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC News US",
+    "title": "Fewer students are traveling from abroad to study at US universities, report shows",
+    "link": "https://abcnews.com/US/wireStory/fewer-students-traveling-abroad-study-us-universities-report-138169810",
+    "summary": "Fewer international students are coming to U.S. universities to study as the Trump administration cracks down on immigration and reshapes higher education",
+    "image": "https://s.abcnews.com/images/US/wirestory_a34e862e97509e25b93d9f2234234416_4x3_384.jpg",
+    "published": "2026-11-16T11:38:21+00:00"
    },
    {
     "cat": "nat",
@@ -2180,9 +2171,45 @@
     "summary": "Americans are at a real point of decision – not election day, but this heady, uncertain moment after Until 2026, the most important midterm year of the last quarter-century was very probably 2010. Barack Obama famously c",
     "image": "https://i.guim.co.uk/img/media/ad243d2aae70514b1ec054b9cb5805a34ab1e4e0/420_0_4181_3347/master/4181.jpg?width=140&quality=85&auto=format&fit=max&s=9ce416248520fef4bed2bb6d1f694022",
     "published": "2026-11-16T11:00:57+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "NPR National",
+    "title": "They saw people losing food benefits. So they started handing out free groceries",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
+    "summary": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn't sit back while their neighbors went hungry.",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4120x2318+0+0/resize/4120x2318!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F0b%2F283a29d0443a81b8617283d090b8%2F20261107-ksuzuki-sandiegosnap-122.jpg",
+    "published": "2026-11-16T10:00:00+00:00"
    }
   ],
   "GB": [
+   {
+    "cat": "nat",
+    "source": "BBC UK",
+    "title": "The Papers: 'Over-25s next in line' and 'Clean for Colleen'",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2ekyd43j5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The possible implications of a major review into youth inactivity leads a number of Wednesday's papers.",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb1/live/170396f0-e2e7-11f1-a094-5fdc692f3e33.jpg",
+    "published": "2026-11-18T05:15:53+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian UK",
+    "title": "‘Human’ wins Cambridge dictionary’s word of the year",
+    "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+    "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionary In a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelli",
+    "image": "https://i.guim.co.uk/img/media/d3bff27441734d18c2feb427a057b23c1ce14bdc/1004_0_4725_3780/master/4725.jpg?width=140&quality=85&auto=format&fit=max&s=a34f5c5d68750204b892c4c4d64e18c3",
+    "published": "2026-11-18T05:00:34+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian UK",
+    "title": "Drinking beer and spirits raises risk of acute kidney damage, study suggests",
+    "link": "https://www.theguardian.com/society/2026/nov/18/drinking-beer-spirits-raises-risk-acute-kidney-damage-wine-protects-study",
+    "summary": "Research also shows consuming wine could cut risk, reopening debate on whether beverage has health benefits Drinking beer and spirits increases the risk of serious kidney damage, whereas consuming wine offers protection",
+    "image": "https://i.guim.co.uk/img/media/7eaca3050a2112cba947b3ef249ad497a50730bb/313_0_2974_2380/master/2974.jpg?width=140&quality=85&auto=format&fit=max&s=9742ac6ad2fa74f1f1f5381b61e6166f",
+    "published": "2026-11-18T05:00:31+00:00"
+   },
    {
     "cat": "nat",
     "source": "Sky News UK",
@@ -2200,15 +2227,6 @@
     "summary": "There are about a million young people across the country not in employment, education or training. Could Alan Milburn’s landmark report help change that? Richard Partington reports The UK has one of the worst rates in E",
     "image": "https://i.guim.co.uk/img/media/be8cd6448da51b5e23777d4c2bc56ba634f79590/65_0_3090_2472/master/3090.jpg?width=140&quality=85&auto=format&fit=max&s=a1b703332543bb6d10bc572f650c1eb0",
     "published": "2026-11-18T03:00:29+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "BBC UK",
-    "title": "The Papers: 'Over-25s next in line' and 'Clean for Colleen'",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2ekyd43j5o?at_medium=RSS&at_campaign=rss",
-    "summary": "The possible implications of a major review into youth inactivity leads a number of Wednesday's papers.",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb1/live/170396f0-e2e7-11f1-a094-5fdc692f3e33.jpg",
-    "published": "2026-11-18T02:10:36+00:00"
    },
    {
     "cat": "nat",
@@ -2276,19 +2294,19 @@
    {
     "cat": "nat",
     "source": "Guardian UK",
-    "title": "Shabana Mahmood to launch fast-track training to improve police leadership",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-fast-track-training-police-leadership",
-    "summary": "After damning report into standards at the top of forces in England and Wales, 200 people a year with superintendent potential to be recruited Hundreds of people will be trained to boost “frankly inadequate” leadership o",
-    "image": "https://i.guim.co.uk/img/media/3d6e07292a648e3a6045a8b7973c54be5a1738ae/422_16_2104_1683/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=50eaec346d3b69c863fcc60d7e88b219",
+    "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
+    "link": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
+    "summary": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050 Weakening the UK’s electric car sales rules would probably cause the government to miss legally binding c",
+    "image": "https://i.guim.co.uk/img/media/3ed391e009abd724b30b099d8a5378a1fc28ff5a/558_0_3100_2480/master/3100.jpg?width=140&quality=85&auto=format&fit=max&s=25559e4d4f6f4eb3d6a26e08cf74ca5b",
     "published": "2026-11-18T00:01:26+00:00"
    },
    {
     "cat": "nat",
     "source": "Guardian UK",
-    "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-    "link": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-    "summary": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050 Weakening the UK’s electric car sales rules would probably cause the government to miss legally binding c",
-    "image": "https://i.guim.co.uk/img/media/3ed391e009abd724b30b099d8a5378a1fc28ff5a/558_0_3100_2480/master/3100.jpg?width=140&quality=85&auto=format&fit=max&s=25559e4d4f6f4eb3d6a26e08cf74ca5b",
+    "title": "Shabana Mahmood to launch fast-track training to improve police leadership",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-fast-track-training-police-leadership",
+    "summary": "After damning report into standards at the top of forces in England and Wales, 200 people a year with superintendent potential to be recruited Hundreds of people will be trained to boost “frankly inadequate” leadership o",
+    "image": "https://i.guim.co.uk/img/media/3d6e07292a648e3a6045a8b7973c54be5a1738ae/422_16_2104_1683/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=50eaec346d3b69c863fcc60d7e88b219",
     "published": "2026-11-18T00:01:26+00:00"
    },
    {
@@ -2407,15 +2425,6 @@
     "summary": "He lays out sweeping aims and finer details for how to fix the Neets crisis – and is obsessive about welfare Neet ideas: what’s in Milburn’s report? It is not clear if too many people were expecting Everything Everywhere",
     "image": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=cdf521cc74be3c957f7e6b5764336bab",
     "published": "2026-11-17T19:47:31+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian UK",
-    "title": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
-    "link": "https://www.theguardian.com/society/2026/nov/17/using-law-try-silence-abuse-victims-ultimate-gaslighting-mps-told",
-    "summary": "Woman sued by alleged rapist tells justice committee that Slapp lawsuits present perpetrator as victim of wrongdoing Attempts by perpetrators and alleged perpetrators of sexual abuse to silence their victims using the la",
-    "image": "https://i.guim.co.uk/img/media/11754c8aa4db933188faedb04c56ce704a5ca49f/2337_2149_4513_3611/master/4513.jpg?width=140&quality=85&auto=format&fit=max&s=73012fdb778ac69425bb84911c7a8595",
-    "published": "2026-11-17T19:36:11+00:00"
    },
    {
     "cat": "nat",
@@ -2707,15 +2716,6 @@
    },
    {
     "cat": "nat",
-    "source": "Guardian UK",
-    "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-    "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
-    "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ Ed Miliband has announced the first set of sanctions against Israeli companies planning to",
-    "image": "https://i.guim.co.uk/img/media/c9523ec5228a42aa647f50bbf3dbb4fc03f57ce3/28_0_3300_2640/master/3300.jpg?width=140&quality=85&auto=format&fit=max&s=021f9a4119628590d1131a080748867b",
-    "published": "2026-11-17T12:18:08+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "BBC UK",
     "title": "Restaurant with zero hygiene score fined thousands for 'stomach-churning' offences",
     "link": "https://www.bbc.co.uk/news/articles/cmqj5zyp79zwo?at_medium=RSS&at_campaign=rss",
@@ -2730,16 +2730,16 @@
     "source": "ABC Australia",
     "title": "Students flee school bus fire near Great Ocean Road",
     "link": "https://www.abc.net.au/news/2026-11-18/princetown-fiery-bus-crash-nil-injuries/107399852",
-    "summary": "All students and teachers on board were safely evacuated, while local farmers used water tankers to help control the blaze.",
+    "summary": "All students and teachers on board were evacuated safely, while local farmers used water tankers to help control the blaze.",
     "image": "",
     "published": "2026-11-18T05:04:32+00:00"
    },
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Sandpapergate coach has 'nothing to hide' and will be part of forum",
+    "title": "Sandpapergate coach has 'nothing to hide' after forum announced",
     "link": "https://www.abc.net.au/news/2026-11-18/sandpapergate-coach-darren-lehmann-cricket-australia-forum/107399822",
-    "summary": "Former Australian Test coach Darren Lehmann, who led the side during the Sandpapergate incident in 2018, has said he will be part of Cricket Australia's new forum on the infamous saga.",
+    "summary": "Former Australian Test coach Darren Lehmann, who led the side during the Sandpapergate incident in 2018, has said he has \"nothing to hide\" after a new forum into the saga was announced.",
     "image": "",
     "published": "2026-11-18T05:00:55+00:00"
    },
@@ -4120,6 +4120,15 @@
    {
     "cat": "nat",
     "source": "Vanguard",
+    "title": "Alcochem Nigeria marks 10 years of partnership, innovation and impact in pest management",
+    "link": "https://www.vanguardngr.com/2026/11/alcochem-nigeria-marks-10-years-of-partnership-innovation-and-impact-in-pest-management/",
+    "summary": "The company celebrates a decade of advancing professional pest management through innovative Integrated Pest Management solutions, industry collaboration and knowledge sharing across Nigeria and West Africa. Alcochem Nig",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/IMG-20261118-WA0001.jpg",
+    "published": "2026-11-17T23:10:00+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Vanguard",
     "title": "Atiku’s fuel subsidy reversal plan not realistic — Fashola",
     "link": "https://www.vanguardngr.com/2026/11/atikus-fuel-subsidy-reversal-plan-not-realistic-fashola/",
     "summary": "The former Minister of Works and Housing questioned the source of the crude oil needed to supply local refineries and support a subsidy arrangement, given the country's production challenges. The post Atiku’s fuel subsid",
@@ -4179,15 +4188,6 @@
     "summary": "Amupitan, represented by INEC National Commissioner, Mrs May Agbamuche-Mbu, described election officials as public servants discharging a sacred constitutional duty. The post 2027: INEC warns against attacks on staff, th",
     "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/Amupitan-1-1024x576.jpg",
     "published": "2026-11-17T19:59:46+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Vanguard",
-    "title": "Abia records 60% drop in maternal mortality — Govt",
-    "link": "https://www.vanguardngr.com/2026/11/abia-records-60-drop-in-maternal-mortality-govt/",
-    "summary": "Abia State Government has announced a 60 per cent reduction in maternal mortality between 2024 and 2026, claiming that the state now has the second-lowest maternal mortality rate in the country. The post Abia records 60%",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Otti-e1793555836416.jpeg",
-    "published": "2026-11-17T19:41:06+00:00"
    }
   ],
   "ZA": [
