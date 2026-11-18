@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-18T05:21:54+00:00",
+ "generated_at": "2026-11-18T05:22:45+00:00",
  "failed_sources": [
-  "VentureBeat AI"
+  "VentureBeat AI",
+  "LangChain Blog",
+  "ESPN"
  ],
  "countries": {
   "IN": "India",
@@ -73,7 +75,7 @@
    "source": "Hacker News",
    "title": "Google's AI answers reducing search traffic by 40%",
    "link": "https://revscope.co/blog/search-seo-geo-2026/",
-   "summary": "228 points · 155 comments on Hacker News · revscope.co",
+   "summary": "228 points · 156 comments on Hacker News · revscope.co",
    "image": "",
    "published": "2026-11-18T00:17:58+00:00"
   },
@@ -163,7 +165,7 @@
    "source": "Hacker News",
    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
    "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-   "summary": "115 points · 167 comments on Hacker News · complexdiscovery.com",
+   "summary": "116 points · 167 comments on Hacker News · complexdiscovery.com",
    "image": "",
    "published": "2026-11-17T21:16:12+00:00"
   },
@@ -325,7 +327,7 @@
    "source": "Hacker News",
    "title": "GPT‑6.2 Astra and Sol",
    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-   "summary": "1176 points · 741 comments on Hacker News · openai.com",
+   "summary": "1177 points · 741 comments on Hacker News · openai.com",
    "image": "",
    "published": "2026-11-17T17:46:43+00:00"
   },
@@ -553,6 +555,548 @@
    "summary": "20 points · 9 comments on Hacker News · theatlantic.com",
    "image": "",
    "published": "2026-11-17T10:25:11+00:00"
+  }
+ ],
+ "aitech": [
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "image": "",
+   "published": "2026-11-18T01:44:21+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Ars Technica AI",
+   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+   "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+   "published": "2026-11-18T00:27:29+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+   "image": "",
+   "published": "2026-11-18T00:16:50+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+   "image": "",
+   "published": "2026-11-17T23:37:48+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+   "link": "https://github.com/microsoft/onnxruntime",
+   "summary": "214 points · 51 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-17T23:18:49+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+   "image": "",
+   "published": "2026-11-17T23:04:35+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "MarkTechPost",
+   "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+   "link": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
+   "summary": "Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work. The post Perplexity Computer",
+   "image": "",
+   "published": "2026-11-17T22:52:04+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "The Verge AI",
+   "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+   "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call",
+   "image": "",
+   "published": "2026-11-17T22:50:29+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+   "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+   "image": "",
+   "published": "2026-11-17T22:42:27+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Latent Lattice Language Models",
+   "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+   "summary": "41 points · 5 comments on Hacker News · shivamduggal4.github.io",
+   "image": "",
+   "published": "2026-11-17T22:17:18+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "MarkTechPost",
+   "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
+   "link": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
+   "summary": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index. The post OpenAI Releases GP",
+   "image": "",
+   "published": "2026-11-17T22:07:30+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "SEC reportedly investigating Nvidia amid Huang exit",
+   "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+   "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+   "image": "",
+   "published": "2026-11-17T21:48:07+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "summary": "116 points · 167 comments on Hacker News · complexdiscovery.com",
+   "image": "",
+   "published": "2026-11-17T21:16:12+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "MarkTechPost",
+   "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
+   "link": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
+   "summary": "Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers. The post Clearing Up",
+   "image": "",
+   "published": "2026-11-17T20:49:45+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Human.md",
+   "link": "https://www.human-md.ai/",
+   "summary": "84 points · 56 comments on Hacker News · human-md.ai",
+   "image": "",
+   "published": "2026-11-17T20:47:36+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Ars Technica AI",
+   "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+   "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+   "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
+   "published": "2026-11-17T20:32:55+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "CA DMV bans Waymos from operating on state freeways after Bay Area incidents",
+   "link": "https://abc7news.com/story/california-dmv-bans-waymos-operating-state-freeways-bay-area-traffic-incidents/20046974/",
+   "summary": "33 points · 15 comments on Hacker News · abc7news.com",
+   "image": "",
+   "published": "2026-11-17T20:30:48+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "jQuery 4.1.0",
+   "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+   "summary": "283 points · 153 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-17T19:50:40+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+   "image": "",
+   "published": "2026-11-17T19:32:11+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+   "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+   "summary": "290 points · 84 comments on Hacker News · sciencenorway.no",
+   "image": "",
+   "published": "2026-11-17T19:25:27+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+   "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+   "image": "",
+   "published": "2026-11-17T19:02:20+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "link": "https://starsling.dev",
+   "summary": "64 points · 36 comments on Hacker News · starsling.dev",
+   "image": "",
+   "published": "2026-11-17T19:01:43+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "GPT-6.2 Astra scores 100% on ARC-AGI-3",
+   "link": "https://twitter.com/arcprize/status/2122751233442156678",
+   "summary": "37 points · 14 comments on Hacker News · twitter.com",
+   "image": "",
+   "published": "2026-11-17T18:59:43+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "The Verge AI",
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig",
+   "image": "",
+   "published": "2026-11-17T18:58:54+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "I hate GPT-6.2 Astra",
+   "link": "https://twitter.com/theo/status/2122760447103484410",
+   "summary": "25 points · 7 comments on Hacker News · twitter.com",
+   "image": "",
+   "published": "2026-11-17T18:57:57+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+   "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+   "image": "",
+   "published": "2026-11-17T18:48:23+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+   "summary": "46 points · 30 comments on Hacker News · openai.com",
+   "image": "",
+   "published": "2026-11-17T18:26:05+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "MAI Code 2 and Code 2 Flash",
+   "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "summary": "316 points · 144 comments on Hacker News · microsoft.ai",
+   "image": "",
+   "published": "2026-11-17T18:25:13+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Not Everything Needs an LLM",
+   "link": "https://newsletter.posthog.com/p/decision-models",
+   "summary": "126 points · 52 comments on Hacker News · newsletter.posthog.com",
+   "image": "",
+   "published": "2026-11-17T18:16:18+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "As decision model use skyrockets, is customization the next frontier?",
+   "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+   "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+   "image": "",
+   "published": "2026-11-17T18:10:00+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "GPT‑6.2 Astra and Sol",
+   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "summary": "1177 points · 741 comments on Hacker News · openai.com",
+   "image": "",
+   "published": "2026-11-17T17:46:43+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "OpenAI News",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "image": "",
+   "published": "2026-11-17T17:45:00+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+   "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+   "image": "",
+   "published": "2026-11-17T17:32:25+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+   "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+   "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+   "image": "",
+   "published": "2026-11-17T17:20:41+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+   "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+   "summary": "75 points · 16 comments on Hacker News · bleepingcomputer.com",
+   "image": "",
+   "published": "2026-11-17T17:13:57+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "The Verge AI",
+   "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+   "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I",
+   "image": "",
+   "published": "2026-11-17T17:04:40+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Google AI Blog",
+   "title": "Put Gemini to work for you",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp",
+   "published": "2026-11-17T17:00:00+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Ars Technica AI",
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+   "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+   "published": "2026-11-17T16:50:10+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+   "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+   "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+   "image": "",
+   "published": "2026-11-17T16:44:15+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+   "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+   "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+   "image": "",
+   "published": "2026-11-17T16:32:55+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Mistral offers three months of Vibe Pro free in Europe",
+   "link": "https://x.com/MistralAI/status/2122713540666806397",
+   "summary": "18 points · 15 comments on Hacker News · x.com",
+   "image": "",
+   "published": "2026-11-17T16:15:44+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "The Buddhist A.I. Sect That Wants to Take over Silicon Valley",
+   "link": "https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley",
+   "summary": "28 points · 8 comments on Hacker News · newyorker.com",
+   "image": "",
+   "published": "2026-11-17T16:09:00+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+   "link": "https://github.com/RunanywhereAI/trnrt",
+   "summary": "47 points · 7 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-17T16:01:04+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "A US Federal Women's Prison Became a \"Rape Club\"",
+   "link": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+   "summary": "79 points · 40 comments on Hacker News · propublica.org",
+   "image": "",
+   "published": "2026-11-17T15:03:25+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Show HN: Agav – an open-source terminal agent designed to waste fewer tokens",
+   "link": "https://github.com/prapaa-ai/agav",
+   "summary": "26 points · 8 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-17T14:13:10+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Regulatory Capture by Anthropic Through METR",
+   "link": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+   "summary": "140 points · 74 comments on Hacker News · nitter.cf",
+   "image": "",
+   "published": "2026-11-17T12:21:57+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "My Empire of Dirt",
+   "link": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+   "summary": "127 points · 169 comments on Hacker News · geohot.github.io",
+   "image": "",
+   "published": "2026-11-17T11:39:20+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "MarkTechPost",
+   "title": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
+   "link": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
+   "summary": "NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers. Both are",
+   "image": "",
+   "published": "2026-11-17T10:37:11+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "How the Claude Code team thinks about verification",
+   "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+   "summary": "278 points · 222 comments on Hacker News · claude.dev",
+   "image": "",
+   "published": "2026-11-17T10:20:40+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "MarkTechPost",
+   "title": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
+   "link": "https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/",
+   "summary": "Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API. The post Sarvam Launches Sarv",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+   "published": "2026-11-17T09:51:18+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "MarkTechPost",
+   "title": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
+   "link": "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
+   "summary": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1. T",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+   "published": "2026-11-17T09:20:57+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "OpenAI News",
+   "title": "Introducing ChatGPT for Sales",
+   "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+   "image": "",
+   "published": "2026-11-17T08:00:00+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Tech leaders are convinced that Jensen Huang's exit was a plot against him",
+   "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+   "summary": "47 points · 38 comments on Hacker News · theverge.com",
+   "image": "",
+   "published": "2026-11-17T05:50:41+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+   "link": "https://github.com/yocontra/pulsar",
+   "summary": "20 points · 5 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-17T03:18:53+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Tokendoctor – See what your Claude Code use overpays",
+   "link": "https://github.com/localixai/tokendoctor",
+   "summary": "32 points · 17 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-17T02:19:50+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Mem Is Shutting Down",
+   "link": "https://get.mem.ai/blog/mem-is-shutting-down",
+   "summary": "78 points · 123 comments on Hacker News · get.mem.ai",
+   "image": "",
+   "published": "2026-11-17T02:13:41+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+   "summary": "55 points · 21 comments on Hacker News · tomshardware.com",
+   "image": "",
+   "published": "2026-11-17T01:35:16+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "Running coding agents without handing them my credentials",
+   "link": "https://blog.antonio.cx/running-agents-with-lend",
+   "summary": "131 points · 112 comments on Hacker News · blog.antonio.cx",
+   "image": "",
+   "published": "2026-11-17T01:18:56+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "NVIDIA Developer",
+   "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+   "link": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
+   "summary": "Agentic workloads, long documents, and large codebases are pushing context lengths from tens of thousands of tokens to hundreds of thousands. At those lengths,...",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/llm-optimize-deploy-768x432.png",
+   "published": "2026-11-17T00:45:30+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "OpenAI News",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+   "image": "",
+   "published": "2026-11-17T00:00:00+00:00"
   }
  ],
  "intl": [
@@ -1095,6 +1639,548 @@
    "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
    "published": "2026-11-17T20:25:46+00:00"
+  }
+ ],
+ "sports": [
+  {
+   "cat": "sports",
+   "source": "The Hindu Sport",
+   "title": "Sandpapergate scandal: David Warner calls for open public enquiry",
+   "link": "https://www.thehindu.com/sport/cricket/sandpapergate-scandal-david-warner-calls-for-open-public-enquiry/article71714532.ece",
+   "summary": "Warner, who was handed a one-year suspension for his role in the scandal, said he wanted people who were present at the time to speak openly about the incident and its aftermath",
+   "image": "https://th-i.thgim.com/public/incoming/6eomh4/article71714548.ece/alternates/LANDSCAPE_1200/2017-06-08T093142Z_139915902_MT1ACI14803513_RTRMADP_3_CRICKET-CHAMPIONSTROPHY-ENG-AUSPREVIEW.JPG",
+   "published": "2026-11-18T05:18:24+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "The Hindu Sport",
+   "title": "Cricket Australia announces independent forum in attempt to clear up Sandpapergate scandal",
+   "link": "https://www.thehindu.com/sport/cricket/cricket-australia-announces-independent-forum-in-attempt-to-clear-up-sandpapergate-scandal/article71714558.ece",
+   "summary": "CA’s interim chair David Boon says the ongoing controversy was a distraction for the sport, and hopes players and staffers on the 2018 test cricket team will take part in the forum",
+   "image": "https://th-i.thgim.com/public/incoming/srx43/article71714614.ece/alternates/LANDSCAPE_1200/49-IND-NZ-CRICKET-29-10-DEL.JPG",
+   "published": "2026-11-18T05:15:05+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "The Hindu Sport",
+   "title": "Sandpapergate and rubbing the wrong way",
+   "link": "https://www.thehindu.com/sport/sandpapergate-and-rubbing-the-wrong-way/article71691009.ece",
+   "summary": "Khawaja has set the cat amongst the pigeons and the repercussions, if any, of his expose in the scandal will manifest themselves in the next few weeks and months, when Australia are confronted with a packed schedule",
+   "image": "https://th-i.thgim.com/public/incoming/udnoyk/article71714601.ece/alternates/LANDSCAPE_1200/AFP__20261113__D6YY8G4__v1__HighRes__FilesCricketAusSandpapergate.jpg",
+   "published": "2026-11-18T05:11:22+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "ESPNcricinfo",
+   "title": "Starc, Head, Bethell released by DC, SRH, RCB ahead of IPL 2027 player auction",
+   "link": "https://www.cricinfo.com/ci/content/story/1562958.html?ex_cid=OTC-RSS",
+   "summary": "The full list of players released and retained by the IPL franchises ahead of the 2027 player auction on December 16",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/416800/416895.jpg",
+   "published": "2026-11-18T05:07:16+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Australia v England: third and deciding men’s cricket one-day international – live",
+   "link": "https://www.theguardian.com/sport/live/2026/nov/18/australia-vs-england-cricket-third-odi-mens-one-day-international-hobart-aus-v-eng-live-scores-updates",
+   "summary": "Updates on the final ODI in the series at Bellerive Oval in Hobart Any thoughts? Get in touch with an email We are indeed very, very proud the culture that this team has built the past eight years. Our players our leader",
+   "image": "https://i.guim.co.uk/img/media/e1acdb5996cdb71a4d4cdad413a19d1ba274a047/227_0_3446_2758/master/3446.jpg?width=140&quality=85&auto=format&fit=max&s=dde729fad2cd8bd34d5aae4821b78c18",
+   "published": "2026-11-18T05:03:39+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "ESPNcricinfo",
+   "title": "In windy Wellington, India begin new era with history and form against them",
+   "link": "https://www.cricinfo.com/ci/content/story/1563027.html?ex_cid=OTC-RSS",
+   "summary": "A spot in the WTC final is the big goal, and New Zealand - currently No. 1 - are well ahead on that front than India, who are well behind at No. 4",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425351.jpg",
+   "published": "2026-11-18T04:56:15+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "ESPNcricinfo",
+   "title": "CA set up 'independent forum' into Sandpapergate but will not re-litigate the incident",
+   "link": "https://www.cricinfo.com/ci/content/story/1563012.html?ex_cid=OTC-RSS",
+   "summary": "Interim chair David Boon and CEO Todd Greenberg made the announcement on Wednesday",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/405400/405468.png",
+   "published": "2026-11-18T04:51:43+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Cricket Australia sets up 'safe space' for players to share sandpapergate experiences",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/c58j48elrwvyo?at_medium=RSS&at_campaign=rss",
+   "summary": "The 2018 scandal has resurfaced this month after Usman Khawaja claimed the entire team knew about the cheating plot.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f06/live/70d8cee0-e303-11f1-ab28-8b9b038f8766.jpg",
+   "published": "2026-11-18T04:48:56+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "Sandpapergate: CA opens forum for players to share 2018 ball-tampering accounts",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sandpapergate-fallout-cricket-australia-opens-independent-forum-for-players-to-share-2018-ball-tampering-accounts/articleshow/135948964.cms",
+   "summary": "Cricket Australia has announced an independent forum for players involved in the 2018 ball-tampering scandal. This initiative allows players and support staff to share their experiences confidentially. Interim chairman D",
+   "image": "https://static.toiimg.com/photo/msid-135949155,imgsize-574348.cms",
+   "published": "2026-11-18T04:35:31+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "High-fives! Pakistan give India guard of honour after SAFF final - Watch",
+   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/high-fives-pakistan-give-india-guard-of-honour-after-saff-final-watch/articleshow/135948448.cms",
+   "summary": "After the SAFF Championship final, Pakistan's football team provided India with a guard of honour, showcasing sportsmanship. India won the final 2-1, securing their 10th SAFF title. The match featured a significant red c",
+   "image": "https://static.toiimg.com/photo/msid-135948925,imgsize-59242.cms",
+   "published": "2026-11-18T04:26:32+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "This is your captain speaking: 'Reluctant leader' Gill is reshaping India's Test culture",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/this-is-your-captain-speaking-from-reluctant-leader-to-commanding-voice-shubman-gill-is-reshaping-indias-test-culture/articleshow/135948278.cms",
+   "summary": "Shubman Gill has stepped into the role of captain for the Indian cricket team, showcasing his determination after a tough tour of Australia. He has made a significant mark in Test matches, amassing 754 runs during the to",
+   "image": "https://static.toiimg.com/photo/msid-135948399,imgsize-57585.cms",
+   "published": "2026-11-18T04:11:45+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "Beware the Basin bluff! Gill's four-pacer plan looks beyond the first morning",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-1st-test-beware-the-basin-bluff-shubman-gills-four-pacer-plan-looks-beyond-the-first-morning/articleshow/135947845.cms",
+   "summary": "With 15mm of grass on the pitch, India’s skipper Gill plans to play four quicks and wants to be ready for what the surface will do on days four and five, not just the first morning",
+   "image": "https://static.toiimg.com/photo/msid-135947902,imgsize-34467.cms",
+   "published": "2026-11-18T03:54:27+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "'My favourite cricket player': Bumrah, Rohit share special messages for MS Dhoni",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/my-favourite-cricket-player-jasprit-bumrah-rohit-sharma-share-special-messages-for-ms-dhoni/articleshow/135947373.cms",
+   "summary": "Rohit Sharma and Jasprit Bumrah celebrated MS Dhoni's retirement from IPL, sharing their fond memories with him. Dhoni's remarkable playing career spans 17 seasons with the Chennai Super Kings and includes various achiev",
+   "image": "https://static.toiimg.com/photo/msid-135947542,imgsize-50251.cms",
+   "published": "2026-11-18T03:47:45+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "ESPNcricinfo",
+   "title": "Unchanged England bat; Zampa out with back spasms for Australia",
+   "link": "https://www.cricinfo.com/ci/content/story/1563019.html?ex_cid=OTC-RSS",
+   "summary": "Mahli Beardman replaced Riley Meredith for the series decider in Hobart. Batter Alex Carey was also named in the XI",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/425100/425164.jpg",
+   "published": "2026-11-18T03:42:45+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "‘The game is hurting’: Cricket Australia creates forum for players to air views on sandpapergate",
+   "link": "https://www.theguardian.com/sport/2026/nov/18/cricket-australia-sandpapergate-ball-tampering-warner-khawaja-ntwnfb",
+   "summary": "No further sanctions expected regardless of findings ‘The perfect truth doesn’t exist,’ says CEO Todd Greenberg Cricket Australia will set up an independent forum to create a “safe space” in which players and staff can s",
+   "image": "https://i.guim.co.uk/img/media/751f474404c841b21c6859a22522601ec8226baf/960_0_6273_5018/master/6273.jpg?width=140&quality=85&auto=format&fit=max&s=79282d747ab8ca79bac700e2a57ca7b4",
+   "published": "2026-11-18T03:24:26+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "Australia vs England, 3rd ODI Live Score: England opt to bat in the series decider",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/australia-vs-england-third-odi-live-score-hobart-joe-root-harry-brook-mitchell-marsh-travis-head/liveblog/135947217.cms",
+   "summary": "",
+   "image": "https://static.toiimg.com/photo/msid-135947217,imgsize-54388.cms",
+   "published": "2026-11-18T03:23:51+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Scorecard: Australia vs England, series-deciding ODI, Hobart",
+   "link": "https://www.skysports.com/cricket/australia-v-england/scorecard/d90559a0-4f81-5681-aaff-f734570105a2",
+   "summary": "Latest score from the series-deciding third one-day international between Australia and England at Ninja Stadium in Hobart.",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-mitchell-marsh-australia-men-odi-cricket_7404943.jpg?20261112121746",
+   "published": "2026-11-18T03:15:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Brook out as England lose third wicket in deciding ODI vs Australia LIVE!",
+   "link": "https://www.skysports.com/cricket/live-blog/12040/13612700/australia-vs-england-third-odi-live-latest-cricket-score-and-updates-as-harry-brooks-side-face-mitch-marshs-team-in-series-decider-at-hobart",
+   "summary": "",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-ben-duckett-england-mens-odi-cricket_7409178.jpg?20261118045013",
+   "published": "2026-11-18T03:10:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "Dhoni: Like Rajini, Chennai’s adopted son gave the fans as much love as he received",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-chennais-own-like-rajini-an-adopted-son-gave-the-fans-as-much-love-as-he-received/articleshow/135946763.cms",
+   "summary": "MS Dhoni has been a pivotal figure for the Chennai Super Kings since the IPL began in 2007. Revered by fans, he guided the team to several championships, especially after his impactful return in 2018, which spurred a rev",
+   "image": "https://static.toiimg.com/photo/msid-135946854,imgsize-649066.cms",
+   "published": "2026-11-18T03:05:57+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "ESPNcricinfo",
+   "title": "Heartbreak for Naseer and Afghanistan as Zimbabwe snatch late win",
+   "link": "https://www.cricinfo.com/ci/content/story/1562975.html?ex_cid=OTC-RSS",
+   "summary": "Debutant Naseer scored a century and picked up nine wickets for the Test but Zimbabwe clinched a win with less than four overs left on the final day",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425384.jpg",
+   "published": "2026-11-18T02:54:39+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "‘Mentor’ Singh Dhoni shifts from behind stumps to behind the scenes",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mentor-singh-dhoni-shifts-from-behind-stumps-to-behind-the-scenes/articleshow/135946020.cms",
+   "summary": "Mahendra Singh Dhoni's unexpected suggestion to be released by Chennai Super Kings has left team owner Rupa Gurnath in disbelief. Following a season marked by challenges, discussions about a rebuild surfaced, prompting D",
+   "image": "https://static.toiimg.com/photo/msid-135946182,imgsize-475476.cms",
+   "published": "2026-11-18T02:40:39+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "SMAT Live: Yash Dhull smashes 52-ball century vs Bihar",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/syed-mushtaq-ali-trophy-2026-live-score-today-all-matches-live-updates-results-playing-xi-highlights-cricket-news/liveblog/135946462.cms",
+   "summary": "",
+   "image": "https://static.toiimg.com/photo/msid-135946462,imgsize-27672.cms",
+   "published": "2026-11-18T02:38:03+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "Will Siraj play first Test vs NZ? leaves final call to Shubman Gill",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-1st-test-will-mohammed-siraj-play-first-test-against-new-zealand-morne-morkel-leaves-final-call-to-shubman-gill/articleshow/135945693.cms",
+   "summary": "Morne Morkel addressed concerns regarding Mohammed Siraj's form ahead of the first Test against New Zealand. He emphasized that the final decision on lineup rests with captain Shubman Gill. Morkel expressed confidence in",
+   "image": "https://static.toiimg.com/photo/msid-135945974,imgsize-56816.cms",
+   "published": "2026-11-18T02:31:24+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "A 2-0 win over Haiti ends Pochettino’s USMNT tenure with confident hope",
+   "link": "https://www.theguardian.com/football/2026/nov/17/usmnt-haiti-nations-league-mauricio-pochettino",
+   "summary": "Christian Pulisic and Julian Hall score in first half US advance to Nations League finals 8-0 on aggregate Mauricio Pochettino departs to take over Man United The US men’s national team is through to the semi-final of th",
+   "image": "https://i.guim.co.uk/img/media/2b4391d4c87248093cc1781bfe8979e46634b5f7/84_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=36843fcba795960fa8b2ed782904ed2f",
+   "published": "2026-11-18T02:19:36+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "Controversy! Magnus Carlsen forfeits Fast Classic game against Bibisara",
+   "link": "https://timesofindia.indiatimes.com/sports/chess/controversy-magnus-carlsen-forfeits-fast-classic-game-against-kazakhstans-bibisara-assaubayeva-calls-it-totally-useless/articleshow/135945109.cms",
+   "summary": "Magnus Carlsen forfeited his Fast Classic game against Bibisara Assaubayeva after achieving a decisive lead. He expressed that the decision was due to the game's irrelevance after the day's results were secured. Carlsen'",
+   "image": "https://static.toiimg.com/photo/msid-135945262,imgsize-36007.cms",
+   "published": "2026-11-18T01:43:43+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "The Hindu Sport",
+   "title": "Jay Shah gets another chance to leave a positive impact on cricket",
+   "link": "https://www.thehindu.com/sport/cricket/jay-shah-gets-another-chance-to-leave-a-positive-impact-on-cricket/article71712335.ece",
+   "summary": "Since becoming the secretary of the Board of Control for Cricket in India, the son of India’s Home Minister has displayed an eagerness to push the ruling party’s agenda even at the World Cups",
+   "image": "https://th-i.thgim.com/public/incoming/j92nv6/article71714348.ece/alternates/LANDSCAPE_1200/TH17-JAY-SHAH-IGFVGQB5SP.3.jpg.jpg",
+   "published": "2026-11-18T01:35:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "ESPNcricinfo",
+   "title": "Bangladesh eye parity after new-ball burst on day slashed by erratic weather",
+   "link": "https://www.cricinfo.com/ci/content/story/1562948.html?ex_cid=OTC-RSS",
+   "summary": "South Africa left with 14-run deficit after Bavuma retired hurt, and lightning, rain and hail took over",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425374.jpg",
+   "published": "2026-11-18T01:06:47+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "The last whistle for Thala: Dhoni's Chennai story was always bigger than cricket",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/the-last-whistle-for-thala-ms-dhonis-chennai-story-was-always-bigger-than-cricket/articleshow/135933265.cms",
+   "summary": "The No. 7 jersey will no longer be worn, but the whistles, the yellow flags and the memories of those evenings when Dhoni walked out to bat with a game hanging in the balance will endure. CSK may be moving into a new cha",
+   "image": "https://static.toiimg.com/photo/msid-135933534,imgsize-123024.cms",
+   "published": "2026-11-18T01:00:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "MS Dhoni's IPL legacy: 12 records that may never be broken",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ms-dhonis-ipl-career-comes-to-an-end-12-staggering-records-that-may-never-be-broken/articleshow/135934016.cms",
+   "summary": "Mahendra Singh Dhoni concludes his playing career in the Indian Premier League after 18 seasons. He has left a legacy marked by numerous records and unforgettable moments in the tournament. Dhoni is renowned for his fini",
+   "image": "https://static.toiimg.com/photo/msid-135934043,imgsize-82792.cms",
+   "published": "2026-11-18T00:30:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Belief and bench help Northern Ireland scale new heights as promotion secured",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+   "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg",
+   "published": "2026-11-17T23:49:31+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Belief and bench help NI scale new heights",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+   "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg",
+   "published": "2026-11-17T23:49:31+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg",
+   "published": "2026-11-17T23:37:45+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Nations League roundup: Devenny’s divine strike lifts Northern Ireland to top tier",
+   "link": "https://www.theguardian.com/football/2026/nov/17/nations-league-northern-ireland-hungary-norway-denmark",
+   "summary": "Haaland’s late penalty grabs Norway last-eight spot Parrott penalties help Republic of Ireland secure playoff A wonder strike from Justin Devenny earned Northern Ireland top spot in Nations League Group B2 and promotion",
+   "image": "https://i.guim.co.uk/img/media/1764032c2d905d34982ec12a555989209aac38cb/912_0_4561_3649/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=d13ec33ca681a41bc1dfc668337ca770",
+   "published": "2026-11-17T23:35:42+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo?at_medium=RSS&at_campaign=rss",
+   "summary": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8700/live/18d492f0-e2d2-11f1-99ed-7de3e5932968.jpg",
+   "published": "2026-11-17T23:10:33+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Papers: Poch to appoint Man Utd's first-ever female coach",
+   "link": "https://www.skysports.com/football/news/12040/13613427/man-utd-boss-mauricio-pochettino-to-appoint-clubs-first-ever-female-coach-paper-talk",
+   "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "published": "2026-11-17T22:58:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Humphries and Van Gerwen into Grand Slam knockouts",
+   "link": "https://www.bbc.co.uk/sport/darts/articles/c6jd7el8d9kyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Luke Humphries and Michael van Gerwen book their places in the last 16 of the Grand Slam of Darts with victories in their final group matches.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e72f/live/32bf1870-e2d2-11f1-99ed-7de3e5932968.jpg",
+   "published": "2026-11-17T22:57:02+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
+   "link": "https://www.theguardian.com/sport/2026/nov/17/jorge-linares-boxing-champion-ice-detention-texas",
+   "summary": "Venezuelan boxer, 41, held at El Paso facility Lawyers say three-weight champion is in US legally ICE alleges Linares overstayed authorized visit Former world boxing champion Jorge Linares has been detained by US immigra",
+   "image": "https://i.guim.co.uk/img/media/9e4e58b7c084584eadb3fe2799ab9e7086488a16/0_146_2673_2136/master/2673.jpg?width=140&quality=85&auto=format&fit=max&s=5741f44774fc5ffcdb6c6f818e586b66",
+   "published": "2026-11-17T22:43:15+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Ruthless Zverev through to ATP Finals knockout stage",
+   "link": "https://www.bbc.co.uk/sport/tennis/articles/c6x2eveyyxp0o?at_medium=RSS&at_campaign=rss",
+   "summary": "World number one Alexander Zverev produces a serving masterclass to defeat Ben Shelton and qualify for the ATP Finals knockout stage with a match to spare.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa9e/live/2f3ee070-e2d4-11f1-99ed-7de3e5932968.jpg",
+   "published": "2026-11-17T22:30:24+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss",
+   "summary": "Liverpool leading Chelsea in race for Monaco's Lamine Camara, Barcelona rule out moves for Virgil van Dijk and Bruno Fernandes, and ex-Crystal Palace winger Wilfried Zaha could rejoin the club.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd1/live/eaa3d110-e2d2-11f1-99ed-7de3e5932968.png",
+   "published": "2026-11-17T22:25:16+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales are denied",
+   "link": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
+   "summary": "One way or another, Portugal’s No 7 shirt has caused quite the commotion in recent weeks and months, if not years. Perhaps it was inevitable, then, that the first win of the post-Cristiano Ronaldo era would come courtesy",
+   "image": "https://i.guim.co.uk/img/media/5beb80441b956fe467728ebd075621765d220be1/158_0_2217_1773/master/2217.jpg?width=140&quality=85&auto=format&fit=max&s=6732f1836fb69a60d3fbea6405cf35e5",
+   "published": "2026-11-17T22:14:37+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "International Ice Hockey Federation website hacked after Russia banned from event",
+   "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cv98x3d7jwndo?at_medium=RSS&at_campaign=rss",
+   "summary": "The International Ice Hockey Federation's website was targeted in a cyber attack, seemingly in response to Canada's decision to ban Russia from the World Junior Hockey Championship.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
+   "published": "2026-11-17T22:14:31+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Wales 2-3 Portugal: Nations League football – as it happened",
+   "link": "https://www.theguardian.com/football/live/2026/nov/17/wales-v-portugal-nations-league-football-live-score-updates",
+   "summary": "Portugal’s first win of the post-CR7 era was secured, with pleasing symmetry, by CF7 4 min: António Silva strides out of defence and scuffs a strange pass straight to James. He’s fortunate that James doesn’t seem to know",
+   "image": "https://i.guim.co.uk/img/media/6e319e1f346b494ec93060c9bf7506246b082142/330_174_4324_3459/master/4324.jpg?width=140&quality=85&auto=format&fit=max&s=9dfaf897153385a79c77708634e5b9c4",
+   "published": "2026-11-17T22:10:09+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Zverev takes straight-sets win against Shelton in ATP Finals group stage – as it happened",
+   "link": "https://www.theguardian.com/sport/live/2026/nov/17/alexander-zverev-v-ben-shelton-atp-finals-tennis-group-stage-live",
+   "summary": "The world No 1 prevailed 6-2, 7-6 (4) in a rematch of the US Open final earlier this year, after Arthur Fils came from behind to beat Rafael Jódar Ready … play. Shelton’s backhand was pretty nifty against Arthur Fils in",
+   "image": "https://i.guim.co.uk/img/media/b2f504bc134befe847541df52ceec761ebcb2f50/298_0_3020_2416/master/3020.jpg?width=140&quality=85&auto=format&fit=max&s=d07fd64e3f671c56c0c24fcea517adb8",
+   "published": "2026-11-17T22:03:25+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Highlights: Ten-man Portugal beat Wales to top group",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o?at_medium=RSS&at_campaign=rss",
+   "summary": "Watch the best of the action as Portugal beat Wales in the Nations League in Cardiff.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0223/live/e2dd87c0-e2d0-11f1-99a1-253766e7ad8b.jpg",
+   "published": "2026-11-17T21:56:04+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Northern Ireland promoted to Nations League top tier with draw in Hungary",
+   "link": "https://www.skysports.com/football/hungary-vs-northern-ireland/report/554131",
+   "summary": "Justin Devenny's superb strike saw Northern Ireland earn promotion to the top tier of the Nations League with a hard-fought 1-1 draw away to closest challengers Hungary in Budapest.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-northern-ireland_7409115.jpg?20261117215219",
+   "published": "2026-11-17T21:49:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Parrott fires Republic of Ireland into Nations League play-offs",
+   "link": "https://www.skysports.com/football/republic-of-ireland-vs-kosovo/report/554134",
+   "summary": "Troy Parrott fired the Republic of Ireland into a Nations League play-off berth with two penalties in their 3-0 victory over 10-man Kosovo at the Aviva Stadium in Dublin.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ireland-kosovo_7409108.jpg?20261117214636",
+   "published": "2026-11-17T21:44:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Wales beaten by 10-man Portugal as Neto scores but is sent off",
+   "link": "https://www.skysports.com/football/wales-vs-portugal/report/554136",
+   "summary": "Wales ended their Nations League group campaign with a 3-2 defeat against 10-man Portugal in Cardiff after Chelsea's Pedro Neto was sent off.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wales-portugal_7409090.jpg?20261117212441",
+   "published": "2026-11-17T21:40:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "‘Heads should roll’: owner of Melbourne Cup horse found dumped in skip bin demands investigation",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/18/stuart-ramsey-calls-for-investigation-so-you-are-melbourne-cup-horse-found-skip-bin-ntwnfb",
+   "summary": "Stuart Ramsey says it is a ‘bloody disgrace’ the gelding was left in waste container while awaiting burial Get our breaking news email , free app or daily news podcast So You Are’s owner-breeder has demanded a full inves",
+   "image": "https://i.guim.co.uk/img/media/dd139e0696a494665b7aa4358ff2cd286e480999/539_0_4072_3258/master/4072.jpg?width=140&quality=85&auto=format&fit=max&s=1a3e058e3fab558fe72450eeed9d57e4",
+   "published": "2026-11-17T21:23:47+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Ben Earl calls for future Nations Championship finals in Las Vegas, Hong Kong or Brazil",
+   "link": "https://www.theguardian.com/sport/2026/nov/17/rugby-union-ben-earl-england-future-nations-championship-finals-las-vegas",
+   "summary": "England flanker says new destination would grow sport ‘Las Vegas would be fun … let’s try and grow the game’ Ben Earl has called on Nations Championship organisers to introduce a destination finals weekend, with Las Vega",
+   "image": "https://i.guim.co.uk/img/media/e42f707dfe4f172b12ed469b22c7695ee0c57fe9/222_0_2911_2330/master/2911.jpg?width=140&quality=85&auto=format&fit=max&s=e77a6d56a3a846486bd66ab6c12f1cc0",
+   "published": "2026-11-17T21:22:43+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "ESPNcricinfo",
+   "title": "Dunkley's onslaught keeps Sixers top of the table",
+   "link": "https://www.cricinfo.com/ci/content/story/1563011.html?ex_cid=OTC-RSS",
+   "summary": "The visitors needed just 15 overs to chase the target after Melie Kerr starred with the ball",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414656.jpg",
+   "published": "2026-11-17T21:02:42+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Ecclestone ruled out of Women's Big Bash League",
+   "link": "https://www.skysports.com/cricket/news/12040/13613385/sophie-ecclestone-adelaide-strikers-spinner-ruled-out-of-entire-wbbl-tournament-with-injury",
+   "summary": "Sophie Ecclestone has been ruled out of the remainder of the WBBL season due to a back injury.",
+   "image": "https://e1.365dm.com/26/07/1920x1080/skysports-sophie-ecclestone_7296970.jpg?20260713212140",
+   "published": "2026-11-17T20:14:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Millwall open disciplinary proceedings against Baker",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19e/live/34866790-e2a9-11f1-8226-87dfa5049e9a.jpg",
+   "published": "2026-11-17T20:00:52+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "‘The game is in danger’: PFA head Maheta Molango on Fifa, Infantino and football’s future",
+   "link": "https://www.theguardian.com/football/2026/nov/17/pfa-maheta-molango-interview-fifa-gianni-infantino-interview",
+   "summary": "At a potentially critical juncture for football, the PFA chief executive talks about the organisation, wider fears in the game and why the Folarin Balogun affair was ‘scandalous’ After five years in charge of the Profess",
+   "image": "https://i.guim.co.uk/img/media/f18616c2ee33d82b41cc54ddf97daf9d04c66d02/0_1421_4928_3941/master/4928.jpg?width=140&quality=85&auto=format&fit=max&s=6615af7c4ca8f9746b6967ebb35dd2bd",
+   "published": "2026-11-17T20:00:20+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "JJ Gabriel confirms Manchester United exit: ‘You gave me moments I will always treasure’",
+   "link": "https://www.theguardian.com/football/2026/nov/17/jj-gabriel-confirms-manchester-united-exit-video",
+   "summary": "Teenager says ‘thank you for everything’ in video Gabriel expected to join Real Madrid JJ Gabriel has announced his departure from Manchester United by posting a farewell message to the club on social media. The teenager",
+   "image": "https://i.guim.co.uk/img/media/67d60e119375343c39832edf622a8a13ea400c1a/215_0_3630_2904/master/3630.jpg?width=140&quality=85&auto=format&fit=max&s=0177839e4d439acb09b3faece6549aa7",
+   "published": "2026-11-17T19:50:48+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Sloppy Socceroos given a reality check as Jordan dominate in friendly win",
+   "link": "https://www.theguardian.com/football/2026/nov/17/australia-jordan-scocceroos-international-friendly",
+   "summary": "Jordan 2-0 Australia (Al-Taamari 34, Ali Olwan 90+3) Socceroos had just one effort on target in defeat In their final game of 2026, the Socceroos were given a reminder that they remain a work in progress, beaten 2-0 by J",
+   "image": "https://i.guim.co.uk/img/media/f9fee3497223c3350a15d7dd09f85c688679b1aa/152_0_3176_2540/master/3176.jpg?width=140&quality=85&auto=format&fit=max&s=0e3f1d458425440499bc57cde0006a7a",
+   "published": "2026-11-17T19:14:54+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Jockey De Boinville 'escorted to his vehicle' after threat received",
+   "link": "https://www.skysports.com/racing/news/12040/13613369/nico-de-boinville-escorted-to-his-vehicle-and-given-security-support-after-threat-received",
+   "summary": "Nico de Boinville was given security support at Plumpton on Monday after a threat against the jockey was received and passed on to authorities.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-nico-de-boinville_7409018.jpg?20261117190726",
+   "published": "2026-11-17T18:55:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "The Hindu Sport",
+   "title": "India brace for toughest ‘Test’ in Hadlee land",
+   "link": "https://www.thehindu.com/sport/cricket/india-brace-for-toughest-test-in-hadlee-land/article71713409.ece",
+   "summary": "Their last Test win here came in early 2009, under Dhoni in Hamilton, a result that was enough to also give them their first series win in New Zealand in more than four decades. India haven’t won any of the six subsequen",
+   "image": "https://th-i.thgim.com/public/incoming/3x4s0m/article71713408.ece/alternates/LANDSCAPE_1200/TH18-SHUBMAN.jpg",
+   "published": "2026-11-17T18:51:48+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "The Hindu Sport",
+   "title": "My aim is to just stay focused, says shooter Vivaan Kapoor",
+   "link": "https://www.thehindu.com/sport/my-aim-is-to-just-stay-focused-says-shooter-vivaan/article71713398.ece",
+   "summary": "He credits training camps under Olympic champion Cernogoraz for his quota-winning performance at Worlds",
+   "image": "https://th-i.thgim.com/public/incoming/e38sr1/article71713402.ece/alternates/LANDSCAPE_1200/VIVAAN%20SHOOTING%201.jpeg",
+   "published": "2026-11-17T18:51:42+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "The Hindu Sport",
+   "title": "Top Indian paddlers write to adhoc panel suggesting a slew of changes",
+   "link": "https://www.thehindu.com/sport/top-indian-paddlers-write-to-adhoc-panel-suggesting-a-slew-of-changes/article71713422.ece",
+   "summary": "",
+   "image": "https://th-i.thgim.com/public/incoming/q22ns9/article71713424.ece/alternates/LANDSCAPE_1200/9217_28_3_2025_17_40_56_2_DSC_3132.JPG",
+   "published": "2026-11-17T18:50:44+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "The Hindu Sport",
+   "title": "Archery: Bagga topples Dhiraj to win maiden recurve men’s individual title",
+   "link": "https://www.thehindu.com/sport/bagga-topples-dhiraj-to-win-maiden-recurve-mens-individual-title/article71713417.ece",
+   "summary": "",
+   "image": "https://th-i.thgim.com/public/incoming/758not/article71713419.ece/alternates/LANDSCAPE_1200/Archery_Dhruv%20Bagga_17112026_07.jpg",
+   "published": "2026-11-17T18:42:14+00:00"
   }
  ],
  "national": {
@@ -1932,6 +3018,15 @@
    {
     "cat": "nat",
     "source": "ABC News US",
+    "title": "Dolores Huerta, late labor leader and civil rights icon, honored at memorial",
+    "link": "https://abcnews.com/US/wireStory/dolores-huerta-late-labor-leader-civil-rights-icon-138191582",
+    "summary": "California public officials, labor leaders and members of the public are honoring the late Dolores Huerta at a memorial service in Sacramento",
+    "image": "https://s.abcnews.com/images/US/wirestory_527c73535f0dc97fc59cebcafdec611c_4x3_384.jpg",
+    "published": "2026-11-17T12:36:15+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC News US",
     "title": "US Catholic bishops meet after Democrats' big wins help reshape abortion debates",
     "link": "https://abcnews.com/US/wireStory/us-catholic-bishops-meet-after-democrats-big-wins-138205384",
     "summary": "U.S. Catholic bishops are meeting in Baltimore this week following the Democrats’ midterm victories",
@@ -2138,21 +3233,21 @@
    },
    {
     "cat": "nat",
+    "source": "ABC News US",
+    "title": "Rare North Atlantic right whale population drops, alarming scientists",
+    "link": "https://abcnews.com/US/wireStory/rare-north-atlantic-whale-population-drops-alarming-scientists-138172223",
+    "summary": "The population of one of the world’s rarest whales has fallen after trending upward in recent years",
+    "image": "https://s.abcnews.com/images/US/wirestory_ffb49dad741cf39a32867ace87a3194c_4x3_384.jpg",
+    "published": "2026-11-16T11:42:57+00:00"
+   },
+   {
+    "cat": "nat",
     "source": "NPR National",
     "title": "Air traffic controllers' union head on the nationwide ground stop",
     "link": "https://www.npr.org/2026/11/16/nx-s1-6041644/air-traffic-controllers-union-head-on-the-nationwide-ground-stop",
     "summary": "NPR's Steve Inskeep asks the head of the air traffic controllers' union what it was like for controllers as the FAA issued a nationwide ground stop.",
     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6041644",
     "published": "2026-11-16T11:38:58+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC News US",
-    "title": "Fewer students are traveling from abroad to study at US universities, report shows",
-    "link": "https://abcnews.com/US/wireStory/fewer-students-traveling-abroad-study-us-universities-report-138169810",
-    "summary": "Fewer international students are coming to U.S. universities to study as the Trump administration cracks down on immigration and reshapes higher education",
-    "image": "https://s.abcnews.com/images/US/wirestory_a34e862e97509e25b93d9f2234234416_4x3_384.jpg",
-    "published": "2026-11-16T11:38:21+00:00"
    },
    {
     "cat": "nat",
@@ -2171,15 +3266,6 @@
     "summary": "Americans are at a real point of decision – not election day, but this heady, uncertain moment after Until 2026, the most important midterm year of the last quarter-century was very probably 2010. Barack Obama famously c",
     "image": "https://i.guim.co.uk/img/media/ad243d2aae70514b1ec054b9cb5805a34ab1e4e0/420_0_4181_3347/master/4181.jpg?width=140&quality=85&auto=format&fit=max&s=9ce416248520fef4bed2bb6d1f694022",
     "published": "2026-11-16T11:00:57+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "NPR National",
-    "title": "They saw people losing food benefits. So they started handing out free groceries",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
-    "summary": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn't sit back while their neighbors went hungry.",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4120x2318+0+0/resize/4120x2318!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F0b%2F283a29d0443a81b8617283d090b8%2F20261107-ksuzuki-sandiegosnap-122.jpg",
-    "published": "2026-11-16T10:00:00+00:00"
    }
   ],
   "GB": [
@@ -2727,6 +3813,15 @@
   "AU": [
    {
     "cat": "nat",
+    "source": "Guardian Australia",
+    "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+    "summary": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa program Get our daily political email , free app or daily news podcast One Nation has vowed to cut Aus",
+    "image": "https://i.guim.co.uk/img/media/16091bd9c923d35459b46f7f811208abd0842535/424_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=314d54effab3dc3320b3d1700b05efd4",
+    "published": "2026-11-18T05:11:31+00:00"
+   },
+   {
+    "cat": "nat",
     "source": "ABC Australia",
     "title": "Students flee school bus fire near Great Ocean Road",
     "link": "https://www.abc.net.au/news/2026-11-18/princetown-fiery-bus-crash-nil-injuries/107399852",
@@ -2766,7 +3861,7 @@
     "source": "Guardian Australia",
     "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
     "link": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
-    "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU A Bandidos gang member says it is possible he used a fake $20,000 invoice fo",
+    "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU Get our breaking news email , free app or daily news podcast A Bandidos gang",
     "image": "https://i.guim.co.uk/img/media/134ce0b70d626daa9094506188ef9d19140795c2/0_0_1936_1549/master/1936.jpg?width=140&quality=85&auto=format&fit=max&s=d7b62503402128f4eaa81257126c2628",
     "published": "2026-11-18T04:42:07+00:00"
    },
@@ -2782,9 +3877,9 @@
    {
     "cat": "nat",
     "source": "Guardian Australia",
-    "title": "Wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+    "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
     "link": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
-    "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Wages grew at their fastest pace since late 2023 over the three months to September, buoyed up by this y",
+    "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Get our daily political email , free app or daily news podcast Wages grew at their fastest pace since la",
     "image": "https://i.guim.co.uk/img/media/7ebf7b78f27fb886cb74a082d7f78b3e80603115/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=52d25424f6954f9e6c6eda6214f58f4b",
     "published": "2026-11-18T04:33:40+00:00"
    },
@@ -2919,7 +4014,7 @@
     "source": "Guardian Australia",
     "title": "Aria awards 2026 fashion: Melanie C, Baker Boy, G Flip and all the red carpet looks – in pictures",
     "link": "https://www.theguardian.com/music/gallery/2026/nov/18/aria-awards-2026-red-carpet-fashion-music-arias-winners-ceremony",
-    "summary": "Genesis Owusu, Tame Impala and Bluey arrived in red, black and gold at Sydney’s Hordern Pavilion ahead of the 40th Aria awards ceremony Read all our Aria awards coverage here Continue reading...",
+    "summary": "Genesis Owusu, Tame Impala and Bluey arrive in red, black and gold at Sydney’s Hordern Pavilion for the 40th Arias ceremony Read all our Aria awards coverage here Continue reading...",
     "image": "https://i.guim.co.uk/img/media/5d9e7872738b524e9655324b1ba7129373bf6c99/727_0_5992_4795/master/5992.jpg?width=140&quality=85&auto=format&fit=max&s=365509b121f050f7e4c63db7cf47c16a",
     "published": "2026-11-18T02:41:14+00:00"
    },
@@ -2931,15 +4026,6 @@
     "summary": "A 23-year-old man accused of murdering a 15-day-old baby boy pleads not guilty in a Hobart court, with no application for bail made.",
     "image": "",
     "published": "2026-11-18T02:35:21+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian Australia",
-    "title": "The ‘moon landing’ of gaming: Australians, some of the first to play GTA VI, prepare to descend on Vice City",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/gta-6-biggest-gaming-event-australians-prepare-for-global-release",
-    "summary": "After a 13 year wait for the latest Grand Theft Auto instalment, Thursday’s launch is shaping up to be ‘the biggest gaming event that’s ever been’ Gamers across Australia are preparing for the once-in-a-generation releas",
-    "image": "https://i.guim.co.uk/img/media/e953fe1e6202db7ba215c1d36439c0c0a05b9585/438_0_5273_4219/master/5273.jpg?width=140&quality=85&auto=format&fit=max&s=f2f571d6e44c20c8ae88088b9d21ce84",
-    "published": "2026-11-18T02:24:02+00:00"
    },
    {
     "cat": "nat",
