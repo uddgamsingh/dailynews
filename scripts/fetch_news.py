@@ -20,6 +20,33 @@ AI_FEEDS = [
     ("Ars Technica AI", "https://arstechnica.com/ai/feed/"),
     ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
 ]
+# Developer / engineering-focused AI sources (model releases, frameworks, agents)
+AI_TECH_FEEDS = [
+    ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
+    ("OpenAI News", "https://openai.com/news/rss.xml"),
+    ("Google AI Blog", "https://blog.google/technology/ai/rss/"),
+    ("NVIDIA Developer", "https://developer.nvidia.com/blog/feed"),
+    ("GitHub Blog AI", "https://github.blog/ai-and-ml/feed/"),
+    ("LangChain Blog", "https://blog.langchain.dev/rss/"),
+    ("MarkTechPost", "https://www.marktechpost.com/feed/"),
+]
+AI_TECH_HN_KEYWORDS = ["LLM", "open source model", "AI agent", "agentic", "LangChain", "MCP server",
+                       "Llama", "DeepSeek", "Qwen", "Mistral", "Claude", "Gemini", "GPT", "fine-tuning", "RAG"]
+# Stories from the general AI feeds that look technical are copied into the AI Tech tab too.
+TECH_RE = re.compile(r"\b(models?|llms?|releases?d?|launch(?:es|ed)?|open[- ]source|open[- ]weights?|framework|sdk|apis?|agents?|agentic|mcp|"
+                     r"benchmarks?|fine[- ]tun\w*|inference|gpus?|chips?|transformers?|multimodal|reasoning|gpt|claude|gemini|llama|"
+                     r"mistral|deepseek|qwen|copilot|rag|langchain|pytorch|hugging ?face|nvidia|developers?)\b", re.I)
+
+SPORTS_FEEDS = [
+    ("BBC Sport", "https://feeds.bbci.co.uk/sport/rss.xml"),
+    ("ESPN", "https://www.espn.com/espn/rss/news"),
+    ("Guardian Sport", "https://www.theguardian.com/sport/rss"),
+    ("Sky Sports", "https://www.skysports.com/rss/12040"),
+    ("The Hindu Sport", "https://www.thehindu.com/sport/feeder/default.rss"),
+    ("Times of India Sports", "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"),
+    ("ESPNcricinfo", "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"),
+]
+
 INTL_FEEDS = [
     ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
     ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
@@ -127,30 +154,33 @@ def fetch_feed(source, url, cat):
                     "image": find_image(item, raw), "published": date.isoformat()})
     return out
 
-def fetch_hn():
+def fetch_hn(keywords, cat, min_points=10):
     # Algolia has no OR operator, so run one query per keyword and merge.
     since = int(datetime.now(timezone.utc).timestamp()) - KEEP_DAYS * 86400
     seen, out = set(), []
-    for kw in ("AI", "LLM", "OpenAI", "Anthropic", "Gemini", "machine learning"):
+    for kw in keywords:
         url = ("https://hn.algolia.com/api/v1/search_by_date?query=%s&tags=story"
-               "&numericFilters=created_at_i>%d,points>10&hitsPerPage=30" % (urllib.parse.quote(kw), since))
+               "&numericFilters=created_at_i>%d,points>%d&hitsPerPage=30" % (urllib.parse.quote(kw), since, min_points))
         for h in json.loads(http_get(url)).get("hits", []):
             if not (h.get("title") and h.get("url")) or h["objectID"] in seen:
                 continue
             seen.add(h["objectID"])
             host = urllib.parse.urlparse(h["url"]).hostname or ""
-            out.append({"cat": "ai", "source": "Hacker News", "title": clean(h["title"]), "link": h["url"],
+            out.append({"cat": cat, "source": "Hacker News", "title": clean(h["title"]), "link": h["url"],
                         "summary": "%s points · %s comments on Hacker News · %s" % (h.get("points", 0), h.get("num_comments", 0), host.removeprefix("www.")),
                         "image": "", "published": h["created_at"].replace("Z", "+00:00")})
     return out
 
 def main():
     jobs = []  # (label, bucket, callable)
-    for n, u in AI_FEEDS:   jobs.append((n, "ai", lambda n=n, u=u: fetch_feed(n, u, "ai")))
-    jobs.append(("Hacker News", "ai", fetch_hn))
-    for n, u in INTL_FEEDS: jobs.append((n, "intl", lambda n=n, u=u: fetch_feed(n, u, "intl")))
+    for n, u in AI_FEEDS:      jobs.append((n, "ai", lambda n=n, u=u: fetch_feed(n, u, "ai")))
+    jobs.append(("Hacker News (AI)", "ai", lambda: fetch_hn(["AI", "LLM", "OpenAI", "Anthropic", "Gemini", "machine learning"], "ai")))
+    for n, u in AI_TECH_FEEDS: jobs.append((n, "aitech", lambda n=n, u=u: fetch_feed(n, u, "aitech")))
+    jobs.append(("Hacker News (AI Tech)", "aitech", lambda: fetch_hn(AI_TECH_HN_KEYWORDS, "aitech", 15)))
+    for n, u in INTL_FEEDS:    jobs.append((n, "intl", lambda n=n, u=u: fetch_feed(n, u, "intl")))
+    for n, u in SPORTS_FEEDS:  jobs.append((n, "sports", lambda n=n, u=u: fetch_feed(n, u, "sports")))
     for cc, (_, feeds) in COUNTRIES.items():
-        for n, u in feeds:  jobs.append((n, "nat:" + cc, lambda n=n, u=u, cc=cc: fetch_feed(n, u, "nat")))
+        for n, u in feeds:     jobs.append((n, "nat:" + cc, lambda n=n, u=u, cc=cc: fetch_feed(n, u, "nat")))
 
     def run(job):
         label, bucket, fn = job
@@ -168,8 +198,13 @@ def main():
         if err:
             failed.append(label); print("FAILED", label, err, file=sys.stderr)
         else:
-            print("ok    %-22s %d items" % (label, len(items)))
+            print("ok    %-24s %d items" % (label, len(items)))
         buckets.setdefault(bucket, []).extend(items)
+
+    # Technical-looking stories from the general AI feeds also go to AI Tech.
+    for a in buckets.get("ai", []):
+        if a["source"] != "Hacker News" and TECH_RE.search(a["title"]):
+            buckets.setdefault("aitech", []).append(dict(a, cat="aitech"))
 
     def tidy(items):
         seen, out = set(), []
@@ -187,10 +222,13 @@ def main():
         "failed_sources": failed,
         "countries": {cc: v[0] for cc, v in COUNTRIES.items()},
         "ai": tidy(buckets.get("ai", [])),
+        "aitech": tidy(buckets.get("aitech", [])),
         "intl": tidy(buckets.get("intl", [])),
+        "sports": tidy(buckets.get("sports", [])),
         "national": {cc: tidy(buckets.get("nat:" + cc, [])) for cc in COUNTRIES},
     }
-    total = len(data["ai"]) + len(data["intl"]) + sum(len(v) for v in data["national"].values())
+    total = (len(data["ai"]) + len(data["aitech"]) + len(data["intl"]) + len(data["sports"])
+             + sum(len(v) for v in data["national"].values()))
     if total < 20:
         print("Too few articles (%d); keeping previous data." % total, file=sys.stderr)
         sys.exit(1)
