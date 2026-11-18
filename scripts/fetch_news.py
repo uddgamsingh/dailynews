@@ -209,8 +209,9 @@ def main():
     def tidy(items):
         seen, out = set(), []
         for a in sorted(items, key=lambda a: a["published"], reverse=True):
-            if datetime.fromisoformat(a["published"]) < cutoff:
-                continue
+            pub = datetime.fromisoformat(a["published"])
+            if pub < cutoff or pub > datetime.now(timezone.utc) + timedelta(hours=1):
+                continue   # too old, or a feed with a wrong future date
             key = re.sub(r"[^a-z0-9]", "", a["title"].lower())[:60]
             if key in seen:
                 continue
