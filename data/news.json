@@ -1,9 +1,10 @@
 {
- "generated_at": "2026-11-18T05:33:41+00:00",
+ "generated_at": "2026-11-18T05:34:27+00:00",
  "failed_sources": [
   "VentureBeat AI",
   "LangChain Blog",
-  "ESPN"
+  "ESPN",
+  "Dawn"
  ],
  "countries": {
   "IN": "India",
@@ -21,7 +22,7 @@
    "source": "Hacker News",
    "title": "Why is Gemini 4 Carbon taking so long?",
    "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-   "summary": "16 points · 4 comments on Hacker News · kernel.dev",
+   "summary": "16 points · 5 comments on Hacker News · kernel.dev",
    "image": "",
    "published": "2026-11-18T04:14:04+00:00"
   },
@@ -75,7 +76,7 @@
    "source": "Hacker News",
    "title": "Google's AI answers reducing search traffic by 40%",
    "link": "https://revscope.co/blog/search-seo-geo-2026/",
-   "summary": "236 points · 163 comments on Hacker News · revscope.co",
+   "summary": "238 points · 163 comments on Hacker News · revscope.co",
    "image": "",
    "published": "2026-11-18T00:17:58+00:00"
   },
@@ -165,7 +166,7 @@
    "source": "Hacker News",
    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
    "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-   "summary": "120 points · 172 comments on Hacker News · complexdiscovery.com",
+   "summary": "121 points · 172 comments on Hacker News · complexdiscovery.com",
    "image": "",
    "published": "2026-11-17T21:16:12+00:00"
   },
@@ -327,7 +328,7 @@
    "source": "Hacker News",
    "title": "GPT‑6.2 Astra and Sol",
    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-   "summary": "1181 points · 742 comments on Hacker News · openai.com",
+   "summary": "1182 points · 742 comments on Hacker News · openai.com",
    "image": "",
    "published": "2026-11-17T17:46:43+00:00"
   },
@@ -563,7 +564,7 @@
    "source": "Hacker News",
    "title": "Why is Gemini 4 Carbon taking so long?",
    "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-   "summary": "16 points · 4 comments on Hacker News · kernel.dev",
+   "summary": "16 points · 5 comments on Hacker News · kernel.dev",
    "image": "",
    "published": "2026-11-18T04:14:04+00:00"
   },
@@ -689,7 +690,7 @@
    "source": "Hacker News",
    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
    "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-   "summary": "120 points · 172 comments on Hacker News · complexdiscovery.com",
+   "summary": "121 points · 172 comments on Hacker News · complexdiscovery.com",
    "image": "",
    "published": "2026-11-17T21:16:12+00:00"
   },
@@ -851,7 +852,7 @@
    "source": "Hacker News",
    "title": "GPT‑6.2 Astra and Sol",
    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-   "summary": "1181 points · 742 comments on Hacker News · openai.com",
+   "summary": "1182 points · 742 comments on Hacker News · openai.com",
    "image": "",
    "published": "2026-11-17T17:46:43+00:00"
   },
@@ -1102,39 +1103,12 @@
  "intl": [
   {
    "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
-   "link": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
-   "summary": "Nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
-   "image": "",
-   "published": "2026-11-18T05:24:02+00:00"
-  },
-  {
-   "cat": "intl",
    "source": "The Guardian World",
    "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
    "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 second",
    "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5",
    "published": "2026-11-18T05:17:55+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
-   "link": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
-   "summary": "A look at FIFA's presidential election process, the challengers and key dates, as Gianni Infantino seeks a fourth term.",
-   "image": "",
-   "published": "2026-11-18T05:16:25+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "Rare video of Brazilian Amazon tribe",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rare-video-of-brazilian-amazon-tribe?traffic_source=rss",
-   "summary": "A new video has emerged showing members of the isolated Awa tribe who live in the remote part of Brazil’s Amazon forest.",
-   "image": "",
-   "published": "2026-11-18T05:14:07+00:00"
   },
   {
    "cat": "intl",
@@ -1516,6 +1490,24 @@
   },
   {
    "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "Top spy agency suffers network outage, the latest US technical failure",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+   "summary": "A series of unfortunate events has plagued the US. Al Jazeera’s Emma Withrow breaks down what we know.",
+   "image": "",
+   "published": "2026-11-17T23:19:12+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+   "link": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+   "summary": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
+   "image": "",
+   "published": "2026-11-17T23:09:00+00:00"
+  },
+  {
+   "cat": "intl",
    "source": "BBC World",
    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
@@ -1567,6 +1559,15 @@
    "summary": "Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing g",
    "image": "https://i.guim.co.uk/img/media/de610ad7d09fc89df2c3a963761bfc9e2cc8e4da/1817_497_2596_2076/master/2596.jpg?width=140&quality=85&auto=format&fit=max&s=c5feba6fd1c6b1939e460cb6bcf5df69",
    "published": "2026-11-17T22:30:17+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "Russian military plane crash in Siberia kills 19",
+   "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+   "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+   "image": "",
+   "published": "2026-11-17T22:21:16+00:00"
   },
   {
    "cat": "intl",
@@ -1644,21 +1645,21 @@
  "sports": [
   {
    "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Australia v England: third and deciding men’s cricket one-day international – live",
+   "link": "https://www.theguardian.com/sport/live/2026/nov/18/australia-vs-england-cricket-third-odi-mens-one-day-international-hobart-aus-v-eng-live-scores-updates",
+   "summary": "Updates on the final ODI at Bellerive Oval in Hobart Get our free newsletter, The Spin | Drop us an email We are indeed very, very proud the culture that this team has built the past eight years. Our players our leaders,",
+   "image": "https://i.guim.co.uk/img/media/e1acdb5996cdb71a4d4cdad413a19d1ba274a047/227_0_3446_2758/master/3446.jpg?width=140&quality=85&auto=format&fit=max&s=dde729fad2cd8bd34d5aae4821b78c18",
+   "published": "2026-11-18T05:26:45+00:00"
+  },
+  {
+   "cat": "sports",
    "source": "ESPNcricinfo",
    "title": "CA set up 'independent forum' into Sandpapergate but will not re-litigate the incident",
    "link": "https://www.cricinfo.com/ci/content/story/1563012.html?ex_cid=OTC-RSS",
    "summary": "Interim chair David Boon and CEO Todd Greenberg made the announcement on Wednesday",
    "image": "http://p.imgci.com/db/PICTURES/CMS/405400/405468.png",
    "published": "2026-11-18T05:22:58+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Guardian Sport",
-   "title": "Australia v England: third and deciding men’s cricket one-day international – live",
-   "link": "https://www.theguardian.com/sport/live/2026/nov/18/australia-vs-england-cricket-third-odi-mens-one-day-international-hobart-aus-v-eng-live-scores-updates",
-   "summary": "Updates on the final ODI at Bellerive Oval in Hobart Get our free newsletter, The Spin | Drop us an email We are indeed very, very proud the culture that this team has built the past eight years. Our players our leaders,",
-   "image": "https://i.guim.co.uk/img/media/e1acdb5996cdb71a4d4cdad413a19d1ba274a047/227_0_3446_2758/master/3446.jpg?width=140&quality=85&auto=format&fit=max&s=dde729fad2cd8bd34d5aae4821b78c18",
-   "published": "2026-11-18T05:22:09+00:00"
   },
   {
    "cat": "sports",
@@ -2232,15 +2233,6 @@
    },
    {
     "cat": "nat",
-    "source": "Hindustan Times",
-    "title": "9 years on, Niwari admin forms panel to audit Orchha’s Ram Raja temple treasury",
-    "link": "https://www.hindustantimes.com/india-news/9-years-on-niwari-admin-forms-panel-to-audit-orchha-s-ram-raja-temple-treasury-101794978601272.html",
-    "summary": "Niwari collector Jamuna Bhide dismissed rumours about a break-in, saying some people were spreading misinformation regarding the inspection",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/The-panel-has-been-constituted-to-inventory-donati_1794978592551_4eBg.jpg",
-    "published": "2026-11-18T05:10:00+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "The Hindu",
     "title": "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
     "link": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-generates-73-tonnes-of-waste-during-2026-char-dham-yatra/article71712125.ece",
@@ -2724,6 +2716,15 @@
     "summary": "Bhat, who carries a ₹15-lakh bounty on his head, is the prime suspect in the November 11 attack on three CRPF personnel in Kulgam.",
     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/PTI11-17-2026-000146A-0_1794970206942_YaNt_1794970235975_nm8a_0c9dec1f-6321-4ea7-8783-79741b59a7e7_b5pC.jpg",
     "published": "2026-11-18T03:02:59+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "NDTV India",
+    "title": "Prince William, Princess Kate To Meet PM Modi In Delhi Today",
+    "link": "https://www.ndtv.com/india-news/prince-william-princess-kate-to-meet-pm-modi-in-delhi-today-12341647#publisher=newsstand",
+    "summary": "This is Prince William and Princess Kate's second official visit to India, following their first trip to the country in April 2016.",
+    "image": "https://c.ndtvimg.com/2024-12/oqa90v6g_prince-william-and-kate-middleton-x_625x300_28_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "published": "2026-11-18T02:59:32+00:00"
    }
   ],
   "US": [
@@ -3018,6 +3019,15 @@
    {
     "cat": "nat",
     "source": "ABC News US",
+    "title": "Dolores Huerta, late labor leader and civil rights icon, honored at memorial",
+    "link": "https://abcnews.com/US/wireStory/dolores-huerta-late-labor-leader-civil-rights-icon-138191582",
+    "summary": "California public officials, labor leaders and members of the public are honoring the late Dolores Huerta at a memorial service in Sacramento",
+    "image": "https://s.abcnews.com/images/US/wirestory_527c73535f0dc97fc59cebcafdec611c_4x3_384.jpg",
+    "published": "2026-11-17T12:36:15+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC News US",
     "title": "US Catholic bishops meet after Democrats' big wins help reshape abortion debates",
     "link": "https://abcnews.com/US/wireStory/us-catholic-bishops-meet-after-democrats-big-wins-138205384",
     "summary": "U.S. Catholic bishops are meeting in Baltimore this week following the Democrats’ midterm victories",
@@ -3224,21 +3234,21 @@
    },
    {
     "cat": "nat",
+    "source": "ABC News US",
+    "title": "Rare North Atlantic right whale population drops, alarming scientists",
+    "link": "https://abcnews.com/US/wireStory/rare-north-atlantic-whale-population-drops-alarming-scientists-138172223",
+    "summary": "The population of one of the world’s rarest whales has fallen after trending upward in recent years",
+    "image": "https://s.abcnews.com/images/US/wirestory_ffb49dad741cf39a32867ace87a3194c_4x3_384.jpg",
+    "published": "2026-11-16T11:42:57+00:00"
+   },
+   {
+    "cat": "nat",
     "source": "NPR National",
     "title": "Air traffic controllers' union head on the nationwide ground stop",
     "link": "https://www.npr.org/2026/11/16/nx-s1-6041644/air-traffic-controllers-union-head-on-the-nationwide-ground-stop",
     "summary": "NPR's Steve Inskeep asks the head of the air traffic controllers' union what it was like for controllers as the FAA issued a nationwide ground stop.",
     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6041644",
     "published": "2026-11-16T11:38:58+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC News US",
-    "title": "Fewer students are traveling from abroad to study at US universities, report shows",
-    "link": "https://abcnews.com/US/wireStory/fewer-students-traveling-abroad-study-us-universities-report-138169810",
-    "summary": "Fewer international students are coming to U.S. universities to study as the Trump administration cracks down on immigration and reshapes higher education",
-    "image": "https://s.abcnews.com/images/US/wirestory_a34e862e97509e25b93d9f2234234416_4x3_384.jpg",
-    "published": "2026-11-16T11:38:21+00:00"
    },
    {
     "cat": "nat",
@@ -3257,15 +3267,6 @@
     "summary": "Americans are at a real point of decision – not election day, but this heady, uncertain moment after Until 2026, the most important midterm year of the last quarter-century was very probably 2010. Barack Obama famously c",
     "image": "https://i.guim.co.uk/img/media/ad243d2aae70514b1ec054b9cb5805a34ab1e4e0/420_0_4181_3347/master/4181.jpg?width=140&quality=85&auto=format&fit=max&s=9ce416248520fef4bed2bb6d1f694022",
     "published": "2026-11-16T11:00:57+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "NPR National",
-    "title": "They saw people losing food benefits. So they started handing out free groceries",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
-    "summary": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn't sit back while their neighbors went hungry.",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4120x2318+0+0/resize/4120x2318!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F0b%2F283a29d0443a81b8617283d090b8%2F20261107-ksuzuki-sandiegosnap-122.jpg",
-    "published": "2026-11-16T10:00:00+00:00"
    }
   ],
   "GB": [
@@ -4438,150 +4439,6 @@
   "PK": [
    {
     "cat": "nat",
-    "source": "Dawn",
-    "title": "Xi, Putin meet ahead of historic Trump trilateral summit",
-    "link": "https://www.dawn.com/news/2045382/xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
-    "summary": "Chinese leader Xi Jinping and Russian counterpart Vladimir Putin began talks in Shenzhen on Wednesday, a day ahead of a historic three-way summit with Donald Trump in the southern Chinese city. Thursday’s trilateral has",
-    "image": "https://i.dawn.com/large/2026/11/181023190213097.webp",
-    "published": "2026-11-18T05:28:55+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Tech outage wave reaches US government, Trump says all is 'fine'",
-    "link": "https://www.dawn.com/news/2045364/tech-outage-wave-reaches-us-government-trump-says-all-is-fine",
-    "summary": "Technology outages that shut down email for many companies and grounded thousands of flights over the past few days extended to the US National Security Agency (NSA) on Tuesday, as President Donald Trump’s administration",
-    "image": "https://i.dawn.com/large/2026/11/18081528af37392.webp",
-    "published": "2026-11-18T04:38:35+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Cricket hegemony",
-    "link": "https://www.dawn.com/news/2045356/cricket-hegemony",
-    "summary": "ANY doubts over India’s total hegemony over world cricket have now been removed. Its tactic of sidelining Pakistan is more blatant than ever. The India-led International Cricket Council on Sunday announced its activity p",
-    "image": "",
-    "published": "2026-11-18T04:17:46+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Poor treatment",
-    "link": "https://www.dawn.com/news/2045357/poor-treatment",
-    "summary": "IT is unseemly that a jailed political leader is forced to beseech the chief justices of the Federal Constitutional Court, the Supreme Court and the Islamabad High Court for medical attention. In an open letter issued Mo",
-    "image": "",
-    "published": "2026-11-18T04:07:53+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Senators raise concern over Panjgur dam’s design, impact on agriculture",
-    "link": "https://www.dawn.com/news/2045280/senators-raise-concern-over-panjgur-dams-design-impact-on-agriculture",
-    "summary": "QUETTA: A Senate subcommittee on problems confronting underdeveloped areas of the country reviewed progress on uplift projects for Balochistan at a meeting on Tuesday. The members expressed concern over the proposed desi",
-    "image": "https://i.dawn.com/large/2026/11/18085344c65c11f.webp",
-    "published": "2026-11-18T03:53:05+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Resetting the system",
-    "link": "https://www.dawn.com/news/2045355/resetting-the-system",
-    "summary": "THE issue of administrative restructuring is back on the political agenda. The interior minister has called for a referendum to seek public approval for the creation of new provinces, arguing that the existing system of",
-    "image": "https://i.dawn.com/large/2023/04/19085329f4eec05.jpg",
-    "published": "2026-11-18T03:48:13+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "LHC moved for Aleema’s meetings with family, lawyers",
-    "link": "https://www.dawn.com/news/2045282/lhc-moved-for-aleemas-meetings-with-family-lawyers",
-    "summary": "• Petition claims several requests seeking access to her in jail unheeded • Court gives prosecution another month in appeals against Qureshi’s acquittal LAHORE: The Lahore High Court (LHC) has been approached seeking per",
-    "image": "https://i.dawn.com/large/2026/03/11082810e83ee09.webp",
-    "published": "2026-11-18T03:42:46+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Trump warns Iran over ‘plot’ to target US officials",
-    "link": "https://www.dawn.com/news/2045272/trump-warns-iran-over-plot-to-target-us-officials",
-    "summary": "• Says American authorities take ‘very seriously’ any possible threat to Washington • CDF Munir tells FM Araghchi to maintain sustained engagement • US strikes Qeshm island; Iran targets Bahrain radar system MANILA: Pres",
-    "image": "https://i.dawn.com/large/2026/11/180830599041d10.webp",
-    "published": "2026-11-18T03:33:12+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Govt reminds PPP they’re ‘on same side’ after Bilawal’s tirade",
-    "link": "https://www.dawn.com/news/2045312/govt-reminds-ppp-theyre-on-same-side-after-bilawals-tirade",
-    "summary": "• PPP chief warns any ‘forced attempt’ to divide Sindh could lead to bloodshed • Opposes idea of referendum on new provinces; says no one has raised the issue with him or president • Calls for ending Imran’s ‘political i",
-    "image": "https://i.dawn.com/large/2026/11/18081030c0a6ef9.webp",
-    "published": "2026-11-18T03:17:25+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Apple works to restore services after outage caused by internal update",
-    "link": "https://www.dawn.com/news/2045368/apple-works-to-restore-services-after-outage-caused-by-internal-update",
-    "summary": "Apple said on Tuesday it was working to restore its systems after an internal update caused an outage that affected customer services including iCloud and Apple Pay. The issue was not caused by a cyberattack, Apple said,",
-    "image": "https://i.dawn.com/large/2026/11/18080616d950b5d.webp",
-    "published": "2026-11-18T03:07:58+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Man sentenced to over 27 years in US for plot to assassinate Trump",
-    "link": "https://www.dawn.com/news/2045363/man-sentenced-to-over-27-years-in-us-for-plot-to-assassinate-trump",
-    "summary": "A US judge has sentenced a Pakistani man, found guilty of plotting to assassinate President Donald Trump and other prominent US politicians, to more than 27 years in prison, the Department of Justice (DOJ) said on Tuesda",
-    "image": "https://i.dawn.com/large/2024/09/120740340935f35.jpg",
-    "published": "2026-11-18T02:47:12+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "MQM-P demands nationwide referendum on new provinces next month",
-    "link": "https://www.dawn.com/news/2045321/mqm-p-demands-nationwide-referendum-on-new-provinces-next-month",
-    "summary": "• Farooq Sattar urges inclusion of provisions for effective devolution of power in proposed 28th Amendment • Muttahida slams Bilawal’s ‘bloodshed in Sindh’ statement KARACHI: The Muttahida Qaumi Movement-Pakistan (MQM-P)",
-    "image": "https://i.dawn.com/large/2026/11/1808104597e1af0.webp",
-    "published": "2026-11-18T02:41:08+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "PTI questions Bilawal’s late realisation of ‘people’s hardships’",
-    "link": "https://www.dawn.com/news/2045279/pti-questions-bilawals-late-realisation-of-peoples-hardships",
-    "summary": "ISLAMABAD: The PTI has said PPP Chairman Bilawal Bhutto-Zardari was right in acknowledging that the country’s entire system had collapsed, but questioned why it had taken him so long to recognise the hardships faced by o",
-    "image": "https://i.dawn.com/large/2026/11/18085952239db2b.webp",
-    "published": "2026-11-18T00:39:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Saudi firm eyes $30bn energy deal",
-    "link": "https://www.dawn.com/news/2045288/",
-    "summary": "ISLAMABAD: Saudi Ara­bian energy company Delta Energy Saudi signed an agreement with Pak­istan’s Inter State Gas Sys­tems to explore development of energy infrastructure in the South Asian country, with a proposed invest",
-    "image": "https://i.dawn.com/large/2021/04/607b987cde111.jpg",
-    "published": "2026-11-18T00:38:45+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Private DNA test can’t override child’s legitimacy, rules LHC",
-    "link": "https://www.dawn.com/news/2045306/private-dna-test-cant-override-childs-legitimacy-rules-lhc",
-    "summary": "LAHORE: The Lahore High Court (LHC) has ruled that a privately arranged DNA test cannot displace the legal presumption that a child born during marriage is legitimate. Justice Asad Ali Bajwa issued a ruling, upholding an",
-    "image": "https://i.dawn.com/large/2026/09/10145037583eb2b.webp",
-    "published": "2026-11-18T00:38:19+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Taliban supreme leader makes rare visit to Afghan capital",
-    "link": "https://www.dawn.com/news/2045341/taliban-supreme-leader-makes-rare-visit-to-afghan-capital",
-    "summary": "KABUL: The Taliban’s reclusive Supreme Leader Hibatullah Akhundzada made a rare visit to the Afghan capital Kabul on Tuesday, pressing his audience to make people “love” him and follow his rules. Based in Kandahar, the s",
-    "image": "https://i.dawn.com/large/2026/11/18095311634ac56.webp",
-    "published": "2026-11-18T00:36:14+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Express Tribune",
     "title": "Student's death in dog attack triggers outrage",
     "link": "https://tribune.com.pk/story/2640926/students-death-in-dog-attack-triggers-outrage",
@@ -4600,48 +4457,12 @@
    },
    {
     "cat": "nat",
-    "source": "Dawn",
-    "title": "Former KP ministers Jhagra, Bangash among 3 PTI leaders held under MPO despite bail from PHC",
-    "link": "https://www.dawn.com/news/2045217/former-kp-ministers-jhagra-bangash-among-3-pti-leaders-held-under-mpo-despite-bail-from-phc",
-    "summary": "PESHAWAR: Former Khyber Pakhtunkhwa ministers Taimoor Saleem Jhagra and Kamran Bangash were among three PTI leaders taken into “preventative” custody by police shortly after they were granted interim bail by the high cou",
-    "image": "https://i.dawn.com/large/2026/11/1800043799e2635.webp",
-    "published": "2026-11-17T20:35:24+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Express Tribune",
     "title": "Saudi firm explores $30b Pakistan gas deal",
     "link": "https://tribune.com.pk/story/2640913/saudi-firm-explores-30b-pakistan-gas-deal",
     "summary": "Proposed pipeline network to connect Afghanistan to India",
     "image": "",
     "published": "2026-11-17T19:21:47+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Over 170 major websites hit by attack, including BBC, Ikea and Air France: report",
-    "link": "https://www.dawn.com/news/2045214/over-170-major-websites-hit-by-attack-including-bbc-ikea-and-air-france-report",
-    "summary": "Nearly 200 major websites, including those of the BBC , HSBC UAE bank, Air France and Ikea were targeted by a malicious cyber attack seeking to steal financial information and infect Apple devices, specialist media repor",
-    "image": "https://i.dawn.com/large/2020/08/5f34ae543a7bf.jpg",
-    "published": "2026-11-17T19:00:17+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Tarar says referendum 'legal and constitutional' method of gauging public opinion on new provinces",
-    "link": "https://www.dawn.com/news/2045201/tarar-says-referendum-legal-and-constitutional-method-of-gauging-public-opinion-on-new-provinces",
-    "summary": "Information Minister Attaullah Tarar said on Tuesday that a referendum was a legal and constitutional method of gauging public opinion on new provinces, adding that no political party should have reservations regarding i",
-    "image": "https://i.dawn.com/large/2026/11/17201431388a2da.webp",
-    "published": "2026-11-17T18:38:32+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment",
-    "link": "https://www.dawn.com/news/2045191/8-pakistan-bar-council-members-call-on-judiciary-to-take-note-of-imrans-plea-for-medical-treatment",
-    "summary": "ISLAMABAD: Eight members of the Pakistan Bar Council (PBC) on Tuesday called upon the judiciary to ensure implementation of the Supreme Court’s (SC) order directing incarcerated ex-premier Imran Khan’s transfer to Shifa",
-    "image": "https://i.dawn.com/large/2026/11/171834353317941.webp",
-    "published": "2026-11-17T18:33:10+00:00"
    },
    {
     "cat": "nat",
@@ -4669,78 +4490,6 @@
     "summary": "Says referendum can be held only on issues on which Constitution is silent",
     "image": "",
     "published": "2026-11-17T18:28:23+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "US proposes tougher rules for employment-based green cards",
-    "link": "https://www.dawn.com/news/2045211/us-proposes-tougher-rules-for-employment-based-green-cards",
-    "summary": "WASHINGTON: The United States Department of Labour has published sweeping proposed changes to the rules governing employment-based green cards, requiring companies to make greater efforts to recruit American workers befo",
-    "image": "https://i.dawn.com/large/2026/10/011225014b845fd.webp",
-    "published": "2026-11-17T18:26:48+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Pakistan fall to India in SAFF final after late heartbreak",
-    "link": "https://www.dawn.com/news/2045209/pakistan-fall-to-india-in-saff-final-after-late-heartbreak",
-    "summary": "Pakistan’s hopes of lifting their maiden SAFF Championship title ended in heartbreak on Tuesday as defending champions India came from behind to secure a 2-1 victory in the final at the National Stadium, extending their",
-    "image": "https://i.dawn.com/large/2026/11/17223400fff1b22.webp",
-    "published": "2026-11-17T17:36:16+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Jensen Huang says willing to return as Nvidia CEO, 'owns mistakes'",
-    "link": "https://www.dawn.com/news/2045205/jensen-huang-says-willing-to-return-as-nvidia-ceo-owns-mistakes",
-    "summary": "Former Nvidia CEO Jensen Huang said on Tuesday that he would be willing to return to the post due to an “outpouring of calls” for his reinstatement after he quit last week over an affair with an alleged Chinese spy . “If",
-    "image": "https://i.dawn.com/large/2026/11/1721445037dbe1e.webp",
-    "published": "2026-11-17T17:20:33+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Petrol price reduced by Rs3 per litre, diesel remains unchanged",
-    "link": "https://www.dawn.com/news/2045206/petrol-price-reduced-by-rs3-per-litre-diesel-remains-unchanged",
-    "summary": "The government on Tuesday reduced the price of petrol by Rs3 per litre, marking the eleventh consecutive decrease in the rate, but left the price of high-speed diesel unchanged. Following the revision, petrol will retail",
-    "image": "https://i.dawn.com/large/2020/06/5ef6243ecf85c.jpg",
-    "published": "2026-11-17T16:53:51+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Rs24bn additional QTA proposed by Discos draws protest from industrial consumers",
-    "link": "https://www.dawn.com/news/2045200/rs24bn-additional-qta-proposed-by-discos-draws-protest-from-industrial-consumers",
-    "summary": "ISLAMABAD: Industrial consumers on Tuesday protested over a Rs24 billion additional quarterly tariff burden proposed by power companies due to higher capacity charges, variable operation and maintenance (O&M) costs and t",
-    "image": "https://i.dawn.com/large/2026/01/2308045552e9cd0.webp",
-    "published": "2026-11-17T16:37:34+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "In hard-hitting speech, Bilawal says system was ‘made to collapse’",
-    "link": "https://www.dawn.com/news/2045176/in-hard-hitting-speech-bilawal-says-system-was-made-to-collapse",
-    "summary": "Key takeaways: Bilawal opposed creating new provinces ‘unconstitutionally’, such as via referendum ; urged PML-N to decide on provinces issue, claimed ‘ pressure ’ on PPP Called for releasing “political prisoners”, inclu",
-    "image": "https://i.dawn.com/large/2026/11/171934130bb9dbf.webp",
-    "published": "2026-11-17T16:33:28+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "PTA finalises licensing framework for 'sky-high' internet, telecommunication services",
-    "link": "https://www.dawn.com/news/2045196/pta-finalises-licensing-framework-for-sky-high-internet-telecommunication-services",
-    "summary": "The Pakistan Telecommunication Authority (PTA) said on Tuesday that it had finalised a licensing framework for satellite-based in-flight telecommunication services, “paving way for internet connectivity and other digital",
-    "image": "https://i.dawn.com/large/2026/11/171918482630b0c.webp",
-    "published": "2026-11-17T14:50:29+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "UK sanctions Israeli firms helping build West Bank settlements",
-    "link": "https://www.dawn.com/news/2045188/uk-sanctions-israeli-firms-helping-build-west-bank-settlements",
-    "summary": "Britain on Tuesday announced a slew of sanctions against eight Israeli companies helping to plan and build West Bank settlements, in a bid to halt new construction. “Do not bid, do not build, and do not profit from the d",
-    "image": "https://i.dawn.com/large/2026/11/171823486aafb46.webp",
-    "published": "2026-11-17T13:26:46+00:00"
    },
    {
     "cat": "nat",
@@ -4816,6 +4565,15 @@
    }
   ],
   "NG": [
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "PHOTOS: Tinubu grants interview to American political strategist Diana London",
+    "link": "https://punchng.com/photos-tinubu-grants-interview-to-american-political-strategist-diana-london/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Bola Tinubu has granted an exclusive interview to American political strategist and media personality, Diana London, with the interview expected to be released soon. Read More: https://punchng.com/photos-tinubu",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-18T06:31:52+00:00"
+   },
    {
     "cat": "nat",
     "source": "Punch",
@@ -5160,15 +4918,6 @@
    },
    {
     "cat": "nat",
-    "source": "Punch",
-    "title": "Reps probe 22 states over unpaid pensions",
-    "link": "https://punchng.com/reps-probe-22-states-over-unpaid-pensions/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "The House of Representatives has called on the Federal Government to prevail on state governments owing pensioners to clear their outstanding retirement benefits and comply with the provisions of the Pension Reform Act,",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-18T00:50:12+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Vanguard",
     "title": "Senate urges INEC to disqualify candidates over violence",
     "link": "https://www.vanguardngr.com/2026/11/senate-urges-inec-to-disqualify-candidates-over-violence/",
@@ -5268,15 +5017,6 @@
    }
   ],
   "ZA": [
-   {
-    "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "Genuine compromise must override dominance if SA’s municipalities are to succeed",
-    "link": "https://www.dailymaverick.co.za/opinionista/2026-11-18-genuine-compromise-must-override-dominance-if-sas-municipalities-are-to-succeed/",
-    "summary": "With coalition talks intensifying, South Africa needs extraordinary leadership that prioritises purpose over power – and brings the most capable citizens into council chambers.",
-    "image": "",
-    "published": "2026-11-18T06:48:03+00:00"
-   },
    {
     "cat": "nat",
     "source": "Daily Maverick",
@@ -5807,6 +5547,15 @@
     "summary": "Five people have died and 17 ] were critically injured after a taxi and a VW Polo collided head-on near Marken in Limpopo, with reckless overtaking suspected to have caused the crash.",
     "image": "https://iol-prod.appspot.com/image/4b971a415a6d60fec1fef24ce5347cd544a55109",
     "published": "2026-11-17T07:35:00+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "IOL",
+    "title": "Anele Tembe inquest resumes on Tuesday",
+    "link": "https://iol.co.za/news/crime-and-courts/2026-11-17-anele-tembe-inquest-resumes-on-tuesday/",
+    "summary": "The inquest into the death of Anele Tembe resumes on Tuesday in Cape Town.",
+    "image": "https://iol-prod.appspot.com/image/e797583e6d49d9487329b7133064ad03410916db",
+    "published": "2026-11-17T07:21:00+00:00"
    }
   ]
  }
