@@ -2,44 +2,73 @@ name: Update news
 
 on:
   schedule:
-    - cron: "15 */2 * * *"   # every 2 hours at :15 UTC
-  workflow_dispatch: {}      # lets you run it manually from the Actions tab
+    - cron: "15 */2 * * *"   # every 2 hours at :15 UTC (GitHub may delay or skip runs under load)
+  workflow_dispatch:         # run manually from the Actions tab
+    inputs:
+      skip_fetch:
+        description: "Only redeploy the site (do not fetch news)"
+        type: boolean
+        default: false
+  push:                      # redeploy right after you edit the site, script or this file
+    branches: [main]
+    paths:
+      - "index.html"
+      - "scripts/fetch_news.py"
+      - ".github/workflows/daily-news.yml"
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: daily-news
   cancel-in-progress: false
 
 jobs:
-  update:
+  update-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
+        if: ${{ !inputs.skip_fetch }}
         with:
           python-version: "3.12"
+
       - name: Fetch news
+        if: ${{ !inputs.skip_fetch }}
+        continue-on-error: true      # if feeds are down, keep old data and still deploy
         run: python scripts/fetch_news.py
+
       - name: Commit updated data
+        if: ${{ !inputs.skip_fetch }}
         run: |
           git config user.name "dailybrief-bot"
           git config user.email "dailybrief-bot@users.noreply.github.com"
           git add data/news.json
           if git diff --cached --quiet; then
             echo "No changes."
-            exit 0
+          else
+            git commit -m "Update news $(date -u +'%F %H:%M')"
+            git pull --rebase origin main
+            git push
           fi
-          git commit -m "Update news $(date -u +%F\ %H:%M)"
-          for i in 1 2 3; do
-            if git pull --rebase -X theirs origin main && git push; then
-              echo "Pushed successfully."
-              exit 0
-            fi
-            echo "Push failed, retrying ($i)..."
-            sleep 5
-          done
-          echo "Push failed after 3 attempts."
-          exit 1
+
+      - name: Prepare site
+        run: |
+          mkdir _site
+          cp index.html _site/
+          cp -r data _site/
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
