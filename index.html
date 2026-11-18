@@ -142,13 +142,23 @@ function render(){
   const cc = $("#country").value;
   if(tab==="all"){
     const rc = DATA.national[DEFAULT_CC] ? DEFAULT_CC : Object.keys(DATA.national)[0];
-    const all = [].concat(
-      DATA.ai.map(a=>({a,k:"ai"})), DATA.intl.map(a=>({a,k:"intl"})), (DATA.national[rc]||[]).map(a=>({a,k:"national"}))
-    ).filter(x=>new Date(x.a.published)>=cutoff && (!q||(x.a.title+" "+x.a.summary+" "+x.a.source).toLowerCase().includes(q)))
-     .sort((x,y)=>new Date(y.a.published)-new Date(x.a.published));
+    const pool = [].concat(
+      DATA.ai.map(a=>({a,k:"ai"})),
+      (DATA.aitech||[]).map(a=>({a,k:"aitech"})),
+      DATA.intl.map(a=>({a,k:"intl"})),
+      (DATA.national[rc]||[]).map(a=>({a,k:"national"})),
+      (DATA.sports||[]).map(a=>({a,k:"sports"}))
+    );
+    const seen = new Set(), now = Date.now();
+    const all = pool.filter(x=>{
+      const t = new Date(x.a.published).getTime();
+      if(!(t>=cutoff) || t>now+600000) return false;            // outside range, or a bad future date
+      if(q && !(x.a.title+" "+x.a.summary+" "+x.a.source).toLowerCase().includes(q)) return false;
+      const key = x.a.link; if(seen.has(key)) return false; seen.add(key); return true;
+    }).sort((x,y)=>new Date(y.a.published)-new Date(x.a.published));
     const top = all.slice(0,20);
-    const short = {ai:"AI",intl:"World",national:DATA.countries[rc]||rc};
-    $("#out").innerHTML = `<section style="--c:var(--brand)"><div class="sec-h"><span class="dot"></span><h2>Recent · Latest 20</h2><span class="count">AI, International &amp; ${esc(DATA.countries[rc]||rc)}</span></div>`
+    const short = {ai:"AI",aitech:"AI Tech",intl:"World",national:DATA.countries[rc]||rc,sports:"Sports"};
+    $("#out").innerHTML = `<section style="--c:var(--brand)"><div class="sec-h"><span class="dot"></span><h2>Recent · Latest 20</h2><span class="count">Newest across all tabs</span></div>`
       + (top.length ? `<div class="grid">${top.map(x=>card(x.a,SECTIONS[x.k].color,short[x.k])).join("")}</div>` : `<div class="empty">No stories for this range or search. Try "Last 7 days".</div>`)
       + `</section>`;
     return;
