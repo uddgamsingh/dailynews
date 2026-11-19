@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T10:01:53+00:00",
+ "generated_at": "2026-11-19T10:14:51+00:00",
  "failed_sources": [
   "VentureBeat AI",
   "LangChain Blog",
@@ -16,6 +16,15 @@
   "ZA": "South Africa"
  },
  "ai": [
+  {
+   "cat": "ai",
+   "source": "Hacker News",
+   "title": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
+   "link": "https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal",
+   "summary": "12 points · 0 comments on Hacker News · gadgetreview.com",
+   "image": "",
+   "published": "2026-11-19T08:23:41+00:00"
+  },
   {
    "cat": "ai",
    "source": "Hacker News",
@@ -48,7 +57,7 @@
    "source": "Hacker News",
    "title": "Black high school students sue after AI mistakes Doritos bag for gun",
    "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-   "summary": "89 points · 53 comments on Hacker News · lawyerscommittee.org",
+   "summary": "92 points · 58 comments on Hacker News · lawyerscommittee.org",
    "image": "",
    "published": "2026-11-19T00:57:20+00:00"
   },
@@ -66,7 +75,7 @@
    "source": "Hacker News",
    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
    "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-   "summary": "230 points · 72 comments on Hacker News · micjm.com",
+   "summary": "231 points · 72 comments on Hacker News · micjm.com",
    "image": "",
    "published": "2026-11-19T00:29:45+00:00"
   },
@@ -75,7 +84,7 @@
    "source": "Hacker News",
    "title": "Thomas Nagel says that it's criminal to build AI that feigns consciousness",
    "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-   "summary": "16 points · 18 comments on Hacker News · wired.com",
+   "summary": "16 points · 20 comments on Hacker News · wired.com",
    "image": "",
    "published": "2026-11-19T00:08:35+00:00"
   },
@@ -93,7 +102,7 @@
    "source": "Hacker News",
    "title": "Anthropic prices initial public offering",
    "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-   "summary": "223 points · 345 comments on Hacker News · anthropic.com",
+   "summary": "227 points · 356 comments on Hacker News · anthropic.com",
    "image": "",
    "published": "2026-11-18T23:30:09+00:00"
   },
@@ -165,7 +174,7 @@
    "source": "Hacker News",
    "title": "LLM assisted reverse engineering",
    "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-   "summary": "209 points · 50 comments on Hacker News · slowchronicle.com",
+   "summary": "211 points · 51 comments on Hacker News · slowchronicle.com",
    "image": "",
    "published": "2026-11-18T22:29:13+00:00"
   },
@@ -237,7 +246,7 @@
    "source": "Hacker News",
    "title": "Gemini 4 Neon",
    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-   "summary": "823 points · 665 comments on Hacker News · blog.google",
+   "summary": "829 points · 668 comments on Hacker News · blog.google",
    "image": "",
    "published": "2026-11-18T21:34:07+00:00"
   },
@@ -345,7 +354,7 @@
    "source": "Hacker News",
    "title": "Genie 4 is now available",
    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-   "summary": "254 points · 166 comments on Hacker News · blog.google",
+   "summary": "257 points · 167 comments on Hacker News · blog.google",
    "image": "",
    "published": "2026-11-18T18:49:51+00:00"
   },
@@ -507,7 +516,7 @@
    "source": "Hacker News",
    "title": "Seven new models at scalable price-performance",
    "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
-   "summary": "540 points · 353 comments on Hacker News · microsoft.ai",
+   "summary": "541 points · 354 comments on Hacker News · microsoft.ai",
    "image": "",
    "published": "2026-11-18T16:08:24+00:00"
   },
@@ -525,7 +534,7 @@
    "source": "Hacker News",
    "title": "AI agents ask better questions than KPMG accountants in audit trial",
    "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-   "summary": "458 points · 211 comments on Hacker News · europeanbusinessmagazine.com",
+   "summary": "462 points · 211 comments on Hacker News · europeanbusinessmagazine.com",
    "image": "",
    "published": "2026-11-18T15:49:34+00:00"
   },
@@ -546,15 +555,6 @@
    "summary": "46 points · 24 comments on Hacker News · ft.com",
    "image": "",
    "published": "2026-11-18T15:08:21+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "MIT Tech Review",
-   "title": "The AI Hype Index: AI is everywhere",
-   "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-   "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people he",
-   "image": "",
-   "published": "2026-11-18T14:42:44+00:00"
   }
  ],
  "aitech": [
@@ -572,7 +572,7 @@
    "source": "Hacker News",
    "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
    "link": "https://verialabs.com/ruby2shell/",
-   "summary": "98 points · 29 comments on Hacker News · verialabs.com",
+   "summary": "110 points · 33 comments on Hacker News · verialabs.com",
    "image": "",
    "published": "2026-11-19T05:09:11+00:00"
   },
@@ -590,7 +590,7 @@
    "source": "Hacker News",
    "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
    "link": "https://adeindex.com",
-   "summary": "17 points · 3 comments on Hacker News · adeindex.com",
+   "summary": "19 points · 3 comments on Hacker News · adeindex.com",
    "image": "",
    "published": "2026-11-19T01:33:52+00:00"
   },
@@ -599,7 +599,7 @@
    "source": "Hacker News",
    "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
    "link": "https://github.com/Ri4dH/failtrace",
-   "summary": "27 points · 5 comments on Hacker News · github.com",
+   "summary": "28 points · 5 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-19T01:30:43+00:00"
   },
@@ -617,7 +617,7 @@
    "source": "Hacker News",
    "title": "Black high school students sue after AI mistakes Doritos bag for gun",
    "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-   "summary": "89 points · 53 comments on Hacker News · lawyerscommittee.org",
+   "summary": "92 points · 58 comments on Hacker News · lawyerscommittee.org",
    "image": "",
    "published": "2026-11-19T00:57:20+00:00"
   },
@@ -626,7 +626,7 @@
    "source": "Hacker News",
    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
    "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-   "summary": "230 points · 72 comments on Hacker News · micjm.com",
+   "summary": "231 points · 72 comments on Hacker News · micjm.com",
    "image": "",
    "published": "2026-11-19T00:29:45+00:00"
   },
@@ -644,7 +644,7 @@
    "source": "Hacker News",
    "title": "Thomas Nagel says that it's criminal to build AI that feigns consciousness",
    "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-   "summary": "16 points · 18 comments on Hacker News · wired.com",
+   "summary": "16 points · 20 comments on Hacker News · wired.com",
    "image": "",
    "published": "2026-11-19T00:08:35+00:00"
   },
@@ -653,7 +653,7 @@
    "source": "Hacker News",
    "title": "Multiple vulnerabilities in Regexp and String case conversion",
    "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-   "summary": "259 points · 89 comments on Hacker News · ruby-lang.org",
+   "summary": "265 points · 90 comments on Hacker News · ruby-lang.org",
    "image": "",
    "published": "2026-11-18T23:52:50+00:00"
   },
@@ -680,7 +680,7 @@
    "source": "Hacker News",
    "title": "LLM assisted reverse engineering",
    "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-   "summary": "209 points · 50 comments on Hacker News · slowchronicle.com",
+   "summary": "211 points · 51 comments on Hacker News · slowchronicle.com",
    "image": "",
    "published": "2026-11-18T22:29:13+00:00"
   },
@@ -716,7 +716,7 @@
    "source": "Hacker News",
    "title": "Gemini 4 Neon",
    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-   "summary": "824 points · 665 comments on Hacker News · blog.google",
+   "summary": "829 points · 668 comments on Hacker News · blog.google",
    "image": "",
    "published": "2026-11-18T21:34:07+00:00"
   },
@@ -779,7 +779,7 @@
    "source": "Hacker News",
    "title": "DaisyRose-27B",
    "link": "https://www.radixark.com/blog/daisyrose-27b",
-   "summary": "213 points · 74 comments on Hacker News · radixark.com",
+   "summary": "215 points · 76 comments on Hacker News · radixark.com",
    "image": "",
    "published": "2026-11-18T19:39:16+00:00"
   },
@@ -815,7 +815,7 @@
    "source": "Hacker News",
    "title": "The Magic of Partial Evaluation",
    "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-   "summary": "111 points · 31 comments on Hacker News · jimmyhmiller.com",
+   "summary": "111 points · 33 comments on Hacker News · jimmyhmiller.com",
    "image": "",
    "published": "2026-11-18T18:29:03+00:00"
   },
@@ -869,7 +869,7 @@
    "source": "Hacker News",
    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
    "link": "https://rshekhar.com/voyager/",
-   "summary": "196 points · 49 comments on Hacker News · rshekhar.com",
+   "summary": "197 points · 49 comments on Hacker News · rshekhar.com",
    "image": "",
    "published": "2026-11-18T16:18:51+00:00"
   },
@@ -896,7 +896,7 @@
    "source": "Hacker News",
    "title": "AI agents ask better questions than KPMG accountants in audit trial",
    "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-   "summary": "458 points · 211 comments on Hacker News · europeanbusinessmagazine.com",
+   "summary": "462 points · 211 comments on Hacker News · europeanbusinessmagazine.com",
    "image": "",
    "published": "2026-11-18T15:49:34+00:00"
   },
@@ -950,7 +950,7 @@
    "source": "Hacker News",
    "title": "GTA 6 Review: It Is a Masterpiece",
    "link": "https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece",
-   "summary": "68 points · 128 comments on Hacker News · bloomberg.com",
+   "summary": "68 points · 129 comments on Hacker News · bloomberg.com",
    "image": "",
    "published": "2026-11-18T11:59:57+00:00"
   },
@@ -1058,7 +1058,7 @@
    "source": "Hacker News",
    "title": "Claude was trained on protein sequences at scale",
    "link": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
-   "summary": "173 points · 74 comments on Hacker News · xinmingtu.cn",
+   "summary": "173 points · 75 comments on Hacker News · xinmingtu.cn",
    "image": "",
    "published": "2026-11-18T03:47:43+00:00"
   },
@@ -1102,21 +1102,39 @@
  "intl": [
   {
    "cat": "intl",
+   "source": "BBC World",
+   "title": "Anthropic raises $81bn in record-breaking stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+   "published": "2026-11-19T10:12:16+00:00"
+  },
+  {
+   "cat": "intl",
    "source": "The Guardian World",
    "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
    "link": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ BAE Systems has announced plans to cut more than 1,000 jobs from its workforce, triggering calls for mi",
+   "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ The government has no power to make Google take down a YouTube video with a message from Russell Brand",
    "image": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=140&quality=85&auto=format&fit=max&s=ac4315e50102570681509b0f40f64bec",
-   "published": "2026-11-19T09:48:19+00:00"
+   "published": "2026-11-19T10:04:14+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+   "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+   "summary": "Assessment of damage is underway, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to Russia The remaining Kerch rail bridge connecting Crimea to Russia was a",
+   "image": "https://i.guim.co.uk/img/media/7bf9a341fba5dbbab43e28b309e86834e12fbee2/684_319_2063_1650/master/2063.jpg?width=140&quality=85&auto=format&fit=max&s=395cb502726efac2eb9a358f2c9e5dda",
+   "published": "2026-11-19T10:03:42+00:00"
   },
   {
    "cat": "intl",
    "source": "The Guardian World",
    "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
    "link": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ Meanwhile, Denmark’s parliament unanimously ratified a security agreement with US president Donald Trump covering Greenland,",
+   "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ Meanwhile in Shenzhen, the trilateral meeting between Trump, Putin and Xi is reportedly over, according to Chinese state med",
    "image": "https://i.guim.co.uk/img/media/194326eb18d0979185a01324bf8eb4f154a041d2/270_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=c1721f1dbbf726d5a03787329704a58d",
-   "published": "2026-11-19T09:45:36+00:00"
+   "published": "2026-11-19T10:00:52+00:00"
   },
   {
    "cat": "intl",
@@ -1516,15 +1534,6 @@
   },
   {
    "cat": "intl",
-   "source": "BBC World",
-   "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
-   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-   "published": "2026-11-19T02:20:15+00:00"
-  },
-  {
-   "cat": "intl",
    "source": "The Guardian World",
    "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
    "link": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
@@ -1585,15 +1594,6 @@
    "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg",
    "published": "2026-11-18T23:28:03+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Crimea bridge has been attacked again, says Russian-installed governor",
-   "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
-   "summary": "Assessment of damage is underway, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to Russia A key bridge connecting annexed Crimea to Russia has been attacke",
-   "image": "https://i.guim.co.uk/img/media/7bf9a341fba5dbbab43e28b309e86834e12fbee2/684_319_2063_1650/master/2063.jpg?width=140&quality=85&auto=format&fit=max&s=395cb502726efac2eb9a358f2c9e5dda",
-   "published": "2026-11-18T23:27:37+00:00"
   },
   {
    "cat": "intl",
@@ -2188,11 +2188,110 @@
    {
     "cat": "nat",
     "source": "The Hindu",
+    "title": "Police, magistrates, and sessions judges cannot refuse bail if offences are bailable: Madras High Court",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/police-magistrates-and-sessions-judges-cannot-refuse-bail-if-offences-are-bailable-madras-high-court/article71718722.ece",
+    "summary": "Justice N. Ramesh says they do not enjoy any discretion to deny bail in such cases and orders circulation of his verdict to all judicial officers in Tamil Nadu and Puducherry",
+    "image": "https://th-i.thgim.com/public/incoming/u897wa/article71719405.ece/alternates/LANDSCAPE_1200/iStock-1483489085.jpg",
+    "published": "2026-11-19T10:08:33+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "TVK MLA V.S. Babu, who defeated M.K. Stalin in Kolathur, passes away",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-mla-vs-babu-who-defeated-mk-stalin-in-kolathur-passes-away/article71719587.ece",
+    "summary": "He had been admitted to MGM Healthcare, Chennai, with a prolonged respiratory illness",
+    "image": "https://th-i.thgim.com/public/incoming/a79e6o/article71719597.ece/alternates/LANDSCAPE_1200/DSC_7500.JPG",
+    "published": "2026-11-19T10:08:32+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
     "title": "BJP mocks Rahul Gandhi's U.S. remarks, says AI can predict his speeches",
     "link": "https://www.thehindu.com/news/national/bjp-mocks-rahul-gandhis-us-remarks-says-ai-can-predict-his-speeches/article71719550.ece",
     "summary": "The BJP also said that Congress should consider sending an AI-generated version of its leader abroad because he keeps repeating the same words",
     "image": "https://th-i.thgim.com/public/incoming/xx93uy/article71719574.ece/alternates/LANDSCAPE_1200/20261111333L.jpg",
-    "published": "2026-11-19T09:51:55+00:00"
+    "published": "2026-11-19T10:08:13+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "PM Modi pulls up India Inc over Make in India, employment, wages, quality, and lack of FTA planning",
+    "link": "https://www.thehindu.com/business/pm-modi-ficci-india-inc-ficci-annual-general-meeting-and-annual-convention-november-19-2026/article71719140.ece",
+    "summary": "While also highlighting the economic progress India has made over the course of his tenure as Prime Minister, Mr. Modi also pointed out several ways in which the private sector needed to improve",
+    "image": "https://th-i.thgim.com/public/news/national/76tgvc/article71719181.ece/alternates/LANDSCAPE_1200/PMModi.jpg",
+    "published": "2026-11-19T10:07:36+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Indian democracy 'sacred', boycotting polls will end it: Rahul Gandhi at University of Chicago",
+    "link": "https://www.thehindu.com/news/national/indian-democracy-sacred-boycotting-polls-will-end-it-rahul-gandhi-at-university-of-chicago/article71719252.ece",
+    "summary": "“So, our strategy is to expose what is going on and take the beating until the people of India realise that the system has been fully demolished,” the Congress leader said",
+    "image": "https://th-i.thgim.com/public/incoming/eh76mt/article71719265.ece/alternates/LANDSCAPE_1200/TH18-Phukan-IndGIAGQL48N.3.jpg.jpg",
+    "published": "2026-11-19T10:05:22+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "PM Modi pays tribute to Indira Gandhi on her birth anniversary",
+    "link": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-indira-gandhi-on-her-birth-anniversary/article71719606.ece",
+    "summary": "Indira Gandhi served as prime minister from 1966 to 1977 and again from 1980 until her assassination in 1984",
+    "image": "https://th-i.thgim.com/public/incoming/qkq7sl/article71719618.ece/alternates/LANDSCAPE_1200/20261119074L.jpg",
+    "published": "2026-11-19T10:05:02+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
+    "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+    "summary": "The IMD says the corridor for landfall, likely on Nov. 20 noon, stretches from Andhra's Narsapur in Andhra Pradesh to Odisha's Puri",
+    "image": "",
+    "published": "2026-11-19T10:03:12+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Delhi HC clarifies restaurants have no interim relief to levy mandatory service charges",
+    "link": "https://timesofindia.indiatimes.com/india/delhi-hc-clarifies-restaurants-have-no-interim-relief-to-levy-mandatory-service-charges/articleshow/135985164.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-135985677,imgsize-1308378.cms",
+    "published": "2026-11-19T10:02:37+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Rahul Gandhi calls Indian democracy 'sacred'; BJP launches attack after hearing 'sick'",
+    "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-calls-indian-democracy-sacred-bjp-launches-attack-after-hearing-sick/articleshow/135985712.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-135985790,imgsize-94918.cms",
+    "published": "2026-11-19T10:02:05+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Supreme Court to commence final hearing of pleas on marital rape in December",
+    "link": "https://www.thehindu.com/news/national/supreme-court-to-commence-final-hearing-of-pleas-on-marital-rape-in-december/article71719502.ece",
+    "summary": "Under the exception clause of Section 375 of the Indian Penal Code, now repealed and replaced by the Bharatiya Nyaya Sanhita, 2023, sexual intercourse or sexual acts by a man with his wife, the wife not being minor, is n",
+    "image": "https://th-i.thgim.com/public/incoming/tnz9tj/article71719556.ece/alternates/LANDSCAPE_1200/vbk-marital%20rape-rdff-iStock-138091684.jpg",
+    "published": "2026-11-19T10:01:54+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "‘Face-to-face contest’: Yogi challenges Akhilesh to contest UP polls from Ayodhya",
+    "link": "https://timesofindia.indiatimes.com/india/face-to-face-contest-yogi-challenges-akhilesh-to-contest-up-polls-from-ayodhya/articleshow/135985649.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-135985747,imgsize-50724.cms",
+    "published": "2026-11-19T10:00:03+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Author Samina Mishra explores borders, identity and citizenship through children’s eyes",
+    "link": "https://www.thehindu.com/books/books-authors/author-samina-mishra-explores-borders-identity-and-citizenship-through-childrens-eyes/article71692337.ece",
+    "summary": "The filmmaker and author examines how art and storytelling can open up conversations about society, equality and constitutional values",
+    "image": "https://th-i.thgim.com/public/incoming/7hde47/article71692516.ece/alternates/LANDSCAPE_1200/Book%20Fair%202025%20with%20PRH%20Books.jpg",
+    "published": "2026-11-19T09:57:49+00:00"
    },
    {
     "cat": "nat",
@@ -2238,15 +2337,6 @@
     "summary": "EPFO’s Central Board of Trustees will discuss the status of the outstanding default on the retirement fund’s holdings and review the annual performance of its portfolio managers at a meeting on Thursday",
     "image": "https://th-i.thgim.com/public/news/national/97pbb5/article53641247.ece/alternates/LANDSCAPE_1200/NKV-EPFO-PF-provident-fund",
     "published": "2026-11-19T09:38:37+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "PM Modi invites suggestions from India Inc on further reforms",
-    "link": "https://www.thehindu.com/business/pm-modi-ficci-india-inc-ficci-annual-general-meeting-and-annual-convention-november-19-2026/article71719140.ece",
-    "summary": "While the government has reduced the corporate tax, Mr. Modi asked if the industry has increased the strength of employees and raised their wages",
-    "image": "https://th-i.thgim.com/public/news/national/76tgvc/article71719181.ece/alternates/LANDSCAPE_1200/PMModi.jpg",
-    "published": "2026-11-19T09:38:31+00:00"
    },
    {
     "cat": "nat",
@@ -2310,15 +2400,6 @@
     "summary": "Under the existing rules, EPFO members are required to retain at least 25 per cent of their eligible PF balance in their accounts.",
     "image": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/epfo_1795080521820_yjay_1795080522042_zqW1_c9472d35-8c1f-45d0-b430-0bfce8bda540_j5wE.png",
     "published": "2026-11-19T09:25:28+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
-    "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-    "summary": "The IMD says the corridor for landfall, likely on Nov. 20 noon, stretches from Andhra's Narsapur in Andhra Pradesh to Odisha's Puri",
-    "image": "",
-    "published": "2026-11-19T09:25:04+00:00"
    },
    {
     "cat": "nat",
@@ -2485,15 +2566,6 @@
    {
     "cat": "nat",
     "source": "The Hindu",
-    "title": "Police, magistrates, and sessions judges cannot refuse bail if offences are bailable: Madras High Court",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/police-magistrates-and-sessions-judges-cannot-refuse-bail-if-offences-are-bailable-madras-high-court/article71718722.ece",
-    "summary": "Justice N. Ramesh says they do not enjoy any discretion to deny bail in such cases and orders circulation of his verdict to all judicial officers in Tamil Nadu and Puducherry",
-    "image": "https://th-i.thgim.com/public/incoming/u897wa/article71719405.ece/alternates/LANDSCAPE_1200/iStock-1483489085.jpg",
-    "published": "2026-11-19T08:56:57+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
     "title": "Free entry to Taj Mahal, Agra Fort on November 19 as Heritage Week begins",
     "link": "https://www.thehindu.com/news/national/free-entry-to-taj-mahal-agra-fort-on-november-19-as-heritage-week-begins/article71718650.ece",
     "summary": "The ASI has waived entry fees at all centrally protected monuments and archaeological sites across the country on November 19, 2026, the opening day of World Heritage Week",
@@ -2652,78 +2724,6 @@
     "summary": "In a series of posts on X, the Krishnanagar MP claimed that 80-90 BJP supporters had gathered at Gobra gram panchayat area to attack her and alleged that the police had prior information about the gathering",
     "image": "https://th-i.thgim.com/public/incoming/kvrknk/article71719360.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-19%20135426.png",
     "published": "2026-11-19T08:27:02+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Fill vacant librarian posts, DYFI tells Andhra government",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/fill-vacant-librarian-posts-dyfi-tells-andhra-government/article71716177.ece",
-    "summary": "Over 2 lakh library science graduates are waiting for jobs, says the DYFI, urging the government to fill the 100 posts in its job calendar",
-    "image": "https://th-i.thgim.com/public/incoming/cn5zpx/article71717085.ece/alternates/LANDSCAPE_1200/vjkvg-dyfi%203.JPG",
-    "published": "2026-11-19T08:25:04+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Muslims to outnumber Christians by 2035 worldwide: Pew research",
-    "link": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece",
-    "summary": "The absolute number of Hindus in India and worldwide will rise from 1.2 billion in 2020 to 1.4 billion by 2070",
-    "image": "https://th-i.thgim.com/public/incoming/14yc0v/article71718508.ece/alternates/LANDSCAPE_1200/iStock-153262551.jpg",
-    "published": "2026-11-19T08:24:39+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Hindustan Times",
-    "title": "CBI secures deportation of fugitive Raghesh Unnikochan from UAE wanted in a Kerala murder case",
-    "link": "https://www.hindustantimes.com/india-news/cbi-secures-deportation-of-fugitive-raghesh-unnikochan-from-uae-wanted-in-a-kerala-murder-case-101795075410509.html",
-    "summary": "Raghesh Unnikochan, wanted in a Kerala murder case, was deported from the UAE to India on November 18, 2026.",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/canada_1795076182523_ACBL_1795076186654_qgZa_22249_1795076213087_ByzR_1795076213240_JtkL_a1eb3e46-a892-44be-b401-0b15801d9ca0_6IwD.png",
-    "published": "2026-11-19T08:22:11+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Six killed as car falls into canal in Bihar’s Araria",
-    "link": "https://www.thehindu.com/news/national/bihar/six-killed-as-car-falls-into-canal-in-bihars-araria/article71719092.ece",
-    "summary": "A police team rushed to the spot and took all seven occupants of the car to the Araria Sadar Hospital, where six of them were declared dead, the statement said",
-    "image": "",
-    "published": "2026-11-19T08:21:20+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Karnataka will always be there for its neighbours, Shivakumar tells Naidu after cyclone help",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/karnataka-will-always-be-there-for-its-neighbours-shivakumar-tells-naidu-after-cyclone-help/article71716583.ece",
-    "summary": "Responding to Andhra Pradesh Chief Minister N. Chandrababu Naidu’s letter of thanks for help in restoring power after Cyclones Arnab and Murasu, D.K. Shivakumar says his State will always stand by its neighbours",
-    "image": "https://th-i.thgim.com/public/incoming/ogm88u/article71705446.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-12%20at%2012.35.17%20PM.JPEG",
-    "published": "2026-11-19T08:19:33+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "NDTV India",
-    "title": "Rahul Gandhi Said Indian Democracy Is \"Sacred\", But BJP Heard \"Sick\"",
-    "link": "https://www.ndtv.com/india-news/rahul-gandhi-said-indian-democracy-is-sacred-but-bjp-heard-sick-12348251#publisher=newsstand",
-    "summary": "The Congress leader said asking the Opposition to boycott elections would end democracy that very minute.",
-    "image": "https://c.ndtvimg.com/2026-11/gafh2ies_rahul-gandhi_625x300_19_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "published": "2026-11-19T08:18:18+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Hindustan Times",
-    "title": "1 killed, another critical after fire in Delhi's Lajpat Nagar during welding for fire safety gear",
-    "link": "https://www.hindustantimes.com/india-news/30yrold-man-another-critical-in-delhi-fire-during-welding-for-fire-safety-gear-101795076285997.html",
-    "summary": "Police said a call was received at 1:17 pm on Wednesday reporting that people were trapped inside the four-storey building in the Lajpat Nagar II neighbourhood",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/Head-constable-Gajanand--who-was-patrolling-in-the_1795076277256_Sp3e.jpg",
-    "published": "2026-11-19T08:18:05+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "CBI Special Court acquits CPI(M) leaders P. Jayarajan, T.V. Rajesh in Shukkoor murder case",
-    "link": "https://www.thehindu.com/news/national/kerala/ariyil-shukkoor-murder-case-cbi-court-verdict-nov-19-2026/article71718522.ece",
-    "summary": "Of the 33 accused in the case, two have since died",
-    "image": "https://th-i.thgim.com/public/incoming/37v195/article71719337.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-19%20at%2010.32.15%20AM.jpeg",
-    "published": "2026-11-19T08:16:36+00:00"
    }
   ],
   "US": [
@@ -2753,15 +2753,6 @@
     "summary": "The Pew Research Center has released new projections that show that Islam will surpass Christianity as the world's largest religion by 2035",
     "image": "https://s.abcnews.com/images/US/wirestory_870c21acd01fbbf728d94840da0464e7_4x3_384.jpg",
     "published": "2026-11-19T08:50:14+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC News US",
-    "title": "Susan Smith to ask for parole again 32 years after drowning her sons in a South Carolina lake",
-    "link": "https://abcnews.com/US/wireStory/susan-smith-parole-32-years-after-drowning-sons-138279413",
-    "summary": "Susan Smith, convicted of killing her two sons by rolling her car into a South Carolina lake in 1994, is up for parole again",
-    "image": "https://s.abcnews.com/images/US/wirestory_4e0bc24d28e529f6160324dc8bd9e2ed_4x3_384.jpg",
-    "published": "2026-11-19T07:29:30+00:00"
    },
    {
     "cat": "nat",
@@ -3251,6 +3242,15 @@
    },
    {
     "cat": "nat",
+    "source": "ABC News US",
+    "title": "Trump faces GOP pushback to his order to use steam to launch jets from aircraft carriers",
+    "link": "https://abcnews.com/US/wireStory/trump-faces-gop-pushback-order-steam-launch-jets-138230538",
+    "summary": "Senators are pushing back against President Donald Trump's order to retrofit new aircraft carriers with old steam catapults",
+    "image": "https://s.abcnews.com/images/US/wirestory_a749a935c16c83b2c541842d0ff35ad5_4x3_384.jpg",
+    "published": "2026-11-18T02:26:48+00:00"
+   },
+   {
+    "cat": "nat",
     "source": "Guardian US",
     "title": "Acting US navy secretary refers to eight suicide attempts as 'suicide mitigations' – video",
     "link": "https://www.theguardian.com/us-news/video/2026/nov/17/hung-cao-acting-us-navy-secretary-refers-to-eight-suicide-attempts-as-suicide-mitigations-video",
@@ -3328,7 +3328,7 @@
     "source": "Sky News UK",
     "title": "Three men charged with murder of man in Greater Manchester",
     "link": "https://news.sky.com/story/three-men-charged-with-murder-of-man-in-greater-manchester-13613605",
-    "summary": "Three men have been charged with the murder of a man in Crumpsall.",
+    "summary": "Three men have been charged with the murder of a man in Crumpsall in Manchester.",
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-manchester-moss-bank_7406510.jpg?20261114154612",
     "published": "2026-11-19T07:03:00+00:00"
    },
@@ -4175,6 +4175,15 @@
   "CA": [
    {
     "cat": "nat",
+    "source": "CBC Canada",
+    "title": "Should playing O Canada be mandatory in all P.E.I. schools? One MLA thinks so",
+    "link": "https://www.cbc.ca/news/canada/prince-edward-island/pei-o-canada-national-anthem-mandatory-schools-9.7427293?cmp=rss",
+    "summary": "For decades, students in Canadian schools have started their day hearing the national anthem. Now, PC MLA Tyler DesRoches wants to make that mandatory across Prince Edward Island.",
+    "image": "https://i.cbc.ca/ais/8fa7b476-6f7e-4982-b6e1-11b8f51e1c46,1794883796472/full/max/0/default.jpg?im=Crop%2Crect%3D%2846%2C0%2C4755%2C2674%29%3B",
+    "published": "2026-11-19T10:00:00+00:00"
+   },
+   {
+    "cat": "nat",
     "source": "Global News",
     "title": "KPMG Canada says client documents accessed in cybersecurity breach",
     "link": "https://globalnews.ca/news/12157485/kpmg-canada-breach/",
@@ -4428,15 +4437,6 @@
    {
     "cat": "nat",
     "source": "CBC Canada",
-    "title": "What it will take for Canada to regain its measles elimination status",
-    "link": "https://www.cbc.ca/news/health/measles-elimination-status-canada-us-mexico-9.7426328?cmp=rss",
-    "summary": "The U.S., Bolivia and Mexico lost their measles elimination status this week, as Canada did this time last year. What would it take for Canada to regain its status?",
-    "image": "https://i.cbc.ca/ais/ec234d10-e2e6-40ce-9f72-2f844db55999,1795013085923/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C5079%2C2856%29%3B",
-    "published": "2026-11-18T20:15:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "CBC Canada",
     "title": "Parks Canada budget cuts, tourism growth raise concerns for Canada Strong Pass return",
     "link": "https://www.cbc.ca/news/canada/calgary/canada-strong-pass-banff-national-park-9.7425708?cmp=rss",
     "summary": "The return of the Canada Strong Pass is getting mixed reviews. The pass will come back for a third year as Parks Canada is intending to lay off 517 full-time positions, and Banff National Park hit a record 4.5 million vi",
@@ -4448,11 +4448,20 @@
    {
     "cat": "nat",
     "source": "Dawn",
+    "title": "Navy’s combat capabilities significantly enhanced across all operational domains: Admiral Ashraf",
+    "link": "https://www.dawn.com/news/2045672/navys-combat-capabilities-significantly-enhanced-across-all-operational-domains-admiral-ashraf",
+    "summary": "Chief of the Naval Staff (CNS) Admiral Naveed Ashraf on Thursday said the Pakistan Navy has significantly enhanced its combat capabilities across all operational domains. He made the remarks while addressing the graduati",
+    "image": "https://i.dawn.com/large/2026/11/19135133ccac4fd.webp",
+    "published": "2026-11-19T10:08:18+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Dawn",
     "title": "Kusal Mendis departs after fifty as Sri Lanka take 14-run lead against Pakistan in second Test",
     "link": "https://www.dawn.com/news/2045665/kusal-mendis-departs-after-fifty-as-sri-lanka-take-14-run-lead-against-pakistan-in-second-test",
     "summary": "Sri Lanka fought back from a difficult position to take a 14-run overall lead against Pakistan, reaching 241-6 at tea on the third day of the second Test at the Rawalpindi Cricket Stadium on Thursday. The visitors added",
     "image": "https://i.dawn.com/large/2026/11/19125757a3e44a4.webp",
-    "published": "2026-11-19T09:59:44+00:00"
+    "published": "2026-11-19T10:07:57+00:00"
    },
    {
     "cat": "nat",
@@ -4460,8 +4469,8 @@
     "title": "10 killed as Karachi-bound passenger coach, LPG bowser collide on Makran coastal highway near Ormara",
     "link": "https://www.dawn.com/news/2045668/10-killed-as-karachi-bound-passenger-coach-lpg-bowser-collide-on-makran-coastal-highway-near-ormara",
     "summary": "GWADAR: At least 10 people, including a woman and a child, were killed and several others sustained burn injuries when a Karachi-bound passenger coach collided with a liquefied petroleum gas (LPG) bowser and caught fire",
-    "image": "https://i.dawn.com/large/2026/11/19133514d84f7e9.jpg",
-    "published": "2026-11-19T09:58:56+00:00"
+    "image": "https://i.dawn.com/large/2026/11/19150010ccda68b.webp",
+    "published": "2026-11-19T10:02:35+00:00"
    },
    {
     "cat": "nat",
@@ -4471,15 +4480,6 @@
     "summary": "The leaders of China, the United States and Russia kicked off their first trilateral talks on Thursday, aimed according to Beijing as “safeguarding world peace” but sparking alarm and derision elsewhere. The meeting betw",
     "image": "https://i.dawn.com/large/2026/11/19135132ea52f84.webp",
     "published": "2026-11-19T09:49:49+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Navy’s combat capabilities significantly enhanced across all operational domains: Admiral Ashraf",
-    "link": "https://www.dawn.com/news/2045672/navys-combat-capabilities-significantly-enhanced-across-all-operational-domains-admiral-ashraf",
-    "summary": "Chief of the Naval Staff (CNS) Admiral Naveed Ashraf on Thursday said the Pakistan Navy has significantly enhanced its combat capabilities across all operational domains. He made the remarks while addressing the graduati",
-    "image": "https://i.dawn.com/large/2026/11/19135133ccac4fd.webp",
-    "published": "2026-11-19T09:49:44+00:00"
    },
    {
     "cat": "nat",
@@ -4699,15 +4699,6 @@
    },
    {
     "cat": "nat",
-    "source": "Dawn",
-    "title": "PTA says submarine cable fault may cause internet connectivity issues",
-    "link": "https://www.dawn.com/news/2045448/pta-says-submarine-cable-fault-may-cause-internet-connectivity-issues",
-    "summary": "The Pakistan Telecommunication Authority (PTA) said on Wednesday that a fault in one of the international submarine cable systems may result in users experiencing internet connectivity issues. “One of the international s",
-    "image": "https://i.dawn.com/large/2021/06/60da9ad6696e0.jpg",
-    "published": "2026-11-18T18:50:57+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Express Tribune",
     "title": "Bilawal digs in heels amid govt backlash",
     "link": "https://tribune.com.pk/story/2641081/bilawal-digs-in-heels-amid-govt-backlash",
@@ -4810,6 +4801,15 @@
    {
     "cat": "nat",
     "source": "Punch",
+    "title": "Bayelsa CP seeks joint action against gender-based violence",
+    "link": "https://punchng.com/bayelsa-cp-seeks-joint-action-against-gender-based-violence/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Bayelsa Police Commissioner Ajao Adewale urges agencies, traditional rulers and civil society to join forces against gender-based violence at a Yenagoa wor Read More: https://punchng.com/bayelsa-cp-seeks-joint-action-aga",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-19T11:08:42+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
     "title": "2027: IPC urges journalists to shun sensational reporting",
     "link": "https://punchng.com/2027-ipc-urges-journalists-to-shun-sensational-reporting/?utm_source=rss.punchng.com&utm_medium=web",
     "summary": "The International Press Centre urges journalists to shun sensational reporting and uphold fairness in 2027 election coverage at a training in Yola, Adamawa Read More: https://punchng.com/2027-ipc-urges-journalists-to-shu",
@@ -4830,7 +4830,7 @@
     "source": "Punch",
     "title": "My late father appeared in dream, warned me not to succumb – Jimmy Odukoya",
     "link": "https://punchng.com/my-late-father-appeared-in-dream-warned-me-not-to-succumb-jimmy-odukoya/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Jimmy Odukoya says his late father appeared in a dream warning him not to succumb to the Board of Trustees amid the Fountain of Life Church leadership cris Read More: https://punchng.com/my-late-father-appeared-in-dream-",
+    "summary": "Jimmy Odukoya says his late father, Taiwo Odukoya, appeared in a dream amid the Fountain of Life Church crisis, urging him not to succumb to trustees. Read More: https://punchng.com/my-late-father-appeared-in-dream-warne",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
     "published": "2026-11-19T10:46:57+00:00"
    },
@@ -5142,15 +5142,6 @@
    },
    {
     "cat": "nat",
-    "source": "Punch",
-    "title": "Anthropic valued at $1.5tn ahead of stock market debut",
-    "link": "https://punchng.com/anthropic-valued-at-1-5tn-ahead-of-stock-market-debut/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Artificial intelligence company Anthropic has priced its initial public offering at 1.5tn ahead of its planned stock market debut. Read More: https://punchng.com/anthropic-valued-at-1-5tn-ahead-of-stock-market-debut/",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-19T07:44:33+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Vanguard",
     "title": "Taiwo Obe pays tribute to late Vanguard Online Editor, Femi Ajasa",
     "link": "https://www.vanguardngr.com/2026/11/taiwo-obe-pays-tribute-to-late-vanguard-online-editor-femi-ajasa/",
@@ -5294,6 +5285,15 @@
     "summary": "Vincent van Gogh's 1890 painting \"Chataigniers en Fleurs,\" a radiant depiction of village life unseen in public for more than 50 years, was sold to a bidder on Wednesday for $190.4 million, an auction record for the fame",
     "image": "https://cdn.dailymaverick.co.za/i/M04ijsWBCliNrWd0d9DkuFku8Hs=/800x0/smart/filters:strip_exif()/file/attachments/3000/14294070_777351.jpg",
     "published": "2026-11-19T10:45:33+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "IOL",
+    "title": "El Gordo is getting closer: Have you chosen your number?",
+    "link": "https://iol.co.za/news/partnered/2026-11-19-el-gordo-is-getting-closer-have-you-chosen-your-number/",
+    "summary": "Spain’s El Gordo Christmas draw takes place on Tuesday, 22 December 2026. Here is how the draw works and what South African customers should know about Lottoland’s fixed-odds betting product.",
+    "image": "https://iol-prod.appspot.com/image/a2144afe742bb286d59cbf5286241ba31935899d",
+    "published": "2026-11-19T10:00:44+00:00"
    },
    {
     "cat": "nat",
@@ -5789,15 +5789,6 @@
     "summary": "Afrika Tikkun’s 48-hour appeal on 19 and 20 November supports its Cradle-to-Career programmes for children and young people in disadvantaged communities. Donations made during the campaign will be tripled through its Mat",
     "image": "https://iol-prod.appspot.com/image/b4333ea5a7fbaea75e9d1d474de1d299238c11ac",
     "published": "2026-11-18T12:00:33+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "IOL",
-    "title": "Labour Department sets record straight on work permits for foreign nationals in SA",
-    "link": "https://iol.co.za/news/south-africa/2026-11-18-labour-department-sets-record-straight-on-work-permits-for-foreign-nationals-in-sa/",
-    "summary": "The Department of Employment and Labour has clarified that only Home Affairs can issue work visas to foreign nationals, warning employers against hiring workers without the required authorisation.",
-    "image": "https://iol-prod.appspot.com/image/db08b00c3344a64dc726d09185745cc4a7799d85",
-    "published": "2026-11-18T11:27:02+00:00"
    }
   ]
  }
