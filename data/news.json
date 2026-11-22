@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:47:10+00:00",
+ "generated_at": "2026-11-22T22:01:54+00:00",
  "failed_sources": [
   "VentureBeat AI",
   "LangChain Blog",
@@ -28,9 +28,18 @@
   {
    "cat": "ai",
    "source": "Hacker News",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "summary": "16 points · 0 comments on Hacker News · gpupartner.com",
+   "image": "",
+   "published": "2026-11-22T21:01:16+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "Hacker News",
    "title": "Why Are We at the Mercy of the World's Weirdest Men?",
    "link": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
-   "summary": "24 points · 5 comments on Hacker News · nytimes.com",
+   "summary": "26 points · 5 comments on Hacker News · nytimes.com",
    "image": "",
    "published": "2026-11-22T20:04:56+00:00"
   },
@@ -57,7 +66,7 @@
    "source": "Hacker News",
    "title": "Perplexity and Intelligence",
    "link": "https://openai.com/index/perplexity-and-intelligence/",
-   "summary": "387 points · 251 comments on Hacker News · openai.com",
+   "summary": "395 points · 260 comments on Hacker News · openai.com",
    "image": "",
    "published": "2026-11-22T17:06:27+00:00"
   },
@@ -66,7 +75,7 @@
    "source": "Hacker News",
    "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
    "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-   "summary": "141 points · 120 comments on Hacker News · lemonde.fr",
+   "summary": "142 points · 122 comments on Hacker News · lemonde.fr",
    "image": "",
    "published": "2026-11-22T15:42:40+00:00"
   },
@@ -75,7 +84,7 @@
    "source": "Hacker News",
    "title": "Show HN: I built a game where you are an LLM's subagent",
    "link": "https://github.com/gulivan/worker755",
-   "summary": "239 points · 56 comments on Hacker News · github.com",
+   "summary": "242 points · 57 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-22T13:56:58+00:00"
   },
@@ -84,7 +93,7 @@
    "source": "Hacker News",
    "title": "AI is becoming a disaster for the climate",
    "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-   "summary": "91 points · 33 comments on Hacker News · bloodinthemachine.com",
+   "summary": "92 points · 37 comments on Hacker News · bloodinthemachine.com",
    "image": "",
    "published": "2026-11-22T12:19:46+00:00"
   },
@@ -120,7 +129,7 @@
    "source": "Hacker News",
    "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
    "link": "https://arxiv.org/abs/2606.14068",
-   "summary": "88 points · 77 comments on Hacker News · arxiv.org",
+   "summary": "89 points · 77 comments on Hacker News · arxiv.org",
    "image": "",
    "published": "2026-11-22T09:18:36+00:00"
   },
@@ -129,7 +138,7 @@
    "source": "Hacker News",
    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-   "summary": "786 points · 812 comments on Hacker News · betterdatacenterproject.com",
+   "summary": "797 points · 822 comments on Hacker News · betterdatacenterproject.com",
    "image": "",
    "published": "2026-11-22T08:57:34+00:00"
   },
@@ -165,7 +174,7 @@
    "source": "Hacker News",
    "title": "Together.ai: Prompt Leakage for Requests",
    "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-   "summary": "47 points · 10 comments on Hacker News · together.ai",
+   "summary": "47 points · 11 comments on Hacker News · together.ai",
    "image": "",
    "published": "2026-11-22T03:07:27+00:00"
   },
@@ -183,7 +192,7 @@
    "source": "Hacker News",
    "title": "Data Processing Incidents on Inference Providers",
    "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-   "summary": "272 points · 90 comments on Hacker News · openrouter.ai",
+   "summary": "275 points · 90 comments on Hacker News · openrouter.ai",
    "image": "",
    "published": "2026-11-22T02:14:14+00:00"
   },
@@ -192,7 +201,7 @@
    "source": "Hacker News",
    "title": "The Mythology of Conscious AI",
    "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-   "summary": "154 points · 436 comments on Hacker News · noemamag.com",
+   "summary": "154 points · 437 comments on Hacker News · noemamag.com",
    "image": "",
    "published": "2026-11-22T02:10:02+00:00"
   },
@@ -255,7 +264,7 @@
    "source": "Hacker News",
    "title": "Upload2Shell (CVE-2026-125396)",
    "link": "https://pwn.ai/upload2shell",
-   "summary": "149 points · 76 comments on Hacker News · pwn.ai",
+   "summary": "149 points · 77 comments on Hacker News · pwn.ai",
    "image": "",
    "published": "2026-11-21T18:29:29+00:00"
   },
@@ -546,24 +555,33 @@
    "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems tha",
    "image": "",
    "published": "2026-11-20T14:36:42+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "The Verge AI",
-   "title": "The week everything fell apart",
-   "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-   "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technologic",
-   "image": "",
-   "published": "2026-11-20T14:06:59+00:00"
   }
  ],
  "aitech": [
   {
    "cat": "aitech",
    "source": "Hacker News",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "summary": "17 points · 0 comments on Hacker News · gpupartner.com",
+   "image": "",
+   "published": "2026-11-22T21:01:16+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "AWS got hit by an outage too. You didn't hear about it",
+   "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+   "summary": "16 points · 1 comments on Hacker News · theregister.com",
+   "image": "",
+   "published": "2026-11-22T20:50:18+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
    "title": "What Happened to Silicon Valley?",
    "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-   "summary": "202 points · 71 comments on Hacker News · oreilly.com",
+   "summary": "231 points · 86 comments on Hacker News · oreilly.com",
    "image": "",
    "published": "2026-11-22T19:20:15+00:00"
   },
@@ -572,7 +590,7 @@
    "source": "Hacker News",
    "title": "Canada recommits to federal funding for news",
    "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
-   "summary": "98 points · 100 comments on Hacker News · niemanlab.org",
+   "summary": "103 points · 101 comments on Hacker News · niemanlab.org",
    "image": "",
    "published": "2026-11-22T19:10:38+00:00"
   },
@@ -581,7 +599,7 @@
    "source": "Hacker News",
    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-   "summary": "165 points · 45 comments on Hacker News · audubon.org",
+   "summary": "195 points · 56 comments on Hacker News · audubon.org",
    "image": "",
    "published": "2026-11-22T19:10:34+00:00"
   },
@@ -608,7 +626,7 @@
    "source": "Hacker News",
    "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
    "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-   "summary": "38 points · 7 comments on Hacker News · herbsutter.com",
+   "summary": "41 points · 9 comments on Hacker News · herbsutter.com",
    "image": "",
    "published": "2026-11-22T15:59:59+00:00"
   },
@@ -617,7 +635,7 @@
    "source": "Hacker News",
    "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
    "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-   "summary": "141 points · 120 comments on Hacker News · lemonde.fr",
+   "summary": "142 points · 122 comments on Hacker News · lemonde.fr",
    "image": "",
    "published": "2026-11-22T15:42:40+00:00"
   },
@@ -626,7 +644,7 @@
    "source": "Hacker News",
    "title": "Show HN: I built a game where you are an LLM's subagent",
    "link": "https://github.com/gulivan/worker755",
-   "summary": "239 points · 56 comments on Hacker News · github.com",
+   "summary": "242 points · 57 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-22T13:56:58+00:00"
   },
@@ -662,7 +680,7 @@
    "source": "Hacker News",
    "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
    "link": "https://arxiv.org/abs/2606.14068",
-   "summary": "88 points · 77 comments on Hacker News · arxiv.org",
+   "summary": "89 points · 77 comments on Hacker News · arxiv.org",
    "image": "",
    "published": "2026-11-22T09:18:36+00:00"
   },
@@ -707,7 +725,7 @@
    "source": "Hacker News",
    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
    "link": "https://github.com/EL4CTEO/fast-anything",
-   "summary": "171 points · 138 comments on Hacker News · github.com",
+   "summary": "172 points · 140 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-22T04:10:09+00:00"
   },
@@ -734,7 +752,7 @@
    "source": "Hacker News",
    "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
    "link": "https://github.com/ItsNotRexed/Leonida",
-   "summary": "209 points · 160 comments on Hacker News · github.com",
+   "summary": "210 points · 160 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-22T00:57:26+00:00"
   },
@@ -761,7 +779,7 @@
    "source": "Hacker News",
    "title": "Advice for the next 100 Rust GUIs",
    "link": "https://linebender.org/blog/next-100-guis/",
-   "summary": "249 points · 144 comments on Hacker News · linebender.org",
+   "summary": "249 points · 145 comments on Hacker News · linebender.org",
    "image": "",
    "published": "2026-11-21T21:17:53+00:00"
   },
@@ -788,7 +806,7 @@
    "source": "Hacker News",
    "title": "Inkling-2-Mini in 5.4 GB Memory",
    "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-   "summary": "567 points · 135 comments on Hacker News · github.com",
+   "summary": "568 points · 135 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-21T18:02:19+00:00"
   },
@@ -815,7 +833,7 @@
    "source": "Hacker News",
    "title": "Show HN: Zero C# – C# without a runtime or GC",
    "link": "https://onurgumus.github.io/zero-csharp/index.html",
-   "summary": "174 points · 120 comments on Hacker News · onurgumus.github.io",
+   "summary": "174 points · 121 comments on Hacker News · onurgumus.github.io",
    "image": "",
    "published": "2026-11-21T15:39:09+00:00"
   },
@@ -824,7 +842,7 @@
    "source": "Hacker News",
    "title": "Lean verification of the Riemann Hypothesis",
    "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-   "summary": "1199 points · 998 comments on Hacker News · leanprover-community.github.io",
+   "summary": "1200 points · 1002 comments on Hacker News · leanprover-community.github.io",
    "image": "",
    "published": "2026-11-21T14:36:45+00:00"
   },
@@ -833,7 +851,7 @@
    "source": "Hacker News",
    "title": "Show HN: I made a PS1 style racing game",
    "link": "https://outpostracer.com",
-   "summary": "45 points · 33 comments on Hacker News · outpostracer.com",
+   "summary": "45 points · 34 comments on Hacker News · outpostracer.com",
    "image": "",
    "published": "2026-11-21T13:47:45+00:00"
   },
@@ -905,7 +923,7 @@
    "source": "Hacker News",
    "title": "Getting the mind to steer the body to steer you",
    "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-   "summary": "394 points · 157 comments on Hacker News · notnottalmud.substack.com",
+   "summary": "394 points · 158 comments on Hacker News · notnottalmud.substack.com",
    "image": "",
    "published": "2026-11-20T22:11:05+00:00"
   },
@@ -932,7 +950,7 @@
    "source": "Hacker News",
    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
    "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-   "summary": "1315 points · 292 comments on Hacker News · theguardian.com",
+   "summary": "1317 points · 294 comments on Hacker News · theguardian.com",
    "image": "",
    "published": "2026-11-20T21:03:12+00:00"
   },
@@ -1079,24 +1097,6 @@
    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
    "image": "",
    "published": "2026-11-20T10:00:00+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-   "link": "https://signal.org/blog/protecting-your-privacy/",
-   "summary": "577 points · 346 comments on Hacker News · signal.org",
-   "image": "",
-   "published": "2026-11-20T09:42:16+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "The need for at least a third option",
-   "link": "https://blog.ovalerio.net/archives/3359",
-   "summary": "17 points · 6 comments on Hacker News · blog.ovalerio.net",
-   "image": "",
-   "published": "2026-11-20T08:16:04+00:00"
   }
  ],
  "intl": [
@@ -1107,7 +1107,16 @@
    "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
    "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on clima",
    "image": "https://i.guim.co.uk/img/media/807a7655d731bfbb7ed51cf1b1cc24c153a66ea9/503_0_5014_4013/master/5014.jpg?width=140&quality=85&auto=format&fit=max&s=a4d27619e1860affa6fc566456b52608",
-   "published": "2026-11-22T21:44:18+00:00"
+   "published": "2026-11-22T21:59:26+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the failure to say the f-word is not his alone",
+   "link": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
+   "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turk",
+   "image": "https://i.guim.co.uk/img/media/92374d04a6b87ec2995da31768a8015be7e26a0b/313_0_2620_2096/master/2620.jpg?width=140&quality=85&auto=format&fit=max&s=a2cfebe06cc01943cc44eac3f7da72ac",
+   "published": "2026-11-22T21:46:40+00:00"
   },
   {
    "cat": "intl",
@@ -1117,6 +1126,24 @@
    "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspect",
    "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
    "published": "2026-11-22T21:33:44+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
+   "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+   "summary": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
+   "image": "",
+   "published": "2026-11-22T21:33:11+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+   "link": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+   "summary": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
+   "image": "",
+   "published": "2026-11-22T21:26:12+00:00"
   },
   {
    "cat": "intl",
@@ -1543,24 +1570,6 @@
   },
   {
    "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
-   "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-   "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
-   "image": "",
-   "published": "2026-11-22T14:35:55+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
-   "link": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
-   "summary": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
-   "image": "",
-   "published": "2026-11-22T14:33:26+00:00"
-  },
-  {
-   "cat": "intl",
    "source": "BBC World",
    "title": "Three killed and dozens missing after fire at Indonesian factory",
    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
@@ -1630,18 +1639,27 @@
    "summary": "Members of Congress party clashed with police outside tech company’s offices on Friday The youth wing of India’s main opposition Congress party warned of more protests against Meta’s removal of some of its members’ ⁠acco",
    "image": "https://i.guim.co.uk/img/media/b47066e8f0c23f30a75722f5b8d6c5aa66dacd69/0_691_1056_844/master/1056.jpg?width=140&quality=85&auto=format&fit=max&s=d7272a56ca898ede6458a26e1846da05",
    "published": "2026-11-22T09:14:27+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
-   "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
-   "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds",
-   "image": "https://i.guim.co.uk/img/media/8e8d4ce7d37742836e3c3c5add2beb073cc8be21/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=e5620c45cf4b29b42ed906346159bdc1",
-   "published": "2026-11-22T08:00:22+00:00"
   }
  ],
  "sports": [
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Thitikul wins third title in a row at LPGA finale",
+   "link": "https://www.bbc.co.uk/sport/golf/articles/ckjwjvwexd12o?at_medium=RSS&at_campaign=rss",
+   "summary": "World number two Jeeno Thitikul produces a seven-under final round of 65 to claim a third successive CME Group Tour Championship title.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3d4/live/5a2a7c90-e6bc-11f1-9c3f-33c3fa006e94.jpg",
+   "published": "2026-11-22T21:54:08+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Fifa to confirm UK bid to host 2035 Women's World Cup",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg",
+   "published": "2026-11-22T21:44:37+00:00"
+  },
   {
    "cat": "sports",
    "source": "BBC Sport",
@@ -1654,11 +1672,20 @@
   {
    "cat": "sports",
    "source": "Guardian Sport",
-   "title": "‘It’s painful for me’: Pochettino’s anger at red card in Anfield humiliation",
+   "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
    "link": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
    "summary": "Manchester United lose 4-0 to Liverpool after Yoro red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sent off and Manchester United were earlier denied a pen",
-   "image": "https://i.guim.co.uk/img/media/9fda8ae1f34cdbef84bab30cfa01b62919b67081/267_0_3890_3112/master/3890.jpg?width=140&quality=85&auto=format&fit=max&s=babc1fa1213c954feca047e4b1d5d440",
+   "image": "https://i.guim.co.uk/img/media/0d4743c95498f54ff0b11fe3d234aef5032460eb/125_0_2709_2168/master/2709.jpg?width=140&quality=85&auto=format&fit=max&s=bb8b4da6a92908431c20e0774f894f2c",
    "published": "2026-11-22T21:31:03+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Jamaica level series with dominant win over England",
+   "link": "https://www.skysports.com/netball/news/12040/13615359/england-40-55-jamaica-vitality-roses-beaten-in-london-as-sunshine-girls-impress-and-level-four-test-horizon-series",
+   "summary": "England failed to extend their lead in the Vitality Netball Horizon Series with Jamaica, as the visitors claimed a dominant 55-40 win at the Copper Box Arena.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-england-netball-netball_7413995.jpg?20261122214020",
+   "published": "2026-11-22T21:30:00+00:00"
   },
   {
    "cat": "sports",
@@ -1730,6 +1757,15 @@
    "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
    "summary": "Latest golf scores and results from around the world, including the DP World Tour Championship, PGA Tour, LPGA Tour and more.",
    "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rasmus-hojgaard_7323359.jpg?20260816164706",
+   "published": "2026-11-22T21:00:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Price roars to Grand Slam of Darts title to end four-year major drought",
+   "link": "https://www.skysports.com/darts/news/12040/13615202/gerwyn-price-roars-to-grand-slam-of-darts-title-with-victory-over-gian-van-veen-to-end-four-year-major-drought",
+   "summary": "Gerwyn Price picked up his fourth Grand Slam of Darts title with a dominant 16-11 victory over Gian van Veen in Wolverhampton.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-gerwyn-price-darts_7413988.jpg?20261122213112",
    "published": "2026-11-22T21:00:00+00:00"
   },
   {
@@ -2145,42 +2181,6 @@
    "summary": "Brighton’s top-four hopes took a hit as Oli McBurnie grabbed two stoppage-time goals after Costinha was sent off Fabian Hürzeler sounded a little way of Hull in his pre-match press conference, citing the Tigers’ narrow 1",
    "image": "https://i.guim.co.uk/img/media/76d3c665d355710829468ed90a4ed011c740f316/809_299_2440_1953/master/2440.jpg?width=140&quality=85&auto=format&fit=max&s=a1ef5c10ede4a64108c56e92fd70916d",
    "published": "2026-11-22T16:15:25+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Sky Sports",
-   "title": "McBurnie's late double stuns 10-man Brighton after Tzolakis heroics",
-   "link": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/report/559549",
-   "summary": "A Konstantinos Tzolakis goalkeeping masterclass teed up Oli McBurnie to score two late goals as Hull stunned dominant Brighton in a smash-and-grab 2-0 win at the MKM Stadium.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-oli-mcburnie-hull-city_7413617.jpg?20261122155755",
-   "published": "2026-11-22T16:15:00+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Guardian Sport",
-   "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
-   "link": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
-   "summary": "Amid the talk of Brighton being surprise title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls",
-   "image": "https://i.guim.co.uk/img/media/a031f718e08daf83f40bfd6d6b0d289d49346209/604_120_3916_3133/master/3916.jpg?width=140&quality=85&auto=format&fit=max&s=3e5d6f717c71910c3dd7d28fd5f6aba4",
-   "published": "2026-11-22T16:10:48+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Guardian Sport",
-   "title": "ESPN mourns ‘one of the best human beings ever’ after NFL analyst Tom Jackson dies at 75",
-   "link": "https://www.theguardian.com/sport/2026/nov/22/espn-mourns-one-of-the-best-human-beings-ever-after-nfl-analyst-tom-jackson-dies-at-75",
-   "summary": "Former player known for partnership with Chris Berman Jackson was member of Broncos for 14 seasons ESPN is mourning “one of the most influential and beloved figures” in the broadcaster’s history after the death of Tom Ja",
-   "image": "https://i.guim.co.uk/img/media/7e44e5d1ef98d27a408172d3fb88c1b816aaa7cc/94_0_2812_2250/master/2812.jpg?width=140&quality=85&auto=format&fit=max&s=c3efe75cecdbc462d8ba62cf381d8449",
-   "published": "2026-11-22T16:09:22+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
-   "title": "PSG's Doue to have surgery on ruptured ACL",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
-   "summary": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0e/live/e990a750-e68b-11f1-936e-1fd1d31671db.jpg",
-   "published": "2026-11-22T15:50:05+00:00"
   }
  ],
  "national": {
@@ -2247,6 +2247,15 @@
     "summary": "",
     "image": "https://static.toiimg.com/photo/msid-136083136,imgsize-116770.cms",
     "published": "2026-11-22T19:54:09+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Mumbai Police to issue cards with QR code for identity checks",
+    "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-to-issue-cards-with-qr-code-for-identity-checks/article71731836.ece",
+    "summary": "Devendra Fadnavis inaugurated the measure on November 21, 2026, and cards were distributed to personnel, including traffic police, as part of steps to digitise the force",
+    "image": "https://th-i.thgim.com/public/incoming/cci9ei/article71732427.ece/alternates/LANDSCAPE_1200/20261121378L.jpg",
+    "published": "2026-11-22T19:52:59+00:00"
    },
    {
     "cat": "nat",
@@ -2715,15 +2724,6 @@
     "summary": "The investigation exposed an organised network involving government employees, candidates and intermediaries, who allegedly planned to facilitate cheating for selected candidates through electronic devices, the police sa",
     "image": "https://th-i.thgim.com/public/news/higm1e/article71731293.ece/alternates/LANDSCAPE_1200/iStock-2218350172.jpg",
     "published": "2026-11-22T17:12:36+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Centre prioritising border villages, 40 seeing reverse migration: Amit Shah in Arunachal Pradesh",
-    "link": "https://www.thehindu.com/news/national/arunachal-pradesh/amit-shah-says-congress-neglected-development-provided-inadequate-funds-during-its-rule-in-arunachal-pradesh/article71731087.ece",
-    "summary": "Union Home Minister launches development initiatives, including 199 Vibrant Villages projects, worth more than ₹5,610 crore on last day of his three-day visit to the State",
-    "image": "https://th-i.thgim.com/public/incoming/7ihy3y/article71731111.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG56GR4GP4.3.jpg.jpg",
-    "published": "2026-11-22T17:10:22+00:00"
    }
   ],
   "US": [
@@ -3813,17 +3813,44 @@
   "AU": [
    {
     "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Molly Meldrum, the 'most important person in pop', dies aged 83",
+    "link": "https://www.abc.net.au/news/2026-11-23/molly-meldrum-countdown-host-music-industry-icon-dies/3735358",
+    "summary": "Molly Meldrum,a highly influential figure in Australia's music industry as a critic, producer, interviewer and television presenter, has died.",
+    "image": "",
+    "published": "2026-11-22T21:53:23+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian Australia",
+    "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the failure to say the f-word is not his alone",
+    "link": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
+    "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turk",
+    "image": "https://i.guim.co.uk/img/media/92374d04a6b87ec2995da31768a8015be7e26a0b/313_0_2620_2096/master/2620.jpg?width=140&quality=85&auto=format&fit=max&s=a2cfebe06cc01943cc44eac3f7da72ac",
+    "published": "2026-11-22T21:46:40+00:00"
+   },
+   {
+    "cat": "nat",
     "source": "Guardian Australia",
     "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
     "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
     "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on clima",
     "image": "https://i.guim.co.uk/img/media/807a7655d731bfbb7ed51cf1b1cc24c153a66ea9/503_0_5014_4013/master/5014.jpg?width=140&quality=85&auto=format&fit=max&s=a4d27619e1860affa6fc566456b52608",
-    "published": "2026-11-22T21:35:07+00:00"
+    "published": "2026-11-22T21:44:18+00:00"
    },
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "New life as mushroom farmer after lifesaving neurosurgery",
+    "title": "Democrats clinch their largest House majority since 1992",
+    "link": "https://www.abc.net.au/news/2026-11-23/democrats-house-majority-midterm-elections/107415390",
+    "summary": "The milestone sets up a divided government, with the Senate also in Democratic hands and a Republican president in the White House.",
+    "image": "",
+    "published": "2026-11-22T21:41:34+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "New life as mushroom farmer after life-saving neurosurgery",
     "link": "https://www.abc.net.au/news/rural/2026-11-23/rocky-creek-mushrooms-farming-small-business-innovation/107259008",
     "summary": "A near-death experience convinced Emma Court to ditch her four-hour commute to a corporate job in Brisbane and start farming fancy, nutrient-packed fungi.",
     "image": "",
@@ -3877,7 +3904,7 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Council allows private land burials for those who 'belong to the land'",
+    "title": "Ditching cemeteries: Council green-lights private land burials",
     "link": "https://www.abc.net.au/news/2026-11-23/coorong-council-approves-private-land-burials-farmers-indigenous/107389014",
     "summary": "Few rules govern spreading ashes after a person dies, but burial outside a cemetery is approved only in exceptional circumstances. In South Australia, a local council is about to make private burials easier.",
     "image": "",
@@ -3886,9 +3913,9 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Live: Small business websites to be exempt from digital duty of care",
+    "title": "Live: PBS medicines to stay at the same price until 2030 under new government plan",
     "link": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266",
-    "summary": "Communications Minister Anika Wells has confirmed small business websites will be exempt from the proposed digital duty of care, following concerns from business groups. Follow live.",
+    "summary": "Anthony Albanese has announced plans to to freeze the cost of PBS medicines at $25 until 2030. Follow live.",
     "image": "",
     "published": "2026-11-22T19:46:06+00:00"
    },
@@ -4047,24 +4074,6 @@
    },
    {
     "cat": "nat",
-    "source": "ABC Australia",
-    "title": "I knew I'd be outbid on a property, so I wrote the owner a letter",
-    "link": "https://www.abc.net.au/news/2026-11-23/a-letter-helped-this-single-mum-find-a-home/107299790",
-    "summary": "Single mother Georgia Hurst knew she needed to stand out in a competitive property market. She penned a letter.",
-    "image": "",
-    "published": "2026-11-22T18:30:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Get your weekly blast from the past with the history quiz",
-    "link": "https://www.abc.net.au/news/2026-11-23/this-week-in-history-quiz-november-23/107406384",
-    "summary": "Flex your grey matter with questions on Frozen, luxury fashion, Olympic gold medallists and more.",
-    "image": "",
-    "published": "2026-11-22T18:30:00+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Guardian Australia",
     "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
     "link": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
@@ -4093,20 +4102,20 @@
    {
     "cat": "nat",
     "source": "Guardian Australia",
-    "title": "Victoria faced devastating bushfires and an ‘extinction emergency’ this year. So why is nature missing from the election?",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/23/environment-policy-victoria-elections-2026-nature-logging-bushfires",
-    "summary": "As Victorians head to the polls, experts accuse both major parties of deserting environmental policy Follow our Australia politics live blog for latest updates Sign up for climate and environment editor Adam Morton’s fre",
-    "image": "https://i.guim.co.uk/img/media/3e6b5612b64cb0e489de56b8c9752099d0d7b1c0/33_27_1452_1162/master/1452.jpg?width=140&quality=85&auto=format&fit=max&s=47f9d566fb54eacd42e6a04856d0ee54",
-    "published": "2026-11-22T14:00:30+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian Australia",
     "title": "The cost-of-living crisis was harming Claudia’s mental wellbeing. Together we worked out strategies to help her cope | Bianca Denny",
     "link": "https://www.theguardian.com/commentisfree/2026/nov/23/cost-of-living-crisis-financial-stress-mental-health-coping-strategies",
     "summary": "In trying to save for a house deposit, she had sacrificed activities that brought her joy. And constant checking of her bank balance exacerbated her fears The modern mind is a column where experts discuss mental health i",
     "image": "https://i.guim.co.uk/img/media/618f4804ce35381d9f92296cf51017a58008f06d/0_137_4059_3249/master/4059.jpg?width=140&quality=85&auto=format&fit=max&s=f39d37cd8e7e3cec175de6518a7f05c9",
     "published": "2026-11-22T14:00:29+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian Australia",
+    "title": "Proposed defence laws are described as ‘draconian’ and a ‘war against democracy’. Why are people worried?",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/23/proposed-defence-laws-have-been-described-as-draconian-and-a-war-against-democracy-why-are-people-worried",
+    "summary": "Concerns peaceful protesters and ordinary Australians taking photos near defence sites could face jail or hefty fines under proposed legislation Get our daily political email , free app or daily news podcast New laws cri",
+    "image": "https://i.guim.co.uk/img/media/d6d7033eab1545d84c63262e6f5e3ebf795461c4/547_0_1977_1584/master/1977.jpg?width=140&quality=85&auto=format&fit=max&s=6b718da21d895b68003802655137880f",
+    "published": "2026-11-22T14:00:28+00:00"
    },
    {
     "cat": "nat",
@@ -4138,11 +4147,11 @@
    {
     "cat": "nat",
     "source": "Guardian Australia",
-    "title": "The politics of sandpapergate - Back to Back Barries podcast",
-    "link": "https://www.theguardian.com/australia-news/audio/2026/nov/20/the-politics-of-sandpapergate-back-to-back-barries-podcast",
-    "summary": "As early polls open in Victoria, Tony Barry and Barrie Cassidy kick off by taking a look at the Big Build royal commission. They contrast this inquiry with another investigation making headlines this week – the newly ann",
-    "image": "https://i.guim.co.uk/img/media/c0eafecd02c1544567ad7de41b4ed4fad72e70c4/625_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=e785e235fd456445e2ffbcd1697a642b",
-    "published": "2026-11-20T14:00:33+00:00"
+    "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: independents",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
+    "summary": "The opposition’s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris Minns Get our daily political email , free app or daily news podcast The New South Wale",
+    "image": "https://i.guim.co.uk/img/media/4a587781117ac3e5eb250fd3995c2d9a5ad2cc47/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a5438b3e06b24450b62de7c2fa3bd121",
+    "published": "2026-11-20T14:00:32+00:00"
    },
    {
     "cat": "nat",
@@ -4152,15 +4161,6 @@
     "summary": "The prime minister’s flourish-free, middle-power ethos guided his classic performance on this major foreign policy trip Get our daily political email , free app or daily news podcast For days leading up to this week’s Ap",
     "image": "https://i.guim.co.uk/img/media/8ca170d17225e2c1f19b8b06fe729dc418c7815f/162_0_3625_2901/master/3625.jpg?width=140&quality=85&auto=format&fit=max&s=4c520617d901817816f38933fbff0082",
     "published": "2026-11-20T13:59:03+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian Australia",
-    "title": "Yet another Walkleys win for the Age’s star reporter leaves his own paper slightly confused | Weekly Beast",
-    "link": "https://www.theguardian.com/media/2026/nov/20/murdoch-movie-offers-a-dark-take-on-the-rise-of-the-sun-and-news-corp-invites-its-staff-ntwnfb",
-    "summary": "Nick McKenzie wins Gold Walkley for the second time, but the Age accidentally celebrates his 2024 triumph on its front page. Plus: invoking the BRS spirit Want to get this in your inbox every Friday? Sign up for the Week",
-    "image": "https://i.guim.co.uk/img/media/c8c3e19c8c81e806f012868ac5fd664ffcff7858/0_473_3721_2973/master/3721.jpg?width=140&quality=85&auto=format&fit=max&s=e90da190d5698bdf9e80d2450eba76ad",
-    "published": "2026-11-20T02:11:26+00:00"
    }
   ],
   "CA": [
@@ -5224,6 +5224,15 @@
    {
     "cat": "nat",
     "source": "Vanguard",
+    "title": "Adekoya joins ELAN board, describes leasing market as growth goldmine",
+    "link": "https://www.vanguardngr.com/2026/11/adekoya-joins-elan-board-describes-leasing-market-as-growth-goldmine/",
+    "summary": "Managing Director and Chief Executive Officer of Adept Lessor Ltd, Adetayo Adekoya, has described Nigeria’s leasing market as an untapped goldmine for economic growth. Adekoya, who has joined the board of the Equipment L",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/IMG-20261122-WA0189-683x1024.jpg",
+    "published": "2026-11-22T18:49:00+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Vanguard",
     "title": "Bayelsa Boat Mishap: Death toll rises to 29",
     "link": "https://www.vanguardngr.com/2026/11/bayelsa-boat-mishap-death-toll-rises-to-29/",
     "summary": "…Tinubu approves N250m for victims’ families, directs NDDC to procure boats …FG backs probe of incident …Diri makes case for senatorial roads By Samuel Oyadongha, Yenagoa The death toll from last Friday’s boat accident i",
@@ -5265,18 +5274,18 @@
     "summary": "By Chioma Obinna The Association of Community Pharmacists of Nigeria (ACPN) on Sunday petitioned the Attorney-General of the Federation and Minister of Justice, Lateef Fagbemi, SAN, over alleged regulatory overreach and",
     "image": "https://cdn.vanguardngr.com/wp-content/uploads/2019/09/ACPN-1024x1024.jpg",
     "published": "2026-11-22T18:26:56+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Vanguard",
-    "title": "Emir of Daura: Lawyer demands police probe",
-    "link": "https://www.vanguardngr.com/2026/11/emir-of-daura-lawyer-demands-police-probe/",
-    "summary": "By John Alechenu ABUJA — Abuja-based legal practitioner, Pelumi Olajengbesi, has called on the Nigeria Police Force to immediately commence an independent investigation into the allegation of sexual assault levelled agai",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Emir-Of-Daura.png",
-    "published": "2026-11-22T18:25:12+00:00"
    }
   ],
   "ZA": [
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "INQUEST: Inside Room 1004: Five years later, questions still remain over Anele Tembe’s death",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-inside-room-1004-five-years-later-questions-still-remain-over-anele-tembes-death/",
+    "summary": "Five years after Anele Tembe’s fatal fall from the 10th floor of Cape Town’s Pepperclub Hotel, the inquest had brought renewed hope that the events that led to the tragic incident would be revealed. Instead, conflicting",
+    "image": "https://cdn.dailymaverick.co.za/i/xkbmNKz3o0MucG5bli1_CYLznRw=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Vince-Anele-Inquest-end_882429.jpg",
+    "published": "2026-11-22T22:53:37+00:00"
+   },
    {
     "cat": "nat",
     "source": "Daily Maverick",
@@ -5807,15 +5816,6 @@
     "summary": "Acting Police Minister Firoz Cachalia has revealed that firearms were used in 2,552 murders across South Africa between July and September 2026, with the Western Cape, Gauteng and KwaZulu-Natal accounting for 77% of the",
     "image": "https://iol-prod.appspot.com/image/33cfe851dc41e2b3dc9556721734aa7c3998cd41",
     "published": "2026-11-20T08:34:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "IOL",
-    "title": "Pretoria trio granted R10k bail after being caught with protected wildlife",
-    "link": "https://iol.co.za/news/crime-and-courts/2026-11-20-pretoria-trio-granted-r10k-bail-after-being-caught-with-protected-wildlife/",
-    "summary": "Three men were granted R10 000 bail after 11 wild animals, including lion cubs, tigers and caracal kittens, were allegedly found in unsafe plastic crates at a property in East Lynne, Pretoria.",
-    "image": "https://iol-prod.appspot.com/image/ceef38464aba8bf5c9c551d7d4019f4b257954ae",
-    "published": "2026-11-20T08:04:00+00:00"
    }
   ]
  }
