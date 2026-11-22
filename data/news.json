@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:01:50+00:00",
+ "generated_at": "2026-11-22T21:47:10+00:00",
  "failed_sources": [
   "VentureBeat AI",
   "LangChain Blog",
@@ -16,6 +16,24 @@
   "ZA": "South Africa"
  },
  "ai": [
+  {
+   "cat": "ai",
+   "source": "TechCrunch AI",
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "image": "",
+   "published": "2026-11-22T21:14:07+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "Hacker News",
+   "title": "Why Are We at the Mercy of the World's Weirdest Men?",
+   "link": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
+   "summary": "24 points · 5 comments on Hacker News · nytimes.com",
+   "image": "",
+   "published": "2026-11-22T20:04:56+00:00"
+  },
   {
    "cat": "ai",
    "source": "TechCrunch AI",
@@ -39,7 +57,7 @@
    "source": "Hacker News",
    "title": "Perplexity and Intelligence",
    "link": "https://openai.com/index/perplexity-and-intelligence/",
-   "summary": "266 points · 179 comments on Hacker News · openai.com",
+   "summary": "387 points · 251 comments on Hacker News · openai.com",
    "image": "",
    "published": "2026-11-22T17:06:27+00:00"
   },
@@ -48,7 +66,7 @@
    "source": "Hacker News",
    "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
    "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-   "summary": "122 points · 100 comments on Hacker News · lemonde.fr",
+   "summary": "141 points · 120 comments on Hacker News · lemonde.fr",
    "image": "",
    "published": "2026-11-22T15:42:40+00:00"
   },
@@ -57,7 +75,7 @@
    "source": "Hacker News",
    "title": "Show HN: I built a game where you are an LLM's subagent",
    "link": "https://github.com/gulivan/worker755",
-   "summary": "188 points · 47 comments on Hacker News · github.com",
+   "summary": "239 points · 56 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-22T13:56:58+00:00"
   },
@@ -66,7 +84,7 @@
    "source": "Hacker News",
    "title": "AI is becoming a disaster for the climate",
    "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-   "summary": "76 points · 29 comments on Hacker News · bloodinthemachine.com",
+   "summary": "91 points · 33 comments on Hacker News · bloodinthemachine.com",
    "image": "",
    "published": "2026-11-22T12:19:46+00:00"
   },
@@ -84,7 +102,7 @@
    "source": "Hacker News",
    "title": "AI People Are Extremely Rich",
    "link": "https://www.noahpinion.blog/p/ai-people-are-very-very-very-very",
-   "summary": "22 points · 3 comments on Hacker News · noahpinion.blog",
+   "summary": "25 points · 4 comments on Hacker News · noahpinion.blog",
    "image": "",
    "published": "2026-11-22T10:35:49+00:00"
   },
@@ -93,7 +111,7 @@
    "source": "Hacker News",
    "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
    "link": "https://simonwillison.net/2026/Nov/21/muru/",
-   "summary": "58 points · 10 comments on Hacker News · simonwillison.net",
+   "summary": "67 points · 10 comments on Hacker News · simonwillison.net",
    "image": "",
    "published": "2026-11-22T09:57:01+00:00"
   },
@@ -102,7 +120,7 @@
    "source": "Hacker News",
    "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
    "link": "https://arxiv.org/abs/2606.14068",
-   "summary": "87 points · 77 comments on Hacker News · arxiv.org",
+   "summary": "88 points · 77 comments on Hacker News · arxiv.org",
    "image": "",
    "published": "2026-11-22T09:18:36+00:00"
   },
@@ -111,7 +129,7 @@
    "source": "Hacker News",
    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-   "summary": "676 points · 733 comments on Hacker News · betterdatacenterproject.com",
+   "summary": "786 points · 812 comments on Hacker News · betterdatacenterproject.com",
    "image": "",
    "published": "2026-11-22T08:57:34+00:00"
   },
@@ -120,7 +138,7 @@
    "source": "Hacker News",
    "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
    "link": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
-   "summary": "19 points · 5 comments on Hacker News · morethanamachine.com",
+   "summary": "22 points · 5 comments on Hacker News · morethanamachine.com",
    "image": "",
    "published": "2026-11-22T07:31:41+00:00"
   },
@@ -129,7 +147,7 @@
    "source": "Hacker News",
    "title": "AI Supply Chain Security: What Canary Tokens Found",
    "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-   "summary": "95 points · 21 comments on Hacker News · dragos.com",
+   "summary": "97 points · 21 comments on Hacker News · dragos.com",
    "image": "",
    "published": "2026-11-22T05:11:43+00:00"
   },
@@ -138,7 +156,7 @@
    "source": "Hacker News",
    "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
    "link": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
-   "summary": "23 points · 7 comments on Hacker News · bridgewater.com",
+   "summary": "29 points · 8 comments on Hacker News · bridgewater.com",
    "image": "",
    "published": "2026-11-22T03:28:48+00:00"
   },
@@ -147,7 +165,7 @@
    "source": "Hacker News",
    "title": "Together.ai: Prompt Leakage for Requests",
    "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-   "summary": "43 points · 10 comments on Hacker News · together.ai",
+   "summary": "47 points · 10 comments on Hacker News · together.ai",
    "image": "",
    "published": "2026-11-22T03:07:27+00:00"
   },
@@ -156,7 +174,7 @@
    "source": "Hacker News",
    "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
    "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-   "summary": "45 points · 16 comments on Hacker News · youtube.com",
+   "summary": "48 points · 17 comments on Hacker News · youtube.com",
    "image": "",
    "published": "2026-11-22T03:06:35+00:00"
   },
@@ -165,7 +183,7 @@
    "source": "Hacker News",
    "title": "Data Processing Incidents on Inference Providers",
    "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-   "summary": "264 points · 88 comments on Hacker News · openrouter.ai",
+   "summary": "272 points · 90 comments on Hacker News · openrouter.ai",
    "image": "",
    "published": "2026-11-22T02:14:14+00:00"
   },
@@ -174,7 +192,7 @@
    "source": "Hacker News",
    "title": "The Mythology of Conscious AI",
    "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-   "summary": "145 points · 419 comments on Hacker News · noemamag.com",
+   "summary": "154 points · 436 comments on Hacker News · noemamag.com",
    "image": "",
    "published": "2026-11-22T02:10:02+00:00"
   },
@@ -183,7 +201,7 @@
    "source": "Hacker News",
    "title": "The Biggest Lie in the Jensen Huang Story",
    "link": "https://www.theringer.com/2026/11/18/tech/jensen-huang-nvidia-china-chips-ai-race",
-   "summary": "11 points · 0 comments on Hacker News · theringer.com",
+   "summary": "13 points · 1 comments on Hacker News · theringer.com",
    "image": "",
    "published": "2026-11-22T01:03:34+00:00"
   },
@@ -219,7 +237,7 @@
    "source": "Hacker News",
    "title": "Pandex – Official European Law for AI Agents, over MCP",
    "link": "https://www.pandex.io",
-   "summary": "135 points · 32 comments on Hacker News · pandex.io",
+   "summary": "137 points · 33 comments on Hacker News · pandex.io",
    "image": "",
    "published": "2026-11-21T20:47:41+00:00"
   },
@@ -237,7 +255,7 @@
    "source": "Hacker News",
    "title": "Upload2Shell (CVE-2026-125396)",
    "link": "https://pwn.ai/upload2shell",
-   "summary": "148 points · 76 comments on Hacker News · pwn.ai",
+   "summary": "149 points · 76 comments on Hacker News · pwn.ai",
    "image": "",
    "published": "2026-11-21T18:29:29+00:00"
   },
@@ -273,7 +291,7 @@
    "source": "Hacker News",
    "title": "Anthropic's IPO bank closed position meant to stabilize stock",
    "link": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
-   "summary": "34 points · 1 comments on Hacker News · reuters.com",
+   "summary": "35 points · 1 comments on Hacker News · reuters.com",
    "image": "",
    "published": "2026-11-21T12:43:24+00:00"
   },
@@ -282,7 +300,7 @@
    "source": "Hacker News",
    "title": "ClawDOS – An AI coding agent for DOS",
    "link": "http://ricapar.net/ClawDOS/",
-   "summary": "170 points · 52 comments on Hacker News · ricapar.net",
+   "summary": "172 points · 52 comments on Hacker News · ricapar.net",
    "image": "",
    "published": "2026-11-21T05:38:01+00:00"
   },
@@ -390,7 +408,7 @@
    "source": "Hacker News",
    "title": "Inkling 2 Mini",
    "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-   "summary": "1444 points · 292 comments on Hacker News · thinkingmachines.ai",
+   "summary": "1449 points · 292 comments on Hacker News · thinkingmachines.ai",
    "image": "",
    "published": "2026-11-20T20:12:19+00:00"
   },
@@ -537,35 +555,35 @@
    "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technologic",
    "image": "",
    "published": "2026-11-20T14:06:59+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "Hacker News",
-   "title": "Llms.txt and MCP didn't move the needle",
-   "link": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
-   "summary": "31 points · 21 comments on Hacker News · backpackforlaravel.com",
-   "image": "",
-   "published": "2026-11-20T14:00:23+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "TechCrunch AI",
-   "title": "Six AI-powered gadgets that could make your home office smarter",
-   "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-   "image": "",
-   "published": "2026-11-20T14:00:00+00:00"
   }
  ],
  "aitech": [
   {
    "cat": "aitech",
    "source": "Hacker News",
+   "title": "What Happened to Silicon Valley?",
+   "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+   "summary": "202 points · 71 comments on Hacker News · oreilly.com",
+   "image": "",
+   "published": "2026-11-22T19:20:15+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
    "title": "Canada recommits to federal funding for news",
    "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
-   "summary": "80 points · 62 comments on Hacker News · niemanlab.org",
+   "summary": "98 points · 100 comments on Hacker News · niemanlab.org",
    "image": "",
    "published": "2026-11-22T19:10:38+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+   "summary": "165 points · 45 comments on Hacker News · audubon.org",
+   "image": "",
+   "published": "2026-11-22T19:10:34+00:00"
   },
   {
    "cat": "aitech",
@@ -588,9 +606,18 @@
   {
    "cat": "aitech",
    "source": "Hacker News",
+   "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+   "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+   "summary": "38 points · 7 comments on Hacker News · herbsutter.com",
+   "image": "",
+   "published": "2026-11-22T15:59:59+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
    "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
    "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-   "summary": "122 points · 100 comments on Hacker News · lemonde.fr",
+   "summary": "141 points · 120 comments on Hacker News · lemonde.fr",
    "image": "",
    "published": "2026-11-22T15:42:40+00:00"
   },
@@ -599,7 +626,7 @@
    "source": "Hacker News",
    "title": "Show HN: I built a game where you are an LLM's subagent",
    "link": "https://github.com/gulivan/worker755",
-   "summary": "188 points · 47 comments on Hacker News · github.com",
+   "summary": "239 points · 56 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-22T13:56:58+00:00"
   },
@@ -608,7 +635,7 @@
    "source": "Hacker News",
    "title": "Prisons get OK to jam contraband phones",
    "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-   "summary": "36 points · 77 comments on Hacker News · arstechnica.com",
+   "summary": "39 points · 82 comments on Hacker News · arstechnica.com",
    "image": "",
    "published": "2026-11-22T13:00:52+00:00"
   },
@@ -635,7 +662,7 @@
    "source": "Hacker News",
    "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
    "link": "https://arxiv.org/abs/2606.14068",
-   "summary": "87 points · 77 comments on Hacker News · arxiv.org",
+   "summary": "88 points · 77 comments on Hacker News · arxiv.org",
    "image": "",
    "published": "2026-11-22T09:18:36+00:00"
   },
@@ -644,7 +671,7 @@
    "source": "Hacker News",
    "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
    "link": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
-   "summary": "19 points · 5 comments on Hacker News · morethanamachine.com",
+   "summary": "22 points · 5 comments on Hacker News · morethanamachine.com",
    "image": "",
    "published": "2026-11-22T07:31:41+00:00"
   },
@@ -653,7 +680,7 @@
    "source": "Hacker News",
    "title": "The Engineering Manager's role is under attack (again)",
    "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
-   "summary": "45 points · 88 comments on Hacker News · manager.dev",
+   "summary": "45 points · 89 comments on Hacker News · manager.dev",
    "image": "",
    "published": "2026-11-22T07:01:00+00:00"
   },
@@ -662,7 +689,7 @@
    "source": "Hacker News",
    "title": "Show HN: The Riemann Proof Handbook",
    "link": "https://github.com/tamnd/riemann-handbook",
-   "summary": "82 points · 56 comments on Hacker News · github.com",
+   "summary": "82 points · 58 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-22T05:46:30+00:00"
   },
@@ -671,7 +698,7 @@
    "source": "Hacker News",
    "title": "AI Supply Chain Security: What Canary Tokens Found",
    "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-   "summary": "95 points · 21 comments on Hacker News · dragos.com",
+   "summary": "97 points · 21 comments on Hacker News · dragos.com",
    "image": "",
    "published": "2026-11-22T05:11:43+00:00"
   },
@@ -680,7 +707,7 @@
    "source": "Hacker News",
    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
    "link": "https://github.com/EL4CTEO/fast-anything",
-   "summary": "163 points · 123 comments on Hacker News · github.com",
+   "summary": "171 points · 138 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-22T04:10:09+00:00"
   },
@@ -689,7 +716,7 @@
    "source": "Hacker News",
    "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
    "link": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
-   "summary": "23 points · 7 comments on Hacker News · bridgewater.com",
+   "summary": "29 points · 8 comments on Hacker News · bridgewater.com",
    "image": "",
    "published": "2026-11-22T03:28:48+00:00"
   },
@@ -707,7 +734,7 @@
    "source": "Hacker News",
    "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
    "link": "https://github.com/ItsNotRexed/Leonida",
-   "summary": "205 points · 158 comments on Hacker News · github.com",
+   "summary": "209 points · 160 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-22T00:57:26+00:00"
   },
@@ -734,7 +761,7 @@
    "source": "Hacker News",
    "title": "Advice for the next 100 Rust GUIs",
    "link": "https://linebender.org/blog/next-100-guis/",
-   "summary": "245 points · 141 comments on Hacker News · linebender.org",
+   "summary": "249 points · 144 comments on Hacker News · linebender.org",
    "image": "",
    "published": "2026-11-21T21:17:53+00:00"
   },
@@ -743,7 +770,7 @@
    "source": "Hacker News",
    "title": "Pandex – Official European Law for AI Agents, over MCP",
    "link": "https://www.pandex.io",
-   "summary": "135 points · 32 comments on Hacker News · pandex.io",
+   "summary": "137 points · 33 comments on Hacker News · pandex.io",
    "image": "",
    "published": "2026-11-21T20:47:41+00:00"
   },
@@ -761,7 +788,7 @@
    "source": "Hacker News",
    "title": "Inkling-2-Mini in 5.4 GB Memory",
    "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-   "summary": "551 points · 132 comments on Hacker News · github.com",
+   "summary": "567 points · 135 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-21T18:02:19+00:00"
   },
@@ -788,7 +815,7 @@
    "source": "Hacker News",
    "title": "Show HN: Zero C# – C# without a runtime or GC",
    "link": "https://onurgumus.github.io/zero-csharp/index.html",
-   "summary": "172 points · 120 comments on Hacker News · onurgumus.github.io",
+   "summary": "174 points · 120 comments on Hacker News · onurgumus.github.io",
    "image": "",
    "published": "2026-11-21T15:39:09+00:00"
   },
@@ -797,7 +824,7 @@
    "source": "Hacker News",
    "title": "Lean verification of the Riemann Hypothesis",
    "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-   "summary": "1192 points · 988 comments on Hacker News · leanprover-community.github.io",
+   "summary": "1199 points · 998 comments on Hacker News · leanprover-community.github.io",
    "image": "",
    "published": "2026-11-21T14:36:45+00:00"
   },
@@ -806,7 +833,7 @@
    "source": "Hacker News",
    "title": "Show HN: I made a PS1 style racing game",
    "link": "https://outpostracer.com",
-   "summary": "43 points · 32 comments on Hacker News · outpostracer.com",
+   "summary": "45 points · 33 comments on Hacker News · outpostracer.com",
    "image": "",
    "published": "2026-11-21T13:47:45+00:00"
   },
@@ -842,7 +869,7 @@
    "source": "Hacker News",
    "title": "ClawDOS – An AI coding agent for DOS",
    "link": "http://ricapar.net/ClawDOS/",
-   "summary": "170 points · 52 comments on Hacker News · ricapar.net",
+   "summary": "172 points · 52 comments on Hacker News · ricapar.net",
    "image": "",
    "published": "2026-11-21T05:38:01+00:00"
   },
@@ -878,7 +905,7 @@
    "source": "Hacker News",
    "title": "Getting the mind to steer the body to steer you",
    "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-   "summary": "384 points · 149 comments on Hacker News · notnottalmud.substack.com",
+   "summary": "394 points · 157 comments on Hacker News · notnottalmud.substack.com",
    "image": "",
    "published": "2026-11-20T22:11:05+00:00"
   },
@@ -905,7 +932,7 @@
    "source": "Hacker News",
    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
    "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-   "summary": "1297 points · 278 comments on Hacker News · theguardian.com",
+   "summary": "1315 points · 292 comments on Hacker News · theguardian.com",
    "image": "",
    "published": "2026-11-20T21:03:12+00:00"
   },
@@ -914,9 +941,18 @@
    "source": "Hacker News",
    "title": "Show HN: OpenComputer – an open source alternative to Devin",
    "link": "https://github.com/diggerhq/opencomputer",
-   "summary": "123 points · 36 comments on Hacker News · github.com",
+   "summary": "124 points · 36 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-20T20:19:56+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "GrapheneOS claims Google is now waging war against it, could lock Pixel bootload",
+   "link": "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/",
+   "summary": "63 points · 26 comments on Hacker News · androidauthority.com",
+   "image": "",
+   "published": "2026-11-20T19:21:49+00:00"
   },
   {
    "cat": "aitech",
@@ -959,7 +995,7 @@
    "source": "Hacker News",
    "title": "I'll never buy Framework hardware again",
    "link": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
-   "summary": "831 points · 627 comments on Hacker News · poolp.org",
+   "summary": "832 points · 628 comments on Hacker News · poolp.org",
    "image": "",
    "published": "2026-11-20T16:06:30+00:00"
   },
@@ -1022,7 +1058,7 @@
    "source": "Hacker News",
    "title": "If you stop writing code, you also get worse at reviewing it",
    "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
-   "summary": "394 points · 181 comments on Hacker News · cekrem.github.io",
+   "summary": "396 points · 181 comments on Hacker News · cekrem.github.io",
    "image": "",
    "published": "2026-11-20T12:41:38+00:00"
   },
@@ -1061,53 +1097,53 @@
    "summary": "17 points · 6 comments on Hacker News · blog.ovalerio.net",
    "image": "",
    "published": "2026-11-20T08:16:04+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-   "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-   "summary": "508 points · 208 comments on Hacker News · grapheneos.social",
-   "image": "",
-   "published": "2026-11-20T05:21:02+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "Mapping every neuron in Qwen3-8B",
-   "link": "https://www.fermionresearch.com/research/mapping-every-neuron-in-qwen3-8b/",
-   "summary": "38 points · 2 comments on Hacker News · fermionresearch.com",
-   "image": "",
-   "published": "2026-11-20T03:26:51+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "What Comes After AGI?",
-   "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
-   "summary": "176 points · 345 comments on Hacker News · institute.deepmind.com",
-   "image": "",
-   "published": "2026-11-20T02:44:13+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-   "link": "https://github.com/openssl/openssl/pull/33652",
-   "summary": "373 points · 345 comments on Hacker News · github.com",
-   "image": "",
-   "published": "2026-11-20T02:01:09+00:00"
   }
  ],
  "intl": [
   {
    "cat": "intl",
    "source": "The Guardian World",
-   "title": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
+   "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
    "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "summary": "Get our breaking news email , free app or daily news podcast Anthony Albanese returns from a series of overseas summits to crunch negotiations on multiple proposed changes as his popularity takes a further nosedive, as A",
-   "image": "https://i.guim.co.uk/img/media/137309f86d6d9310dcac2f083391023259be0594/1096_0_5360_4288/master/5360.jpg?width=140&quality=85&auto=format&fit=max&s=a37f156545838fb29e4d3d40be6c9875",
-   "published": "2026-11-22T20:00:04+00:00"
+   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on clima",
+   "image": "https://i.guim.co.uk/img/media/807a7655d731bfbb7ed51cf1b1cc24c153a66ea9/503_0_5014_4013/master/5014.jpg?width=140&quality=85&auto=format&fit=max&s=a4d27619e1860affa6fc566456b52608",
+   "published": "2026-11-22T21:44:18+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+   "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+   "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspect",
+   "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
+   "published": "2026-11-22T21:33:44+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "BBC World",
+   "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+   "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+   "summary": "The couple have been together for four years and were engaged in 2025.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg",
+   "published": "2026-11-22T21:22:40+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+   "link": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+   "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appearances on Sunday Jay Clayton, the US director of national intelligence, said he trusts Donald Trump “completely” after the US president calle",
+   "image": "https://i.guim.co.uk/img/media/c6e084993e7554d08fa979d5cced63cab321f6b7/445_0_4447_3559/master/4447.jpg?width=140&quality=85&auto=format&fit=max&s=5f8c5943cb1a1dd87295533886c00412",
+   "published": "2026-11-22T20:55:33+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "Fire breaks out at popular tourist hotspot in Zanzibar",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss",
+   "summary": "A fire tore through six hotels and dozens of shops in Nungwi, a popular tourist hotspot in Zanzibar.",
+   "image": "",
+   "published": "2026-11-22T20:29:01+00:00"
   },
   {
    "cat": "intl",
@@ -1116,7 +1152,43 @@
    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
    "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
-   "published": "2026-11-22T19:52:50+00:00"
+   "published": "2026-11-22T20:28:09+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "BBC World",
+   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+   "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
+   "published": "2026-11-22T20:26:24+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+   "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+   "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive offi",
+   "image": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=140&quality=85&auto=format&fit=max&s=635252dd42b880401caf9c475fc93266",
+   "published": "2026-11-22T20:23:36+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "Liverpool 4-0 Manchester United: Five key takeaways for Pochettino",
+   "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss",
+   "summary": "United suffer their worst result under a new manager in 100 years as Liverpool cruise past Mauricio Pochettino's side.",
+   "image": "",
+   "published": "2026-11-22T20:04:12+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "Why has the COP31 climate summit failed to reach agreement?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+   "summary": "Fossil fuels are at the centre of deep division.",
+   "image": "",
+   "published": "2026-11-22T20:00:00+00:00"
   },
   {
    "cat": "intl",
@@ -1126,15 +1198,6 @@
    "summary": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
    "image": "",
    "published": "2026-11-22T19:40:12+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-   "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-   "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive offi",
-   "image": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=140&quality=85&auto=format&fit=max&s=635252dd42b880401caf9c475fc93266",
-   "published": "2026-11-22T19:34:59+00:00"
   },
   {
    "cat": "intl",
@@ -1186,18 +1249,9 @@
    "source": "BBC World",
    "title": "What's next after no deal at COP31 climate talks?",
    "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-   "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg",
+   "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
    "published": "2026-11-22T18:57:24+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-   "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-   "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the Libya",
-   "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
-   "published": "2026-11-22T18:50:56+00:00"
   },
   {
    "cat": "intl",
@@ -1312,7 +1366,7 @@
    "source": "The Guardian World",
    "title": "Russell Brand’s wife vows to abide by prison rules after video controversy",
    "link": "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
-   "summary": "Laura Gallacher says in new video on YouTube she will continue Sunday Service series she started with Brand Laura Gallacher, Russell Brand’s wife, has promised to “absolutely honour” rules set by the prison where her con",
+   "summary": "Laura Brand says in new video on YouTube she will continue Sunday Service series she started with Brand Russell Brand’s wife, Laura, has promised to “absolutely honour” rules set by the prison where her convicted sex off",
    "image": "https://i.guim.co.uk/img/media/0639e8495988bcc521ebc204567a9a8327b5337d/477_75_3635_2907/master/3635.jpg?width=140&quality=85&auto=format&fit=max&s=d23b0f6819ec2955d5a178cc88585ed5",
    "published": "2026-11-22T17:49:12+00:00"
   },
@@ -1507,33 +1561,6 @@
   },
   {
    "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-   "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-   "image": "",
-   "published": "2026-11-22T14:30:27+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-   "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-   "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-   "image": "",
-   "published": "2026-11-22T14:20:41+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
-   "link": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
-   "summary": "A global manhunt for one of the internet's earliest paedophile rings. How did police finally bring it down?",
-   "image": "",
-   "published": "2026-11-22T14:08:28+00:00"
-  },
-  {
-   "cat": "intl",
    "source": "BBC World",
    "title": "Three killed and dozens missing after fire at Indonesian factory",
    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
@@ -1555,7 +1582,7 @@
    "source": "The Guardian World",
    "title": "Australia urged to wean off imported fossil fuels amid global supply shocks",
    "link": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
-   "summary": "Grattan Institute report calls on government to ‘seize’ opportunity to cap diesel tax credits, introduce EV subsidies for less wealthy’ and build ‘clean’ refineries Get our daily political email , free app or daily news",
+   "summary": "Grattan Institute report calls on government to seize opportunity to cap diesel tax credits, introduce EV subsidies for less wealthy and build ‘clean’ refineries Get our daily political email , free app or daily news pod",
    "image": "https://i.guim.co.uk/img/media/5ae22b836fc60fa1a5cc21e59c9b0a1cf60ec948/236_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=50bb39e7d77386de5dec468659c8b9d1",
    "published": "2026-11-22T14:00:29+00:00"
   },
@@ -1606,42 +1633,150 @@
   },
   {
    "cat": "intl",
-   "source": "BBC World",
-   "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-   "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-   "summary": "The couple have been together for four years and were engaged in 2025.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg",
-   "published": "2026-11-22T08:46:28+00:00"
-  },
-  {
-   "cat": "intl",
    "source": "The Guardian World",
    "title": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
    "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
    "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds",
    "image": "https://i.guim.co.uk/img/media/8e8d4ce7d37742836e3c3c5add2beb073cc8be21/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=e5620c45cf4b29b42ed906346159bdc1",
    "published": "2026-11-22T08:00:22+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "BBC World",
-   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-   "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
-   "published": "2026-11-22T07:12:41+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
-   "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
-   "summary": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesia",
-   "image": "https://i.guim.co.uk/img/media/e0ed3952c817519e338f7b090e77d68893b48948/485_0_4287_3430/master/4287.jpg?width=140&quality=85&auto=format&fit=max&s=2adbdc76d2844e463ac3f491ddf2acc0",
-   "published": "2026-11-22T07:11:17+00:00"
   }
  ],
  "sports": [
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg",
+   "published": "2026-11-22T21:36:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "‘It’s painful for me’: Pochettino’s anger at red card in Anfield humiliation",
+   "link": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+   "summary": "Manchester United lose 4-0 to Liverpool after Yoro red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sent off and Manchester United were earlier denied a pen",
+   "image": "https://i.guim.co.uk/img/media/9fda8ae1f34cdbef84bab30cfa01b62919b67081/267_0_3890_3112/master/3890.jpg?width=140&quality=85&auto=format&fit=max&s=babc1fa1213c954feca047e4b1d5d440",
+   "published": "2026-11-22T21:31:03+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "NFL week 11: Dolphins 9-26 Bills, Buccaneers 21-31 Lions, Saints 13-21 Bears, and more – as it happened",
+   "link": "https://www.theguardian.com/sport/live/2026/nov/22/nfl-week-11-dolphins-v-bills-buccaneers-v-lions-saints-v-bears-and-more-live",
+   "summary": "Lions and Bears move to 8-2 with comfortable wins Panthers beat Ravens 35-33 in rollercoaster thriller TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rush Conti",
+   "image": "https://i.guim.co.uk/img/media/660d192ec81384cdf9bd425079b418d167ea7860/898_12_3567_2853/master/3567.jpg?width=140&quality=85&auto=format&fit=max&s=10fac938722dc8412e0b0c20138f06f3",
+   "published": "2026-11-22T21:29:02+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg",
+   "published": "2026-11-22T21:22:10+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Price ends four-year wait for major with dominant win over Van Veen",
+   "link": "https://www.skysports.com/watch/video/13615445/gerwyn-price-vs-gian-van-veen-grand-slam-of-darts-final-highlights",
+   "summary": "Highlights of the Grand Slam of Darts final between Gerwyn Price and Gian van Veen.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-price-van-veen_7413997.jpg?20261122214222",
+   "published": "2026-11-22T21:14:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Metcalf EJECTED after heated clash with Eagles' DeJean!",
+   "link": "https://www.skysports.com/watch/video/13615444/dk-metcalf-ejected-after-appearing-to-poke-cooper-dejean-in-eye-during-steelers-vs-eagles",
+   "summary": "Pittsburgh Steelers' DK Metcalf is ejected following a second clash with Philadelphia Eagles' Cooper DeJean.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-dk-metcalf_7413981.jpg?20261122211710",
+   "published": "2026-11-22T21:11:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Price wins Grand Slam to end wait for major title",
+   "link": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ae/live/3b964520-e6bc-11f1-99a1-253766e7ad8b.jpg",
+   "published": "2026-11-22T21:06:47+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Pepe did not injure eyes staring at sun, say Villarreal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fac4/live/e82d54b0-e6b5-11f1-a367-d7fb45f4e865.jpg",
+   "published": "2026-11-22T21:04:55+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Man Utd plotting Toney move - Monday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/54b51b60-e6aa-11f1-99b6-a35a62fa4264.png",
+   "published": "2026-11-22T21:04:15+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Golf leaderboards: PGA Tour's RSM Classic heads to Monday finish",
+   "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+   "summary": "Latest golf scores and results from around the world, including the DP World Tour Championship, PGA Tour, LPGA Tour and more.",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rasmus-hojgaard_7323359.jpg?20260816164706",
+   "published": "2026-11-22T21:00:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Alcaraz puts Zverev in shade as world’s best beats No 1 for first ATP Finals title",
+   "link": "https://www.theguardian.com/sport/2026/nov/22/carlos-alcaraz-first-atp-finals-title-alexander-zverev-tennis",
+   "summary": "Spaniard wins final 6-2, 7-6 (7) against new world No 1 Alcaraz the fourth to win career grand slam and ATP Finals The titles of ATP world No 1 and the best male tennis player in the world are carried by two different na",
+   "image": "https://i.guim.co.uk/img/media/6984924ff8a89514c7d1768a9f1d06d27e7fd5e8/699_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=bc265ab671b511a033505a6ccb93eea2",
+   "published": "2026-11-22T20:43:11+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "'They never touched him down!' Tate scores BIZARRE touchdown",
+   "link": "https://www.skysports.com/watch/video/13615435/carnell-tate-scores-bizarre-59-yard-titans-touchdown-after-cowboys-fail-to-touch-him-down",
+   "summary": "Tennessee Titans' Carnell Tate gets up off the ground and runs in for a 59-yard touchdown after the Dallas Cowboys defence fails to touch him down.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-tate-td-nfl_7413958.jpg?20261122204706",
+   "published": "2026-11-22T20:42:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Thitikul completes three-peat at LPGA Tour finale and breaks money record",
+   "link": "https://www.skysports.com/golf/news/12040/13615324/lpga-tour-jeeno-thitikul-wins-cme-group-tour-championship-again-and-overtakes-annika-sorenstams-career-money-record",
+   "summary": "Jeeno Thitikul has won the LPGA Tour's season-ending CME Group Tour Championship for a third consecutive year after storming to a two-shot victory in Florida.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-jeeno-thitikul-tennis_7413932.jpg?20261122201654",
+   "published": "2026-11-22T20:40:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Gary Neville on De Ligt selection and 'negligent' Man Utd",
+   "link": "https://www.skysports.com/football/news/12040/13615413/liverpool-4-0-man-utd-gary-neville-on-matthijs-de-ligt-selection-and-negligent-red-devils",
+   "summary": "Gary Neville accused Manchester United's hierarchy of negligence for failing to strengthen their back line as their 4-0 loss to Liverpool left them with the worst defensive record in Europe.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7413726.jpg?20261122171838",
+   "published": "2026-11-22T20:25:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+   "link": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac75/live/9a5011c0-e6af-11f1-99b6-a35a62fa4264.jpg",
+   "published": "2026-11-22T20:15:48+00:00"
+  },
   {
    "cat": "sports",
    "source": "BBC Sport",
@@ -1663,20 +1798,20 @@
   {
    "cat": "sports",
    "source": "Guardian Sport",
-   "title": "Carlos Alcaraz beats Alexander Zverev to seal ATP finals glory – live",
+   "title": "Carlos Alcaraz beats Alexander Zverev to seal ATP Finals glory – as it happened",
    "link": "https://www.theguardian.com/sport/live/2026/nov/22/atp-finals-tennis-alexander-zverev-carlos-alcaraz-final-live",
-   "summary": "Updates as top two seeds battle for trophy Mail Daniel | Men’s $350m prize money boost On my goodness! Bocelli is back for Il Canto degli Italiani. Tuuuuuune! So what’s going to happen? I thought you’d never ask. I’m goi",
+   "summary": "Carlos Alcaraz was far too good for Alexander Zverev, beating the new world No 1 6-2 7-6(7) to win the ATP Finals for the first time On my goodness! Bocelli is back for Il Canto degli Italiani. Tuuuuuune! So what’s going",
    "image": "https://i.guim.co.uk/img/media/9a63c7367ffa2464916b9832c7257b96d833d5ae/405_0_3019_2416/master/3019.jpg?width=140&quality=85&auto=format&fit=max&s=4cdaca50b0b6f74a4bb16309b51b6835",
-   "published": "2026-11-22T19:48:24+00:00"
+   "published": "2026-11-22T19:58:20+00:00"
   },
   {
    "cat": "sports",
-   "source": "Guardian Sport",
-   "title": "NFL week 11: Dolphins v Bills, Buccaneers v Lions, Saints v Bears, and more – live",
-   "link": "https://www.theguardian.com/sport/live/2026/nov/22/nfl-week-11-dolphins-v-bills-buccaneers-v-lions-saints-v-bears-and-more-live",
-   "summary": "Updates from the 6pm GMT (1pm ET) matchups Follow us on TikTok | And you can email Graham TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rush Continue reading..",
-   "image": "https://i.guim.co.uk/img/media/d2c15c81e1205705c7ade77ea78ce1743f3c2454/350_0_4434_3548/master/4434.jpg?width=140&quality=85&auto=format&fit=max&s=6d6b582ba06b65171c9f21efa8afe431",
-   "published": "2026-11-22T19:46:32+00:00"
+   "source": "BBC Sport",
+   "title": "Camara to continue with Haas for final two races",
+   "link": "https://www.bbc.co.uk/sport/formula1/articles/cwe9k29y7z44o?at_medium=RSS&at_campaign=rss",
+   "summary": "Brazilian Rafael Camara will continue to race for the Haas team for the final two grands prix of the Formula 1 season.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f95c/live/39cf8220-e6ac-11f1-b45e-bf1e220bd648.jpg",
+   "published": "2026-11-22T19:51:49+00:00"
   },
   {
    "cat": "sports",
@@ -1698,20 +1833,11 @@
   },
   {
    "cat": "sports",
-   "source": "BBC Sport",
-   "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
-   "link": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6175/live/8a046a50-e6aa-11f1-b45e-bf1e220bd648.jpg",
-   "published": "2026-11-22T19:36:14+00:00"
-  },
-  {
-   "cat": "sports",
    "source": "Sky Sports",
-   "title": "Alcaraz beats Zverez to add ATP Finals to career Grand Slam",
+   "title": "Alcaraz beats Zverev to add ATP Finals to career Grand Slam",
    "link": "https://www.skysports.com/watch/video/13615412/alexander-zverev-vs-carlos-alcaraz-atp-finals-highlights",
    "summary": "Highlights of the final of the ATP Finals as Carlos Alcaraz takes on Alexander Zverev.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-alcaraz-atp-carlos_7413886.jpg?20261122193439",
+   "image": "https://e2.365dm.com/26/11/1920x1080/sky-sports-tennis-atp-finals_7413906.jpg?20261122200247",
    "published": "2026-11-22T19:31:00+00:00"
   },
   {
@@ -1729,7 +1855,7 @@
    "title": "Alcaraz beats Zverev to claim elusive ATP Finals title",
    "link": "https://www.skysports.com/tennis/news/12040/13615397/atp-finals-carlos-alcaraz-beats-world-no-1-alexander-zverev-in-blockbuster-final-to-claim-title-for-first-time",
    "summary": "Carlos Alcaraz secured his maiden Nitto ATP Finals title with a straight-sets victory over top seed Alexander Zverez in Turin.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-carlos-alcaraz-atp-tour_7413844.jpg?20261122184910",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-carlos-alcaraz-tennis_7413812.jpg?20261122182634",
    "published": "2026-11-22T19:20:00+00:00"
   },
   {
@@ -1740,15 +1866,6 @@
    "summary": "Mauricio Pochettino suffered a nightmare start at Anfield, where Man Utd were reduced to 10 men and taken apart by Liverpool “Rob ‘Bob’ Smyth, as I live and breathe,” writes Ian Copestake. “Glad this game is in such ....",
    "image": "https://i.guim.co.uk/img/media/d4a5199620b561b3b83196069de23b871de98e73/1033_363_4530_3625/master/4530.jpg?width=140&quality=85&auto=format&fit=max&s=4b7f215f65be18e5696ff0dc42aa7c37",
    "published": "2026-11-22T19:16:35+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Sky Sports",
-   "title": "WWE-style! Williams produces incredible suplex tackle",
-   "link": "https://www.skysports.com/watch/video/13615405/wwe-style-tackle-chiefs-nohl-williams-lifts-cardinals-elijah-higgins-above-his-head",
-   "summary": "Kansas City Chiefs' Nohl Williams lifts Arizona Cardinals' Elijah Higgins into the air in a WWE-style tackle.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chiefs-nfl_7413880.jpg?20261122192802",
-   "published": "2026-11-22T19:05:00+00:00"
   },
   {
    "cat": "sports",
@@ -1771,10 +1888,10 @@
   {
    "cat": "sports",
    "source": "Sky Sports",
-   "title": "Grand Slam of Darts final LIVE! Price takes on Van Veen for title",
+   "title": "'I want the big one' - Price targets World Championship after Grand Slam glory",
    "link": "https://www.skysports.com/darts/live-blog/12040/13615329/grand-slam-of-darts-commentary-updates-scores-analysis-with-gerwyn-price-taking-on-gian-van-veen-in-the-final",
    "summary": "",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-gerwyn-price-gian-van-veen_7413746.jpg?20261122174019",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-gerwyn-price-darts_7413652.jpg?20261122161707",
    "published": "2026-11-22T19:00:00+00:00"
   },
   {
@@ -1806,20 +1923,11 @@
   },
   {
    "cat": "sports",
-   "source": "Sky Sports",
-   "title": "What a play! Ravens score 52-yard flea-flicker TD",
-   "link": "https://www.skysports.com/watch/video/13615395/what-a-play-ravens-score-52-yard-flea-flicker-td",
-   "summary": "Jacoby Brissett combines with Justice Hill on a clever flea-flicker before finding a wide-open Rashod Bateman for a 52-yard touchdown against the Carolina Panthers.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ravens-nfl_7413850.jpg?20261122185255",
-   "published": "2026-11-22T18:43:00+00:00"
-  },
-  {
-   "cat": "sports",
    "source": "Guardian Sport",
    "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
    "link": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-   "summary": "Green shoots of recovery have lasted longer in a blast-furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino’s debut descended in",
-   "image": "https://i.guim.co.uk/img/media/eabaf0f7802df08b573f0b7df40105a767d353ce/260_0_2689_2152/master/2689.jpg?width=140&quality=85&auto=format&fit=max&s=efb2d5bc1f2e6a5c4d66ad74919ce2d6",
+   "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at ­Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism o",
+   "image": "https://i.guim.co.uk/img/media/eabaf0f7802df08b573f0b7df40105a767d353ce/338_150_2492_1994/master/2492.jpg?width=140&quality=85&auto=format&fit=max&s=a484b5f20173ec7e62930c8caf870d5f",
    "published": "2026-11-22T18:35:14+00:00"
   },
   {
@@ -1828,7 +1936,7 @@
    "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
    "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
    "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f96/live/26ee3650-e694-11f1-936e-1fd1d31671db.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d14/live/a0909ae0-e6b0-11f1-99a1-253766e7ad8b.jpg",
    "published": "2026-11-22T18:28:51+00:00"
   },
   {
@@ -1882,7 +1990,7 @@
    "title": "The red card that changed Liverpool-Man Utd: correct call?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
    "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/ce5f0cc0-e694-11f1-936e-1fd1d31671db.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9413/live/785f7370-e6b0-11f1-99b6-a35a62fa4264.jpg",
    "published": "2026-11-22T17:55:54+00:00"
   },
   {
@@ -1906,7 +2014,7 @@
   {
    "cat": "sports",
    "source": "BBC Sport",
-   "title": "Big wins as Celtic, Rangers, City & Hearts progress",
+   "title": "Holders Celtic win 17-0 in Women's Scottish Cup",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo?at_medium=RSS&at_campaign=rss",
    "summary": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a64/live/b7373ba0-e692-11f1-936e-1fd1d31671db.jpg",
@@ -1965,15 +2073,6 @@
    "summary": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg",
    "published": "2026-11-22T17:00:01+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Sky Sports",
-   "title": "How did Spurs beat Man City?",
-   "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-   "summary": "",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-man-city-women-tottenham-women_7413707.jpg?20261122165904",
-   "published": "2026-11-22T17:00:00+00:00"
   },
   {
    "cat": "sports",
@@ -2058,20 +2157,11 @@
   },
   {
    "cat": "sports",
-   "source": "Sky Sports",
-   "title": "Punishing start for Pochettino as size of Man Utd mess made clear",
-   "link": "https://www.skysports.com/football/news/12040/13615315/mauricio-pochettino-made-mistakes-in-man-utds-4-0-defeat-to-liverpool-but-the-size-of-the-mess-he-has-inherited-is-clear",
-   "summary": "Well, they ran. They had to because there were only 10 of them for all but the first seven minutes. If running were the only problem then this mess might soon be solvable. But Manchester United's 4-0 defeat to Liverpool",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7413802.jpg?20261122181812",
-   "published": "2026-11-22T16:15:00+00:00"
-  },
-  {
-   "cat": "sports",
    "source": "Guardian Sport",
    "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
    "link": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
    "summary": "Amid the talk of Brighton being surprise title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls",
-   "image": "https://i.guim.co.uk/img/media/76d3c665d355710829468ed90a4ed011c740f316/111_0_2941_2353/master/2941.jpg?width=140&quality=85&auto=format&fit=max&s=a8c083358d411636d65b169aed1b9ca6",
+   "image": "https://i.guim.co.uk/img/media/a031f718e08daf83f40bfd6d6b0d289d49346209/604_120_3916_3133/master/3916.jpg?width=140&quality=85&auto=format&fit=max&s=3e5d6f717c71910c3dd7d28fd5f6aba4",
    "published": "2026-11-22T16:10:48+00:00"
   },
   {
@@ -2085,106 +2175,97 @@
   },
   {
    "cat": "sports",
-   "source": "Sky Sports",
-   "title": "Final Demand battles back to win Punchestown thriller",
-   "link": "https://www.skysports.com/racing/news/12040/13615295/punchestown-final-demand-battles-back-to-win-thrilling-john-durkan-memorial-punchestown-chase",
-   "summary": "Final Demand emerged best of the army of returning Willie Mullins stars on show after a thrilling finish to the John Durkan Memorial Punchestown Chase.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-final-demand-racing_7413605.jpg?20261122155257",
-   "published": "2026-11-22T15:51:00+00:00"
-  },
-  {
-   "cat": "sports",
    "source": "BBC Sport",
    "title": "PSG's Doue to have surgery on ruptured ACL",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
    "summary": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0e/live/e990a750-e68b-11f1-936e-1fd1d31671db.jpg",
    "published": "2026-11-22T15:50:05+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
-   "title": "Liu Wenwei suspended amid match-fixing investigation",
-   "link": "https://www.bbc.co.uk/sport/snooker/articles/c9p83k06160xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Chinese snooker player Liu Wenwei is suspended from \"attending or competing on the World Snooker Tour with immediate effect\" amid an investigation into match-fixing.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e4/live/299e0eb0-e681-11f1-a5bc-ddaec99ca2c4.jpg",
-   "published": "2026-11-22T15:17:49+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Guardian Sport",
-   "title": "Blackburn earn derby draw for Mowbray and extend Burnley’s wait for home win",
-   "link": "https://www.theguardian.com/football/2026/nov/22/burnley-blackburn-championship-match-report",
-   "summary": "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since head coach Tony Mowbray stepped back because of health issues. In a gripping, physical East Lancashire derby, the home side led tw",
-   "image": "https://i.guim.co.uk/img/media/2c45cfda91deef2290dded2e8a84f5f69bbb04dd/96_0_2585_2069/master/2585.jpg?width=140&quality=85&auto=format&fit=max&s=ee137eb9a99b3726a3c384e66f03ef10",
-   "published": "2026-11-22T15:12:24+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "The Hindu Sport",
-   "title": "Syed Mushtaq Ali Trophy: Andhra breezes past Assam; Kerala survives Pondicherry scare",
-   "link": "https://www.thehindu.com/sport/cricket/syed-mushtaq-ali-trophy-andhra-breezes-past-assam-kerala-survives-pondicherry-scare/article71731971.ece",
-   "summary": "Openers Hemanth and Rasheed set up the southern outfit’s fourth win; openers Azharuddeen and Rohan make merry for Samson & Co.",
-   "image": "https://th-i.thgim.com/public/incoming/6um99u/article71731962.ece/alternates/LANDSCAPE_1200/SMAT%202026%20CHANDIGARH%2045.JPG",
-   "published": "2026-11-22T15:12:23+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
-   "title": "Did beaten Wales still show they have come a long way?",
-   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjr4gn7yd9d5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Wales believe they are on the up despite failing to back up their win against New Zealand when beaten by Australia in the Nations Championship.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a3/live/f4c9b4c0-e683-11f1-a8fd-13fffcb9ff5a.jpg",
-   "published": "2026-11-22T15:07:06+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Guardian Sport",
-   "title": "Manchester City’s WSL title bid hit by Spurs after Vinberg and Naz’s late double",
-   "link": "https://www.theguardian.com/football/2026/nov/22/manchester-city-tottenham-wsl-match-report",
-   "summary": "This most unpredictable and evenly contested Women’s Super League campaign took another unexpected twist as Manchester City missed the chance to return to the top of the table as they suffered a second successive defeat,",
-   "image": "https://i.guim.co.uk/img/media/d90d803821ea4deeb7f953d937fb129cc1a2c521/276_0_1858_1487/master/1858.jpg?width=140&quality=85&auto=format&fit=max&s=cc855ccca0eee790d4aadead2ba3af07",
-   "published": "2026-11-22T14:59:23+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "The Hindu Sport",
-   "title": "Imperious India too good for Thailand, stays atop the standings of the Women’s Asian Champions Trophy hockey",
-   "link": "https://www.thehindu.com/sport/hockey/imperious-india-too-good-for-thailand-stays-atop-the-standings-of-the-womens-asian-champions-trophy-hockey/article71731919.ece",
-   "summary": "",
-   "image": "https://th-i.thgim.com/public/sport/u4oh7x/article71731910.ece/alternates/LANDSCAPE_1200/DSC_8305.jpg",
-   "published": "2026-11-22T14:58:52+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
-   "title": "Marquez wins record-equalling eighth MotoGP title",
-   "link": "https://www.bbc.co.uk/sport/motorsport/articles/c64gnrdzq8zzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Marc Marquez secures a record-equalling eighth MotoGP championship and moves level with Giacomo Agostini.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a339/live/e2d16000-e684-11f1-a8fd-13fffcb9ff5a.jpg",
-   "published": "2026-11-22T14:58:23+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "The Hindu Sport",
-   "title": "Raghuvanshi’s show guides Mumbai to commanding win over Chhattisgarh in the Syed Mushtaq Ali T20 cricket tournament",
-   "link": "https://www.thehindu.com/sport/cricket/raghuvanshis-show-guides-mumbai-to-commanding-win-over-chhattisgarh-in-the-syed-mushtaq-ali-t20-cricket-tournament/article71731831.ece",
-   "summary": "The result firms up the side’s chances of qualifying to the Super League stage; also brightening its prospect is Vidarbha which beat Gujarat by five wickets; Himateja stars for Hyderabad as it bests Uttarakhand",
-   "image": "https://th-i.thgim.com/public/incoming/scayxo/article71731840.ece/alternates/LANDSCAPE_1200/PTI11_22_2026_000103B.jpg",
-   "published": "2026-11-22T14:39:59+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
-   "title": "Northern Ireland complete series win over Gibraltar",
-   "link": "https://www.bbc.co.uk/sport/netball/articles/cm04w567x5r5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Northern Ireland Warriors beat Gibraltar Campions 71-30 to complete a Test double in Antrim.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb3/live/5cee27b0-e680-11f1-a5bc-ddaec99ca2c4.jpg",
-   "published": "2026-11-22T14:25:47+00:00"
   }
  ],
  "national": {
   "IN": [
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Food regulator FSSAI sanctions prosecution of Bisleri, 4 other firms",
+    "link": "https://timesofindia.indiatimes.com/india/regulator-sanctions-prosecution-of-bisleri-4-other-firms/articleshow/136083476.cms",
+    "summary": "Licences Of Two Others Suspended",
+    "image": "https://static.toiimg.com/photo/msid-136083478,imgsize-94298.cms",
+    "published": "2026-11-22T21:11:37+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Rahul Gandhi 'clarifies' after allies criticise remark on Hamas and Israel",
+    "link": "https://timesofindia.indiatimes.com/india/rahul-clarifies-after-allies-criticise-remark-on-hamas-and-israel/articleshow/136083458.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-136083468,imgsize-39950.cms",
+    "published": "2026-11-22T21:08:15+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "India, Nepal set to ink pacts on energy, infra, tech on Balen Shah's 1st visit",
+    "link": "https://timesofindia.indiatimes.com/india/india-nepal-set-to-ink-pacts-on-energy-infra-tech-on-balen-shahs-1st-visit/articleshow/136083404.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-136083411,imgsize-71314.cms",
+    "published": "2026-11-22T20:44:31+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "NHAI puts 50,000 km of highways under dashcam watch, to automate penalties for contractors",
+    "link": "https://timesofindia.indiatimes.com/india/nhai-puts-50000-km-of-highways-under-dashcam-watch-to-automate-penalties-for-contractors/articleshow/136083299.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-136083346,imgsize-132924.cms",
+    "published": "2026-11-22T20:32:56+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "18th U.P. Legislative Assembly sits less than 90 days, experts point to unhealthy concentration of power in the Executive",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/18th-up-legislative-assembly-sits-less-than-90-days-experts-point-to-unhealthy-concentration-of-power-in-the-executive/article71732384.ece",
+    "summary": "Fewer functioning days directly limit legislative oversight, and MLAs lose the chance to raise people-centric issues making legislature a passive spectator; experts call it contrary to spirit of constitutional checks and",
+    "image": "https://th-i.thgim.com/public/incoming/2gwanm/article71732378.ece/alternates/LANDSCAPE_1200/PTI10_26_2026_000189A.jpg",
+    "published": "2026-11-22T20:17:07+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Factory inspections to be intensified after boy’s death at Perumbavoor in Kochi",
+    "link": "https://www.thehindu.com/news/national/kerala//article71732057.ece",
+    "summary": "Strict legal action to be initiated against establishments found violating regulations relating to imminent danger",
+    "image": "",
+    "published": "2026-11-22T20:06:11+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Indian Navy allows marriage for Agniveers opting for 2-year service extension",
+    "link": "https://timesofindia.indiatimes.com/india/indian-navy-allows-marriage-for-agniveers-opting-for-2-year-service-extension/articleshow/136083124.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-136083136,imgsize-116770.cms",
+    "published": "2026-11-22T19:54:09+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Ladakh chief secretary cites cites 70% panchayat poll turnout, sticks to December 4 hill council voting",
+    "link": "https://timesofindia.indiatimes.com/india/ladakh-chief-secretary-cites-cites-70-panchayat-poll-turnout-sticks-to-december-4-hill-council-voting/articleshow/136083028.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-136083038,imgsize-243856.cms",
+    "published": "2026-11-22T19:49:26+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Kaiga nuclear unit-1 attains criticality again, gets a second life",
+    "link": "https://timesofindia.indiatimes.com/india/kaiga-nuclear-unit-1-attains-criticality-again-gets-a-second-life/articleshow/136082986.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-136082996,imgsize-126162.cms",
+    "published": "2026-11-22T19:45:08+00:00"
+   },
    {
     "cat": "nat",
     "source": "The Hindu",
@@ -2220,6 +2301,15 @@
     "summary": "Police registered a case and produced all eight before the Board, and notices were sent to parents; the case was registered under sections 189(2), 189(4), 118(1), 352 and 351(2) of the Bharatiya Nyaya Sanhita, 2023, says",
     "image": "https://th-i.thgim.com/public/incoming/wsqu9b/article71731035.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryGDHF6KM3F.3.jpg.jpg",
     "published": "2026-11-22T19:34:02+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Gildar Lane building fire: 8 rescued; officer taken to hospital",
+    "link": "https://www.thehindu.com/news/cities/mumbai/gildar-lane-building-fire-8-rescued-officer-taken-to-hospital/article71732127.ece",
+    "summary": "Crews rescued 3 people, among them a man and 2 women, from floor 3 using a turntable ladder, and 4 occupants, among them a man, a woman, a boy and a girl, were evacuated from floor 4 via the staircase",
+    "image": "",
+    "published": "2026-11-22T19:33:12+00:00"
    },
    {
     "cat": "nat",
@@ -2269,6 +2359,15 @@
    {
     "cat": "nat",
     "source": "The Hindu",
+    "title": "Digvijaya Singh marches for religion and relevance",
+    "link": "https://www.thehindu.com/news/national/madhya-pradesh/digvijaya-singh-marches-for-religion-and-relevance/article71731202.ece",
+    "summary": "Congress veteran Digvijaya Singh is currently taking part in a nearly 1,000-kilometre march on foot from Ujjain in Madhya Pradesh to Ayodhya in Uttar Pradesh, against the alleged embezzlement of donations at the Ram Temp",
+    "image": "https://th-i.thgim.com/public/incoming/vhpbfl/article71731216.ece/alternates/LANDSCAPE_1200/6744_22_11_2026_16_19_3_1_DSC_4866JPG.JPEG",
+    "published": "2026-11-22T19:13:49+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
     "title": "Kasimedu fisherfolk withdraw strike after Minister’s intervention",
     "link": "https://www.thehindu.com/news/cities/chennai/kasimedu-fisherfolk-withdraw-strike-after-ministers-intervention/article71731986.ece",
     "summary": "",
@@ -2283,15 +2382,6 @@
     "summary": "Hindu Religious and Charitable Endowments S. Ramesh inspects civic and security arrangements made for devotees ahead of the festival",
     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/718odh/article71731709.ece/alternates/LANDSCAPE_1200/deepam-1.jpeg",
     "published": "2026-11-22T19:05:24+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Government to strengthen monitoring at factories after death of four-year-old at plywood unit in Perumbavoor",
-    "link": "https://www.thehindu.com/news/national/kerala//article71732057.ece",
-    "summary": "Strict legal action to be initiated against establishments found violating regulations relating to imminent danger",
-    "image": "",
-    "published": "2026-11-22T19:02:41+00:00"
    },
    {
     "cat": "nat",
@@ -2634,107 +2724,35 @@
     "summary": "Union Home Minister launches development initiatives, including 199 Vibrant Villages projects, worth more than ₹5,610 crore on last day of his three-day visit to the State",
     "image": "https://th-i.thgim.com/public/incoming/7ihy3y/article71731111.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiG56GR4GP4.3.jpg.jpg",
     "published": "2026-11-22T17:10:22+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition",
-    "link": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
-    "summary": "Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments",
-    "image": "https://th-i.thgim.com/public/incoming/a9i28d/article71678322.ece/alternates/LANDSCAPE_1200/FullSizeRender9.jpeg",
-    "published": "2026-11-22T17:09:44+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "BMTC spare parts ‘scam’: FIR against 21 officials, employees and suppliers over alleged ₹3.97-crore fraud",
-    "link": "https://www.thehindu.com/news/national/karnataka/bmtc-spare-parts-scam-fir-against-21-officials-employees-and-suppliers-over-alleged-397-crore-fraud/article71732141.ece",
-    "summary": "",
-    "image": "https://th-i.thgim.com/public/incoming/34c5p7/article71732247.ece/alternates/LANDSCAPE_1200/DSC_6781.JPG",
-    "published": "2026-11-22T17:09:26+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "NDTV India",
-    "title": "\"Videshi Toolkit\": Nitin Nabin Targets Rahul Gandhi Ahead Of Chandigarh Civic Polls",
-    "link": "https://www.ndtv.com/india-news/videshi-toolkit-nitin-nabin-targets-rahul-gandhi-ahead-of-chandigarh-civic-polls-12363070#publisher=newsstand",
-    "summary": "Launching a direct attack on Congress' Rahul Gandhi, Nabin said he operates from abroad, \"while we work from India\".",
-    "image": "https://c.ndtvimg.com/2026-11/np973pl4_rahul-gandhi-nitin-nabin_625x300_22_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "published": "2026-11-22T17:06:54+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Police fact-check claims about illegal Bangladeshi immigrants in Bengaluru",
-    "link": "https://www.thehindu.com/news/national/karnataka/police-fact-check-claims-about-illegal-bangladeshi-immigrants-in-bengaluru/article71732134.ece",
-    "summary": "",
-    "image": "",
-    "published": "2026-11-22T17:04:11+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Hindustan Times",
-    "title": "Samajwadi Party, Congress form 4-member panels each for seat-sharing talks in the run-up to UP polls",
-    "link": "https://www.hindustantimes.com/india-news/samajwadi-party-congress-form-4-member-panels-each-for-seat-sharing-talks-in-the-run-up-to-up-polls-101795366367630.html",
-    "summary": "The two parties will hold 2-day talks in Delhi on November 23 and 24 in the first phase, examining all 403 seats.",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/logo/ANI-20261116638-0_1795366815961_U19s_1795366828526_iQQf_f43d8785-7e83-4ce8-bc91-62d4539ef5c2_vakZ.jpg",
-    "published": "2026-11-22T17:02:49+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Times of India",
-    "title": "Absence of COP31 cover decision does not pause climate action in India, says Bhupender Yadav",
-    "link": "https://timesofindia.indiatimes.com/india/absence-of-cop31-cover-decision-does-not-pause-climate-action-in-india-says-bhupender-yadav/articleshow/136079143.cms",
-    "summary": "At COP31 in Antalya, Turkey, Bhupender Yadav, the Union environment minister, articulated India's dedication to climate change initiatives. He shared insights on India’s substantial advancements in solar power and renewa",
-    "image": "https://static.toiimg.com/photo/msid-136079652,imgsize-104034.cms",
-    "published": "2026-11-22T16:59:15+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Times of India",
-    "title": "COP31 ends without climate pact as countries fail to reach consensus over fossil fuel omission and empty finance promises",
-    "link": "https://timesofindia.indiatimes.com/india/cop31-ends-without-climate-pact-as-countries-fail-to-reach-consensus-over-fossil-fuel-omission-and-empty-finance-promises/articleshow/136079511.cms",
-    "summary": "",
-    "image": "https://static.toiimg.com/photo/msid-136079573,imgsize-63350.cms",
-    "published": "2026-11-22T16:58:46+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Botcha urges Governor to recommend dismissal of Chandrababu Naidu government",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/botcha-urges-governor-to-recommend-dismissal-of-chandrababu-naidu-government/article71731245.ece",
-    "summary": "",
-    "image": "https://th-i.thgim.com/public/incoming/jtti5t/article71732234.ece/alternates/LANDSCAPE_1200/10215_22_11_2026_17_41_23_1_WHATSAPPIMAGE2026_11_22AT52440PM.JPEG",
-    "published": "2026-11-22T16:56:53+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Manipur hooch tragedy toll rises to 17; sample sent to Kolkata lab",
-    "link": "https://www.thehindu.com/news/national/manipur/manipur-hooch-tragedy-toll-rises-to-17-sample-sent-to-kolkata-lab/article71731475.ece",
-    "summary": "Government spokespersons said 228 out of 1,130 people screened after the tragedy are undergoing treatment in various hospitals",
-    "image": "https://th-i.thgim.com/public/incoming/do6hjr/article71731632.ece/alternates/LANDSCAPE_1200/21th-KARMAKAR-MGMKGR2I2P.5.jpg.jpg",
-    "published": "2026-11-22T16:55:48+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Times of India",
-    "title": "'Make Nishant Bihar CM': Pappu Yadav slams BJP over'Nitish Setu', accuses BJP of betraying ex-CM",
-    "link": "https://timesofindia.indiatimes.com/india/make-nishant-bihar-cm-pappu-yadav-slams-bjp-overnitish-setu-accuses-bjp-of-betraying-ex-cm/articleshow/136079430.cms",
-    "summary": "",
-    "image": "https://static.toiimg.com/photo/msid-136079528,imgsize-116094.cms",
-    "published": "2026-11-22T16:53:11+00:00"
    }
   ],
   "US": [
    {
     "cat": "nat",
     "source": "Guardian US",
-    "title": "NFL week 11: Dolphins v Bills, Buccaneers v Lions, Saints v Bears, and more – live",
+    "title": "NFL week 11: Dolphins 9-26 Bills, Buccaneers 21-31 Lions, Saints 13-21 Bears, and more – as it happened",
     "link": "https://www.theguardian.com/sport/live/2026/nov/22/nfl-week-11-dolphins-v-bills-buccaneers-v-lions-saints-v-bears-and-more-live",
-    "summary": "Updates from the 6pm GMT (1pm ET) matchups Follow us on TikTok | And you can email Graham TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rush Continue reading..",
-    "image": "https://i.guim.co.uk/img/media/d2c15c81e1205705c7ade77ea78ce1743f3c2454/350_0_4434_3548/master/4434.jpg?width=140&quality=85&auto=format&fit=max&s=6d6b582ba06b65171c9f21efa8afe431",
-    "published": "2026-11-22T19:46:32+00:00"
+    "summary": "Lions and Bears move to 8-2 with comfortable wins Panthers beat Ravens 35-33 in rollercoaster thriller TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rush Conti",
+    "image": "https://i.guim.co.uk/img/media/660d192ec81384cdf9bd425079b418d167ea7860/898_12_3567_2853/master/3567.jpg?width=140&quality=85&auto=format&fit=max&s=10fac938722dc8412e0b0c20138f06f3",
+    "published": "2026-11-22T21:29:02+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian US",
+    "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+    "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appearances on Sunday Jay Clayton, the US director of national intelligence, said he trusts Donald Trump “completely” after the US president calle",
+    "image": "https://i.guim.co.uk/img/media/c6e084993e7554d08fa979d5cced63cab321f6b7/445_0_4447_3559/master/4447.jpg?width=140&quality=85&auto=format&fit=max&s=5f8c5943cb1a1dd87295533886c00412",
+    "published": "2026-11-22T20:55:33+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian US",
+    "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+    "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive offi",
+    "image": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=140&quality=85&auto=format&fit=max&s=635252dd42b880401caf9c475fc93266",
+    "published": "2026-11-22T20:23:36+00:00"
    },
    {
     "cat": "nat",
@@ -2744,15 +2762,6 @@
     "summary": "A pipeline in rural Alabama sent a column of flames high into the night sky.",
     "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
     "published": "2026-11-22T19:38:22+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian US",
-    "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-    "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive offi",
-    "image": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=140&quality=85&auto=format&fit=max&s=635252dd42b880401caf9c475fc93266",
-    "published": "2026-11-22T19:34:59+00:00"
    },
    {
     "cat": "nat",
@@ -2888,15 +2897,6 @@
     "summary": "More than 120 people in the Tennessee city were detained in one of the largest single-day ICE raids in the US in 2026 The date 1 September, or 9/01 Day, is a festive day for Memphians. The date mirrors the city’s 901 are",
     "image": "https://i.guim.co.uk/img/media/dacccbf1f986b8a314fc4da410c60b258b7c29c8/220_0_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=63c64d78b04786e6b0859b640cb1722e",
     "published": "2026-11-22T12:00:28+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian US",
-    "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
-    "summary": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga As a so-called “blue wave” crashed across the country on the n",
-    "image": "https://i.guim.co.uk/img/media/8c42154ecfc0d97946047de44f3951732b270f97/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=fd376300e09a033582e60c8950224c71",
-    "published": "2026-11-22T11:00:26+00:00"
    },
    {
     "cat": "nat",
@@ -3280,6 +3280,15 @@
    },
    {
     "cat": "nat",
+    "source": "BBC UK",
+    "title": "Long-lost Chevalier landscape found in charity shop",
+    "link": "https://www.bbc.co.uk/news/articles/c32l5z88z15jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Cape Schanck, Victoria, is set to go under the hammer at Olympia Auctions in London on 9 December.",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1352/live/d23d4110-e683-11f1-a8fd-13fffcb9ff5a.jpg",
+    "published": "2026-11-22T18:09:23+00:00"
+   },
+   {
+    "cat": "nat",
     "source": "Sky News UK",
     "title": "Man charged with raping woman on Brighton beach",
     "link": "https://news.sky.com/story/man-charged-with-raping-woman-on-brighton-beach-13615371",
@@ -3292,7 +3301,7 @@
     "source": "Guardian UK",
     "title": "Russell Brand’s wife vows to abide by prison rules after video controversy",
     "link": "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
-    "summary": "Laura Gallacher says in new video on YouTube she will continue Sunday Service series she started with Brand Laura Gallacher, Russell Brand’s wife, has promised to “absolutely honour” rules set by the prison where her con",
+    "summary": "Laura Brand says in new video on YouTube she will continue Sunday Service series she started with Brand Russell Brand’s wife, Laura, has promised to “absolutely honour” rules set by the prison where her convicted sex off",
     "image": "https://i.guim.co.uk/img/media/0639e8495988bcc521ebc204567a9a8327b5337d/477_75_3635_2907/master/3635.jpg?width=140&quality=85&auto=format&fit=max&s=d23b0f6819ec2955d5a178cc88585ed5",
     "published": "2026-11-22T17:49:12+00:00"
    },
@@ -3799,33 +3808,87 @@
     "summary": "Relatives speak out as inquest jury finds Alice Webb’s death after filler entered her organs was accidental The family of a woman who died after a botched Brazilian butt lift have called for laws against “cosmetic cowboy",
     "image": "https://i.guim.co.uk/img/media/248e205d8cc4f1cf2be6fca41947917c7be01709/0_70_836_669/master/836.jpg?width=140&quality=85&auto=format&fit=max&s=c1eb2f1d56a1fc432a960bd45eade44e",
     "published": "2026-11-20T15:55:28+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian UK",
-    "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
-    "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-    "summary": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest br",
-    "image": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=a39b86006934a5fbc1b4dadf13458620",
-    "published": "2026-11-20T09:36:10+00:00"
    }
   ],
   "AU": [
    {
     "cat": "nat",
     "source": "Guardian Australia",
-    "title": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
+    "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
     "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-    "summary": "Get our breaking news email , free app or daily news podcast Good morning and welcome to Guardian Australia’s coverage of Australian politics. Krishani Dhanji will be with us shortly. Let’s begin. Continue reading...",
-    "image": "https://i.guim.co.uk/img/media/137309f86d6d9310dcac2f083391023259be0594/1096_0_5360_4288/master/5360.jpg?width=140&quality=85&auto=format&fit=max&s=a37f156545838fb29e4d3d40be6c9875",
-    "published": "2026-11-22T19:47:18+00:00"
+    "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on clima",
+    "image": "https://i.guim.co.uk/img/media/807a7655d731bfbb7ed51cf1b1cc24c153a66ea9/503_0_5014_4013/master/5014.jpg?width=140&quality=85&auto=format&fit=max&s=a4d27619e1860affa6fc566456b52608",
+    "published": "2026-11-22T21:35:07+00:00"
    },
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Live: Greens 'optimistic' about deal on digital duty of care",
+    "title": "New life as mushroom farmer after lifesaving neurosurgery",
+    "link": "https://www.abc.net.au/news/rural/2026-11-23/rocky-creek-mushrooms-farming-small-business-innovation/107259008",
+    "summary": "A near-death experience convinced Emma Court to ditch her four-hour commute to a corporate job in Brisbane and start farming fancy, nutrient-packed fungi.",
+    "image": "",
+    "published": "2026-11-22T21:16:49+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Logan man accused of wife's stabbing murder set to face court",
+    "link": "https://www.abc.net.au/news/2026-11-23/christine-moe-husband-soe-reh-murder-charge/107415332",
+    "summary": "Police were called to a Slacks Creek house shortly before midnight on Saturday, where they found Christine Moe with a single stab wound to the chest.",
+    "image": "",
+    "published": "2026-11-22T20:52:35+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Israeli opposition leader Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'",
+    "link": "https://www.abc.net.au/news/2026-11-23/israel-gadi-eisenkot-west-bank-arson-attacks/107415280",
+    "summary": "Settlers set fire to vehicles and homes in several Palestinian villages overnight, drawing one of the sharpest condemnations yet from the politician charged with forming Israel's next government.",
+    "image": "",
+    "published": "2026-11-22T20:37:28+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Joeys come back to Earth with frustrating World Cup result",
+    "link": "https://www.abc.net.au/news/2026-11-23/australia-draws-with-denmark-at-fifa-u17-world-cup/107415340",
+    "summary": "Australia faces a nervy wait to secure its place in the knockout stage of the FIFA U-17 World Cup after Denmark holds it to a scoreless draw.",
+    "image": "",
+    "published": "2026-11-22T20:36:33+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Storms to hit south-western Qld as heatwave lingers in far north",
+    "link": "https://www.abc.net.au/news/2026-11-23/storms-south-western-queensland-heatwave-far-north/107414108",
+    "summary": "The weather bureau is warning of severe storms west of Charleville, while the south-east could see storms returning later in the week.",
+    "image": "",
+    "published": "2026-11-22T20:32:29+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Red imported fire ants found in Western Sydney",
+    "link": "https://www.abc.net.au/news/2026-11-23/red-imported-fire-ants-found-western-sydney/107415336",
+    "summary": "One of the world's worst invasive species is found in Sydney for the second time in as many months.",
+    "image": "",
+    "published": "2026-11-22T20:18:05+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Council allows private land burials for those who 'belong to the land'",
+    "link": "https://www.abc.net.au/news/2026-11-23/coorong-council-approves-private-land-burials-farmers-indigenous/107389014",
+    "summary": "Few rules govern spreading ashes after a person dies, but burial outside a cemetery is approved only in exceptional circumstances. In South Australia, a local council is about to make private burials easier.",
+    "image": "",
+    "published": "2026-11-22T20:06:32+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Live: Small business websites to be exempt from digital duty of care",
     "link": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266",
-    "summary": "The Greens are optimistic a deal can be struck with the government over its digital duty of care legislation by the end of the week. Follow live.",
+    "summary": "Communications Minister Anika Wells has confirmed small business websites will be exempt from the proposed digital duty of care, following concerns from business groups. Follow live.",
     "image": "",
     "published": "2026-11-22T19:46:06+00:00"
    },
@@ -3841,7 +3904,7 @@
    {
     "cat": "nat",
     "source": "Guardian Australia",
-    "title": "The rise of ‘cop influencers’; climate summit’s no deal; and MPs set new swearing record",
+    "title": "Morning Mail: The rise of ‘cop influencers’; climate summit’s no deal; and MPs set new swearing record",
     "link": "https://www.theguardian.com/australia-news/2026/nov/23/morning-mail-monday-ntwnfb",
     "summary": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Politics, really newsletter . Good morning. Today we’re shedding light on the disturbing world of “cop influe",
     "image": "https://i.guim.co.uk/img/media/91a628f3a395a73ebc6ba92fee9062c671d1b929/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8bac7858a825ec983b638ad335b8f62e",
@@ -3922,7 +3985,7 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Australia's neighbour claims 'China, Russia' looking at oil and gas project",
+    "title": "Australia's neighbour 'heading towards disaster' with oil and gas project, experts say",
     "link": "https://www.abc.net.au/news/2026-11-23/greater-sunrise-timor-leste-russia-china-oil-gas/107383394",
     "summary": "Timor-Leste says Russian and Chinese companies have expressed an interest in the country's multi-billion-dollar Greater Sunrise project, despite a leading analyst saying it will \"bankrupt\" the country. Is oil and gas pro",
     "image": "",
@@ -3949,7 +4012,7 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Variety of work from home arrangements leave workers at odds with employers",
+    "title": "Work from home breaches raise questions for employees and companies",
     "link": "https://www.abc.net.au/news/2026-11-23/working-from-home-wfh-arrangements-anz/107376934",
     "summary": "The bank's latest annual report says there was an increased focus on \"office attendance non-compliance\" this year.",
     "image": "",
@@ -3967,7 +4030,7 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Tasmania to spend $17m in paramedics and ambulance overhaul",
+    "title": "Tasmania to spend $17m on paramedics and ambulance overhaul",
     "link": "https://www.abc.net.au/news/2026-11-23/paramedics-ambulance-funding-tasmania/107414326",
     "summary": "The state government will spend $17 million to create a relief pool of 32 extra paramedics and eight branch officers.",
     "image": "",
@@ -3985,15 +4048,6 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Bombed out in last week's history quiz? Let It Go and try again",
-    "link": "https://www.abc.net.au/news/2026-11-23/this-week-in-history-quiz-november-23/107406384",
-    "summary": "Flex your grey matter with questions on Frozen, luxury fashion, Olympic gold medallists and more.",
-    "image": "",
-    "published": "2026-11-22T18:30:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
     "title": "I knew I'd be outbid on a property, so I wrote the owner a letter",
     "link": "https://www.abc.net.au/news/2026-11-23/a-letter-helped-this-single-mum-find-a-home/107299790",
     "summary": "Single mother Georgia Hurst knew she needed to stand out in a competitive property market. She penned a letter.",
@@ -4003,56 +4057,11 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Salmon hatchery could face challenges in meeting its first discharge limits",
-    "link": "https://www.abc.net.au/news/2026-11-23/tasmania-salmon-hatcheries-discharge-limits/107408108",
-    "summary": "Tasmania is dotted with salmon hatcheries that have river water flowing through them, emitting nutrients back into waterways. Some are having firm limits set for the first time, but data shows it could be a challenge to",
+    "title": "Get your weekly blast from the past with the history quiz",
+    "link": "https://www.abc.net.au/news/2026-11-23/this-week-in-history-quiz-november-23/107406384",
+    "summary": "Flex your grey matter with questions on Frozen, luxury fashion, Olympic gold medallists and more.",
     "image": "",
-    "published": "2026-11-22T18:20:01+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Greens gains in Victorian election could be determined by Liberals",
-    "link": "https://www.abc.net.au/news/2026-11-23/victorian-election-analysis-liberal-labor-greens-preference/107413848",
-    "summary": "As the Greens fight to win key inner Melbourne seats this state election, whichever party the Liberals put last on how-to-vote cards could determine the outcome.",
-    "image": "",
-    "published": "2026-11-22T18:12:52+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Seven in 10 MPs say politics has damaged their mental health",
-    "link": "https://www.abc.net.au/news/2026-11-23/mental-health-politicians-damaged-at-work/107413890",
-    "summary": "Online abuse, threats to safety and toxic party cultures are taking a toll on a majority of Australian politicians, with some experiencing thoughts of suicide and self-harm, a landmark survey has found.",
-    "image": "",
-    "published": "2026-11-22T18:00:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Victorian Labor bracing for poll defeat as Albanese keeps his distance",
-    "link": "https://www.abc.net.au/news/2026-11-23/election-victorian-labor-election-defeat-albanese-stays-away/107414442",
-    "summary": "With Victorian Labor facing an election catastrophe, Canberra colleagues are desperate to avoid the fallout.",
-    "image": "",
-    "published": "2026-11-22T18:00:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Recession could hit next month according to indicator considered by RBA",
-    "link": "https://www.abc.net.au/news/2026-11-23/sahm-rule-recession-indicator-australia-november-2026/107408750",
-    "summary": "The economist behind a famous recession indicator says Australia should be wary of rising unemployment.",
-    "image": "",
-    "published": "2026-11-22T18:00:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Giants clash over Australia's gas reservation policy",
-    "link": "https://www.abc.net.au/news/2026-11-23/gas-reservation-policy-looms-amid-feud-in-the-gas-lobby/105923994",
-    "summary": "The federal government’s push for a gas reserve looks likely to succeed, but it has revealed a bitter split between major gas companies.",
-    "image": "",
-    "published": "2026-11-22T18:00:00+00:00"
+    "published": "2026-11-22T18:30:00+00:00"
    },
    {
     "cat": "nat",
@@ -4086,7 +4095,7 @@
     "source": "Guardian Australia",
     "title": "Victoria faced devastating bushfires and an ‘extinction emergency’ this year. So why is nature missing from the election?",
     "link": "https://www.theguardian.com/australia-news/2026/nov/23/environment-policy-victoria-elections-2026-nature-logging-bushfires",
-    "summary": "As Victorians head to the polls, experts accuse both major parties of deserting environmental policy Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The election year in Victoria b",
+    "summary": "As Victorians head to the polls, experts accuse both major parties of deserting environmental policy Follow our Australia politics live blog for latest updates Sign up for climate and environment editor Adam Morton’s fre",
     "image": "https://i.guim.co.uk/img/media/3e6b5612b64cb0e489de56b8c9752099d0d7b1c0/33_27_1452_1162/master/1452.jpg?width=140&quality=85&auto=format&fit=max&s=47f9d566fb54eacd42e6a04856d0ee54",
     "published": "2026-11-22T14:00:30+00:00"
    },
@@ -4098,15 +4107,6 @@
     "summary": "In trying to save for a house deposit, she had sacrificed activities that brought her joy. And constant checking of her bank balance exacerbated her fears The modern mind is a column where experts discuss mental health i",
     "image": "https://i.guim.co.uk/img/media/618f4804ce35381d9f92296cf51017a58008f06d/0_137_4059_3249/master/4059.jpg?width=140&quality=85&auto=format&fit=max&s=f39d37cd8e7e3cec175de6518a7f05c9",
     "published": "2026-11-22T14:00:29+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "COP31 ends without deal after climate change talks break down",
-    "link": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772",
-    "summary": "The UN climate summit collapses as nations fail to agree whether to mention the fossil fuels that cause global warming in an agreement.",
-    "image": "",
-    "published": "2026-11-22T13:43:02+00:00"
    },
    {
     "cat": "nat",
@@ -4190,6 +4190,15 @@
     "summary": "The federal government has quietly pressed pause on a program that helped community groups sponsor and support refugees come to Canada.",
     "image": "https://globalnews.ca/wp-content/uploads/2026/11/tareq-arrival-1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "published": "2026-11-22T17:32:10+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "CBC Canada",
+    "title": "A small latte and a chat, please: Why this B.C. café owner put conversation on the menu",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/cafe-conversation-and-coffee-bc-9.7424432?cmp=rss",
+    "summary": "Registered clinical counsellor Shane Trudell estimates one-third of the population suffers from loneliness — but many people aren't aware of it. A New Westminster café hopes to help.",
+    "image": "https://i.cbc.ca/ais/a86b7542-6155-4067-8270-0e810e4dc0a6,1794936567001/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C709%2C1536%2C864%29%3B",
+    "published": "2026-11-22T15:00:00+00:00"
    },
    {
     "cat": "nat",
@@ -4338,15 +4347,6 @@
    {
     "cat": "nat",
     "source": "CBC Canada",
-    "title": "'We are sorry': Rocks found in restaurant burritos in Alberta",
-    "link": "https://www.cbc.ca/news/canada/calgary/calgary-barburrito-rocks-burritos-apology-9.7430598?cmp=rss",
-    "summary": "BarBurrito issued an apology to its customers after pea-sized stones were found in some of its burritos at restaurants in Alberta. The company says the rocks came from a particular brand of beans that it is no longer usi",
-    "image": "https://i.cbc.ca/ais/8efbf840-ff34-42b6-9e1b-e19c42e072ef,1795211010014/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "published": "2026-11-21T12:00:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "CBC Canada",
     "title": "Woman's airport security ordeal with dad's ashes highlights challenges of travelling with cremated remains",
     "link": "https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785?cmp=rss",
     "summary": "Rules around transporting creamated remains through airports and challenges with new scanners can add \"another layer of grief\" to an already stressful time, says the head of the Funeral Service Association of Canada.",
@@ -4462,6 +4462,15 @@
     "summary": "Pakistan Shaheens overcame a late challenge from Tilak Varma to beat India A by 48 runs in their Asia Cup Rising Stars match in Doha on Sunday, defending a total of 313 after bowling out their opponents with five balls t",
     "image": "https://i.dawn.com/large/2026/11/23001144dd1a1f5.webp",
     "published": "2026-11-22T19:14:50+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Dawn",
+    "title": "More than 2,300 Indian Sikh pilgrims arrive in Pakistan to mark Guru Nanak's birthday",
+    "link": "https://www.dawn.com/news/2046342/more-than-2300-indian-sikh-pilgrims-arrive-in-pakistan-to-mark-guru-nanaks-birthday",
+    "summary": "LAHORE: Over 2,300 Indian Sikh pilgrims arrived in Pakistan through the Wagah Border on Sunday to attend celebrations marking the 557th birth anniversary of Baba Guru Nanak Dev Ji, the founder of Sikhism. The visiting pi",
+    "image": "https://i.dawn.com/large/2026/11/2223301843a3daa.webp",
+    "published": "2026-11-22T19:13:48+00:00"
    },
    {
     "cat": "nat",
@@ -4744,15 +4753,6 @@
    },
    {
     "cat": "nat",
-    "source": "Dawn",
-    "title": "At SCO moot in India, Musadik Malik declares climate change ‘enemy’ of civilisations",
-    "link": "https://www.dawn.com/news/2046109/at-sco-moot-in-india-musadik-malik-declares-climate-change-enemy-of-civilisations",
-    "summary": "Climate Change Minister Musadik Malik on Saturday declared climate change an “enemy” of civilisations as he highlighted its impact on South Asian countries at a meeting of the Shanghai Cooperation Organisation (SCO) in I",
-    "image": "https://i.dawn.com/large/2026/11/211721298a46b89.webp",
-    "published": "2026-11-21T18:21:16+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Express Tribune",
     "title": "DPM, NA speaker discuss politics with president",
     "link": "https://tribune.com.pk/story/2641595/dpm-na-speaker-discuss-politics-with-president",
@@ -4825,6 +4825,96 @@
    }
   ],
   "NG": [
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "2027: APC women take Tinubu’s campaign to Oyo markets, hospital",
+    "link": "https://punchng.com/2027-apc-women-take-tinubus-campaign-to-oyo-markets-hospital/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "APC women took Tinubu’s 2027 re-election campaign to Ibadan markets and Jericho Specialist Hospital, led by Betta Edu, with over 3,000 women empowered. Read More: https://punchng.com/2027-apc-women-take-tinubus-campaign-",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-22T22:40:10+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Upcoming artiste apologises to Mr Eazi over false HIV claim",
+    "link": "https://punchng.com/upcoming-artiste-apologises-to-mr-eazi-over-false-hiv-claim/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An X user has apologised to Mr Eazi after admitting he made a false HIV claim about the singer to attract his attention and seek help for his music career. Read More: https://punchng.com/upcoming-artiste-apologises-to-mr",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-22T22:32:15+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Soldiers rescue 18 abducted Kaduna children, search for four others",
+    "link": "https://punchng.com/soldiers-rescue-18-abducted-kaduna-children-search-for-four-others/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Troops under Operation Fansan Yamma rescued 18 of 22 abducted Kaduna children in Kachia/Kajuru and are searching for the remaining four, the Army says. Read More: https://punchng.com/soldiers-rescue-18-abducted-kaduna-ch",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-22T22:29:56+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Leadership crisis: Odukoya says Fountain of Life church remains strong, ‘unshakable’",
+    "link": "https://punchng.com/leadership-crisis-odukoya-says-fountain-of-life-church-remains-strong-unshakable/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Jimmy Odukoya says Fountain of Life Church remains strong and unshakable as the leadership crisis moves to court, with suits at the Lagos High Court and FH Read More: https://punchng.com/leadership-crisis-odukoya-says-fo",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-22T22:00:32+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Alcaraz beats Zverev to claim first ATP finals title",
+    "link": "https://punchng.com/alcaraz-beats-zverev-to-claim-first-atp-finals-title/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Carlos Alcaraz beat Alexander Zverev 6-2, 7-6 (9-7) to win his first ATP Finals title, completing a comeback season after a four-month injury layoff. Read More: https://punchng.com/alcaraz-beats-zverev-to-claim-first-atp",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-22T21:59:36+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Vanguard",
+    "title": "Alcaraz downs Zverev to win ATP Finals for first time",
+    "link": "https://www.vanguardngr.com/2026/11/alcaraz-downs-zverev-to-win-atp-finals-for-first-time/",
+    "summary": "Carlos Alcaraz won the ATP Finals with a 6-2, 7-6 (9/7) victory over world number one Alexander Zverev in the title match in Turin on Sunday. The post Alcaraz downs Zverev to win ATP Finals for first time appeared first",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/AFP__20261122__D8BC6NP__v1__MidRes__TennisItalyAtpFinals-1024x683.jpg",
+    "published": "2026-11-22T21:40:46+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "WHO chief pleads for peace in Ebola-hit DR Congo area",
+    "link": "https://punchng.com/who-chief-pleads-for-peace-in-ebola-hit-dr-congo-area/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Tedros Adhanom Ghebreyesus urges peace as fighting in Ituri disrupts the Ebola outbreak response in DR Congo, which has killed nearly 5,700 people. Read More: https://punchng.com/who-chief-pleads-for-peace-in-ebola-hit-d",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-22T21:32:45+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "2027: Tinubu orders Masari, Badaru to reconcile APC leaders",
+    "link": "https://punchng.com/2027-tinubu-orders-masari-badaru-to-reconcile-apc-leaders/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Tinubu orders Ibrahim Masari and Abubakar Badaru to lead APC reconciliation among aggrieved leaders as the party prepares for the 2027 general elections. Read More: https://punchng.com/2027-tinubu-orders-masari-badaru-to",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-22T21:26:14+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Pochettino demands Man United response after Liverpool humiliation",
+    "link": "https://punchng.com/pochettino-demands-man-united-response-after-liverpool-humiliation/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Mauricio Pochettino says Man United must turn the pain of a 4-0 Liverpool defeat into change, insisting Leny Yoro’s eighth-minute red card was wrong. Read More: https://punchng.com/pochettino-demands-man-united-response-",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-22T21:15:00+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Yoruba group laments Alaafin’s cancelled Benin visit",
+    "link": "https://punchng.com/yoruba-group-laments-alaafins-cancelled-benin-visit/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Isokan Omo Yoruba Benin expresses disappointment as Alaafin of Oyo’s planned visit is cancelled, with 23.1m FCFA already budgeted for the trip. Read More: https://punchng.com/yoruba-group-laments-alaafins-cancelled-benin",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-22T21:05:27+00:00"
+   },
    {
     "cat": "nat",
     "source": "Punch",
@@ -4908,12 +4998,39 @@
    },
    {
     "cat": "nat",
+    "source": "Vanguard",
+    "title": "Tinubu’s reforms will be difficult to stabilise if he’s not re-elected - Wike",
+    "link": "https://www.vanguardngr.com/2026/11/tinubus-reforms-will-be-difficult-to-stabilise-if-hes-not-re-elected-wike/",
+    "summary": "According to Wike, abandoning the president’s policies before their benefits fully materialise could undermine the progress made so far. The post Tinubu’s reforms will be difficult to stabilise if he’s not re-elected - W",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/10/Wike-1-e1793634105613.png",
+    "published": "2026-11-22T20:17:56+00:00"
+   },
+   {
+    "cat": "nat",
     "source": "Punch",
     "title": "Water stopped while I was shaving in Aso Rock – Tinubu",
     "link": "https://punchng.com/water-stopped-while-i-was-shaving-in-aso-rock-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
     "summary": "President Tinubu says water went off while he was shaving in Aso Rock, admitting the Villa shares Nigerians’ power and water woes, and vows to fix infrastr Read More: https://punchng.com/water-stopped-while-i-was-shaving",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
     "published": "2026-11-22T20:17:34+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Vanguard",
+    "title": "‘We need to turn that anger into energy’ – Pochettino reacts to Man Utd’s 4-0 loss",
+    "link": "https://www.vanguardngr.com/2026/11/we-need-to-turn-that-anger-into-energy-pochettino-reacts-to-man-utds-4-0-loss/",
+    "summary": "Mauricio Pochettino said Manchester United must harness the pain from a 4-0 thrashing by Liverpool on Sunday into positive change despite feeling aggrieved by Leny Yoro's eighth-minute red card. The post ‘We need to turn",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/AFP__20261122__D8B82HE__v1__MidRes__FblEngPrLiverpoolManUtd-1024x683.jpg",
+    "published": "2026-11-22T20:15:43+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Vanguard",
+    "title": "Gumi calls for removal of Emirs guilty of immoral conduct",
+    "link": "https://www.vanguardngr.com/2026/11/gumi-calls-for-removal-of-emirs-guilty-of-immoral-conduct/",
+    "summary": "Islamic cleric, Sheikh Ahmad Gumi, has called for the immediate removal of any Emir found guilty of immoral conduct, saying such action is necessary to protect the integrity and credibility of traditional institutions. G",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/09/Sheikh-Gumi.png",
+    "published": "2026-11-22T20:13:08+00:00"
    },
    {
     "cat": "nat",
@@ -4959,6 +5076,15 @@
     "summary": "Liverpool thrash 10-man Man Utd 4-0 at Anfield as Mauricio Pochettino endures a nightmare debut after Leny Yoro’s early red card. Read More: https://punchng.com/epl-liverpool-thrash-10-man-man-utd-4-0-in-pochettinos-firs",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
     "published": "2026-11-22T19:44:31+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Hypo Partners With NCDC In Support Of Efforts Against Ebola Virus Disease",
+    "link": "https://punchng.com/hypo-partners-with-ncdc-in-support-of-efforts-against-ebola-virus-disease/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Hypo Homecare Products Limited, makers of Hypo household hygiene products, has extended significant product support to the Nigeria Centre for Disease Control and Prevention in support of national… Read More: https://punc",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-22T19:43:34+00:00"
    },
    {
     "cat": "nat",
@@ -5115,12 +5241,21 @@
    },
    {
     "cat": "nat",
-    "source": "Punch",
-    "title": "Olubadan hails Tinubu’s plan to revive Ibadan factory",
-    "link": "https://punchng.com/olubadan-hails-tinubus-plan-to-revive-ibadan-factory/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Olubadan Oba Rashidi Ladoja commends Tinubu’s promise to reopen the Ibadan Leyland factory and fix roads, after an MoU with a Chinese firm. Read More: https://punchng.com/olubadan-hails-tinubus-plan-to-revive-ibadan-fact",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-22T18:30:30+00:00"
+    "source": "Vanguard",
+    "title": "UI undergraduate set to attempt 168-hour Guinness World Record teaching marathon",
+    "link": "https://www.vanguardngr.com/2026/11/ui-undergraduate-set-to-attempt-168-hour-guinness-world-record-teaching-marathon/",
+    "summary": "A 200-level Education and Physics student at the University of Ibadan, Bello Oluwapelumi Ayomide, is set to attempt a 168-hour Guinness World Record teaching marathon, during which he plans to teach Physics continuously",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/BOP.jpeg",
+    "published": "2026-11-22T18:31:00+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Vanguard",
+    "title": "TGI Group advocates practical solutions for sustainable business growth",
+    "link": "https://www.vanguardngr.com/2026/11/tgi-group-advocates-practical-solutions-for-sustainable-business-growth-2/",
+    "summary": "By Etop Ekanem Tropical General Investments (TGI) Group has highlighted the importance of practical, community-driven approaches to sustainability and business growth at the Bank of Industry (BOI) 2026 Sustainability Con",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/tgi-1024x731.jpeg",
+    "published": "2026-11-22T18:31:00+00:00"
    },
    {
     "cat": "nat",
@@ -5139,144 +5274,117 @@
     "summary": "By John Alechenu ABUJA — Abuja-based legal practitioner, Pelumi Olajengbesi, has called on the Nigeria Police Force to immediately commence an independent investigation into the allegation of sexual assault levelled agai",
     "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Emir-Of-Daura.png",
     "published": "2026-11-22T18:25:12+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Soldiers repel bandits’ attacks on Benue communities",
-    "link": "https://punchng.com/soldiers-repel-bandits-attacks-on-benue-communities/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Soldiers repelled suspected bandits’ attacks on communities in Ukum LGA, Benue State, and rescued two abducted women, the council chairman confirmed. Read More: https://punchng.com/soldiers-repel-bandits-attacks-on-benue",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-22T18:24:44+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "CBN seeks greater Nigerian role in ECOWAS monetary union",
-    "link": "https://punchng.com/cbn-seeks-greater-nigerian-role-in-ecowas-monetary-union/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "CBN Governor Olayemi Cardoso wants proportional representation for Nigeria in the proposed ECOWAS monetary union as ECO single currency plans advance to 20 Read More: https://punchng.com/cbn-seeks-greater-nigerian-role-i",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-22T18:24:12+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Vanguard",
-    "title": "Bayelsa boat mishap: Tinubu donates N250m to victims’ families, as Shettima visits survivors",
-    "link": "https://www.vanguardngr.com/2026/11/bayelsa-boat-mishap-tinubu-donates-n250m-to-victims-families-as-shettima-visits-survivors/",
-    "summary": "…orders stiffer waterway safety measures …Says Nigerians travelling by water deserve same protection as road, air passengers‎‎By Johnbosco Agbakwuru‎‎ABUJA — PRESIDENT Bola Tinubu has called for stricter enforcement of s",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/01/Boat-mishap.jpg",
-    "published": "2026-11-22T18:22:16+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Fire razes Plateau school, residents suspect bandits",
-    "link": "https://punchng.com/fire-razes-plateau-school-residents-suspect-bandits/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Government Secondary School, Masharkut in Bokkos LGA, Plateau, was burnt down. Residents suspect bandits, but the council chairman says the cause is unknow Read More: https://punchng.com/fire-razes-plateau-school-residen",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-22T18:21:33+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Vanguard",
-    "title": "Hypo Partners With NCDC In Support Of Efforts Against Ebola Virus Disease",
-    "link": "https://www.vanguardngr.com/2026/11/hypo-partners-with-ncdc-in-support-of-efforts-against-ebola-virus-disease/",
-    "summary": "Hypo Homecare Products Limited, makers of Hypo household hygiene products, has extended significant product support to the Nigeria Centre for Disease Control and Prevention in support of national efforts to strengthen pr",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Picture_-Hypo-Representatives-with-NCDC-at-Jabi-for-Dontation-of-HYPO-Multi-Purpose-Bleach.jpeg",
-    "published": "2026-11-22T18:17:58+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "2027: Obi endorses tech platform for election monitoring",
-    "link": "https://punchng.com/2027-obi-endorses-tech-platform-for-election-monitoring/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Peter Obi endorses SmartBallot, a platform for grassroots mobilisation and election monitoring, and urges NDC supporters and candidates to register ahead o Read More: https://punchng.com/2027-obi-endorses-tech-platform-f",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-22T18:14:53+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Lions Clubs screen over 200 Ogun residents for diabetes",
-    "link": "https://punchng.com/lions-clubs-screen-over-200-ogun-residents-for-diabetes/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Lions Clubs offered free diabetes screening and medication to over 200 Ogun residents in Abeokuta to mark World Diabetes Day and promote early detection. Read More: https://punchng.com/lions-clubs-screen-over-200-ogun-re",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-22T18:00:40+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Vanguard",
-    "title": "Iran unveils new missile launcher as commanders issue warning to US",
-    "link": "https://www.vanguardngr.com/2026/11/iran-unveils-new-missile-launcher-as-commanders-issue-warning-to-us/",
-    "summary": "Iran has unveiled a new missile launcher as senior military commanders touted the Islamic republic's capabilities in defiant messages to the United States. The post Iran unveils new missile launcher as commanders issue w",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/US-Iran.png",
-    "published": "2026-11-22T17:54:34+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Vanguard",
-    "title": "Climate deal collapses in chaotic end to COP31",
-    "link": "https://www.vanguardngr.com/2026/11/climate-deal-collapses-in-chaotic-end-to-cop31/",
-    "summary": "The COP31 climate talks ended in failure Sunday as a contentious deal collapsed over fossil fuels and the summit stretched into record overtime in Turkey. The post Climate deal collapses in chaotic end to COP31 appeared",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/AFP__20261122__D8AB7FR__v1__MidRes__TurkeyAustraliaUnClimateCop31-1024x683.jpg",
-    "published": "2026-11-22T17:52:32+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Oyo, police warn NURTW against violence",
-    "link": "https://punchng.com/oyo-police-warn-nurtw-against-violence/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Oyo government and police warn NURTW against violence and any takeover of motor parks, saying the Court of Appeal judgment gives no basis for such action. Read More: https://punchng.com/oyo-police-warn-nurtw-against-viol",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-22T17:51:09+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Amnesty demands probe as tourist accuses Daura emir of sexual assault",
-    "link": "https://punchng.com/amnesty-demands-probe-as-tourist-accuses-daura-emir-of-sexual-assault/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Amnesty International wants a probe after a tourist accused the Emir of Daura of sexual assault. A palace source denied the claim; it is unconfirmed. Read More: https://punchng.com/amnesty-demands-probe-as-tourist-accuse",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-22T17:34:04+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "2027: Nigeria not working for most citizens – Makinde",
-    "link": "https://punchng.com/2027-nigeria-not-working-for-most-citizens-makinde/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "APM presidential candidate Seyi Makinde says Nigeria has failed most citizens and urges support for his Reset Agenda on economy, security and education. Read More: https://punchng.com/2027-nigeria-not-working-for-most-ci",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-22T17:27:51+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Vanguard",
-    "title": "Amnesty International demands probe of Emir of Daura over sexual assault allegations",
-    "link": "https://www.vanguardngr.com/2026/11/amnesty-international-demands-probe-of-emir-of-daura-over-sexual-assault-allegations/",
-    "summary": "Amnesty International Nigeria has called on the authorities to immediately investigate allegations of sexual assault against the 92-year-old Emir of Daura, Faruk Umar Faruk, following an incident involving a female forei",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Emir-Of-Daura.png",
-    "published": "2026-11-22T16:56:30+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Lagos firefighters rescue 70-year-old woman from 60-foot well",
-    "link": "https://punchng.com/lagos-firefighters-rescue-70-year-old-woman-from-60-foot-well/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Lagos firefighters rescued a 70-year-old woman alive after she fell into a 60-foot well in Oworonshoki, Kosofe, the state fire service said on Sunday. Read More: https://punchng.com/lagos-firefighters-rescue-70-year-old-",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-22T16:50:29+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Vanguard",
-    "title": "FG orders probe into deadly Bayelsa boat accident",
-    "link": "https://www.vanguardngr.com/2026/11/fg-orders-probe-into-deadly-bayelsa-boat-accident/",
-    "summary": "By Folarin Kehinde The Federal Government has ordered an immediate investigation into the boat accident that claimed several lives in Bayelsa State, warning that it would no longer tolerate avoidable safety violations on",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.44.39-PM.jpeg",
-    "published": "2026-11-22T16:48:13+00:00"
    }
   ],
   "ZA": [
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "CONTAMINATION: Diepsloot residents turn to boiling and bleach after water warning",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-diepsloot-residents-turn-to-boiling-and-bleach-after-water-warning/",
+    "summary": "For more than a week, potential contamination has left Diepsloot residents unable to drink their tap water.",
+    "image": "https://cdn.dailymaverick.co.za/i/oO5UBWcdhskPTFVuwKruZAXH36Q=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2024/09/GettyImages-2154530216-1.jpg",
+    "published": "2026-11-22T22:46:52+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "BUSINESS REFLECTION: Crossed Wires: GLP-1s — the tangled world of weight loss, stigma, addiction and money",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-crossed-wires-glp-1s-the-tangled-world-of-weight-loss-stigma-addiction-and-money/",
+    "summary": "GLP-1 drugs promise transformative weight-loss and broader health benefits, but stigma, regaining of weight, high costs and insurers’ short-term thinking complicate their use.",
+    "image": "https://cdn.dailymaverick.co.za/i/bdYo6xQmUzwW5j1QY28MoT9kLt4=/800x0/smart/filters:strip_exif()/file/attachments/orphans/BM-CW-glp1-discussion_972973.jpg",
+    "published": "2026-11-22T22:46:11+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "LABOUR (IN)JUSTICE: Aspen Pharmacare loses appeal bid in man’s decade-long fight over unfair dismissal",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-aspen-pharmacare-loses-appeal-bid-in-mans-decade-long-fight-over-unfair-dismissal/",
+    "summary": "Aspen suffered another legal blow after the Labour Court dismissed its bid for leave to appeal against an order to reinstate Roderick Munnick, who was unfairly dismissed a decade ago.",
+    "image": "https://cdn.dailymaverick.co.za/i/_17wdOIeFe2TOVbnNEqsS7FzUbg=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Kyran-Aspen1_331839.jpg",
+    "published": "2026-11-22T22:38:47+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "UNPACKING THE POLLS: Beyond coalitions, Joburg needs to rebuild trust and restore services",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-beyond-coalitions-joburg-needs-to-rebuild-trust-and-restore-services/",
+    "summary": "Panellists at Daily Maverick’s Johannesburg post-elections conversation said the future of the city will be determined by more than who occupies the mayor’s office.",
+    "image": "https://cdn.dailymaverick.co.za/i/6bS42gR_0eSiiJgYQddwAPTSeuQ=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Tumi-Jhb-future8_651704.jpg",
+    "published": "2026-11-22T22:37:03+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "WHERE TO INVEST: Lewis Group bucks JSE retail gloom with double-digit earnings growth",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-lewis-group-bucks-jse-retail-gloom-with-double-digit-earnings-growth/",
+    "summary": "With earnings and dividends up more than 11%, Lewis Group is outperforming South African retailers, but rising debt and credit risk temper the optimism.",
+    "image": "https://cdn.dailymaverick.co.za/i/r55coY3Q02naJ7a0w2IRGrOiyxU=/800x0/smart/filters:strip_exif()/file/attachments/orphans/BM-FG-Get-in-Lewis_127030.jpg",
+    "published": "2026-11-22T22:33:35+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "CREATIVE ENERGY: Bay’s Athenaeum in a sorry state, but agency’s planned film hub offers hope",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-bays-athenaeum-in-a-sorry-state-but-agencys-planned-film-hub-offers-hope/",
+    "summary": "Gqeberha’s crumbling Athenaeum could find new life as a permanent film hub, attracting productions, creating jobs and unlocking the Eastern Cape’s creative potential.",
+    "image": "https://cdn.dailymaverick.co.za/i/hF-pnQDOFepQo57GwcOu_MWPcE8=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Kyran-NMBFilmFest-1_553350.jpg",
+    "published": "2026-11-22T22:33:05+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "After the ballot — rebuilding Nelson Mandela Bay",
+    "link": "https://www.dailymaverick.co.za/opinionista/2026-11-22-after-the-ballot-rebuilding-nelson-mandela-bay/",
+    "summary": "We believe that Nelson Mandela Bay is capable of recovery if political, administrative, business, civil society, labour, intergovernmental and technical partners align behind a disciplined implementation programme that i",
+    "image": "",
+    "published": "2026-11-22T22:25:36+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "ANALYSIS: Julius Malema — feared no longer",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-julius-malema-feared-no-longer/",
+    "summary": "The EFF’s 6.22% election result exposes Julius Malema’s declining influence, as the MK party, lost allies, internal turmoil and accountability questions erode his political power.",
+    "image": "https://cdn.dailymaverick.co.za/i/V9LtWMZE7P42YRqdQMq2Co4OawM=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Malema-fear_544593.jpg",
+    "published": "2026-11-22T22:21:45+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "ABOVE THE LAW: SA links to global ‘sky traffickers’ exposed after fatal Brazil cocaine plane crash",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-sa-links-to-global-sky-traffickers-exposed-after-fatal-brazil-cocaine-plane-crash/",
+    "summary": "Australian pilot Timothy Clark was killed in 2025 when the small aircraft he flew from South Africa to Brazil crashed in a sugarcane field there. Authorities found more than 200kg of cocaine at the scene. This has led to",
+    "image": "https://cdn.dailymaverick.co.za/i/XIfM1S6Tyv2A0tiEPV8w61qXC6s=/800x0/smart/filters:strip_exif()/file/attachments/orphans/cocaine-planes-caryn-5_743947.jpg",
+    "published": "2026-11-22T21:56:37+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "END OF THE ROAD?: Continental to halt tyre production at Gqeberha plant, putting 950 jobs at risk",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-continental-to-halt-tyre-production-at-gqeberha-plant-putting-950-jobs-at-risk/",
+    "summary": "The possible closure of Continental’s Gqeberha factory could wipe out tyre manufacturing in the Eastern Cape, deepen unemployment and accelerate pressure on the automotive sector.",
+    "image": "https://cdn.dailymaverick.co.za/i/VqDNuS0ohw67MfyIZPeT3Q-a4eM=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Riaan-Continental-1_908768.jpg",
+    "published": "2026-11-22T21:31:04+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "COP31 climate talks collapse as EU and others reject deal",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-cop31-climate-talks-collapse-as-eu-and-others-reject-deal/",
+    "summary": "ANTALYA, Turkey, Nov 22 (Reuters) - UN climate talks ended in collapse on Sunday as the European Union and others rejected a final deal put forward by COP31 presidents Turkey and Australia, saying it was too weak to adva",
+    "image": "https://cdn.dailymaverick.co.za/i/SMSMg9r4GxPmGuTOFItH9WUh2kM=/800x0/smart/filters:strip_exif()/file/attachments/3000/14458143_209885.jpg",
+    "published": "2026-11-22T21:14:27+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "Libya’s eastern government suspects drone attack caused explosion on Russian ship in Benghazi",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-22-libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-in-benghazi/",
+    "summary": "",
+    "image": "https://cdn.dailymaverick.co.za/i/mbdhR0ul-cCCjPLXf5_0UjwFVS0=/800x0/smart/filters:strip_exif()/file/attachments/3000/14464089_966830.jpg",
+    "published": "2026-11-22T21:06:49+00:00"
+   },
    {
     "cat": "nat",
     "source": "Daily Maverick",
@@ -5630,15 +5738,6 @@
    },
    {
     "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "CRIME BY NUMBERS: Cachalia drops apartheid truth bombs as latest stats show ‘60 killed daily in SA’",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-20-cachalia-drops-apartheid-truth-bombs-as-latest-stats-show-60-killed-daily-in-sa/",
-    "summary": "South Africa’s latest official crime statistics show that over three months, 5,590 people were murdered in the country. Referencing gang killings and violence, Acting Police Minister Firoz Cachalia reminded Parliamentari",
-    "image": "https://cdn.dailymaverick.co.za/i/mmcvdFG95VA4cscjHFGABNb-FAY=/800x0/smart/filters:strip_exif()/file/attachments/orphans/cachalia-truths-caryn_930967.jpg",
-    "published": "2026-11-20T13:12:54+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "IOL",
     "title": "Carrim’s lawyers accuse Madlanga Commission of ‘malicious harm’ as court orders engagement",
     "link": "https://iol.co.za/news/crime-and-courts/2026-11-20-carrims-lawyers-accuse-madlanga-commission-of-malicious-harm-as-court-orders-engagement/",
@@ -5648,30 +5747,12 @@
    },
    {
     "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "STUDENT SUCCESS: UCT medical student wins top award but debt threatens graduation",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-20-uct-medical-student-wins-top-award-but-debt-threatens-graduation/",
-    "summary": "Despite international recognition and UCT’s top student award, medical student Sayuran Pillay remains vulnerable to financial exclusion and may not complete his studies.",
-    "image": "https://cdn.dailymaverick.co.za/i/UOMjBApv9GpgR1JC16lL_f2y9W0=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Siya-Pillay-VCaward2_383281.jpg",
-    "published": "2026-11-20T12:04:07+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "IOL",
     "title": "Man who raped woman because she was ‘cheeky’ handed life sentence",
     "link": "https://iol.co.za/news/crime-and-courts/2026-11-20-man-who-raped-woman-because-she-was-cheeky-handed-life-sentence/",
     "summary": "Olwethu Komani has been sentenced to life imprisonment for repeatedly raping a woman after kidnapping and robbing her in Motherwell, Gqeberha.",
     "image": "https://iol-prod.appspot.com/image/8729e34261c69a831e6100e51d5bbc32a32542b0",
     "published": "2026-11-20T12:02:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "SOCIAL INVESTMENT: How South Africa’s poorest women struggle to build our country’s preschools",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-20-how-south-africas-poorest-women-struggle-to-build-our-countrys-preschools/",
-    "summary": "The government may have simplified registration and raised subsidies, but still many women running preschools in impoverished areas cannot afford the costly build repairs required to meet safety standards and access fund",
-    "image": "https://cdn.dailymaverick.co.za/i/C-yL3qil4lgllruGb3ZWh26QfwM=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2024/07/Bophelo-Before.jpeg",
-    "published": "2026-11-20T11:52:28+00:00"
    },
    {
     "cat": "nat",
@@ -5693,75 +5774,12 @@
    },
    {
     "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "Taiwan tells Meta thousands of China-linked accounts seek to influence elections",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-20-taiwan-tells-meta-thousands-of-china-linked-accounts-seek-to-influence-elections/",
-    "summary": "Taiwan has flagged nearly 2,700 social media accounts to Meta that it says appear to be part of a Chinese information warfare campaign seeking to influence elections on the island next week, according to three government",
-    "image": "https://cdn.dailymaverick.co.za/i/xRXY_rF4a38-_quWKZO0zWhBIfg=/800x0/smart/filters:strip_exif()/file/attachments/3000/14327765_438346.jpg",
-    "published": "2026-11-20T10:21:19+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "Indonesia’s Prabowo, China’s Xi discuss future South China Sea cooperation",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-20-indonesias-prabowo-chinas-xi-discuss-future-south-china-sea-cooperation/",
-    "summary": "Indonesia's President Prabowo Subianto met with China's President Xi Jinping on Friday to discuss the economy and investment partnerships as well as developments in cooperation in the South China Sea, the Indonesian gove",
-    "image": "https://cdn.dailymaverick.co.za/i/GTi6-9Tb3Xrrf6gs75wt6oy0ZFc=/800x0/smart/filters:strip_exif()/file/attachments/3000/14457850_223424.jpg",
-    "published": "2026-11-20T10:20:59+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "Kenya says two hippos died after eating maize, fishing nets",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-20-kenya-says-two-hippos-died-after-eating-maize-fishing-nets/",
-    "summary": "Two Kenyan hippopotamuses died after ingesting fishing nets and maize stalks, the Kenya Wildlife Service (KWS) said, joining a spate of deaths of wildlife after adverse contacts with humans.",
-    "image": "https://cdn.dailymaverick.co.za/i/x1EviWcF7mLDRNyIdH6nppebFD4=/800x0/smart/filters:strip_exif()/file/attachments/3000/14457037_130021.jpg",
-    "published": "2026-11-20T10:20:53+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "Anthropic’s Australian data centre overwhelmingly opposed by residents",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-20-anthropics-australian-data-centre-overwhelmingly-opposed-by-residents/",
-    "summary": "A data centre planned in regional Australia with Anthropic ANT.O as its anchor tenant is overwhelmingly opposed by residents, a filing for the project showed, setting the scene for a showdown between the AI company and t",
-    "image": "https://cdn.dailymaverick.co.za/i/nOMzdr33RyQcjJ8HHSPwfk60y_w=/800x0/smart/filters:strip_exif()/file/attachments/3000/14457037_821646.jpg",
-    "published": "2026-11-20T10:20:47+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "BHEKISISA: Saiqa Mullick is bridging the gap Between HIV research and real-world impact",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-20-saiqa-mullick-is-bridging-the-gap-between-hiv-research-and-real-world-impact/",
-    "summary": "Scientists created an HIV prevention jab that almost always works. Getting people to use it is a different sort of science. Meet Saiqa Mullick, one of its leading practitioners.",
-    "image": "https://cdn.dailymaverick.co.za/i/eJEiKHtueH4yYC5IQ1Q7DW7IEp4=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Bhekisisa_HIV-MullickMAIN_732680.jpg",
-    "published": "2026-11-20T10:15:16+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "OLD ROADS AGAIN: Melba-toast memories and boerie rolls served on Italian blue Spode (Part One)",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-20-melba-toast-memories-and-boerie-rolls-served-on-italian-blue-spode-part-one/",
-    "summary": "Roads shape-shift into mirages and sliver out of them again as you retrace old routes. Terrain captured in watercolour morphs into newly-laid asphalt. The King’s Ginger is sipped from crystal glasses as friends lock eyes",
-    "image": "https://cdn.dailymaverick.co.za/i/sue8cs1TwPKe0XsggB6rWo3Qz-s=/800x0/smart/filters:strip_exif()/file/attachments/3000/matjies-balcony_178963.jpg",
-    "published": "2026-11-20T10:00:00+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "IOL",
     "title": "South African Responsible Gambling Foundation and Hollywoodbets builds a ‘classroom for life’ through the Taking Risks Wisely programme",
     "link": "https://iol.co.za/news/partnered/2026-11-20-south-african-responsible-gambling-foundation-and-hollywoodbets-builds-a-classroom-for-life-through-the-taking-risks-wisely-programme/",
     "summary": "The Hollywood Foundation and South African Responsible Gambling Foundation will expand their responsible gambling education programme to 100 additional schools and 25 tertiary institutions in 2027.",
     "image": "https://iol-prod.appspot.com/image/eb94084ffbb6336fb359092e5c8d5ac8cfaced6f",
     "published": "2026-11-20T09:20:59+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "FRENCH LETTER: Magic mushrooms (maybe all mushrooms are magic?)",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-20-magic-mushrooms-maybe-all-mushrooms-are-magic/",
-    "summary": "An autumn adventure through the mushroom-rich woods and markets of the Périgord, celebrating wild fungi, foraging discoveries and culinary surprises. Real magic lies not just in finding mushrooms, but in learning to look",
-    "image": "https://cdn.dailymaverick.co.za/i/oQX1KvInSWMjtwVJ48bFGkaGxm4=/800x0/smart/filters:strip_exif()/file/attachments/3000/Maritamain_612491.jpeg",
-    "published": "2026-11-20T09:00:00+00:00"
    },
    {
     "cat": "nat",
@@ -5798,24 +5816,6 @@
     "summary": "Three men were granted R10 000 bail after 11 wild animals, including lion cubs, tigers and caracal kittens, were allegedly found in unsafe plastic crates at a property in East Lynne, Pretoria.",
     "image": "https://iol-prod.appspot.com/image/ceef38464aba8bf5c9c551d7d4019f4b257954ae",
     "published": "2026-11-20T08:04:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "IOL",
-    "title": "Police seize shotgun, 295 rounds of ammunition and 41 bottles of cough syrup in Muldersdrift raid",
-    "link": "https://iol.co.za/news/crime-and-courts/2026-11-20-police-seize-shotgun-295-rounds-of-ammunition-and-41-bottles-of-cough-syrup-in-muldersdrift-raid/",
-    "summary": "Gauteng police have arrested a suspect after seizing a shotgun linked to a Free State criminal case, 295 rounds of ammunition and 41 bottles of cough syrup during a raid in Muldersdrift.",
-    "image": "https://iol-prod.appspot.com/image/b9443ee5f4ac453558a7ab38536ccfead035daca",
-    "published": "2026-11-20T06:20:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "IOL",
-    "title": "Worker fired for leaving keys in refuse truck and left it idling unattended on street for 20 minutes",
-    "link": "https://iol.co.za/news/crime-and-courts/2026-11-20-worker-fired-for-leaving-keys-in-refuse-truck-and-left-it-idling-unattended-on-street-for-20-minutes/",
-    "summary": "The Labour Court upheld the dismissal of Breede Valley municipal worker after finding that he knowingly left a refuse compactor running, unlocked and unattended for nearly 21 minutes.",
-    "image": "https://iol-prod.appspot.com/image/9a93227001fc7a7e2aa905cec0ed474b6f3d9933",
-    "published": "2026-11-20T06:00:00+00:00"
    }
   ]
  }
