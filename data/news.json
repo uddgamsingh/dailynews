@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:01:50+00:00",
+ "generated_at": "2026-11-24T20:15:53+00:00",
  "failed_sources": [
   "VentureBeat AI",
   "LangChain Blog",
@@ -18,10 +18,28 @@
  "ai": [
   {
    "cat": "ai",
+   "source": "The Verge AI",
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim",
+   "image": "",
+   "published": "2026-11-24T20:14:49+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "The Verge AI",
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job",
+   "image": "",
+   "published": "2026-11-24T20:02:03+00:00"
+  },
+  {
+   "cat": "ai",
    "source": "Hacker News",
    "title": "Compiling Web Applications into Verified Operations for AI Agents",
    "link": "https://protocolis.co/paper/",
-   "summary": "12 points · 0 comments on Hacker News · protocolis.co",
+   "summary": "15 points · 0 comments on Hacker News · protocolis.co",
    "image": "",
    "published": "2026-11-24T19:12:02+00:00"
   },
@@ -30,7 +48,7 @@
    "source": "Hacker News",
    "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
    "link": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
-   "summary": "73 points · 68 comments on Hacker News · github.com",
+   "summary": "75 points · 76 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-24T18:55:12+00:00"
   },
@@ -42,6 +60,15 @@
    "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg",
    "published": "2026-11-24T18:47:57+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "The Verge AI",
+   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+   "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+   "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether gen",
+   "image": "",
+   "published": "2026-11-24T18:38:16+00:00"
   },
   {
    "cat": "ai",
@@ -93,7 +120,7 @@
    "source": "Hacker News",
    "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
    "link": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
-   "summary": "171 points · 92 comments on Hacker News · novaramedia.com",
+   "summary": "173 points · 93 comments on Hacker News · novaramedia.com",
    "image": "",
    "published": "2026-11-24T17:10:45+00:00"
   },
@@ -127,15 +154,6 @@
   {
    "cat": "ai",
    "source": "The Verge AI",
-   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim",
-   "image": "",
-   "published": "2026-11-24T16:21:52+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "The Verge AI",
    "title": "Jensen Huang deepfakes are the hot new AI slop",
    "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
    "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jack",
@@ -147,7 +165,7 @@
    "source": "Hacker News",
    "title": "Tidal bans AI-generated music",
    "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-   "summary": "292 points · 267 comments on Hacker News · variety.com",
+   "summary": "297 points · 270 comments on Hacker News · variety.com",
    "image": "",
    "published": "2026-11-24T16:12:38+00:00"
   },
@@ -156,7 +174,7 @@
    "source": "Hacker News",
    "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
    "link": "https://masondata.ai/",
-   "summary": "49 points · 5 comments on Hacker News · masondata.ai",
+   "summary": "52 points · 6 comments on Hacker News · masondata.ai",
    "image": "",
    "published": "2026-11-24T16:11:52+00:00"
   },
@@ -228,7 +246,7 @@
    "source": "Hacker News",
    "title": "Anthropic breaks below $83 IPO price",
    "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-   "summary": "193 points · 424 comments on Hacker News · bloomberg.com",
+   "summary": "204 points · 443 comments on Hacker News · bloomberg.com",
    "image": "",
    "published": "2026-11-24T13:23:47+00:00"
   },
@@ -237,7 +255,7 @@
    "source": "Hacker News",
    "title": "LLM agents work for their parent companies, not for you",
    "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-   "summary": "758 points · 319 comments on Hacker News · michaelharley.net",
+   "summary": "764 points · 323 comments on Hacker News · michaelharley.net",
    "image": "",
    "published": "2026-11-24T12:40:15+00:00"
   },
@@ -255,7 +273,7 @@
    "source": "Hacker News",
    "title": "Quit Internet Videos Before AI Perfects Them",
    "link": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects",
-   "summary": "17 points · 1 comments on Hacker News · nomagicpill.substack.com",
+   "summary": "18 points · 1 comments on Hacker News · nomagicpill.substack.com",
    "image": "",
    "published": "2026-11-24T12:20:15+00:00"
   },
@@ -291,7 +309,7 @@
    "source": "Hacker News",
    "title": "Declare is a UI language for you and your AI",
    "link": "https://davidtemkin.github.io/declarelang/",
-   "summary": "97 points · 83 comments on Hacker News · davidtemkin.github.io",
+   "summary": "99 points · 84 comments on Hacker News · davidtemkin.github.io",
    "image": "",
    "published": "2026-11-24T02:36:56+00:00"
   },
@@ -336,7 +354,7 @@
    "source": "Hacker News",
    "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
    "link": "https://arxiv.org/abs/2602.20031",
-   "summary": "71 points · 7 comments on Hacker News · arxiv.org",
+   "summary": "72 points · 7 comments on Hacker News · arxiv.org",
    "image": "",
    "published": "2026-11-23T22:29:48+00:00"
   },
@@ -450,15 +468,6 @@
   },
   {
    "cat": "ai",
-   "source": "The Verge AI",
-   "title": "How Jensen Huang ended up as Nvidia CEO again",
-   "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-   "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over",
-   "image": "",
-   "published": "2026-11-23T20:38:44+00:00"
-  },
-  {
-   "cat": "ai",
    "source": "Hacker News",
    "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
    "link": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
@@ -474,15 +483,6 @@
    "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
    "image": "",
    "published": "2026-11-23T19:14:46+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "The Verge AI",
-   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-   "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-   "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-gen",
-   "image": "",
-   "published": "2026-11-23T19:04:52+00:00"
   },
   {
    "cat": "ai",
@@ -560,10 +560,28 @@
  "aitech": [
   {
    "cat": "aitech",
+   "source": "The Verge AI",
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim",
+   "image": "",
+   "published": "2026-11-24T20:14:49+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "The Verge AI",
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job",
+   "image": "",
+   "published": "2026-11-24T20:02:03+00:00"
+  },
+  {
+   "cat": "aitech",
    "source": "Hacker News",
    "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
    "link": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
-   "summary": "73 points · 68 comments on Hacker News · github.com",
+   "summary": "75 points · 76 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-24T18:55:12+00:00"
   },
@@ -597,27 +615,18 @@
   {
    "cat": "aitech",
    "source": "Hacker News",
-   "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+   "title": "Active intrusion campaign against CheckPoint security management servers",
    "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-   "summary": "205 points · 71 comments on Hacker News · greynoise.io",
+   "summary": "207 points · 73 comments on Hacker News · greynoise.io",
    "image": "",
    "published": "2026-11-24T16:32:17+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "The Verge AI",
-   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim",
-   "image": "",
-   "published": "2026-11-24T16:21:52+00:00"
   },
   {
    "cat": "aitech",
    "source": "Hacker News",
    "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
    "link": "https://masondata.ai/",
-   "summary": "49 points · 5 comments on Hacker News · masondata.ai",
+   "summary": "52 points · 6 comments on Hacker News · masondata.ai",
    "image": "",
    "published": "2026-11-24T16:11:52+00:00"
   },
@@ -662,7 +671,7 @@
    "source": "Hacker News",
    "title": "A training engine for your local model, using your idle compute",
    "link": "https://github.com/sous-labs/songe",
-   "summary": "105 points · 26 comments on Hacker News · github.com",
+   "summary": "111 points · 29 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-24T15:03:40+00:00"
   },
@@ -689,7 +698,7 @@
    "source": "Hacker News",
    "title": "GTA 6 Running on Windows",
    "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
-   "summary": "97 points · 141 comments on Hacker News · twitter.com",
+   "summary": "112 points · 148 comments on Hacker News · twitter.com",
    "image": "",
    "published": "2026-11-24T13:19:31+00:00"
   },
@@ -698,7 +707,7 @@
    "source": "Hacker News",
    "title": "LLM agents work for their parent companies, not for you",
    "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-   "summary": "758 points · 319 comments on Hacker News · michaelharley.net",
+   "summary": "764 points · 323 comments on Hacker News · michaelharley.net",
    "image": "",
    "published": "2026-11-24T12:40:15+00:00"
   },
@@ -752,7 +761,7 @@
    "source": "Hacker News",
    "title": "Drone Maps of Salvage Yards",
    "link": "https://salvageyarddrone.wordpress.com/",
-   "summary": "164 points · 64 comments on Hacker News · salvageyarddrone.wordpress.com",
+   "summary": "164 points · 65 comments on Hacker News · salvageyarddrone.wordpress.com",
    "image": "",
    "published": "2026-11-24T04:00:28+00:00"
   },
@@ -761,7 +770,7 @@
    "source": "Hacker News",
    "title": "Hacking radiators",
    "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
-   "summary": "28 points · 13 comments on Hacker News · qsantos.fr",
+   "summary": "29 points · 13 comments on Hacker News · qsantos.fr",
    "image": "",
    "published": "2026-11-24T02:56:41+00:00"
   },
@@ -770,7 +779,7 @@
    "source": "Hacker News",
    "title": "Declare is a UI language for you and your AI",
    "link": "https://davidtemkin.github.io/declarelang/",
-   "summary": "97 points · 83 comments on Hacker News · davidtemkin.github.io",
+   "summary": "99 points · 84 comments on Hacker News · davidtemkin.github.io",
    "image": "",
    "published": "2026-11-24T02:36:56+00:00"
   },
@@ -779,7 +788,7 @@
    "source": "Hacker News",
    "title": "Rune: Rust VM for Emacs",
    "link": "https://github.com/CeleritasCelery/rune",
-   "summary": "55 points · 17 comments on Hacker News · github.com",
+   "summary": "55 points · 18 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-24T02:30:47+00:00"
   },
@@ -797,7 +806,7 @@
    "source": "Hacker News",
    "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
    "link": "https://github.com/ItsNotRexed/Leonida/issues",
-   "summary": "299 points · 540 comments on Hacker News · github.com",
+   "summary": "302 points · 544 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-24T02:08:09+00:00"
   },
@@ -851,7 +860,7 @@
    "source": "Hacker News",
    "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
    "link": "https://arxiv.org/abs/2602.20031",
-   "summary": "71 points · 7 comments on Hacker News · arxiv.org",
+   "summary": "72 points · 7 comments on Hacker News · arxiv.org",
    "image": "",
    "published": "2026-11-23T22:29:48+00:00"
   },
@@ -929,15 +938,6 @@
   },
   {
    "cat": "aitech",
-   "source": "The Verge AI",
-   "title": "How Jensen Huang ended up as Nvidia CEO again",
-   "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-   "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over",
-   "image": "",
-   "published": "2026-11-23T20:38:44+00:00"
-  },
-  {
-   "cat": "aitech",
    "source": "Hacker News",
    "title": "Claude Ship",
    "link": "https://claude.com/resources/articles/introducing-claude-ship",
@@ -968,7 +968,7 @@
    "source": "Hacker News",
    "title": "Apple removed my open-source app from EU App Stores after 9 years",
    "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
-   "summary": "610 points · 155 comments on Hacker News · github.com",
+   "summary": "611 points · 155 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-23T18:48:10+00:00"
   },
@@ -1022,7 +1022,7 @@
    "source": "Hacker News",
    "title": "Kagi Mail (public beta)",
    "link": "https://blog.kagi.com/kagi-mail-public-beta",
-   "summary": "453 points · 370 comments on Hacker News · blog.kagi.com",
+   "summary": "453 points · 371 comments on Hacker News · blog.kagi.com",
    "image": "",
    "published": "2026-11-23T17:17:01+00:00"
   },
@@ -1102,6 +1102,24 @@
  "intl": [
   {
    "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after affair with Chinese spy but says no security risk found – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says Sign up for the Breaking News US email Earlier we mentioned Donal",
+   "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ee454ea4cdb9ea123a51cfd99553766d",
+   "published": "2026-11-24T19:59:57+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
+   "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+   "summary": "Get our daily political email , free app or daily news podcast Inflation expected to jump when latest figures released today The government’s economic management will be back in the spotlight today, with official figures",
+   "image": "https://i.guim.co.uk/img/media/225db5ddbf67036e02aa877e209fa7a017281505/868_768_3204_2565/master/3204.jpg?width=140&quality=85&auto=format&fit=max&s=85e5b45b6c5cfbb4be355f9033b66c76",
+   "published": "2026-11-24T19:54:46+00:00"
+  },
+  {
+   "cat": "intl",
    "source": "Al Jazeera",
    "title": "Turkish military helicopter crash kills five in western Turkiye",
    "link": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
@@ -1130,7 +1148,7 @@
   {
    "cat": "intl",
    "source": "The Guardian World",
-   "title": "US army map shows projected path of toxic dust from Iowa detonation",
+   "title": "US army maps show projected path of toxic dust from Iowa detonation",
    "link": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
    "summary": "Detonation of bomb-making chemicals set for Wednesday as residents warned to stay indoors with windows closed The US army has released new maps showing the projected path of a toxic lead dust plume from the planned deton",
    "image": "https://i.guim.co.uk/img/media/e3fa562acd41fbc234a6b388803319c9032cc73c/0_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=1b942f417d02d1f5e8969b291e00769a",
@@ -1144,15 +1162,6 @@
    "summary": "The Welsh-Indian artist takes this year’s award, an established bellwether for future stars, for work focused on memory, migration and hidden histories Alia Syed has won this year’s Film London Jarman award, the prestigi",
    "image": "https://i.guim.co.uk/img/media/2d1ce22b2b334580c3ac3c06bc2d49be140a69fa/387_0_2226_1781/master/2226.jpg?width=140&quality=85&auto=format&fit=max&s=6609e92f1504a09e27aa93fcb2cd1dc7",
    "published": "2026-11-24T19:30:54+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says Sign up for the Breaking News US email Earlier we mentioned Donal",
-   "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ee454ea4cdb9ea123a51cfd99553766d",
-   "published": "2026-11-24T19:29:54+00:00"
   },
   {
    "cat": "intl",
@@ -1630,35 +1639,53 @@
    "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=g-s1-155227",
    "published": "2026-11-24T12:12:25+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "BBC World",
-   "title": "Car bomb tears through Colombian city wounding more than 20",
-   "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-   "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c0/live/f8f77110-e811-11f1-99a1-253766e7ad8b.jpg",
-   "published": "2026-11-24T11:45:52+00:00"
   }
  ],
  "sports": [
   {
    "cat": "sports",
    "source": "Guardian Sport",
+   "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
+   "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+   "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at",
+   "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9",
+   "published": "2026-11-24T20:04:50+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
    "title": "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live",
    "link": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
    "summary": "⚽ Live coverage from six 8pm GMT kick-offs ⚽ De Bruyne’s return reminds City what they are missing ⚽ Live scores | League phase standings | Email Simon There’s been a shot on target now, and it’s only gone in! It’s from",
-   "image": "https://i.guim.co.uk/img/media/17acd8358e42f610050fa08970ffdfaa8d37e7ac/0_122_2984_2387/master/2984.jpg?width=140&quality=85&auto=format&fit=max&s=ee46f0be7bbe045c3c2e7364a8e63518",
-   "published": "2026-11-24T19:58:05+00:00"
+   "image": "https://i.guim.co.uk/img/media/de852100808f7b789c11ecf786dfc4d4be756c31/424_0_3693_2954/master/3693.jpg?width=140&quality=85&auto=format&fit=max&s=01bbbb255df0641f7e49cd49eab3b145",
+   "published": "2026-11-24T20:04:27+00:00"
   },
   {
    "cat": "sports",
    "source": "Guardian Sport",
    "title": "Arsenal v Borussia Dortmund: Champions League – live",
    "link": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
-   "summary": "⚽️ Minute-by-minute updates from the 8pm GMT kick-off ⚽️ Nwaneri risks becoming forgotten teenager at Dortmund ⚽ Live scores | League phase standings | Email Scott I’ll level with you, I’ve spent the last 15 minutes look",
+   "summary": "⚽️ Minute-by-minute updates from the 8pm GMT kick-off ⚽️ Nwaneri risks becoming forgotten teenager at Dortmund ⚽ Live scores | League phase standings | Email Scott 2 min: Tzolis goes racing down the left. A low cross int",
    "image": "https://i.guim.co.uk/img/media/dc45a1d05bb3aed46b9475fa3c8b6bab8ee38e45/469_0_3687_2949/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=b5f6f804ac811330e9ab95b9a743f396",
-   "published": "2026-11-24T19:52:15+00:00"
+   "published": "2026-11-24T20:03:25+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Bayern hold 'constructive' talks over Musiala's health",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Bayern Munich are only focused on getting Jamal Musiala back from injury and not interested in the comments made regarding his contract, the club's sporting director Max Eberl insists.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fa/live/a6b3ed00-e83b-11f1-917e-35f1674fb52c.jpg",
+   "published": "2026-11-24T19:58:58+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Sheehan to miss Ireland's Nations Championship finale after two-game ban",
+   "link": "https://www.skysports.com/rugby-union/news/12040/13616108/ireland-captain-dan-sheehan-to-miss-nations-championship-finale-after-two-game-ban-for-red-card-against-south-africa",
+   "summary": "Ireland captain Dan Sheehan will miss Friday's Nations Championship fifth-place play-off against Australia after being handed a two-game ban for his red card against South Africa.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-dan-sheehan-ireland_7411383.jpg?20261120124340",
+   "published": "2026-11-24T19:55:00+00:00"
   },
   {
    "cat": "sports",
@@ -1708,20 +1735,11 @@
   {
    "cat": "sports",
    "source": "Sky Sports",
-   "title": "Portsmouth vs West Ham LIVE!",
+   "title": "Bowen hits the post for West Ham at Portsmouth LIVE!",
    "link": "https://www.skysports.com/football/portsmouth-vs-west-ham-united/live/560695",
    "summary": "",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-efl-championship_7415043.jpg?20261124075522",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-west-ham-portsmouth_7415613.jpg?20261124200543",
    "published": "2026-11-24T19:15:00+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Guardian Sport",
-   "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
-   "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
-   "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at",
-   "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9",
-   "published": "2026-11-24T19:13:45+00:00"
   },
   {
    "cat": "sports",
@@ -1789,7 +1807,7 @@
   {
    "cat": "sports",
    "source": "Sky Sports",
-   "title": "Godfrey starts for Rangers vs Aberdeen LIVE!",
+   "title": "Rangers vs Aberdeen LIVE!",
    "link": "https://www.skysports.com/football/rangers-vs-aberdeen/live/578619",
    "summary": "",
    "image": "https://e2.365dm.com/26/11/1920x1080/skysports-rangers-aberdeen_7415406.jpg?20261124152521",
@@ -1861,7 +1879,7 @@
   {
    "cat": "sports",
    "source": "Sky Sports",
-   "title": "Arsenal vs Borussia Dortmund LIVE!",
+   "title": "Gyokeres stunner puts Arsenal ahead against Borussia Dortmund LIVE!",
    "link": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/live/577669",
    "summary": "",
    "image": "https://e2.365dm.com/26/11/1920x1080/skysports-martin-odegaard-arsenal_7400173.jpg?20261107164646",
@@ -1960,9 +1978,9 @@
   {
    "cat": "sports",
    "source": "Sky Sports",
-   "title": "Man Utd win Yoro red card appeal - but Webb backs referee and VAR process",
+   "title": "Man Utd to contact PL and refs over 'totally wrong' Yoro red card interpretation",
    "link": "https://www.skysports.com/football/news/12040/13616033/leny-yoro-red-card-ref-chief-howard-webb-backs-process-that-saw-man-utd-defender-sent-off-at-liverpool",
-   "summary": "Referees' chief Howard Webb has backed the process of the officials who sent off Manchester United defender Leny Yoro at Liverpool - despite the red card being overturned on appeal.",
+   "summary": "Manchester United will contact ProRef and the Premier League directly over what they believe to be a 'totally wrong' interpretation of Leny Yoro's red card against Liverpool.",
    "image": "https://e0.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413691.jpg?20261122165102",
    "published": "2026-11-24T17:00:00+00:00"
   },
@@ -1973,15 +1991,6 @@
    "link": "https://www.skysports.com/watch/video/13616024/match-officials-micd-up-the-var-audio-that-supported-leny-yoros-red-card-decision-at-anfield",
    "summary": "Speaking on Match Officials Mic'd Up, Howard Webb and Michael Owen take a look at the VAR process from Anfield after Leny Yoro was given a red card in the eighth minute.",
    "image": "https://e1.365dm.com/26/11/1920x1080/skysports-var-micd-up-football_7415422.jpg?20261124154655",
-   "published": "2026-11-24T17:00:00+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Sky Sports",
-   "title": "'All fine' - Listen to 'quick' VAR check on Timber's Isak shirt-pull",
-   "link": "https://www.skysports.com/watch/video/13616037/match-officials-micd-up-listen-to-quick-var-check-on-jurrien-timbers-alexander-isak-shirt-pull",
-   "summary": "Speaking on Match Officials Mic'd Up Howard Webb and Michael Owen review the key incident between Jurrien Timber and Alexander Isak at Anfield earlier in November.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-micd-up-timber-isak_7415446.jpg?20261124161916",
    "published": "2026-11-24T17:00:00+00:00"
   },
   {
@@ -2149,15 +2158,6 @@
   {
    "cat": "sports",
    "source": "BBC Sport",
-   "title": "Gloucestershire renamed Bristol Lions for T20 Blast",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/cq9vwgz2em97o?at_medium=RSS&at_campaign=rss",
-   "summary": "Gloucestershire will rebrand to Bristol Lions for the T20 Blast from the 2027 season.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc8/live/626b5820-e7f2-11f1-8b26-c1adae33e7f2.png",
-   "published": "2026-11-24T14:03:48+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
    "title": "Women's smaller ball trial extended into second season",
    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm0l3nlk2zlzo?at_medium=RSS&at_campaign=rss",
    "summary": "World Rugby extends the women's 4.5 ball trial for a second season after releasing data showing improvements in several areas of the game and receiving \"overwhelmingly positive\" feedback from players and coaches.",
@@ -2185,6 +2185,24 @@
  ],
  "national": {
   "IN": [
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Mohan B. Mate assumes charge as Kochi Refinery CGM",
+    "link": "https://www.thehindu.com/news/national/kerala/mohan-b-mate-assumes-charge-as-kochi-refinery-cgm/article71739453.ece",
+    "summary": "",
+    "image": "https://th-i.thgim.com/public/incoming/4ebx9a/article71739833.ece/alternates/LANDSCAPE_1200/MOHAN.jpg",
+    "published": "2026-11-24T20:01:33+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Contract awarded to ITI Ltd. for printing licences, RCs followed due tender procedures, Kerala High Court told",
+    "link": "https://www.thehindu.com/news/national/kerala/contract-awarded-to-iti-ltd-for-printing-licences-rcs-followed-due-tender-procedures-kerala-high-court-told/article71739696.ece",
+    "summary": "",
+    "image": "https://th-i.thgim.com/public/incoming/n7j75m/article71740053.ece/alternates/LANDSCAPE_1200/T1-T2-sectionsGPMGQPL3N.3.jpg.jpg",
+    "published": "2026-11-24T20:01:01+00:00"
+   },
    {
     "cat": "nat",
     "source": "The Hindu",
@@ -2706,35 +2724,26 @@
     "summary": "",
     "image": "https://th-i.thgim.com/public/news/national/telangana/shfzrm/article71739915.ece/alternates/LANDSCAPE_1200/KCR.jpeg",
     "published": "2026-11-24T17:45:41+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Karnataka plans State-wide blood donation drive on November 25",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-plans-state-wide-blood-donation-drive-on-november-25/article71739603.ece",
-    "summary": "",
-    "image": "",
-    "published": "2026-11-24T17:38:19+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Former members say EPG report was ‘highly positive’ for India-Nepal ties",
-    "link": "https://www.thehindu.com/news/national/former-members-say-epg-report-was-highly-positive-for-india-nepal-ties/article71739669.ece",
-    "summary": "Their reaction comes a day after Foreign Secretary Vikram Misri termed the report of India-Nepal Eminent Persons Group “not relevant”",
-    "image": "https://th-i.thgim.com/public/incoming/ksivic/article71739898.ece/alternates/LANDSCAPE_1200/India-announcesGL2GRA1S2.4.jpg.jpg",
-    "published": "2026-11-24T17:31:38+00:00"
    }
   ],
   "US": [
    {
     "cat": "nat",
     "source": "Guardian US",
-    "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
+    "title": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
+    "summary": "Senate minority leader joins lawmakers from both parties outraged over Nvidia CEO’s reinstatement Jensen Huang’s reinstatement as Nvidia’s chief executive is “exhibit A” of the “political corruption and rot at the heart",
+    "image": "https://i.guim.co.uk/img/media/26aadfab7bd77a25ea9f14c21ef752a9d34cd341/142_0_5506_4407/master/5506.jpg?width=140&quality=85&auto=format&fit=max&s=f28eeff9cc351a8e485cee267c103168",
+    "published": "2026-11-24T20:05:09+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian US",
+    "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
     "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says Sign up for the Breaking News US email Earlier we mentioned Donal",
     "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ee454ea4cdb9ea123a51cfd99553766d",
-    "published": "2026-11-24T19:47:11+00:00"
+    "published": "2026-11-24T19:59:57+00:00"
    },
    {
     "cat": "nat",
@@ -2987,15 +2996,6 @@
     "summary": "For big stars, endorsing companies like Kalshi and Polymarket is just another day in the beautiful business of being – and staying – rich When Giannis Antetokounmpo announced he was taking an investment stake in predicti",
     "image": "https://i.guim.co.uk/img/media/bbd152b106d91a2c82f3beec25967e4edfe49e2f/1430_939_3766_3012/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=def3d416dce091457a3734691bdad604",
     "published": "2026-11-24T10:30:13+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian US",
-    "title": "US lawmakers vow to investigate Jensen Huang and Trump over Nvidia scandal",
-    "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
-    "summary": "Lawmakers from both parties outraged over Nvidia CEO’s reinstatement and the administration’s handling of national security risks Jensen Huang’s reinstatement as Nvidia’s chief executive is “exhibit A” of the “political",
-    "image": "https://i.guim.co.uk/img/media/26aadfab7bd77a25ea9f14c21ef752a9d34cd341/142_0_5506_4407/master/5506.jpg?width=140&quality=85&auto=format&fit=max&s=f28eeff9cc351a8e485cee267c103168",
-    "published": "2026-11-24T10:00:14+00:00"
    },
    {
     "cat": "nat",
@@ -3271,6 +3271,15 @@
   "GB": [
    {
     "cat": "nat",
+    "source": "Guardian UK",
+    "title": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up",
+    "link": "https://www.theguardian.com/world/2026/nov/24/disability-benefits-timms-review-pip-personal-independence-payments",
+    "summary": "Minister’s review says Pip system no longer fit for purpose and recommends new test for who is allowed to claim Hundreds of thousands of people face losing their disability benefits under plans being considered by minist",
+    "image": "https://i.guim.co.uk/img/media/4a534d49e611d919c2775a5c187f0160f71f08e3/75_0_1760_1408/master/1760.jpg?width=140&quality=85&auto=format&fit=max&s=86bbd019682327bf0913a17dd4ca0c56",
+    "published": "2026-11-24T20:00:31+00:00"
+   },
+   {
+    "cat": "nat",
     "source": "BBC UK",
     "title": "Disability benefit review calls for closer link with claimant costs",
     "link": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
@@ -3529,15 +3538,6 @@
     "summary": "Incident took place at the royals’ Sandringham estate country retreat in Norfolk on Monday evening Two men have been arrested on suspicion of burglary and trespassing at the Prince and Princess of Wales’s country mansion",
     "image": "https://i.guim.co.uk/img/media/c57a42ce15c414ac10362dedf52e82ad92483820/237_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=69b4ffdb744547738543c35b899b61b6",
     "published": "2026-11-24T15:43:25+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian UK",
-    "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-    "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have",
-    "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495",
-    "published": "2026-11-24T15:36:28+00:00"
    },
    {
     "cat": "nat",
@@ -3814,11 +3814,38 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
+    "title": "Jannik Sinner set to miss Australian Open",
+    "link": "https://www.abc.net.au/news/2026-11-25/jannik-sinner-australian-open-2027-injuries/107423672",
+    "summary": "The former world number one's injury woes continue as knee surgery dashes his plans for a comeback in Melbourne.",
+    "image": "",
+    "published": "2026-11-24T20:04:59+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Live: Wall Street retreats again as AI stocks dumped, ASX set to fall",
+    "link": "https://www.abc.net.au/news/2026-11-25/asx-markets-business-live-news/107423208",
+    "summary": "The ASX is set to follow Wall Street's lead lower. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+    "image": "",
+    "published": "2026-11-24T20:02:20+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
     "title": "Live: Chalmers flags public service cuts in mid-year budget update",
     "link": "https://www.abc.net.au/news/2026-11-25/federal-politics-live-blog-parliament-november-25/107422208",
     "summary": "Treasurer Jim Chalmers says he is looking for savings in the \"efficiency of the public service\" as he prepares the mid-year budget update. Follow live.",
     "image": "",
     "published": "2026-11-24T19:57:37+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian Australia",
+    "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
+    "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+    "summary": "Get our daily political email , free app or daily news podcast Inflation expected to jump when latest figures released today The government’s economic management will be back in the spotlight today, with official figures",
+    "image": "https://i.guim.co.uk/img/media/225db5ddbf67036e02aa877e209fa7a017281505/868_768_3204_2565/master/3204.jpg?width=140&quality=85&auto=format&fit=max&s=85e5b45b6c5cfbb4be355f9033b66c76",
+    "published": "2026-11-24T19:54:46+00:00"
    },
    {
     "cat": "nat",
@@ -3850,7 +3877,7 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Stigma remains a barrier for young people in Western Sydney, poll says",
+    "title": "Reputational burden of living in Western Sydney affecting young people",
     "link": "https://www.abc.net.au/news/2026-11-25/nsw-western-sydney-young-voice-survey-results/107421594",
     "summary": "Young people in Western Sydney say the rising cost of living, and negative stereotypes about the region are holding them back, in a new survey by the Western Sydney Leadership Dialogue.",
     "image": "",
@@ -4038,24 +4065,6 @@
    },
    {
     "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Land values data, often overlooked, is now missing from economic debate",
-    "link": "https://www.abc.net.au/news/2026-11-25/abs-stops-publishing-land-values-receives-pushback/107417134",
-    "summary": "The ABS has stopped publishing land values, but the cancellation may be short-lived after a pushback from policy experts.",
-    "image": "",
-    "published": "2026-11-24T18:00:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Push to force data centre developers to train apprentice tradies",
-    "link": "https://www.abc.net.au/news/2026-11-25/data-centre-apprentice-electrician-ai-boom/107420926",
-    "summary": "The Electrical Trades Union wants to mandate data centre developers to train new electricians rather than poaching workers from housing and renewable energy projects.",
-    "image": "",
-    "published": "2026-11-24T18:00:00+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Guardian Australia",
     "title": "Chinese police contacted members of WeChat group after they discussed Melbourne vigil for HungryPanda rider",
     "link": "https://www.theguardian.com/business/2026/nov/25/chinese-police-wechat-group-hungrypanda-delivery-rider-alleged-murder-melbourne-ntwnfb",
@@ -4102,11 +4111,11 @@
    {
     "cat": "nat",
     "source": "Guardian Australia",
-    "title": "Researcher who helped improve melanoma survival rates among winners of top Australian science prize",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
-    "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s Prizes for Science Get our daily political email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma t",
-    "image": "https://i.guim.co.uk/img/media/9158937167556e9b18af557d3528a389a0ca3a26/990_0_6366_5093/master/6366.jpg?width=140&quality=85&auto=format&fit=max&s=64028f59d2f5d335e6a70b54ae336799",
-    "published": "2026-11-24T11:00:45+00:00"
+    "title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
+    "summary": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sport Get our daily political email , free app or daily news podcast Whistleblowers reporting corruption",
+    "image": "https://i.guim.co.uk/img/media/cc3a30dd7b1b585e0e2405431c69f72e41335cfe/502_0_3714_2970/master/3714.jpg?width=140&quality=85&auto=format&fit=max&s=2a766e5c1de0def7d19f620d55f0e4cc",
+    "published": "2026-11-24T06:20:10+00:00"
    },
    {
     "cat": "nat",
@@ -4143,15 +4152,6 @@
     "summary": "Just outside Bundaberg is Sunnyside, a former sugar plantation owned by the family of former federal Labor MP Brian Courtice for more than a century. Between the 1860s – the decade the emancipation proclamation was signe",
     "image": "https://i.guim.co.uk/img/media/31c3bd872e78608fb4a30d8a79ac4c429767cebf/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=407c21e754e398006745c5bfb0de47c7",
     "published": "2026-11-23T14:00:49+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian Australia",
-    "title": "Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
-    "summary": "Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers Get our daily political email , free app or daily news podcast Labor’s new defence bill is “lazy a",
-    "image": "https://i.guim.co.uk/img/media/365d2e6449a8aa487abccf8060963566f52cd4dc/135_0_3175_2541/master/3175.jpg?width=140&quality=85&auto=format&fit=max&s=94c1f2ccbeb132b7e7bbad90892fb75d",
-    "published": "2026-11-23T08:23:55+00:00"
    },
    {
     "cat": "nat",
@@ -4448,20 +4448,20 @@
    {
     "cat": "nat",
     "source": "Dawn",
+    "title": "Pakistan Customs seizes nearly 1kg of 'Multan-bound' marijuana in Karachi",
+    "link": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
+    "summary": "The Collectorate of Customs (CoC) (airports) in Karachi foiled a narcotics smuggling attempt and seized 900 grams of marijuana during routine scanning at the International Mail Office (IMO), Pakistan Customs said on Tues",
+    "image": "https://i.dawn.com/large/2026/11/250011002b6e2c4.webp",
+    "published": "2026-11-24T20:02:11+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Dawn",
     "title": "Cabinet approves deregulation of sugar sector to meet vital IMF benchmark",
     "link": "https://www.dawn.com/news/2046808/cabinet-approves-deregulation-of-sugar-sector-to-meet-imf-benchmark",
     "summary": "ISLAMABAD: To meet a long-postponed structural benchmark of the International Monetary Fund (IMF), the federal cabinet on Tuesday approved the deregulation of the sugar sector, an end to its export subsidies and free mov",
     "image": "https://i.dawn.com/large/2025/10/10075229dc2553f.webp",
     "published": "2026-11-24T19:57:54+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Dawn",
-    "title": "Pakistan Customs seizes nearly 1kg of 'Multan-bound' marijuana in Karachi",
-    "link": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
-    "summary": "The Collectorate of Customs (CoC) (airports) in Karachi foiled a narcotics smuggling attempt and seized 900 grams of marijuana during routine scanning at the International Mail Office (IMO), Pakistan Customs said on Tues",
-    "image": "https://i.dawn.com/large/2026/11/250011002b6e2c4.webp",
-    "published": "2026-11-24T19:48:15+00:00"
    },
    {
     "cat": "nat",
@@ -4819,6 +4819,24 @@
    {
     "cat": "nat",
     "source": "Punch",
+    "title": "EFCC boss seeks review of legal frameworks to tackle corruption",
+    "link": "https://punchng.com/efcc-boss-seeks-review-of-legal-frameworks-to-tackle-corruption/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "EFCC chairman Ola Olukoyede urges a review of legal frameworks in West Africa and stronger cross-border probes, asset recovery and intelligence sharing. Read More: https://punchng.com/efcc-boss-seeks-review-of-legal-fram",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T21:08:24+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "25 hostages taken in botched robbery in Colombia",
+    "link": "https://punchng.com/25-hostages-taken-in-botched-robbery-in-colombia/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Gunmen took about 30 people hostage in a Cartagena supermarket after a failed armoured vehicle robbery. Five elderly women have been released, officials sa Read More: https://punchng.com/25-hostages-taken-in-botched-robb",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T21:05:25+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
     "title": "Trump celebrates USA co-hosting 2031 Women’s World Cup, hails Infantino",
     "link": "https://punchng.com/trump-celebrates-usa-co-hosting-2031-womens-world-cup-hails-infantino/?utm_source=rss.punchng.com&utm_medium=web",
     "summary": "Trump praised FIFA president Gianni Infantino after the US was named co-host of the 2031 Women’s World Cup with Mexico, Costa Rica and Jamaica. Read More: https://punchng.com/trump-celebrates-usa-co-hosting-2031-womens-w",
@@ -4851,6 +4869,15 @@
     "summary": "ADC Rivers South-East senatorial candidate Bertram Ikuru says the party will win a landslide in 2027 as he inaugurates a campaign council in Andoni LGA. Read More: https://punchng.com/2027-adc-will-sweep-polls-in-rivers-",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
     "published": "2026-11-24T20:21:10+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Vanguard",
+    "title": "Campaign violence: INEC awaits police case files to prosecute offenders",
+    "link": "https://www.vanguardngr.com/2026/11/campaign-violence-inec-awaits-police-case-files-to-prosecute-offenders/",
+    "summary": "The INEC Chairman, Professor Joash Amupitan SAN, said swift action was necessary so that \"impunity is decisively checked before January.\" The post Campaign violence: INEC awaits police case files to prosecute offenders a",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/79934853_605-1024x576.jpg",
+    "published": "2026-11-24T20:11:57+00:00"
    },
    {
     "cat": "nat",
@@ -5161,6 +5188,15 @@
    {
     "cat": "nat",
     "source": "Vanguard",
+    "title": "Bingo on a Global Scale",
+    "link": "https://www.vanguardngr.com/2026/11/bingo-on-a-global-scale/",
+    "summary": "Bingo might seem like a fairly simple game, but it’s played in all sorts of different ways around the world. The basic idea is usually the same: match the numbers as they’re called and hope to complete your card before e",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/bin1-1024x558.jpeg",
+    "published": "2026-11-24T18:01:00+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Vanguard",
     "title": "Benue APC crisis: Why Alia/Akume reconciliation ‘ll not work – Agada",
     "link": "https://www.vanguardngr.com/2026/11/benue-apc-crisis-why-alia-akume-reconciliation-ll-not-work-factional-chair-agada/",
     "summary": "Factional Chairman of the All Progressives Congress, APC, in Benue State, Mr Austin Agada, has declared that there is currently no genuine reconciliation between the camps of the Secretary to the Government of the Federa",
@@ -5205,24 +5241,6 @@
    },
    {
     "cat": "nat",
-    "source": "Vanguard",
-    "title": "Tinubu nominates Dabiri as NASC commissioner",
-    "link": "https://www.vanguardngr.com/2026/11/tinubu-nominates-dabiri-as-nasc-commissioner/",
-    "summary": "By Henry Umoru ABUJA — President Bola Tinubu has forwarded the nomination of Agboola Lukman Dabiri to the Senate for screening and confirmation as Commissioner representing the South-West at the National Assembly Service",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Tinubu1.png",
-    "published": "2026-11-24T17:55:19+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Vanguard",
-    "title": "Oyo 2027: ‘I won’t step down for anyone,’ ADC guber candidate vows",
-    "link": "https://www.vanguardngr.com/2026/11/oyo-2027-i-wont-step-down-for-anyone-adc-guber-candidate-vows/",
-    "summary": "The African Democratic Congress (ADC) governorship candidate in Oyo State, Adegboyega Adegoke, has dismissed rumours that he is planning to withdraw from the 2027 governorship race, declaring that he is determined to con",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Adegoke-e1795542884955.jpeg",
-    "published": "2026-11-24T17:55:03+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Punch",
     "title": "DSS asks court to foreclose Sowore’s defence over 14 adjournments",
     "link": "https://punchng.com/dss-asks-court-to-foreclose-sowores-defence-over-14-adjournments/?utm_source=rss.punchng.com&utm_medium=web",
@@ -5238,27 +5256,18 @@
     "summary": "Morocco rejects the CAS verdict restoring Senegal as AFCON champions, alleging FA chief Abdoulaye Fall phoned an arbitrator before the ruling. Senegal deni Read More: https://punchng.com/afcon-morocco-rejects-verdict-all",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
     "published": "2026-11-24T17:42:07+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "2027: IG pledges journalists’ safety, warns against misinformation",
-    "link": "https://punchng.com/2027-ig-pledges-journalists-safety-warns-against-misinformation/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "IG Olatunji Disu pledges police protection for journalists in the 2027 elections and warns that misinformation threatens credible polls, at a CJID conferen Read More: https://punchng.com/2027-ig-pledges-journalists-safet",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-24T17:23:48+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Yuletide: NAPTIP warns schoolchildren against antics of human traffickers",
-    "link": "https://punchng.com/yuletide-naptip-warns-schoolchildren-against-antics-of-human-traffickers/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "NAPTIP and ICMPD warn Ogun secondary school students against human trafficking this festive season as anti-trafficking vanguards are inaugurated in schools Read More: https://punchng.com/yuletide-naptip-warns-schoolchild",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-24T17:21:25+00:00"
    }
   ],
   "ZA": [
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "LOCAL ELECTIONS 2026: Mayoral vote in eThekwini delayed as parties horse-trade for KZN power",
+    "link": "https://www.dailymaverick.co.za/article/2026-11-24-mayoral-vote-in-ethekwini-delayed-as-parties-horse-trade-for-kzn-power/",
+    "summary": "eThekwini’s first council sitting was postponed on Tuesday as coalition negotiations continue. The negotiations will affect who leads in dozens of KZN municipalities and, potentially, the province.",
+    "image": "https://cdn.dailymaverick.co.za/i/lxuSAoT0blkESBJPiK70A5TqDXU=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Arde-ethekwini-horses_210028.jpg",
+    "published": "2026-11-24T21:05:17+00:00"
+   },
    {
     "cat": "nat",
     "source": "Daily Maverick",
@@ -5739,24 +5748,6 @@
    {
     "cat": "nat",
     "source": "Daily Maverick",
-    "title": "NATO to send early-warning system aircraft to Poland after missiles incident",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-23-nato-to-send-early-warning-system-aircraft-to-poland-after-missiles-incident/",
-    "summary": "WARSAW, Nov 23 (Reuters) - NATO will deploy an AWACS early-warning system aircraft to Poland as part of its response to three missiles landing in the country on the military alliance’s eastern flank, a Polish deputy defe",
-    "image": "https://cdn.dailymaverick.co.za/i/eu7J_g_J0YZmw9wq8MVnifQJk8Y=/800x0/smart/filters:strip_exif()/file/attachments/3000/14187065_410159.jpg",
-    "published": "2026-11-23T21:02:43+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Daily Maverick",
-    "title": "Trump says he assured Nvidia that Jensen Huang posed no national security threat",
-    "link": "https://www.dailymaverick.co.za/article/2026-11-23-trump-says-he-assured-nvidia-that-jensen-huang-posed-no-national-security-threat/",
-    "summary": "WASHINGTON, Nov 23 (Reuters) - President Donald Trump said on Monday he secured a deal with the Nvidia’s board to reinstate Jensen Huang as CEO, assuring them the Silicon Valley leader he called a “national treasure” wou",
-    "image": "https://cdn.dailymaverick.co.za/i/LBYj1guIhI1q7mnfniHop9oVYxE=/800x0/smart/filters:strip_exif()/file/attachments/3000/14439303_746372.jpg",
-    "published": "2026-11-23T20:55:24+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Daily Maverick",
     "title": "Baboons, fences and Ellen DeGeneres",
     "link": "https://www.dailymaverick.co.za/opinionista/2026-11-23-baboons-fences-and-ellen-degeneres/",
     "summary": "The decision to relocate Simon’s Town’s Waterfall and Seaforth baboon troops to a wildlife centre was not taken lightly, following years of expert assessment and public consultation. It is the only viable alternative to",
@@ -5798,6 +5789,15 @@
     "summary": "The Constitutional Court’s decision to overturn the Electoral Court’s ruling on the ANC’s incomplete 2026 local election candidate submissions undermines the rule of law and public trust in the judiciary.",
     "image": "",
     "published": "2026-11-22T15:23:14+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Daily Maverick",
+    "title": "Neville Alexander’s legacy can’t be honoured by policing who may speak in his name",
+    "link": "https://www.dailymaverick.co.za/opinionista/2026-11-21-neville-alexanders-legacy-cant-be-honoured-by-policing-who-may-speak-in-his-name/",
+    "summary": "There was controversy when it was announced that former finance minister Trevor Manuel would deliver the annual Neville Alexander Lecture. Manuel’s pro-market policies and race-based redress was opposed to Alexander’s an",
+    "image": "",
+    "published": "2026-11-21T08:00:00+00:00"
    }
   ]
  }
