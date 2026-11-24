@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:01:56+00:00",
+ "generated_at": "2026-11-24T00:03:02+00:00",
  "failed_sources": [
   "VentureBeat AI",
   "LangChain Blog",
@@ -18,6 +18,87 @@
  "ai": [
   {
    "cat": "ai",
+   "source": "The Verge AI",
+   "title": "Tech leaders are celebrating Jensen Huang’s return",
+   "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+   "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indis",
+   "image": "",
+   "published": "2026-11-23T22:35:30+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "The Verge AI",
+   "title": "Trump engineered a risky comeback for Jensen Huang",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+   "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on St",
+   "image": "",
+   "published": "2026-11-23T22:34:20+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "Hacker News",
+   "title": "VP != VNP over Every Field [pdf]",
+   "link": "https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf",
+   "summary": "25 points · 2 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-23T22:23:04+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "The Verge AI",
+   "title": "Welcome to elite impunity, Jensen Huang",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+   "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. N",
+   "image": "",
+   "published": "2026-11-23T22:21:36+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "The Verge AI",
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim",
+   "image": "",
+   "published": "2026-11-23T22:18:13+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "Hacker News",
+   "title": "VP ≠ VNP over Every Field",
+   "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+   "summary": "161 points · 114 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-23T22:09:10+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "TechCrunch AI",
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+   "image": "",
+   "published": "2026-11-23T22:05:50+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "TechCrunch AI",
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+   "image": "",
+   "published": "2026-11-23T22:02:05+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "Hacker News",
+   "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+   "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+   "summary": "15 points · 5 comments on Hacker News · wired.com",
+   "image": "",
+   "published": "2026-11-23T21:56:44+00:00"
+  },
+  {
+   "cat": "ai",
    "source": "TechCrunch AI",
    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
    "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
@@ -27,12 +108,30 @@
   },
   {
    "cat": "ai",
+   "source": "Hacker News",
+   "title": "The AI conversation we're not having",
+   "link": "https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/",
+   "summary": "11 points · 6 comments on Hacker News · gnanaguru.com",
+   "image": "",
+   "published": "2026-11-23T21:46:33+00:00"
+  },
+  {
+   "cat": "ai",
    "source": "Ars Technica AI",
    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
    "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
    "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
    "published": "2026-11-23T21:30:44+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "Hacker News",
+   "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+   "link": "https://openai.com/index/introducing-shirudo/",
+   "summary": "14 points · 1 comments on Hacker News · openai.com",
+   "image": "",
+   "published": "2026-11-23T21:30:41+00:00"
   },
   {
    "cat": "ai",
@@ -75,18 +174,9 @@
    "source": "Hacker News",
    "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
    "link": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
-   "summary": "12 points · 0 comments on Hacker News · theatlantic.com",
+   "summary": "21 points · 1 comments on Hacker News · theatlantic.com",
    "image": "",
    "published": "2026-11-23T20:33:07+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "The Verge AI",
-   "title": "Tech leaders are celebrating Jensen Huang’s return",
-   "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-   "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indis",
-   "image": "",
-   "published": "2026-11-23T20:16:17+00:00"
   },
   {
    "cat": "ai",
@@ -138,7 +228,7 @@
    "source": "Hacker News",
    "title": "Chicago FAA Ground stop due to staffing",
    "link": "https://www.nbcchicago.com/news/local/ground-stop-issued-at-ohare-airport-due-to-staffing-at-start-of-busy-holiday-week/4020413/",
-   "summary": "18 points · 2 comments on Hacker News · nbcchicago.com",
+   "summary": "20 points · 2 comments on Hacker News · nbcchicago.com",
    "image": "",
    "published": "2026-11-23T17:59:37+00:00"
   },
@@ -156,7 +246,7 @@
    "source": "Hacker News",
    "title": "How should an LLM see a computer?",
    "link": "https://www.greptile.com/blog/trex-computer-use",
-   "summary": "33 points · 19 comments on Hacker News · greptile.com",
+   "summary": "39 points · 21 comments on Hacker News · greptile.com",
    "image": "",
    "published": "2026-11-23T17:19:25+00:00"
   },
@@ -177,15 +267,6 @@
    "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have a",
    "image": "",
    "published": "2026-11-23T17:10:02+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "The Verge AI",
-   "title": "Jensen Huang is back as Nvidia’s CEO",
-   "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-   "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which t",
-   "image": "",
-   "published": "2026-11-23T17:03:40+00:00"
   },
   {
    "cat": "ai",
@@ -210,7 +291,7 @@
    "source": "Hacker News",
    "title": "Buckle Up the AI Bubble Is Popping",
    "link": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
-   "summary": "26 points · 51 comments on Hacker News · mathbabe.org",
+   "summary": "28 points · 52 comments on Hacker News · mathbabe.org",
    "image": "",
    "published": "2026-11-23T16:01:20+00:00"
   },
@@ -222,15 +303,6 @@
    "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
    "published": "2026-11-23T15:46:18+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "The Verge AI",
-   "title": "Meta Muse can do your Black Friday shopping at Walmart",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-   "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Ga",
-   "image": "",
-   "published": "2026-11-23T15:09:24+00:00"
   },
   {
    "cat": "ai",
@@ -264,7 +336,7 @@
    "source": "Hacker News",
    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
    "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-   "summary": "88 points · 13 comments on Hacker News · huggingface.co",
+   "summary": "107 points · 20 comments on Hacker News · huggingface.co",
    "image": "",
    "published": "2026-11-23T13:42:38+00:00"
   },
@@ -282,7 +354,7 @@
    "source": "Hacker News",
    "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-   "summary": "72 points · 81 comments on Hacker News · theverge.com",
+   "summary": "73 points · 81 comments on Hacker News · theverge.com",
    "image": "",
    "published": "2026-11-23T12:41:14+00:00"
   },
@@ -298,9 +370,18 @@
   {
    "cat": "ai",
    "source": "Hacker News",
+   "title": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
+   "link": "https://hermitcrm.io/",
+   "summary": "34 points · 2 comments on Hacker News · hermitcrm.io",
+   "image": "",
+   "published": "2026-11-23T10:09:02+00:00"
+  },
+  {
+   "cat": "ai",
+   "source": "Hacker News",
    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
    "link": "https://z.ai/blog/glm-5.4",
-   "summary": "973 points · 322 comments on Hacker News · z.ai",
+   "summary": "1024 points · 334 comments on Hacker News · z.ai",
    "image": "",
    "published": "2026-11-23T10:06:43+00:00"
   },
@@ -309,7 +390,7 @@
    "source": "Hacker News",
    "title": "An Air Force Major Is Being Held in Solitary Confinement for Criticizing Trump",
    "link": "https://theintercept.com/2026/11/21/trump-jason-watson-air-force-solitary-speech/",
-   "summary": "12 points · 0 comments on Hacker News · theintercept.com",
+   "summary": "13 points · 0 comments on Hacker News · theintercept.com",
    "image": "",
    "published": "2026-11-23T10:04:39+00:00"
   },
@@ -330,15 +411,6 @@
    "summary": "32 points · 13 comments on Hacker News · twitter.com",
    "image": "",
    "published": "2026-11-23T05:21:54+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "The Verge AI",
-   "title": "We haven’t seen the last of the major tech outages",
-   "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-   "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are m",
-   "image": "",
-   "published": "2026-11-23T02:41:02+00:00"
   },
   {
    "cat": "ai",
@@ -381,7 +453,7 @@
    "source": "Hacker News",
    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
    "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-   "summary": "256 points · 193 comments on Hacker News · claude.ai",
+   "summary": "257 points · 193 comments on Hacker News · claude.ai",
    "image": "",
    "published": "2026-11-22T23:12:10+00:00"
   },
@@ -408,7 +480,7 @@
    "source": "Hacker News",
    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-   "summary": "731 points · 291 comments on Hacker News · gpupartner.com",
+   "summary": "743 points · 296 comments on Hacker News · gpupartner.com",
    "image": "",
    "published": "2026-11-22T21:01:16+00:00"
   },
@@ -417,7 +489,7 @@
    "source": "Hacker News",
    "title": "SFO will flood this week from tides, federal expert says",
    "link": "https://www.sfchronicle.com/travel/article/sfo-airport-flood-weather-22543280.php",
-   "summary": "17 points · 1 comments on Hacker News · sfchronicle.com",
+   "summary": "18 points · 1 comments on Hacker News · sfchronicle.com",
    "image": "",
    "published": "2026-11-22T20:09:16+00:00"
   },
@@ -462,7 +534,7 @@
    "source": "Hacker News",
    "title": "Perplexity and Intelligence",
    "link": "https://openai.com/index/perplexity-and-intelligence/",
-   "summary": "690 points · 440 comments on Hacker News · openai.com",
+   "summary": "694 points · 440 comments on Hacker News · openai.com",
    "image": "",
    "published": "2026-11-22T17:06:27+00:00"
   },
@@ -471,7 +543,7 @@
    "source": "Hacker News",
    "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
    "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-   "summary": "173 points · 158 comments on Hacker News · lemonde.fr",
+   "summary": "173 points · 160 comments on Hacker News · lemonde.fr",
    "image": "",
    "published": "2026-11-22T15:42:40+00:00"
   },
@@ -480,84 +552,57 @@
    "source": "Hacker News",
    "title": "Show HN: I built a game where you are an LLM's subagent",
    "link": "https://github.com/gulivan/worker755",
-   "summary": "356 points · 86 comments on Hacker News · github.com",
+   "summary": "356 points · 89 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-22T13:56:58+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "Hacker News",
-   "title": "AI is becoming a disaster for the climate",
-   "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-   "summary": "134 points · 64 comments on Hacker News · bloodinthemachine.com",
-   "image": "",
-   "published": "2026-11-22T12:19:46+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "Hacker News",
-   "title": "By attacking Chinese Al industry, the US has burst its own Al bubble",
-   "link": "https://www.china-translated.com/p/by-attacking-chinese-ai-industry",
-   "summary": "17 points · 3 comments on Hacker News · china-translated.com",
-   "image": "",
-   "published": "2026-11-22T11:35:11+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "Hacker News",
-   "title": "AI People Are Extremely Rich",
-   "link": "https://www.noahpinion.blog/p/ai-people-are-very-very-very-very",
-   "summary": "26 points · 6 comments on Hacker News · noahpinion.blog",
-   "image": "",
-   "published": "2026-11-22T10:35:49+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "Hacker News",
-   "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-   "link": "https://simonwillison.net/2026/Nov/21/muru/",
-   "summary": "78 points · 12 comments on Hacker News · simonwillison.net",
-   "image": "",
-   "published": "2026-11-22T09:57:01+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "Hacker News",
-   "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-   "link": "https://arxiv.org/abs/2606.14068",
-   "summary": "94 points · 78 comments on Hacker News · arxiv.org",
-   "image": "",
-   "published": "2026-11-22T09:18:36+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "Hacker News",
-   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-   "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-   "summary": "1023 points · 998 comments on Hacker News · betterdatacenterproject.com",
-   "image": "",
-   "published": "2026-11-22T08:57:34+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "Hacker News",
-   "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
-   "link": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
-   "summary": "31 points · 8 comments on Hacker News · morethanamachine.com",
-   "image": "",
-   "published": "2026-11-22T07:31:41+00:00"
-  },
-  {
-   "cat": "ai",
-   "source": "Hacker News",
-   "title": "AI Supply Chain Security: What Canary Tokens Found",
-   "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-   "summary": "104 points · 22 comments on Hacker News · dragos.com",
-   "image": "",
-   "published": "2026-11-22T05:11:43+00:00"
   }
  ],
  "aitech": [
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "VP != VNP over Every Field [pdf]",
+   "link": "https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf",
+   "summary": "25 points · 2 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-23T22:23:04+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "The Verge AI",
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim",
+   "image": "",
+   "published": "2026-11-23T22:18:13+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "VP ≠ VNP over Every Field",
+   "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+   "summary": "163 points · 117 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-23T22:09:10+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+   "image": "",
+   "published": "2026-11-23T22:05:50+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "TechCrunch AI",
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+   "image": "",
+   "published": "2026-11-23T22:02:05+00:00"
+  },
   {
    "cat": "aitech",
    "source": "TechCrunch AI",
@@ -569,12 +614,30 @@
   },
   {
    "cat": "aitech",
+   "source": "OpenAI News",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "link": "https://openai.com/index/introducing-shirudo",
+   "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "image": "",
+   "published": "2026-11-23T21:20:00+00:00"
+  },
+  {
+   "cat": "aitech",
    "source": "Hacker News",
    "title": "The horse made the state",
    "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
-   "summary": "25 points · 24 comments on Hacker News · aeon.co",
+   "summary": "51 points · 48 comments on Hacker News · aeon.co",
    "image": "",
    "published": "2026-11-23T20:59:12+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
+   "title": "GPUI is getting its own repository",
+   "link": "https://github.com/zed-industries/gpui",
+   "summary": "78 points · 15 comments on Hacker News · github.com",
+   "image": "",
+   "published": "2026-11-23T20:52:54+00:00"
   },
   {
    "cat": "aitech",
@@ -617,7 +680,7 @@
    "source": "Hacker News",
    "title": "Apple removed my open-source app from EU App Stores after 9 years",
    "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
-   "summary": "379 points · 77 comments on Hacker News · github.com",
+   "summary": "467 points · 99 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-23T18:48:10+00:00"
   },
@@ -662,7 +725,7 @@
    "source": "Hacker News",
    "title": "How should an LLM see a computer?",
    "link": "https://www.greptile.com/blog/trex-computer-use",
-   "summary": "33 points · 19 comments on Hacker News · greptile.com",
+   "summary": "39 points · 21 comments on Hacker News · greptile.com",
    "image": "",
    "published": "2026-11-23T17:19:25+00:00"
   },
@@ -671,7 +734,7 @@
    "source": "Hacker News",
    "title": "Kagi Mail (public beta)",
    "link": "https://blog.kagi.com/kagi-mail-public-beta",
-   "summary": "272 points · 212 comments on Hacker News · blog.kagi.com",
+   "summary": "323 points · 254 comments on Hacker News · blog.kagi.com",
    "image": "",
    "published": "2026-11-23T17:17:01+00:00"
   },
@@ -692,15 +755,6 @@
    "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have a",
    "image": "",
    "published": "2026-11-23T17:10:02+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "The Verge AI",
-   "title": "Jensen Huang is back as Nvidia’s CEO",
-   "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-   "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which t",
-   "image": "",
-   "published": "2026-11-23T17:03:40+00:00"
   },
   {
    "cat": "aitech",
@@ -734,7 +788,7 @@
    "source": "Hacker News",
    "title": "One man's quest to end daylight savings",
    "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
-   "summary": "54 points · 109 comments on Hacker News · newyorker.com",
+   "summary": "62 points · 116 comments on Hacker News · newyorker.com",
    "image": "",
    "published": "2026-11-23T15:28:41+00:00"
   },
@@ -752,7 +806,7 @@
    "source": "Hacker News",
    "title": "Cyberleek posted the GTA 6 Xbox build executable",
    "link": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
-   "summary": "225 points · 238 comments on Hacker News · reddit.com",
+   "summary": "253 points · 275 comments on Hacker News · reddit.com",
    "image": "",
    "published": "2026-11-23T14:49:44+00:00"
   },
@@ -770,7 +824,7 @@
    "source": "Hacker News",
    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
    "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-   "summary": "88 points · 13 comments on Hacker News · huggingface.co",
+   "summary": "107 points · 20 comments on Hacker News · huggingface.co",
    "image": "",
    "published": "2026-11-23T13:42:38+00:00"
   },
@@ -788,7 +842,7 @@
    "source": "Hacker News",
    "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
    "link": "https://github.com/mikuta0407/win4wine",
-   "summary": "192 points · 100 comments on Hacker News · github.com",
+   "summary": "208 points · 110 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-23T12:28:11+00:00"
   },
@@ -797,7 +851,7 @@
    "source": "Hacker News",
    "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
    "link": "https://github.com/os6/nospeaker",
-   "summary": "246 points · 150 comments on Hacker News · github.com",
+   "summary": "265 points · 157 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-23T11:31:54+00:00"
   },
@@ -813,9 +867,18 @@
   {
    "cat": "aitech",
    "source": "Hacker News",
+   "title": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
+   "link": "https://hermitcrm.io/",
+   "summary": "34 points · 2 comments on Hacker News · hermitcrm.io",
+   "image": "",
+   "published": "2026-11-23T10:09:02+00:00"
+  },
+  {
+   "cat": "aitech",
+   "source": "Hacker News",
    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
    "link": "https://z.ai/blog/glm-5.4",
-   "summary": "973 points · 322 comments on Hacker News · z.ai",
+   "summary": "1024 points · 334 comments on Hacker News · z.ai",
    "image": "",
    "published": "2026-11-23T10:06:43+00:00"
   },
@@ -833,7 +896,7 @@
    "source": "Hacker News",
    "title": "Enjoy this guy getting bricked over the detail of towers in GTA6",
    "link": "https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v",
-   "summary": "84 points · 32 comments on Hacker News · bsky.app",
+   "summary": "86 points · 32 comments on Hacker News · bsky.app",
    "image": "",
    "published": "2026-11-23T09:15:09+00:00"
   },
@@ -842,7 +905,7 @@
    "source": "Hacker News",
    "title": "GTA 6 building personal behavioral profile for every player",
    "link": "https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve",
-   "summary": "108 points · 80 comments on Hacker News · huijzer.xyz",
+   "summary": "108 points · 81 comments on Hacker News · huijzer.xyz",
    "image": "",
    "published": "2026-11-23T08:51:50+00:00"
   },
@@ -896,7 +959,7 @@
    "source": "Hacker News",
    "title": "XNU Linux: Full OS X GUI Userspace on Linux",
    "link": "https://github.com/AFK-surf/xnulinux",
-   "summary": "581 points · 240 comments on Hacker News · github.com",
+   "summary": "597 points · 244 comments on Hacker News · github.com",
    "image": "",
    "published": "2026-11-23T03:49:24+00:00"
   },
@@ -914,7 +977,7 @@
    "source": "Hacker News",
    "title": "Treemap of the Riemann Hypothesis Lean Proof",
    "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
-   "summary": "183 points · 71 comments on Hacker News · pengowray.github.io",
+   "summary": "185 points · 74 comments on Hacker News · pengowray.github.io",
    "image": "",
    "published": "2026-11-23T01:50:23+00:00"
   },
@@ -941,7 +1004,7 @@
    "source": "Hacker News",
    "title": "FBI is having a mass hire for IT specialists",
    "link": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
-   "summary": "38 points · 80 comments on Hacker News · apply.fbijobs.gov",
+   "summary": "38 points · 81 comments on Hacker News · apply.fbijobs.gov",
    "image": "",
    "published": "2026-11-22T23:58:22+00:00"
   },
@@ -950,7 +1013,7 @@
    "source": "Hacker News",
    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
    "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-   "summary": "256 points · 193 comments on Hacker News · claude.ai",
+   "summary": "257 points · 193 comments on Hacker News · claude.ai",
    "image": "",
    "published": "2026-11-22T23:12:10+00:00"
   },
@@ -968,7 +1031,7 @@
    "source": "Hacker News",
    "title": "Agent swarm trying to solve P vs. NP",
    "link": "https://pequalnp.com/",
-   "summary": "179 points · 158 comments on Hacker News · pequalnp.com",
+   "summary": "183 points · 159 comments on Hacker News · pequalnp.com",
    "image": "",
    "published": "2026-11-22T21:53:45+00:00"
   },
@@ -986,7 +1049,7 @@
    "source": "Hacker News",
    "title": "Will the first approved psychedelic become a blockbuster?",
    "link": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
-   "summary": "48 points · 64 comments on Hacker News · pharmavoice.com",
+   "summary": "49 points · 64 comments on Hacker News · pharmavoice.com",
    "image": "",
    "published": "2026-11-22T21:13:10+00:00"
   },
@@ -995,7 +1058,7 @@
    "source": "Hacker News",
    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-   "summary": "731 points · 291 comments on Hacker News · gpupartner.com",
+   "summary": "743 points · 296 comments on Hacker News · gpupartner.com",
    "image": "",
    "published": "2026-11-22T21:01:16+00:00"
   },
@@ -1004,7 +1067,7 @@
    "source": "Hacker News",
    "title": "AWS got hit by an outage too. You didn't hear about it",
    "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-   "summary": "65 points · 6 comments on Hacker News · theregister.com",
+   "summary": "66 points · 6 comments on Hacker News · theregister.com",
    "image": "",
    "published": "2026-11-22T20:50:18+00:00"
   },
@@ -1013,7 +1076,7 @@
    "source": "Hacker News",
    "title": "What Happened to Silicon Valley?",
    "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-   "summary": "791 points · 442 comments on Hacker News · oreilly.com",
+   "summary": "796 points · 443 comments on Hacker News · oreilly.com",
    "image": "",
    "published": "2026-11-22T19:20:15+00:00"
   },
@@ -1022,7 +1085,7 @@
    "source": "Hacker News",
    "title": "Canada recommits to federal funding for news",
    "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
-   "summary": "124 points · 130 comments on Hacker News · niemanlab.org",
+   "summary": "124 points · 131 comments on Hacker News · niemanlab.org",
    "image": "",
    "published": "2026-11-22T19:10:38+00:00"
   },
@@ -1031,101 +1094,119 @@
    "source": "Hacker News",
    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-   "summary": "628 points · 361 comments on Hacker News · audubon.org",
+   "summary": "629 points · 363 comments on Hacker News · audubon.org",
    "image": "",
    "published": "2026-11-22T19:10:34+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "EAX x86 Register Meaning and History",
-   "link": "https://keleshev.com/eax-x86-register-meaning-and-history/",
-   "summary": "26 points · 1 comments on Hacker News · keleshev.com",
-   "image": "",
-   "published": "2026-11-22T18:50:42+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "MarkTechPost",
-   "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
-   "link": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
-   "summary": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releas",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-   "published": "2026-11-22T18:37:57+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "Harvard CS 2881R AI Safety",
-   "link": "https://boazbk.github.io/mltheoryseminar/",
-   "summary": "78 points · 8 comments on Hacker News · boazbk.github.io",
-   "image": "",
-   "published": "2026-11-22T18:01:54+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
-   "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-   "summary": "89 points · 79 comments on Hacker News · herbsutter.com",
-   "image": "",
-   "published": "2026-11-22T15:59:59+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-   "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-   "summary": "173 points · 158 comments on Hacker News · lemonde.fr",
-   "image": "",
-   "published": "2026-11-22T15:42:40+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "Show HN: I built a game where you are an LLM's subagent",
-   "link": "https://github.com/gulivan/worker755",
-   "summary": "356 points · 86 comments on Hacker News · github.com",
-   "image": "",
-   "published": "2026-11-22T13:56:58+00:00"
-  },
-  {
-   "cat": "aitech",
-   "source": "Hacker News",
-   "title": "Prisons get OK to jam contraband phones",
-   "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-   "summary": "42 points · 92 comments on Hacker News · arstechnica.com",
-   "image": "",
-   "published": "2026-11-22T13:00:52+00:00"
   }
  ],
  "intl": [
   {
    "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "Drone attack on Colombia police base injures civilians, including infant",
+   "link": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+   "summary": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
+   "image": "",
+   "published": "2026-11-23T23:49:37+00:00"
+  },
+  {
+   "cat": "intl",
    "source": "The Guardian World",
-   "title": "Australian politics live: Labor to ‘save more than we spend’ in budget update, Chalmers says; rental affordability plummets to 14-year low",
+   "title": "Australian politics live: Taylor notes ‘tough year’ for Coalition partyroom; King Charles ‘deeply saddened’ by Meldrum’s death",
    "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
    "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get ple",
-   "image": "https://i.guim.co.uk/img/media/86612b7e576ef8d8fefee996ef99ce1a4d96d978/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3cfc00a623bc89dcb46c85bdf6218a75",
-   "published": "2026-11-23T21:44:11+00:00"
+   "image": "https://i.guim.co.uk/img/media/7a7744f47b650ef928308170e6cfe6118d27f308/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=037dc2a4a0f418015558a3a071a305c1",
+   "published": "2026-11-23T23:42:49+00:00"
   },
   {
    "cat": "intl",
    "source": "The Guardian World",
    "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
    "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement N",
+   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement S",
    "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce",
-   "published": "2026-11-23T21:43:19+00:00"
+   "published": "2026-11-23T23:38:49+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
+   "link": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+   "summary": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
+   "image": "",
+   "published": "2026-11-23T23:26:16+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "BBC World",
+   "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+   "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+   "published": "2026-11-23T23:16:08+00:00"
   },
   {
    "cat": "intl",
    "source": "NPR World",
-   "title": "In West Bank, ambulance drivers say Israeli checkpoints are dangerous obstacles to work",
-   "link": "https://www.npr.org/2026/11/23/nx-s1-6043661/in-west-bank-ambulance-drivers-say-israeli-checkpoints-are-dangerous-obstacles-to-work",
-   "summary": "To reach hospitals in the occupied West Bank, Palestinian ambulance drivers navigate Israeli checkpoints and road closures. Rights groups say wait times have spiked and medics have been attacked.",
-   "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6043661",
-   "published": "2026-11-23T21:34:34+00:00"
+   "title": "Russian incursions into NATO territory are increasing",
+   "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+   "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
+   "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6051013",
+   "published": "2026-11-23T23:08:51+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
+   "link": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
+   "summary": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
+   "image": "",
+   "published": "2026-11-23T23:06:03+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "Al Jazeera",
+   "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+   "summary": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
+   "image": "",
+   "published": "2026-11-23T22:54:47+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+   "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+   "summary": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who",
+   "image": "https://i.guim.co.uk/img/media/fd2a6955fac805e0a3ba873c88fcd4cd86fea573/448_0_3149_2519/master/3149.jpg?width=140&quality=85&auto=format&fit=max&s=0c0ba3332a8a70d5b715b83efe23e0cd",
+   "published": "2026-11-23T22:41:48+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+   "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+   "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeli",
+   "image": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=140&quality=85&auto=format&fit=max&s=9777f3efbe0433b8488aa88bcecef998",
+   "published": "2026-11-23T22:23:40+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
+   "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+   "summary": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns Donald Trump on Monday halted the planned detonation of several tons of degraded bomb-making material at",
+   "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55",
+   "published": "2026-11-23T22:22:12+00:00"
+  },
+  {
+   "cat": "intl",
+   "source": "The Guardian World",
+   "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+   "link": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+   "summary": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House staffer Jimmy Gomez will resign from Congress after a House ethics report released on Monday found “substantial evidence” t",
+   "image": "https://i.guim.co.uk/img/media/252be7a860305c0f22379fdacb9169a8eeb7f607/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=2db9518f55284510b61dece681f01dcd",
+   "published": "2026-11-23T22:21:45+00:00"
   },
   {
    "cat": "intl",
@@ -1162,15 +1243,6 @@
    "summary": "Outcry builds over Trump-backed move to bring back CEO as lawmakers call for Huang’s testimony before Congress US politics – live updates Republican lawmakers roundly criticized the Nvidia board’s decision to reinstate c",
    "image": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125",
    "published": "2026-11-23T21:09:10+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Republican sheriff racked up $3m security bill for California taxpayers, including Ritz-Carlton stays and steak",
-   "link": "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate",
-   "summary": "High costs during Chad Bianco’s failed run for governor, including a $665 steak dinner, have raised concerns A southern California county spent more than $3m in a year on a security detail for its sheriff, Chad Bianco, a",
-   "image": "https://i.guim.co.uk/img/media/541ccbc5478002d99bff5bf7321c5626fd35920c/531_227_3036_2429/master/3036.jpg?width=140&quality=85&auto=format&fit=max&s=7b93ceddc0c96b1faf043b780f0b3944",
-   "published": "2026-11-23T21:04:31+00:00"
   },
   {
    "cat": "intl",
@@ -1282,15 +1354,6 @@
   },
   {
    "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
-   "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-   "summary": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns Donald Trump on Monday said he would defer to a federal appeals court on whether the administration moves",
-   "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55",
-   "published": "2026-11-23T19:42:40+00:00"
-  },
-  {
-   "cat": "intl",
    "source": "Al Jazeera",
    "title": "CEO Jensen Huang returns to Nvidia’s office",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss",
@@ -1303,7 +1366,7 @@
    "source": "The Guardian World",
    "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
    "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-   "summary": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’ UK politics live – latest updates Andy Burnham has said it would be “unthinkable” for the UK to rejoin th",
+   "summary": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’ Andy Burnham has said it would be “unthinkable” for the UK to rejoin the EU without holding another refer",
    "image": "https://i.guim.co.uk/img/media/e7777a1987dbf50dcccb3faf1ad701f1a91ceb1c/1702_373_6049_4840/master/6049.jpg?width=140&quality=85&auto=format&fit=max&s=d0c3805fe3c716b83d27675b94f44fd7",
    "published": "2026-11-23T19:26:01+00:00"
   },
@@ -1327,12 +1390,12 @@
   },
   {
    "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-   "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-   "summary": "Chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback",
-   "image": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=140&quality=85&auto=format&fit=max&s=9777f3efbe0433b8488aa88bcecef998",
-   "published": "2026-11-23T18:51:56+00:00"
+   "source": "BBC World",
+   "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+   "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+   "summary": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg",
+   "published": "2026-11-23T18:43:00+00:00"
   },
   {
    "cat": "intl",
@@ -1525,15 +1588,6 @@
   },
   {
    "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-   "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
-   "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
-   "image": "",
-   "published": "2026-11-23T16:23:33+00:00"
-  },
-  {
-   "cat": "intl",
    "source": "The Guardian World",
    "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
    "link": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
@@ -1561,33 +1615,6 @@
   },
   {
    "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "Israeli soldiers assault Palestinian after raiding his home",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-soldiers-assault-palestinian-after-raiding-his-home?traffic_source=rss",
-   "summary": "Israeli forces assault a Palestinian man during a raid on his home in the occupied West Bank.",
-   "image": "",
-   "published": "2026-11-23T15:40:15+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
-   "summary": "Jensen Huang is reinstated as NVIDIA’s CEO after reports he was targeted in an alleged foreign intelligence operation.",
-   "image": "",
-   "published": "2026-11-23T15:23:05+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "Al Jazeera",
-   "title": "Brazil coach mistaken for pitch invader, put in headlock",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/brazil-coach-mistaken-for-pitch-invader-put-in-headlock?traffic_source=rss",
-   "summary": "Footage shows Parana Clube coach Tcheco being grabbed by security guard after celebrating a goal with fans.",
-   "image": "",
-   "published": "2026-11-23T15:15:36+00:00"
-  },
-  {
-   "cat": "intl",
    "source": "BBC World",
    "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
    "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
@@ -1612,44 +1639,152 @@
    "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
    "published": "2026-11-23T14:26:33+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Plant-based lunches could cut Australia’s emissions by 15m tonnes, new research shows",
-   "link": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
-   "summary": "Nationwide change in lunch habits could cut more climate pollution than grounding every domestic flight Get our breaking news email , free app or daily news podcast Australians could collectively cut climate pollution by",
-   "image": "https://i.guim.co.uk/img/media/e50b5a6eff849b3a981e6a6c376ecefbca08a976/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=27e549713bf8802b112762a29a163166",
-   "published": "2026-11-23T13:58:01+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "Domestic violence perpetrators are using smart car features to abuse, researchers warn",
-   "link": "https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb",
-   "summary": "Exclusive: Alarming report reveals how tracking and monitoring functions and digital key access have been used to facilitate abuse Get our breaking news email , free app or daily news podcast Earlier this year a man in A",
-   "image": "https://i.guim.co.uk/img/media/8c241696f80fee0162024cf4ce50e049a40039be/894_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=36ccf87b754aaece8f8acbdb19385b5d",
-   "published": "2026-11-23T13:57:45+00:00"
-  },
-  {
-   "cat": "intl",
-   "source": "The Guardian World",
-   "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
-   "link": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
-   "summary": "Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’ Get our breaking news email , free app or daily news podcast The backlash to “pervert glass",
-   "image": "https://i.guim.co.uk/img/media/157cb03ca11449508590bbb8b23daca70b5a59ce/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=3e842895d6ccaf9e9f6342fb5695c9ff",
-   "published": "2026-11-23T13:55:40+00:00"
   }
  ],
  "sports": [
   {
    "cat": "sports",
    "source": "Guardian Sport",
-   "title": "Brentford v Everton: Premier League – live",
+   "title": "Steve Smith toils before falling cheaply on return as Sam Konstas pushes Test claim",
+   "link": "https://www.theguardian.com/sport/2026/nov/24/steve-smith-sam-konstas-nsw-v-queensland-australian-cricket",
+   "summary": "Smith’s Sheffield Shield knock cut short by Michael Neser Opener Konstas pushes claims for Test recall with 42 from 86 balls Steve Smith has fallen cheaply in his batting comeback, making a laborious 12 for NSW against Q",
+   "image": "https://i.guim.co.uk/img/media/04576a9f201e6c03d60ce5122a34b7a9ace3421b/192_0_3250_2600/master/3250.jpg?width=140&quality=85&auto=format&fit=max&s=1b2b1fd329b58d1b1f1d77ab39794ae1",
+   "published": "2026-11-23T23:30:24+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Who has made Troy's Premier League team of the week?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+   "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2b3/live/d71ba9d0-e78f-11f1-8e8a-577b415bb9af.png",
+   "published": "2026-11-23T23:26:35+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Times of India Sports",
+   "title": "Foreman Texas Estate Sale: Longtime home lists for $6 million; 50-car garage and grill-ad kitchen",
+   "link": "https://timesofindia.indiatimes.com/sports/international-sports/boxing-hall-of-famer-george-foremans-texas-estate-lists-for-6-million-nearly-19-months-after-his-death-the-13-49-acre-property-features-a-50-car-garage-and-his-famous-grill-commercial-kitchen/articleshow/135293798.cms",
+   "summary": "George Foreman has listed his expansive Texas estate for $6 million, encompassing an impressive 13.49 acres. The sprawling property boasts an 11,968-square-foot mansion, complete with a garage that can house over 50 vehi",
+   "image": "https://static.toiimg.com/photo/msid-135294315,imgsize-99888.cms",
+   "published": "2026-11-23T23:10:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo?at_medium=RSS&at_campaign=rss",
+   "summary": "What are the key things to look out for as Rangers host Aberdeen while Hibernian entertain Dundee in the Scottish Premiership on Tuesday?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d006/live/690c20c0-e792-11f1-9de1-132f01162c71.jpg",
+   "published": "2026-11-23T23:07:48+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Andrews praises 'versatile' Lewis-Potter",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Brentford manager Keith Andrews praises the performance of Keane Lewis-Potter, who scored twice in his side's 4-0 win against Everton.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd6f/live/0a40f760-e791-11f1-99b6-a35a62fa4264.jpg",
+   "published": "2026-11-23T22:59:14+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Moyes questions Tarkowski red in Brentford loss",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+   "summary": "Everton manager David Moyes questions whether the force of James Tarkowski's challenge was taken into consideration, after the defender was shown a red card in his side's 4-0 loss by Brentford.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6ae/live/3f15c680-e78e-11f1-99b6-a35a62fa4264.jpg",
+   "published": "2026-11-23T22:54:51+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+   "summary": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1142/live/d8901070-e786-11f1-9baa-c1f9a8f8c840.jpg",
+   "published": "2026-11-23T22:43:39+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
+   "link": "https://www.skysports.com/football/news/12040/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
+   "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "published": "2026-11-23T22:40:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+   "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/41e45e90-e788-11f1-99a1-253766e7ad8b.jpg",
+   "published": "2026-11-23T22:31:27+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Fifa open second round of 2030 World Cup US media bids with Fox and Netflix",
+   "link": "https://www.theguardian.com/football/2026/nov/23/fifa-world-cup-2030-media-rights-fox-netflix",
+   "summary": "Fox has broadcasted men’s World Cups in US since 2018 Netflix will carry the 2027 Women’s World Cup Netflix tabled largest offer in first round: sources Fifa’s auction for 2030 World Cup TV rights in the United States ha",
+   "image": "https://i.guim.co.uk/img/media/50c1aa151e245b4a28cfe82864bd9fd4de48bdb4/210_0_2260_1809/master/2260.jpg?width=140&quality=85&auto=format&fit=max&s=d3627a775a12816586b009b1283734df",
+   "published": "2026-11-23T22:28:04+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Five-time Solheim Cup player Khang secures LPGA Tour card for 2027",
+   "link": "https://www.skysports.com/golf/news/12040/13615841/lpga-tour-q-series-megan-khang-secures-tour-card-for-2027-as-megha-ganne-wins-final-qualifying-stage",
+   "summary": "Megha Ganne won the 2026 LPGA Q-Series final qualifying stage as 27 tour cards were claimed for the 2027 season, with five-time USA Solheim Cup team member Megan Khang among those successful.",
+   "image": "https://e1.365dm.com/24/09/1920x1080/skysports-megan-khang-golf_6686863.jpg?20240915183508",
+   "published": "2026-11-23T22:26:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "The Hindu Sport",
+   "title": "Sandpapergate scandal: AB de Villiers makes new claim about Australian ball-tampering",
+   "link": "https://www.thehindu.com/sport/cricket/sandpapergate-scandal-ab-de-villiers-makes-new-claim-about-australian-ball-tampering/article71736369.ece",
+   "summary": "A fierce debate about the eight-year-old events was triggered in Australia this month when Usman Khawaja claimed the whole team knew about the plot to alter the flight of the ball",
+   "image": "https://th-i.thgim.com/public/incoming/9dkhfh/article71736370.ece/alternates/LANDSCAPE_1200/6205_25-4-2019_16-2-52_3_IPL_118.JPG",
+   "published": "2026-11-23T22:22:07+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Brentford 4-0 Everton: Premier League – as it happened",
    "link": "https://www.theguardian.com/football/live/2026/nov/23/brentford-v-everton-premier-league-live",
-   "summary": "Minute-by-minute updates on the 8pm UK kick-off Haaland must be worried’: Moyes on Barry | Email Daniel Later tonight, Sky are doing something on the best centre-back partnerships in the Premier League era. Is this one e",
+   "summary": "A terrific performance from Brentford, who ran all over Everton and were well in control even before James Tarkowski’s red card Later tonight, Sky are doing something on the best centre-back partnerships in the Premier L",
    "image": "https://i.guim.co.uk/img/media/06242c7524e488205cf4afa7e7bbf32813da5e48/258_165_3280_2625/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=2b3362a22606f1c6e2cce3e3cd011a4e",
-   "published": "2026-11-23T21:50:05+00:00"
+   "published": "2026-11-23T22:13:21+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Guardian Sport",
+   "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
+   "link": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
+   "summary": "It was a record-breaking occasion in more ways than one. David Moyes made history for Everton, edging clear of Harry Catterick by overseeing his 593rd game in charge of the club, but calamitous defending ruined the Scot’",
+   "image": "https://i.guim.co.uk/img/media/b92636977845a343b7009c7a0d9bbc4d2b30dab6/172_0_4153_3322/master/4153.jpg?width=140&quality=85&auto=format&fit=max&s=337763083d6b7b850410851c0aa9aa68",
+   "published": "2026-11-23T22:09:41+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Patten ends Grand Slam-winning doubles pairing to partner fellow Brit Skupski",
+   "link": "https://www.skysports.com/tennis/news/12040/13615831/henry-patten-ends-partnership-with-harri-heliovaara-to-team-up-with-fellow-briton-neal-skupski",
+   "summary": "Henry Patten has ended his world No 1 doubles partnership with Harri Heliovaara in shock fashion in favour of teaming up with British compatriot Neal Skupski for 2027.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-henry-patten-tennis_7408082.jpg?20261117075550",
+   "published": "2026-11-23T22:00:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb85/live/ac9a3220-e781-11f1-99a1-253766e7ad8b.png",
+   "published": "2026-11-23T21:41:52+00:00"
   },
   {
    "cat": "sports",
@@ -1659,6 +1794,24 @@
    "summary": "Janelt rifles rocket for Brentford’s third against Everton in the Premier League",
    "image": "https://e0.365dm.com/26/11/1920x1080/skysports-goal-brentford_7414883.jpg?20261123214545",
    "published": "2026-11-23T21:41:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "Sky Sports",
+   "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton",
+   "link": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
+   "summary": "Keane Lewis-Potter’s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-potter-outarra_7414942.jpg?20261123231353",
+   "published": "2026-11-23T21:30:00+00:00"
+  },
+  {
+   "cat": "sports",
+   "source": "BBC Sport",
+   "title": "Penge wins four-man play-off to claim first PGA Tour title and earn 2027 card",
+   "link": "https://www.bbc.co.uk/sport/golf/articles/cv0l3nxgw5jno?at_medium=RSS&at_campaign=rss",
+   "summary": "England's Marco Penge birdies the first extra hole in a four-man play-off to win the RSM Classic in Georgia and secure his PGA Tour card for 2027.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ca/live/a67a9820-e778-11f1-8f1d-19326d289ceb.jpg",
+   "published": "2026-11-23T21:27:58+00:00"
   },
   {
    "cat": "sports",
@@ -1734,6 +1887,15 @@
   },
   {
    "cat": "sports",
+   "source": "The Hindu Sport",
+   "title": "World chess championship: A fascinating duel between two brilliant young minds",
+   "link": "https://www.thehindu.com/sport/world-chess-championship-onus-on-gukesh-to-raise-his-game-as-sindarov-starts-favourite/article71735655.ece",
+   "summary": "Gukesh has to reproduce the kind of chess that made him a force in the couple of years leading up to the last Worlds; Sindarov has been almost unstoppable of late; it will be the youngest title showdown in the history of",
+   "image": "https://th-i.thgim.com/public/incoming/cjzvum/article71735658.ece/alternates/LANDSCAPE_1200/TH24-CHESS.jpg",
+   "published": "2026-11-23T18:39:12+00:00"
+  },
+  {
+   "cat": "sports",
    "source": "Sky Sports",
    "title": "Penge claims stunning maiden PGA Tour win at RSM Classic",
    "link": "https://www.skysports.com/golf/news/12040/13615763/marco-penge-claims-maiden-pga-tour-win-englishman-triumphs-from-four-way-playoff-at-rsm-classic",
@@ -1749,15 +1911,6 @@
    "summary": "Mhambrey brings considerable experience to the PBKS setup, having previously served as India's bowling coach under Rahul Dravid between 2021 and 2024",
    "image": "http://p.imgci.com/db/PICTURES/CMS/369300/369329.jpg",
    "published": "2026-11-23T18:32:02+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Sky Sports",
-   "title": "Janelt 'rocket' extends Brentford lead after controversial Tarkowski red LIVE!",
-   "link": "https://www.skysports.com/football/brentford-vs-everton/live/559546",
-   "summary": "",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-brentford-lewis-potter_7414783.jpg?20261123203446",
-   "published": "2026-11-23T18:30:00+00:00"
   },
   {
    "cat": "sports",
@@ -1906,15 +2059,6 @@
   {
    "cat": "sports",
    "source": "The Hindu Sport",
-   "title": "World chess championship: Onus on Gukesh to raise his game as Sindarov starts favourite",
-   "link": "https://www.thehindu.com/sport/world-chess-championship-onus-on-gukesh-to-raise-his-game-as-sindarov-starts-favourite/article71735655.ece",
-   "summary": "It promises to be a fascinating battle between two brilliant young minds",
-   "image": "https://th-i.thgim.com/public/incoming/cjzvum/article71735658.ece/alternates/LANDSCAPE_1200/TH24-CHESS.jpg",
-   "published": "2026-11-23T16:26:45+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "The Hindu Sport",
    "title": "Syed Mushtaq Ali Trophy: I am getting better and adapting to this level, says Sachin",
    "link": "https://www.thehindu.com/sport/cricket/i-am-getting-better-and-adapting-to-this-level-says-sachin/article71735651.ece",
    "summary": "",
@@ -1950,30 +2094,12 @@
   },
   {
    "cat": "sports",
-   "source": "Sky Sports",
-   "title": "What would relegation mean for Man Utd? Kaveh answers your questions!",
-   "link": "https://www.skysports.com/football/live-blog/12040/13615719/premier-league-qa-sky-sports-news-kaveh-solhekol-answers-your-questions-on-man-utd-liverpool-arsenal-and-more",
-   "summary": "",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kaveh-solhekol-ask-kaveh_7414639.jpg?20261123170845",
-   "published": "2026-11-23T16:14:00+00:00"
-  },
-  {
-   "cat": "sports",
    "source": "Times of India Sports",
    "title": "'We should be so angry': Ashwin's fiery reaction to India's Wellington Test draw",
    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/we-should-be-so-angry-ashwins-fiery-reaction-to-indias-wellington-test-draw/articleshow/136108474.cms",
    "summary": "Ravichandran Ashwin voiced his concerns regarding India's decision to settle for a draw against New Zealand in the Wellington Test. He pointed out that the team lacked urgency during key moments, contrasting it with the",
    "image": "https://static.toiimg.com/photo/msid-136108541,imgsize-119800.cms",
    "published": "2026-11-23T16:03:35+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Sky Sports",
-   "title": "Rangers' McInnes wary of Frick's Aberdeen ahead of clash, live on Sky",
-   "link": "https://www.skysports.com/football/news/12040/13615718/rangers-vs-aberdeen-derek-mcinnes-ready-for-different-dons-challenge-under-mario-frick-live-on-sky",
-   "summary": "Derek McInnes wants to strike the \"fine balance\" between consistency and using his squad during a hectic spell.",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-rangers-derek-mcinnes_7414629.jpg?20261123164655",
-   "published": "2026-11-23T16:03:00+00:00"
   },
   {
    "cat": "sports",
@@ -2032,15 +2158,6 @@
   {
    "cat": "sports",
    "source": "BBC Sport",
-   "title": "Maritz and Murray star as Ireland seal final berth",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/c3j4r2w48znno?at_medium=RSS&at_campaign=rss",
-   "summary": "Ireland are through to the final of the Emerging Nations Trophy in Ajman thanks to a 44-run victory over the Netherlands.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92d/live/2a0d4e60-e749-11f1-88dc-f746e0cde621.jpg",
-   "published": "2026-11-23T15:28:05+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
    "title": "IFA 'positive' over upgrades needed for World Cup",
    "link": "https://www.bbc.co.uk/sport/football/articles/crgqx3472depo?at_medium=RSS&at_campaign=rss",
    "summary": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to ensure there is funding available to make the necessary upgra",
@@ -2064,127 +2181,91 @@
    "summary": "No 1 to miss Dortmund game but could return for City clash ‘We were worried … he’s better than expected,’ says manager Mikel Arteta is hopeful the ­shoulder injury David Raya sustained at Newcastle is not too serious, bu",
    "image": "https://i.guim.co.uk/img/media/4ef21402dd1e8fd333a3f3481a00a7b5f63ed696/0_0_1957_1565/master/1957.jpg?width=140&quality=85&auto=format&fit=max&s=78cb0b721a466e40fae217280b58db1c",
    "published": "2026-11-23T15:13:56+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
-   "title": "Wilder to fight Bakole on Fury-Joshua undercard",
-   "link": "https://www.bbc.co.uk/sport/boxing/articles/cmvg2v0rlzeko?at_medium=RSS&at_campaign=rss",
-   "summary": "Heavyweight Martin Bakole will face former world champion Deontay Wilder on the undercard of Tyson Fury's fight with Anthony Joshua in Cardiff on 11 December.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69de/live/5a9745b0-e74c-11f1-99b6-a35a62fa4264.png",
-   "published": "2026-11-23T15:12:52+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
-   "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-   "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042f/live/fe5449a0-e751-11f1-99a1-253766e7ad8b.jpg",
-   "published": "2026-11-23T15:09:50+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Guardian Sport",
-   "title": "‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup",
-   "link": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
-   "summary": "Country’s first World Cup since men’s 1966 edition in England Bid lists 22 stadiums as potential venues The UK has been confirmed as hosts of the 2035 Women’s World Cup, the first global competition to be staged in the c",
-   "image": "https://i.guim.co.uk/img/media/7c4861cd8a907734c43964a01fcdaa9422aa3568/0_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=954e430a9bd5264630cc5c81fc629a6e",
-   "published": "2026-11-23T15:09:18+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "The Hindu Sport",
-   "title": "Poor standard of Asian teams worry India coach Marijne",
-   "link": "https://www.thehindu.com/sport/hockey/poor-standard-of-asian-womens-hockey-teams-worry-india-coach-marijne/article71735239.ece",
-   "summary": "The Dutchman feels the quality of hockey on display in the ongoing Women’s Asian Champions Trophy leaves a lot to be desired",
-   "image": "https://th-i.thgim.com/public/incoming/dy4res/article71735210.ece/alternates/LANDSCAPE_1200/TH24-MARIJNE.jpg",
-   "published": "2026-11-23T15:06:43+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Times of India Sports",
-   "title": "Mehta files nomination for IOA president's post; Dutt for Executive Council member",
-   "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/rajeev-mehta-files-nomination-for-ioa-presidents-post-yogeshwar-dutt-for-executive-council-member/articleshow/136107082.cms",
-   "summary": "Rajeev Mehta files for IOA president, Yogeshwar Dutt eyes Executive Council berth; Virender Sachdeva gains ground in the presidential race ahead of Tuesday's nomination deadline.",
-   "image": "https://static.toiimg.com/photo/msid-136107113,imgsize-43638.cms",
-   "published": "2026-11-23T15:05:15+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Sky Sports",
-   "title": "UK confirmed as 2035 Women's World Cup hosts - which stadiums will be used?",
-   "link": "https://www.skysports.com/football/news/12040/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
-   "summary": "The UK has been confirmed as the host of the 2035 Women's World Cup.",
-   "image": "https://e0.365dm.com/25/04/1920x1080/skysports-women-world-cup-england_6874715.jpg?20250403093156",
-   "published": "2026-11-23T15:05:00+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
-   "title": "Rennie gets backing despite All Black defeats",
-   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq4gn2zwmvy7o?at_medium=RSS&at_campaign=rss",
-   "summary": "All Blacks head coach Dave Rennie has received the unequivocal backing of his bosses at New Zealand Rugby.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d1/live/03e0adb0-e742-11f1-88dc-f746e0cde621.jpg",
-   "published": "2026-11-23T15:02:32+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Sky Sports",
-   "title": "Henman: While Sinner is out of equation, Alcaraz is best in the world",
-   "link": "https://www.skysports.com/tennis/news/12040/13615606/carlos-alcaraz-spaniard-is-toughest-player-to-play-against-right-now-with-jannik-sinner-out-of-the-equation-says-tim-henman",
-   "summary": "Carlos Alcaraz is the \"toughest player to play against\" right now with Jannik Sinner out of the equation, says Tim Henman.",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-carlos-alcaraz-tennis_7414496.jpg?20261123141701",
-   "published": "2026-11-23T15:00:00+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Guardian Sport",
-   "title": "Emery insists no change of plan for Aston Villa despite Galatasaray surface",
-   "link": "https://www.theguardian.com/football/2026/nov/23/unai-emery-no-change-of-plan-aston-villa-galatasaray-surface",
-   "summary": "‘Hopefully the pitch will be as best as possible,’ says Villa manager Turkish champions had to move game on Saturday Unai Emery has insisted he will not alter his plans for Aston Villa’s Champions League game at ­Galatas",
-   "image": "https://i.guim.co.uk/img/media/6a65bc9adc097be846399a2041627508cd535606/431_0_4307_3446/master/4307.jpg?width=140&quality=85&auto=format&fit=max&s=164b98088602971736bc17142a6265a5",
-   "published": "2026-11-23T14:56:36+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
-   "title": "Is Marquez MotoGP's greatest of all time?",
-   "link": "https://www.bbc.co.uk/sport/motorsport/articles/crd9100xkgp9o?at_medium=RSS&at_campaign=rss",
-   "summary": "After winning his eighth MotoGP world title, BBC Sport assesses the standing of Marc Marquez within the sport.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cb3/live/0c05ac10-e734-11f1-8294-033bd8ee7e95.jpg",
-   "published": "2026-11-23T14:48:26+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "BBC Sport",
-   "title": "England's tearaway quick bowler reinvented as a top-order batter",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Katie George was once a tearaway fast bowler but, after years of injury pain, tells BBC Sport about reinventing herself as a top-order batter.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ed6/live/6d550d50-e74b-11f1-99a1-253766e7ad8b.jpg",
-   "published": "2026-11-23T14:26:27+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Times of India Sports",
-   "title": "Rishabh Pant's 7 SENA hundreds, one unusual Test record that refuses to change",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pants-seven-sena-hundreds-one-unusual-test-record-that-refuses-to-change/articleshow/136103936.cms",
-   "summary": "Rishabh Pant has made a remarkable mark by scoring seven Test centuries in SENA countries, yet victory has eluded him. His recent century against New Zealand in Wellington culminated in a draw, adding to the disappointme",
-   "image": "https://static.toiimg.com/photo/msid-136104245,imgsize-45123.cms",
-   "published": "2026-11-23T14:21:44+00:00"
-  },
-  {
-   "cat": "sports",
-   "source": "Guardian Sport",
-   "title": "PSG had the best attack in Europe but Doué and Kvaratskhelia injuries will test Luis Enrique",
-   "link": "https://www.theguardian.com/football/2026/nov/23/psg-best-attack-europe-desire-doue-acl-khvicha-kvaratskhelia-luis-enrique",
-   "summary": "Désiré Doué sustained an ACL injury in PSG’s 3-2 win at Nice and joins Khvicha Kvaratskhelia on the treatment table By Get French Football News Luis Enrique is in uncharted territory, even if he insists that “it isn’t a",
-   "image": "https://i.guim.co.uk/img/media/73ce2c6d554a700dd0ca4bcd0d857bbd44097474/355_0_2806_2245/master/2806.jpg?width=140&quality=85&auto=format&fit=max&s=822b2af45927b60141a5e0f813d1f27a",
-   "published": "2026-11-23T14:19:24+00:00"
   }
  ],
  "national": {
   "IN": [
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Civic bodies selective on illegal constructions: SC",
+    "link": "https://timesofindia.indiatimes.com/india/civic-bodies-selective-on-illegal-constructions-sc/articleshow/136116245.cms",
+    "summary": "Civic inspections, P 22",
+    "image": "https://static.toiimg.com/photo/msid-136116254,imgsize-69650.cms",
+    "published": "2026-11-23T23:42:19+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Nepal PM Balen Shah's India visit: President Murmu says vision plan will guide future ties",
+    "link": "https://timesofindia.indiatimes.com/india/nepal-pm-balen-shahs-india-visit-president-murmu-says-vision-plan-will-guide-future-ties/articleshow/136116188.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-136116218,imgsize-160532.cms",
+    "published": "2026-11-23T23:32:44+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "PM Modi meets Nepal's Balen Shah, offers Rs 15,000 crore economic package",
+    "link": "https://timesofindia.indiatimes.com/india/pm-modi-meets-balen-shah-offers-rs-15000-crore-economic-package/articleshow/136116157.cms",
+    "summary": "Nepal To Get Access To Kandla, Paradip",
+    "image": "https://static.toiimg.com/photo/msid-136116156,imgsize-61844.cms",
+    "published": "2026-11-23T23:23:25+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Children are not toys, hear their voice in custody battles, says SC",
+    "link": "https://timesofindia.indiatimes.com/india/children-are-not-toys-hear-their-voice-in-custody-battles-says-sc/articleshow/136116141.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-136116150,imgsize-494424.cms",
+    "published": "2026-11-23T23:15:22+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Swiss PIO in SC: Can govt protect my special child?",
+    "link": "https://timesofindia.indiatimes.com/india/swiss-pio-in-sc-can-govt-protect-my-special-child/articleshow/136116125.cms",
+    "summary": "Court Seeks Centre Response To Father's Plea",
+    "image": "https://static.toiimg.com/photo/msid-136116132,imgsize-82390.cms",
+    "published": "2026-11-23T23:05:57+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Congress, J&K parties decry construction work at Sheshnag; BRO clarifies",
+    "link": "https://timesofindia.indiatimes.com/india/congress-jk-parties-decry-construction-work-at-sheshnag-bro-clarifies/articleshow/136116104.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-136116118,imgsize-37440.cms",
+    "published": "2026-11-23T23:03:36+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "Bisleri controversy puts industry in hot water",
+    "link": "https://timesofindia.indiatimes.com/india/bisleri-controversy-puts-industry-in-hot-water/articleshow/136114246.cms",
+    "summary": "",
+    "image": "https://static.toiimg.com/photo/msid-136114332,imgsize-108756.cms",
+    "published": "2026-11-23T22:32:42+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Times of India",
+    "title": "NIA court frees 4 held for 2020 Srinagar terror attack that killed 2 soldiers",
+    "link": "https://timesofindia.indiatimes.com/india/nia-court-frees-4-held-for-2020-srinagar-terror-attack-that-killed-2-soldiers/articleshow/136114200.cms",
+    "summary": "A special NIA court ruled that four men were not guilty of aiding terrorists in the 2020 attack. The prosecution could not establish any direct link between the men and the terrorists involved in the incident. Although t",
+    "image": "https://static.toiimg.com/photo/msid-136114209,imgsize-744366.cms",
+    "published": "2026-11-23T22:21:55+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Manik Saha says party probing presence of masked men in BJP election rally",
+    "link": "https://www.thehindu.com/news/national/tripura/manik-saha-says-party-probing-presence-of-masked-men-in-bjp-election-rally/article71736249.ece",
+    "summary": "‘I don’t support this. In fact, our party does not approve such behaviour from our ranks. The party is inquiring into the matter and will follow up,’ said Manik Saha",
+    "image": "https://th-i.thgim.com/public/incoming/qzl99e/article71736248.ece/alternates/LANDSCAPE_1200/20261123468L.jpg",
+    "published": "2026-11-23T21:14:23+00:00"
+   },
    {
     "cat": "nat",
     "source": "Times of India",
@@ -2202,6 +2283,15 @@
     "summary": "",
     "image": "https://static.toiimg.com/photo/msid-136113820,imgsize-104968.cms",
     "published": "2026-11-23T21:03:42+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
+    "title": "Close to realising PM Narendra Modi’s dream for Kashmir, says Kiren Rijiju",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
+    "summary": "‘I remember there were no large programmes as we visited frontier districts to meet soldiers and discuss how to realise the dream of PM Modi,’ said Kiren Rijiju",
+    "image": "https://th-i.thgim.com/public/incoming/jm2npc/article71736246.ece/alternates/LANDSCAPE_1200/PTI11_23_2026_000377B.jpg",
+    "published": "2026-11-23T21:02:38+00:00"
    },
    {
     "cat": "nat",
@@ -2530,6 +2620,15 @@
    {
     "cat": "nat",
     "source": "The Hindu",
+    "title": "Sustainability experts from IIT-Madras, Birmingham University visit eco-farm in Chengalpattu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/sustainability-experts-from-iit-madras-birmingham-university-visit-eco-farm-in-chengalpattu/article71734549.ece",
+    "summary": "",
+    "image": "https://th-i.thgim.com/public/incoming/p87n/article71735180.ece/alternates/LANDSCAPE_1200/BVR_5883.JPG",
+    "published": "2026-11-23T18:28:28+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "The Hindu",
     "title": "Alleged synagogue arson attempt case: court gives NIA custody of accused till Nov. 27",
     "link": "https://www.thehindu.com/news/national/kerala//article71735231.ece",
     "summary": "The accused allegedly set fire to Blossom Nursery, located opposite the Kadavumbhagam synagogue in Ernakulam market within the limits of the Kochi Central police station, in the early hours of October 12.",
@@ -2625,105 +2724,6 @@
     "summary": "Manjit Singh Bilaspur, the MLA from Nihal Singh Wala segment, faced a public protest, prompting a dig by SAD leader Bikram Singh Majithia",
     "image": "https://c.ndtvimg.com/2026-11/6fkf4k1g_manjit-singh-bilaspur-was-heckled-at-which-bikram-majithia-took-a-dig_625x300_23_November_26.jpeg",
     "published": "2026-11-23T18:05:09+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Hindustan Times",
-    "title": "CJP's Saurav Das claims he was stopped at Delhi airport, barred from flying to London for Oxford lecture",
-    "link": "https://www.hindustantimes.com/india-news/cjps-saurav-das-says-stopped-at-delhi-airport-barred-from-flying-to-london-lecture-at-oxford-university-101795456221713.html",
-    "summary": "However, a Delhi Police official told HT that they are not aware of the matter and that the immigration officials are involved.",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/ANI-20261012040-0_1795456682699_hImU_1795456693247_y7iq_8ee7a35a-67ad-40ee-a7ce-7d3179af2468_04li.jpg",
-    "published": "2026-11-23T17:54:55+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Rift emerges in LPST stir",
-    "link": "https://www.thehindu.com/news/national/kerala/rift-emerges-in-lpst-stir/article71735908.ece",
-    "summary": "A rebel group from within the LPST rank-holders has accused the agitating leadership of sabotaging their job prospects by turning down four out of five demands that the State government had agreed to consider",
-    "image": "https://th-i.thgim.com/public/incoming/mcq2g/article71736132.ece/alternates/LANDSCAPE_1200/PTI11_12_2026_000105B.jpg",
-    "published": "2026-11-23T17:53:36+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Influencers, sellers of unsafe cosmetics to face legal action",
-    "link": "https://www.thehindu.com/news/national/kerala/influencers-sellers-of-unsafe-cosmetics-to-face-legal-action/article71735587.ece",
-    "summary": "The move follows the case of a 17-year-old girl from Malappuram who developed kidney disease after using a fairness cream laced with mercury",
-    "image": "https://th-i.thgim.com/public/incoming/kjkx35/article71735842.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
-    "published": "2026-11-23T17:52:50+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "KSRTC to start Bengaluru–Sabarimala Volvo service",
-    "link": "https://www.thehindu.com/news/national/karnataka/ksrtc-to-start-bengalurusabarimala-volvo-service/article71736092.ece",
-    "summary": "",
-    "image": "https://th-i.thgim.com/public/incoming/x0vwh/article71736128.ece/alternates/LANDSCAPE_1200/IMG_IMG_9509_24-11-2017__2_1_T8AADQLS.jpg",
-    "published": "2026-11-23T17:50:42+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Rule of law needed, not ‘Rule of Power’: Netherlands Foreign Minister Berendsen on trilateral summit",
-    "link": "https://www.thehindu.com/news/national/rule-of-law-needed-not-rule-of-power-netherlands-foreign-minister-berendsen-on-trilateral-summit/article71736057.ece",
-    "summary": "Berendsen holds talks with EAM Jaishankar, says Europe and India must end dependencies on global powers for energy, security and technology",
-    "image": "https://th-i.thgim.com/public/incoming/rxfz4a/article71736108.ece/alternates/LANDSCAPE_1200/Tom%20Berendsen%2032.JPG",
-    "published": "2026-11-23T17:42:16+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Rohingya refugee dies after former associate allegedly sets him ablaze in Bengaluru",
-    "link": "https://www.thehindu.com/news/national/karnataka/rohingya-refugee-dies-after-former-associate-allegedly-sets-him-ablaze-in-bengaluru/article71735938.ece",
-    "summary": "The incident comes close on the heels of the death of 44-year-old ragpicker Syed Haji, who also succumbed to burn injuries after being set ablaze in Girinagar on November 18",
-    "image": "https://th-i.thgim.com/public/incoming/qmne86/article71736119.ece/alternates/LANDSCAPE_1200/Pain-that-persiGQTGHEHKM.3.jpg.jpg",
-    "published": "2026-11-23T17:40:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "West Bengal CM announces ₹2,000 monthly allowance for unemployed youths",
-    "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-announces-2000-monthly-allowance-for-unemployed-youths/article71735652.ece",
-    "summary": "Bhorsha Karmasuchi replaces the Yuva Sathi scheme announced by Mamata Banerjee in February, ahead of the State Assembly Election",
-    "image": "https://th-i.thgim.com/public/incoming/kiyh9j/article71736118.ece/alternates/LANDSCAPE_1200/20261117271L.jpg",
-    "published": "2026-11-23T17:39:13+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Supreme Court flags ‘active connivance’ of civic authorities in ‘flagrant’ violations of building bye-laws",
-    "link": "https://www.thehindu.com/news/national/supreme-court-flags-active-connivance-of-civic-authorities-in-flagrant-violations-of-building-bye-laws/article71735727.ece",
-    "summary": "The court seeks suggestions from States and Union Territories on how to address such flagrant violations of building bye-laws",
-    "image": "https://th-i.thgim.com/public/incoming/w5e971/article71735970.ece/alternates/LANDSCAPE_1200/Onus-on-Uttar-PG2GGPHCI9.3.jpg.jpg",
-    "published": "2026-11-23T17:39:10+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Uttam rejects KTR’s claim of 90 TMC diversion from Nagarjunasagar",
-    "link": "https://www.thehindu.com/news/national/telangana/uttam-rejects-ktrs-claim-of-90-tmc-diversion-from-nagarjunasagar/article71736031.ece",
-    "summary": "",
-    "image": "https://th-i.thgim.com/public/incoming/topc45/article71736117.ece/alternates/LANDSCAPE_1200/DSC8442.jpg",
-    "published": "2026-11-23T17:39:09+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "The Hindu",
-    "title": "Factory inspections to be intensified after boy’s death at Perumbavoor in Kochi",
-    "link": "https://www.thehindu.com/news/national/kerala//article71732057.ece",
-    "summary": "Strict legal action to be initiated against establishments found violating regulations relating to imminent danger",
-    "image": "",
-    "published": "2026-11-23T17:37:40+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "NDTV India",
-    "title": "100 Days Since Monsoon Session, Winter Session Dates Still Missing",
-    "link": "https://www.ndtv.com/india-news/winter-session-2026-100-days-since-monsoon-session-winter-session-dates-still-missing-12367879#publisher=newsstand",
-    "summary": "Data compiled from the Ministry of Parliamentary Affairs shows that while long gaps are not unprecedented, the current wait is longer than the historical average and has already crossed the gaps recorded in several recen",
-    "image": "https://c.ndtvimg.com/2026-11/0tcmh56_parliament-_625x300_23_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "published": "2026-11-23T17:37:10+00:00"
    }
   ],
   "US": [
@@ -2732,16 +2732,52 @@
     "source": "Guardian US",
     "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-    "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement N",
+    "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement S",
     "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce",
-    "published": "2026-11-23T21:43:19+00:00"
+    "published": "2026-11-23T23:52:36+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian US",
+    "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+    "summary": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns A federal appeals court cleared way for the US army to detonate several tons of degraded bomb-making mate",
+    "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55",
+    "published": "2026-11-23T23:51:19+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian US",
+    "title": "Fifa open second round of 2030 World Cup US media bids with Fox and Netflix",
+    "link": "https://www.theguardian.com/football/2026/nov/23/fifa-world-cup-2030-media-rights-fox-netflix",
+    "summary": "Fox has broadcasted men’s World Cups in US since 2018 Netflix will carry the 2027 Women’s World Cup Netflix tabled largest offer in first round: sources Fifa’s auction for 2030 World Cup TV rights in the United States ha",
+    "image": "https://i.guim.co.uk/img/media/50c1aa151e245b4a28cfe82864bd9fd4de48bdb4/210_0_2260_1809/master/2260.jpg?width=140&quality=85&auto=format&fit=max&s=d3627a775a12816586b009b1283734df",
+    "published": "2026-11-23T22:28:04+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian US",
+    "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+    "summary": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House staffer Jimmy Gomez will resign from Congress after a House ethics report released on Monday found “substantial evidence” t",
+    "image": "https://i.guim.co.uk/img/media/252be7a860305c0f22379fdacb9169a8eeb7f607/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=2db9518f55284510b61dece681f01dcd",
+    "published": "2026-11-23T22:21:45+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "NPR National",
+    "title": "Chicago now has the worst traffic in the U.S. — here's why",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6038839-e1/chicago-now-has-the-worst-traffic-in-the-u-s-heres-why",
+    "summary": "Chicago takes the top ranking for traffic jams according to a pair of new analyses, and according to its many, many frustrated drivers who waste hours of their lives stuck in them.",
+    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6038839-e1",
+    "published": "2026-11-23T22:05:12+00:00"
    },
    {
     "cat": "nat",
     "source": "Guardian US",
     "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
     "link": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-    "summary": "Outcry builds over Trump-backed move to bring back CEO as lawmakers call for Huang’s testimony before Congress US politics – live updates Republican lawmakers roundly criticized the Nvidia board’s decision to reinstate c",
+    "summary": "Outcry builds over Trump-backed move to bring back CEO as lawmakers call for Huang’s testimony before Congress US politics – live updates Republican lawmakers roundly criticized the Nvidia board’s decision to reinstate i",
     "image": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125",
     "published": "2026-11-23T21:09:10+00:00"
    },
@@ -2762,15 +2798,6 @@
     "summary": "Research shows majority-Black communities are over twice as likely to host data centers compared to majority-white ones",
     "image": "https://s.abcnews.com/images/US/wirestory_2288a4183181e6fdb61d4aa0a3e93705_4x3_384.jpg",
     "published": "2026-11-23T20:49:47+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian US",
-    "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-    "summary": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns Donald Trump on Monday said he would defer to a federal appeals court on whether the administration moves",
-    "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55",
-    "published": "2026-11-23T19:42:40+00:00"
    },
    {
     "cat": "nat",
@@ -2840,18 +2867,9 @@
     "source": "Guardian US",
     "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
     "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-    "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too Business live – latest updates It has been a volatile time on global stock markets, with rapid rallies an",
+    "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There ha",
     "image": "https://i.guim.co.uk/img/media/58c90749993f306f97351fb1ed8c91f856905a5b/3_0_3564_2853/master/3564.jpg?width=140&quality=85&auto=format&fit=max&s=11c14ad5bdc32c1a1a54dde7a6827c70",
     "published": "2026-11-23T14:51:44+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian US",
-    "title": "Nine people shot at central California concert with one in critical condition",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
-    "summary": "Authorities say they believe the Saturday night shooting at a concert in Strathmore ‘may be gang-related’ Nine people were shot at a concert in central California , leaving one person critically injured with a chest inju",
-    "image": "https://i.guim.co.uk/img/media/ac8d5f2e719a3dee971a5cb44a960b8fa97ca236/209_0_2088_1671/master/2088.jpg?width=140&quality=85&auto=format&fit=max&s=ef19254570c5750ae4fb62e27bf46d17",
-    "published": "2026-11-23T14:34:40+00:00"
    },
    {
     "cat": "nat",
@@ -3017,15 +3035,6 @@
    },
    {
     "cat": "nat",
-    "source": "Guardian US",
-    "title": "NFL week 11: Dolphins 9-26 Bills, Buccaneers 21-31 Lions, Saints 13-21 Bears, and more – as it happened",
-    "link": "https://www.theguardian.com/sport/live/2026/nov/22/nfl-week-11-dolphins-v-bills-buccaneers-v-lions-saints-v-bears-and-more-live",
-    "summary": "Lions and Bears move to 8-2 with comfortable wins Panthers beat Ravens 35-33 in rollercoaster thriller TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rush Conti",
-    "image": "https://i.guim.co.uk/img/media/660d192ec81384cdf9bd425079b418d167ea7860/898_12_3567_2853/master/3567.jpg?width=140&quality=85&auto=format&fit=max&s=10fac938722dc8412e0b0c20138f06f3",
-    "published": "2026-11-22T21:29:02+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "ABC News US",
     "title": "Natural gas pipeline fire shoots flames in Alabama, cause under investigation",
     "link": "https://abcnews.com/US/wireStory/natural-gas-pipeline-fire-shoots-flames-air-alabama-138362181",
@@ -3053,24 +3062,6 @@
    },
    {
     "cat": "nat",
-    "source": "ABC News US",
-    "title": "A California billionaire tax proposal faced a major setback despite big wins for progressives",
-    "link": "https://abcnews.com/US/wireStory/california-billionaire-tax-proposal-faced-major-setback-despite-138356414",
-    "summary": "A first-in-the-nation effort to pass a billionaire tax in California faced a major setback when voters rejected the measure and passed a policymaking it much harder to enact such a tax in the future",
-    "image": "https://s.abcnews.com/images/US/wirestory_8add946e01aa49964606cfbb0c727017_4x3_384.jpg",
-    "published": "2026-11-22T13:22:16+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "NPR National",
-    "title": "Chicago now has the worst traffic in the U.S. — here's why",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6038839/chicago-now-has-the-worst-traffic-in-the-u-s-heres-why",
-    "summary": "Traffic is bad in many U.S. cities, but Chicago is the worst. Years of construction are causing record delays on the freeway between downtown and O'Hare Airport.",
-    "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6038839",
-    "published": "2026-11-22T13:12:05+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "NPR National",
     "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
     "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
@@ -3095,15 +3086,6 @@
     "summary": "I believe human judgment remains essential Last year, I nearly quit mathematics. On 20 November, Levent Alpöge announced that, working with Claude, he had proved the Riemann hypothesis, a 167-year-old problem about the d",
     "image": "https://i.guim.co.uk/img/media/df6c16bf913288657abe83afff8969abdd383bad/581_0_4307_3445/master/4307.jpg?width=140&quality=85&auto=format&fit=max&s=9c292058b38251501e72e01d722fd4b1",
     "published": "2026-11-22T11:00:26+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "NPR National",
-    "title": "He expected a small-business loan. He got a 7-year nightmare",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
-    "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3371+0+0/resize/4500x3371!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2Fac%2F2eee3f9c42bf92369fb5c87f9b95%2F20261113vaheshahinian00338.jpg",
-    "published": "2026-11-22T10:00:00+00:00"
    },
    {
     "cat": "nat",
@@ -3251,24 +3233,51 @@
    },
    {
     "cat": "nat",
-    "source": "ABC News US",
-    "title": "Officials: Washington pulp mill violated safety standards before deadly tank rupture",
-    "link": "https://abcnews.com/US/wireStory/officials-washington-pulp-mill-violated-safety-standards-ruptured-138329287",
-    "summary": "State investigators have revealed that a Washington pulp mill, where a chemical tank ruptured in May killing 11 people, had a history of severe safety violations",
-    "image": "https://s.abcnews.com/images/US/wirestory_6af77574d682b601568412cf9b3570f2_4x3_384.jpg",
-    "published": "2026-11-20T21:38:34+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Guardian US",
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
     "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock",
     "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=95af56c4e78299bd447fd1e5bd03b452",
     "published": "2026-11-20T21:38:17+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC News US",
+    "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year as rout in tech stocks tanks the market",
+    "link": "https://abcnews.com/US/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309522",
+    "summary": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year as rout in tech stocks tanks the market",
+    "image": "https://s.abcnews.com/images/US/wirestory_c4c3f4878b12989347f8a930ed813dad_4x3_384.jpg",
+    "published": "2026-11-20T21:17:12+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC News US",
+    "title": "2 men cleared in South Carolina road rage shooting now face charges after family finds new evidence",
+    "link": "https://abcnews.com/US/wireStory/2-men-cleared-south-carolina-road-rage-shooting-138325491",
+    "summary": "Two men initially cleared in a South Carolina road rage shooting three years ago now face murder charges",
+    "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+    "published": "2026-11-20T18:10:58+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC News US",
+    "title": "Fans near and far mourn Fiona the hippo",
+    "link": "https://abcnews.com/US/wireStory/fans-mourn-fiona-hippo-after-death-cincinnati-zoo-138323257",
+    "summary": "Fans of the Cincinnati Zoo’s beloved Fiona the hippo are mourning",
+    "image": "https://s.abcnews.com/images/Weird/wirestory_d3891935a0f3368442e546dcc37ee3e2_4x3_384.jpg",
+    "published": "2026-11-20T17:43:20+00:00"
    }
   ],
   "GB": [
+   {
+    "cat": "nat",
+    "source": "BBC UK",
+    "title": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
+    "link": "https://www.bbc.co.uk/news/videos/c920x1534e31o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary, Heal.",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3824/live/e32c6f10-e786-11f1-99a1-253766e7ad8b.jpg",
+    "published": "2026-11-23T22:01:09+00:00"
+   },
    {
     "cat": "nat",
     "source": "BBC UK",
@@ -3310,7 +3319,7 @@
     "source": "Guardian UK",
     "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
     "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-    "summary": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’ UK politics live – latest updates Andy Burnham has said it would be “unthinkable” for the UK to rejoin th",
+    "summary": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’ Andy Burnham has said it would be “unthinkable” for the UK to rejoin the EU without holding another refer",
     "image": "https://i.guim.co.uk/img/media/e7777a1987dbf50dcccb3faf1ad701f1a91ceb1c/1702_373_6049_4840/master/6049.jpg?width=140&quality=85&auto=format&fit=max&s=d0c3805fe3c716b83d27675b94f44fd7",
     "published": "2026-11-23T19:26:01+00:00"
    },
@@ -3490,7 +3499,7 @@
     "source": "Guardian UK",
     "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
     "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-    "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too Business live – latest updates It has been a volatile time on global stock markets, with rapid rallies an",
+    "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There ha",
     "image": "https://i.guim.co.uk/img/media/58c90749993f306f97351fb1ed8c91f856905a5b/3_0_3564_2853/master/3564.jpg?width=140&quality=85&auto=format&fit=max&s=11c14ad5bdc32c1a1a54dde7a6827c70",
     "published": "2026-11-23T14:51:44+00:00"
    },
@@ -3499,7 +3508,7 @@
     "source": "Guardian UK",
     "title": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
     "link": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
-    "summary": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier Business live – latest updates Next has warned that hackers have gained access to data relating to the c",
+    "summary": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier Next has warned that hackers have gained access to data relating to the clothing and homewares retailer",
     "image": "https://i.guim.co.uk/img/media/b98cd780bf9e268b9ab1c77545ad7f2b5026a2b0/485_0_4852_3881/master/4852.jpg?width=140&quality=85&auto=format&fit=max&s=1d99c51eef9c74958275a549ea71ae21",
     "published": "2026-11-23T14:50:31+00:00"
    },
@@ -3616,7 +3625,7 @@
     "source": "Guardian UK",
     "title": "NHS caterer Compass ‘plans stock market switch’ in blow to London",
     "link": "https://www.theguardian.com/business/2026/nov/23/nhs-caterer-compass-plans-stock-market-switch-in-blow-to-london",
-    "summary": "The £43bn firm’s decision to move primary listing to New York would mark latest loss for FTSE 100 Business live – latest updates Compass, one of the biggest companies in the FTSE 100, is planning to switch its primary li",
+    "summary": "The £43bn firm’s decision to move primary listing to New York would mark latest loss for FTSE 100 Compass, one of the biggest companies in the FTSE 100, is planning to switch its primary listing from London to the US in",
     "image": "https://i.guim.co.uk/img/media/47e2cdc1f3fb084d91ff5330a9789f4a8edcc732/936_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=fabdfc852a549df9c08c8da26ad662c1",
     "published": "2026-11-23T10:51:40+00:00"
    },
@@ -3799,26 +3808,98 @@
     "summary": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba9/live/b922d470-e691-11f1-936e-1fd1d31671db.jpg",
     "published": "2026-11-22T16:51:57+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian UK",
-    "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
-    "link": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
-    "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries Jilly Cooper has been accused of plagiarising the works of two othe",
-    "image": "https://i.guim.co.uk/img/media/f5ed62cd4fe49f2727a2c4dd715669add71e2484/0_76_1639_1311/master/1639.jpg?width=140&quality=85&auto=format&fit=max&s=0832a3ae7db6194db42d825cf0511065",
-    "published": "2026-11-22T15:07:42+00:00"
    }
   ],
   "AU": [
    {
     "cat": "nat",
     "source": "Guardian Australia",
-    "title": "Australian politics live: Labor to ‘save more than we spend’ in budget update, Chalmers says; rental affordability plummets to 14-year low",
+    "title": "Australian politics live: Taylor notes ‘tough year’ for Coalition partyroom; King Charles ‘deeply saddened’ by Meldrum’s death",
     "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
     "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get ple",
-    "image": "https://i.guim.co.uk/img/media/86612b7e576ef8d8fefee996ef99ce1a4d96d978/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3cfc00a623bc89dcb46c85bdf6218a75",
-    "published": "2026-11-23T21:53:58+00:00"
+    "image": "https://i.guim.co.uk/img/media/7a7744f47b650ef928308170e6cfe6118d27f308/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=037dc2a4a0f418015558a3a071a305c1",
+    "published": "2026-11-23T23:42:49+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Breaking: Underworld killer to be released on parole",
+    "link": "https://www.abc.net.au/news/2026-11-24/underworld-killer-to-be-released-on-parole/107419956",
+    "summary": "A man who murdered four people, including three members of the same family, is set to be released from a South Australian prison after almost four decades behind bars.",
+    "image": "",
+    "published": "2026-11-23T23:16:49+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Live: One Nation has 'no desire' for coalition with Liberals, Nationals in Vic",
+    "link": "https://www.abc.net.au/news/2026-11-24/victoria-election-live-updates-labor-liberals-campaign/107419958",
+    "summary": "There are just four days until polling day in Victoria, with political parties ramping up their campaigns around the state in a last-minute bid to sway undecided voters. Follow live.",
+    "image": "",
+    "published": "2026-11-23T23:07:35+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Israel's bombardment has turned Gaza into 'toxic wasteland'",
+    "link": "https://www.abc.net.au/news/2026-11-24/israel-s-bombardment-turns-gaza-into-toxic-wasteland/107419898",
+    "summary": "New research suggests more than 99 per cent of the Gaza Strip shows signs of contamination from Israeli attacks.",
+    "image": "",
+    "published": "2026-11-23T23:06:22+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Major airlines shun Brisbane Airport's flight noise reduction trial",
+    "link": "https://www.abc.net.au/news/2026-11-24/qantas-virgin-jetstar-shun-brisbane-airport-tailwind-trial/107409604",
+    "summary": "Pilots and residents are questioning the utility of Brisbane Airport's tailwind trial as the ABC can reveal neither of Australia's major airline groups is participating.",
+    "image": "",
+    "published": "2026-11-23T22:59:38+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Junior tennis player's 'graphic' death threats after losing match",
+    "link": "https://www.abc.net.au/news/2026-11-24/adelaide-tennis-player-subjected-to-death-threats-after-losing/107419670",
+    "summary": "An 18-year-old junior girls player started receiving \"disgusting\" and \"hurtful\" messages just 15 minutes after losing her live-streamed match.",
+    "image": "",
+    "published": "2026-11-23T22:43:42+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Australians face Thai court over $1.9m investment scam",
+    "link": "https://www.abc.net.au/news/2026-11-24/trial-of-australians-charged-over-thai-scam-continues/107417146",
+    "summary": "Five Australians return to a Bangkok court, on trial for allegedly running an investment scam that duped at least 14,000 Australians out of $1.9 million.",
+    "image": "",
+    "published": "2026-11-23T22:20:32+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Jury finds man not guilty of killing woman with trailer",
+    "link": "https://www.abc.net.au/news/2026-11-24/kristopher-castle-kylie-saunders-jury-not-guilty-driving-death/107418446",
+    "summary": "A northern Victorian man has been found not guilty of dangerous driving causing the death of a woman hit by a trailer carrying a car in Yarrawonga.",
+    "image": "",
+    "published": "2026-11-23T22:10:06+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Guardian Australia",
+    "title": "Here’s why young voters are the wildcard in Victoria’s election | Lizzie Hedding",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/24/heres-why-young-voters-are-the-wildcard-in-victorias-election",
+    "summary": "Millennials and gen Z are at the coalface of the cost of living and the climate crisis. No wonder political dissatisfaction is spilling out in every direction It’s a great week to be a 44-year-old as election analysts ex",
+    "image": "https://i.guim.co.uk/img/media/c724549c85c5ebbc3a89f528aa1df525363680c7/432_0_4673_3740/master/4673.jpg?width=140&quality=85&auto=format&fit=max&s=ef8a4ab90821b2c6ff04e069fb036af2",
+    "published": "2026-11-23T22:00:58+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "ABC Australia",
+    "title": "Staff at regional hospital warn of mass exodus over reduced doctor roster",
+    "link": "https://www.abc.net.au/news/2026-11-24/health-authority-backflip-on-reduced-doctor-roster/107384264",
+    "summary": "Whistleblowers tell the ABC a reduction in rostered doctors in WA reflects health authorities' reliance on telehealth in country emergency departments.",
+    "image": "",
+    "published": "2026-11-23T22:00:07+00:00"
    },
    {
     "cat": "nat",
@@ -3841,7 +3922,7 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Breaking: Hobart's Macquarie Point stadium cost rises to $1.23b",
+    "title": "Hobart's stadium and precinct costs rise to $1.54b",
     "link": "https://www.abc.net.au/news/2026-11-24/cost-of-hobart-macquarie-point-stadium-rises/107417074",
     "summary": "The state government blames high oil, materials and labour prices for the blowout from a $1.13 billion budget set last year.",
     "image": "",
@@ -3859,7 +3940,7 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Remote NT parents 'barely' coping after three childcare centres close",
+    "title": "Three 'very important' childcare facilities shut in NT remote communities",
     "link": "https://www.abc.net.au/news/2026-11-24/remote-nt-parents-worried-as-arnhem-land-childcare-centres-shut/107417986",
     "summary": "Arnhem Land parents and carers are urging governments to intervene after the recent closure of several childcare centres in the NT's remote Aboriginal communities.",
     "image": "",
@@ -3877,7 +3958,7 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Turkish heiress paid former prince Andrew 750k pound 'bribe', UK court told",
+    "title": "Turkish heiress paid former prince Andrew $1.4m 'bribe', UK court told",
     "link": "https://www.abc.net.au/news/2026-11-24/ex-prince-andrew-took-bribe-to-help-turkish-heiress-court-told/107419512",
     "summary": "A lawyer for the Turkish heiress's former adviser says the payment to Andrew Mountbatten-Windsor \"was a bribe, either for assistance with her passport or her UK residency\".",
     "image": "",
@@ -3913,7 +3994,7 @@
    {
     "cat": "nat",
     "source": "ABC Australia",
-    "title": "Jensen Huang's extraordinary return, and why it isn't the end of the Nvidia saga",
+    "title": "Why Jensen Huang's extraordinary return isn't the end of the Nvidia saga",
     "link": "https://www.abc.net.au/news/2026-11-24/nvidia-jensen-huang-timeline/107419314",
     "summary": "The shock return of Jensen Huang, heralded by US President Donald Trump, does not mean the Nvidia co-founder is out of the woods.",
     "image": "",
@@ -3924,7 +4005,7 @@
     "source": "ABC Australia",
     "title": "Pelicot 'once again humiliated' as nude photos used to promote book",
     "link": "https://www.abc.net.au/news/2026-11-24/pelicot-nude-photos-used-to-promote-psychoanalyst-book/107419434",
-    "summary": "The nude photographs of Gisèle Pelicot had been used without her consent to promote a psychoanalyst's essay on the concept of coercive control.",
+    "summary": "Nude photographs of Gisèle Pelicot have been used without her consent to promote a psychoanalyst's essay on the concept of coercive control.",
     "image": "",
     "published": "2026-11-23T20:06:09+00:00"
    },
@@ -3981,78 +4062,6 @@
     "summary": "A 69-year-old Newcastle bus driver is planning to move more than 1,000 kilometres away — and keep working — in a bid to afford somewhere to rent.",
     "image": "",
     "published": "2026-11-23T19:34:29+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "ACT government given 12 months to review 'offensive' Indigenous protocol",
-    "link": "https://www.abc.net.au/news/2026-11-24/act-government-to-review-indigenous-protocol-within-12-months/107417430",
-    "summary": "The ACT government has been given 12 months to deliver a review of how it acknowledges First Nations people.",
-    "image": "",
-    "published": "2026-11-23T19:32:34+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Number of child protection reports made 'sickening', youth advocate says",
-    "link": "https://www.abc.net.au/news/2026-11-24/91000-child-protection-reports-domestic-violence-nsw-in-a-year/107404086",
-    "summary": "A new report has found more than 91,000 child protection reports relating to domestic and family violence were made in New South Wales in the past year alone, a statistic one youth advocate describes as \"horrifying\".",
-    "image": "",
-    "published": "2026-11-23T19:32:18+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "My no-gift rule for adults has been a game changer for our family",
-    "link": "https://www.abc.net.au/news/2026-11-24/the-gift-of-not-giving-this-christmas/107309744",
-    "summary": "Many Australians are under financial stress, and buying presents is especially burdensome this year. As a financial educator, this is the approach I swear by.",
-    "image": "",
-    "published": "2026-11-23T18:39:47+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "How much do you know about celebrations around the world?",
-    "link": "https://www.abc.net.au/news/2026-11-24/abc-quiz-celebrations-around-the-world/107397288",
-    "summary": "As the US prepares for Thanksgiving this week, we test your knowledge on other celebrations around the world.",
-    "image": "",
-    "published": "2026-11-23T18:30:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Artist who immortalised Matildas team in film takes on stereotypes in new work",
-    "link": "https://www.abc.net.au/news/2026-11-24/angela-tiatia-exhibition-muse-newcastle-art-gallery/107390686",
-    "summary": "Angela Tiatia — the Sāmoan Australian artist responsible for a moving-image portrait of one of Australia's favourite sport teams — has a major new show at Newcastle Art Gallery.",
-    "image": "",
-    "published": "2026-11-23T18:30:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Union says some Tasmanian public sector jobs saved but new ones being cut",
-    "link": "https://www.abc.net.au/news/2026-11-24/tasmanian-jobs-reinstated-others-cut-in-department-restructures/107399930",
-    "summary": "The \"work\" of choosing who would lose their public sector jobs has been done in a \"careful and considered way\", the Tasmanian government says, with a union likening it more to The Hunger Games dystopian fantasy.",
-    "image": "",
-    "published": "2026-11-23T18:26:16+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "As Victorian Labor fights for survival, several unions have left its side",
-    "link": "https://www.abc.net.au/news/2026-11-24/victorian-election-unions-abandon-labor/107367014",
-    "summary": "Some unions have chosen to stay out of the Victorian election campaign, while others are openly calling on members not to vote for Labor after a build-up of grievances with a 12-year-old government.",
-    "image": "",
-    "published": "2026-11-23T18:14:28+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "ABC Australia",
-    "title": "Ute-sized nuclear reactor reignites energy debate",
-    "link": "https://www.abc.net.au/news/2026-11-24/australian-made-nuclear-microreactor/107409752",
-    "summary": "A central Queensland MP wants the federal government to lift the moratorium on nuclear energy, after an Australian company built a microreactor that fits in the back of a ute.",
-    "image": "",
-    "published": "2026-11-23T18:00:00+00:00"
    },
    {
     "cat": "nat",
@@ -4129,15 +4138,6 @@
    {
     "cat": "nat",
     "source": "Guardian Australia",
-    "title": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning | Bill Hare",
-    "link": "https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement",
-    "summary": "Co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia, which is exporting climate pain The failure of Cop31 in Antalya was a line in the sand moment, a victory for multilate",
-    "image": "https://i.guim.co.uk/img/media/5a9e838799df66f4975edd1ffed1b25c01646193/586_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e32c9be0861290897d62a6cb5635b04d",
-    "published": "2026-11-22T22:30:48+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Guardian Australia",
     "title": "The cost-of-living crisis was harming Claudia’s mental wellbeing. Together we worked out strategies to help her cope | Bianca Denny",
     "link": "https://www.theguardian.com/commentisfree/2026/nov/23/cost-of-living-crisis-financial-stress-mental-health-coping-strategies",
     "summary": "In trying to save for a house deposit, she had sacrificed activities that brought her joy. And constant checking of her bank balance exacerbated her fears The modern mind is a column where experts discuss mental health i",
@@ -4164,6 +4164,69 @@
    }
   ],
   "CA": [
+   {
+    "cat": "nat",
+    "source": "Global News",
+    "title": "Pentagon criticizes Canada’s defence spending, military readiness",
+    "link": "https://globalnews.ca/news/12163344/pentagon-canada-defence/",
+    "summary": "Sen. Mike Rounds, a Republican, previously told reporters at the Halifax International Security Forum on Saturday that the move would not affect military operations.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/1b2a30c048d02dcd9bc54e5c21f7c616c73aaa5dc45e9cbce39c22e23e239f70.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "published": "2026-11-23T23:41:05+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Global News",
+    "title": "New act allows Alberta step in on natural gas pipelines — if private sector falls short",
+    "link": "https://globalnews.ca/news/12163077/alberta-natural-gas-infrastructure-act/",
+    "summary": "The proposed Natural Gas Infrastructure Act does not in itself create new Crown entities to plan or invest in pipelines — but gives the province the ability to do so, if necessary.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/GettyImages-2206379307.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "published": "2026-11-23T22:35:02+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Global News",
+    "title": "Station 20 West appeals Saskatoon order to dismantle encampment",
+    "link": "https://globalnews.ca/news/12163113/station-20-west-appeal-encampment-cleanup/",
+    "summary": "Station 20 West has appealed the City of Saskatoon's order to clean up an encampment on its property by the end of this month, according to its director.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/saskatoon-encampment-20-street.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "published": "2026-11-23T22:29:49+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "CBC Canada",
+    "title": "More transparency needed on surveillance pricing, privacy commissioner says",
+    "link": "https://www.cbc.ca/news/politics/privacy-commissioner-surveillance-pricing-9.7433216?cmp=rss",
+    "summary": "Canada's privacy commissioner says people should be warned when they are being targeted by surveillance pricing.",
+    "image": "https://i.cbc.ca/ais/ed9a4ad0-9b56-4b9b-a12a-87579a0a53f6,1795471212561/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3700%2C2081%29%3B",
+    "published": "2026-11-23T22:29:33+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "CBC Canada",
+    "title": "Court holds N.L. man over fear he will commit terrorist acts after threats against mosque",
+    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/gander-resident-matthew-collins-accused-of-making-threat-against-mosque-police-say-9.7433124?cmp=rss",
+    "summary": "Facing eight charges and a court application used when there is a “fear of terrorism offence,” Matthew Collins was allegedly making threats against a mosque.",
+    "image": "https://i.cbc.ca/ais/e54cd9f7-b946-4ef8-aef8-f00fc0bf9636,1795468227288/full/max/0/default.jpg?im=Crop%2Crect%3D%28148%2C70%2C1631%2C917%29%3B",
+    "published": "2026-11-23T22:16:45+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Global News",
+    "title": "Minister defends not initially banning college with surging OSAP usage",
+    "link": "https://globalnews.ca/news/12163103/minister-defends-not-initially-banning-college-with-surging-osap-usage/",
+    "summary": "Universities Minister Nolan Quinn this spring made six career colleges ineligible for OSAP due to what the ministry called concerns with \"high-risk\" admissions practices.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298320.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "published": "2026-11-23T22:10:12+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Global News",
+    "title": "Canadians should be warned when targeted by surveillance pricing: commissioner",
+    "link": "https://globalnews.ca/news/12163118/surveillance-pricing-awareness-privacy-commissioner/",
+    "summary": "Philippe Dufresne told a parliamentary committee Monday he will be developing formal guidance about how Canada's current privacy law applies to surveillance pricing.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/bfd3cb369f6ef6f505bb0d39d138b869e9bd500eb36b50148a44c4010169a30b_06c0e3.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "published": "2026-11-23T22:05:55+00:00"
+   },
    {
     "cat": "nat",
     "source": "Global News",
@@ -4251,26 +4314,8 @@
     "title": "Windsor, Ont., hospital ex-employee facing 3 more sex assault charges after patients come forward: police",
     "link": "https://www.cbc.ca/news/canada/windsor/more-charges-windsor-sexual-assault-investigation-9.7432908?cmp=rss",
     "summary": "Windsor, Ont., police say new sexual assault charges have been brought against 29-year-old Cody Tyler Desbien, a former hospital ultrasound technician, bringing the count to four after more patients came forward.",
-    "image": "https://i.cbc.ca/ais/559cef94-f16b-41e5-95f2-9e4a9e243abf,1795462156239/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "image": "https://i.cbc.ca/ais/559cef94-f16b-41e5-95f2-9e4a9e243abf,1795472757574/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "published": "2026-11-23T19:41:42+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Global News",
-    "title": "Steven Del Duca fires top civil servant using ‘strong chair’ powers",
-    "link": "https://globalnews.ca/news/12162767/steven-del-duca-fires-top-civil-servant-using-strong-chair-powers/",
-    "summary": "One source in the region, granted confidentiality to speak freely, said staff felt “blindsided” and that the decision feels “ruthless and mean.”",
-    "image": "https://globalnews.ca/wp-content/uploads/2025/09/CP165145379.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "published": "2026-11-23T19:39:42+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Global News",
-    "title": "Premier Ford won’t agree to trade deal without auto, steel and manufacturing approval",
-    "link": "https://globalnews.ca/news/12162655/premier-ford-wont-agree-to-trade-deal-without-auto-steel-and-manufacturing-approval/",
-    "summary": "Ottawa is seeking what it says is an “interim deal” that would provide tariff relief for Canadian businesses and resolve core trade irritants.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/17b5c7b2b2928a8343972cfa986d69ad4e462d7526741e7ea33e4f7178b8e18f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "published": "2026-11-23T19:38:46+00:00"
    },
    {
     "cat": "nat",
@@ -4280,15 +4325,6 @@
     "summary": "Montreal is competing to host the headquarters of the Defence, Security and Resilience Bank (DSRB), and Quebec's sovereignist government has thrown its full support behind the bid.",
     "image": "https://i.cbc.ca/ais/bb00e4a5-b553-480f-b3e3-293c80dfc9f8,1795462301877/full/max/0/default.jpg?im=Crop%2Crect%3D%28841%2C431%2C2769%2C1557%29%3B",
     "published": "2026-11-23T19:07:08+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Global News",
-    "title": "Locked out Regina Transit union says ‘status quo is not going to be acceptable’",
-    "link": "https://globalnews.ca/news/12162541/locked-out-regina-transit-union/",
-    "summary": "Almost two years after their last contract expired, the City of Regina has locked out Regina Transit workers, instructing them not to come into work.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/regina-transit-lockout.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "published": "2026-11-23T18:52:33+00:00"
    },
    {
     "cat": "nat",
@@ -4310,30 +4346,12 @@
    },
    {
     "cat": "nat",
-    "source": "Global News",
-    "title": "3 Calgary police officers charged with manslaughter in death of Alberta cowboy Jon Wells",
-    "link": "https://globalnews.ca/news/12162627/calgary-police-officers-manslaughter-charges/",
-    "summary": "Well-known Indigenous rodeo champion Jon Wells, 42, died in police custody following a confrontation at the Carriage House hotel in south Calgary on Sept. 17, 2024.",
-    "image": "https://globalnews.ca/wp-content/uploads/2024/09/jon-wells-cropped-2.jpg?quality=65&strip=all&w=399&h=298&crop=1",
-    "published": "2026-11-23T18:22:10+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "CBC Canada",
     "title": "Dentist pleads guilty to professional misconduct in 23-year-old's death",
     "link": "https://www.cbc.ca/news/canada/manitoba/virginia-blatz-death-dentist-9.7432787?cmp=rss",
     "summary": "Manitoba dentist Dr. Ronald Janz has pleaded guilty to professional misconduct in connection with the death of Virginia Blatz.",
-    "image": "https://i.cbc.ca/ais/b5d61513-0f4e-49de-978b-62430b7134cd,1788633110541/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6250%2C3515%29%3B",
+    "image": "https://i.cbc.ca/ais/b5d61513-0f4e-49de-978b-62430b7134cd,1795471529382/full/max/0/default.jpg?im=Crop%2Crect%3D%28512%2C68%2C5028%2C2828%29%3B",
     "published": "2026-11-23T18:19:54+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Global News",
-    "title": "Child killed in crash involving SUV, semi-truck on Regina Bypass",
-    "link": "https://globalnews.ca/news/12162570/regina-bypass-fatal-crash-child/",
-    "summary": "RCMP in Saskatchewan say a young child has died after a two-vehicle collision involving an SUV and a semi-truck.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/cd16ae07996aba2d11727e611504669761f171000e2d5807fa72146183d7243f_3c9e38.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "published": "2026-11-23T18:04:40+00:00"
    },
    {
     "cat": "nat",
@@ -4352,15 +4370,6 @@
     "summary": "Three Calgary police officers have been charged with manslaughter two years after an unarmed Blood Tribe man died while in police custody.",
     "image": "https://i.cbc.ca/ais/3d3790b6-c6e2-4992-8dc5-7bc8edb9dca4,1795464729883/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C14%2C1179%2C663%29%3B",
     "published": "2026-11-23T17:04:14+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "CBC Canada",
-    "title": "'We’re hurting': Yukon users grapple with impacts of the toxic drug crisis",
-    "link": "https://www.cbc.ca/news/canada/north/yukon-users-grapple-with-impacts-of-the-toxic-drug-crisis-9.7432120?cmp=rss",
-    "summary": "Drug users in Whitehorse, Yukon, say their friends are dying at an alarming rate.",
-    "image": "https://i.cbc.ca/ais/70a9214e-c110-460e-ad24-cd28de4c93db,1795392531035/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
-    "published": "2026-11-23T15:26:10+00:00"
    },
    {
     "cat": "nat",
@@ -4397,15 +4406,6 @@
     "summary": "The Liberals are running Aaron Kienle, the sitting Mayor of Yorkton, as their candidate in the byelection set for Dec. 7.",
     "image": "https://i.cbc.ca/ais/7b588c85-667f-44a3-970f-b4e249fa33ca,1795204767705/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C87%2C1063%2C597%29%3B",
     "published": "2026-11-23T12:00:00+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "CBC Canada",
-    "title": "This B.C. man found some historical parkas at a thrift store — now he's trying to get them back to Nunavut",
-    "link": "https://www.cbc.ca/news/canada/north/this-b-c-man-found-some-historical-parkas-at-a-thrift-store-now-he-s-trying-to-get-them-back-to-nunavut-9.7429862?cmp=rss",
-    "summary": "Mike Williams of Kamloops discovered that the parkas were made in Taloyoak, Nunavut, for the 1974 Arctic Winter Games in Alaska. He's determined to get them back to the northern community where they were made.",
-    "image": "https://i.cbc.ca/ais/fdb0ae98-b0aa-47ed-a220-5e7856792f19,1795205745315/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B",
-    "published": "2026-11-23T11:00:00+00:00"
    },
    {
     "cat": "nat",
@@ -4828,74 +4828,281 @@
    {
     "cat": "nat",
     "source": "Punch",
-    "title": "Delta imposes 12-hour curfew in Ughelli north after rally violence",
-    "link": "https://punchng.com/delta-imposes-12-hour-curfew-in-ughelli-north-after-rally-violence/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Delta imposes a 6pm to 6am Ughelli North curfew after violence at an NDC rally in Uduere allegedly left some dead. Police have begun investigations. Read More: https://punchng.com/delta-imposes-12-hour-curfew-in-ughelli-",
+    "title": "Police deploy across Ibadan as NURTW threatens park takeover",
+    "link": "https://punchng.com/police-deploy-across-ibadan-as-nurtw-threatens-park-takeover/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Men of the Nigeria Police Force and the Nigerian Army on Monday embarked on patrols across parts of Ibadan, the Oyo State capital, in a show of force amid threats by members of the National Union of… Read More: https://p",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T22:40:19+00:00"
+    "published": "2026-11-24T00:36:13+00:00"
    },
    {
     "cat": "nat",
     "source": "Punch",
-    "title": "2027: APC mobilisation over 70% complete – Ex-minister",
-    "link": "https://punchng.com/2027-apc-mobilisation-over-70-complete-ex-minister/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Ex-minister Tayo Alasoadura says APC mobilisation for 2027 is over 70 per cent complete and expresses confidence of victory for President Tinubu. Read More: https://punchng.com/2027-apc-mobilisation-over-70-complete-ex-m",
+    "title": "Tinubu tasks me to stop foreign terrorists – Igboho",
+    "link": "https://punchng.com/tinubu-tasks-me-to-stop-foreign-terrorists-igboho/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Bola Tinubu has tasked the Yoruba nation activist and founder of Iru Ekun Security Network, Chief Sunday Adeyemo, popularly known as Sunday Igboho, with ensuring security in the South-West against any threat to",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T22:33:21+00:00"
+    "published": "2026-11-24T00:33:30+00:00"
    },
    {
     "cat": "nat",
     "source": "Punch",
-    "title": "DSS arraigns seven over terrorism, kidnapping in Kebbi",
-    "link": "https://punchng.com/dss-arraigns-seven-over-terrorism-kidnapping-in-kebbi/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "The DSS has arraigned seven persons before a Federal High Court in Birnin Kebbi over alleged terrorism links, kidnapping and illegal firearms possession. Read More: https://punchng.com/dss-arraigns-seven-over-terrorism-k",
+    "title": "Police arrest eight, recover 1,199 marijuana wraps in Jigawa",
+    "link": "https://punchng.com/police-arrest-eight-recover-1199-marijuana-wraps-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Jigawa police arrest eight suspects and recover 8,739 illicit substances, including 1,199 wraps of marijuana, in a sustained anti-drug operation in Dutse. Read More: https://punchng.com/police-arrest-eight-recover-1199-m",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T22:31:34+00:00"
+    "published": "2026-11-24T00:19:21+00:00"
    },
    {
     "cat": "nat",
     "source": "Punch",
-    "title": "‘Rig and die’ rhetoric fuelling Delta tension – Keyamo",
-    "link": "https://punchng.com/rig-and-die-rhetoric-fuelling-delta-tension-keyamo/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Keyamo urges promoters of the ‘Rig and Die’ slogan to withdraw it and apologise after four Omo-Agege campaign members were killed in Ughelli, Delta State. Read More: https://punchng.com/rig-and-die-rhetoric-fuelling-delt",
+    "title": "Ekiti man to die by hanging for killing two-year-old",
+    "link": "https://punchng.com/ekiti-man-to-die-by-hanging-for-killing-two-year-old/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An Ekiti High Court has sentenced 23-year-old Kayode Ademilolu to death by hanging for murdering 30-month-old Heritage Taiwo with a stone in Agbado-Ekiti. Read More: https://punchng.com/ekiti-man-to-die-by-hanging-for-ki",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T22:28:35+00:00"
+    "published": "2026-11-24T00:18:47+00:00"
    },
    {
     "cat": "nat",
     "source": "Punch",
-    "title": "British Council awards grants to seven Nigerians for community projects",
-    "link": "https://punchng.com/british-council-awards-grants-to-seven-nigerians-for-community-projects/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "The British Council has awarded grants of up to £5,000 each to seven Nigerians for community projects on flooding, e-waste, girls’ education and inclusion. Read More: https://punchng.com/british-council-awards-grants-to-",
+    "title": "Otti orders probe as eight-year-old killed in Abia school collapse",
+    "link": "https://punchng.com/otti-orders-probe-as-eight-year-old-killed-in-abia-school-collapse/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Governor Alex Otti has ordered a probe into the Abia school collapse in Aba that killed eight-year-old pupil Vincent Dim of Ehere Comprehensive Secondary S Read More: https://punchng.com/otti-orders-probe-as-eight-year-o",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T22:25:10+00:00"
+    "published": "2026-11-24T00:16:43+00:00"
    },
    {
     "cat": "nat",
     "source": "Punch",
-    "title": "‘I would love to speak with Azikiwe’, Makinde names preferred leader",
-    "link": "https://punchng.com/i-would-love-to-speak-with-azikiwe-makinde-names-preferred-leader/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Oyo Governor Seyi Makinde says Nnamdi Azikiwe is the Nigerian leader, dead or alive, he would most like to speak with, citing a decision still debated toda Read More: https://punchng.com/i-would-love-to-speak-with-azikiw",
+    "title": "Four killed as gunmen attack Omo-Agege’s campaign convoy",
+    "link": "https://punchng.com/four-killed-as-gunmen-attack-omo-ageges-campaign-convoy/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Four people were reportedly killed in the Omo-Agege campaign convoy attack in Ughelli North, Delta. A curfew has been imposed as police begin investigation Read More: https://punchng.com/four-killed-as-gunmen-attack-omo-",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T22:13:48+00:00"
+    "published": "2026-11-24T00:13:04+00:00"
    },
    {
     "cat": "nat",
     "source": "Punch",
-    "title": "Delta attack: Gunmen wanted to kill me – Omo-Agege",
-    "link": "https://punchng.com/delta-attack-gunmen-wanted-to-kill-me-omo-agege/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Ovie Omo-Agege alleges gunmen who attacked his campaign team in Uduere, Delta State, shouted that they wanted to kill him. Four aides were reportedly kille Read More: https://punchng.com/delta-attack-gunmen-wanted-to-kil",
+    "title": "Two nabbed for posing as policemen, extorting Borno traders",
+    "link": "https://punchng.com/two-nabbed-for-posing-as-policemen-extorting-borno-traders/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Borno police arrest two men, Baba Shehu Abba and Isah Muhammad, for allegedly posing as policemen and extorting traders in Muna, Jere Local Government Area Read More: https://punchng.com/two-nabbed-for-posing-as-policeme",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T22:01:17+00:00"
+    "published": "2026-11-24T00:11:01+00:00"
    },
    {
     "cat": "nat",
     "source": "Punch",
-    "title": "N582m fraud: Court threatens ex-NNPC cooperative president with arrest",
-    "link": "https://punchng.com/n582m-fraud-court-threatens-ex-nnpc-cooperative-president-with-arrest/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "An Abuja court threatens an arrest warrant against ex-NNPC cooperative president Olalekan Ogunbayo over his repeated absence in an alleged N582m fraud case Read More: https://punchng.com/n582m-fraud-court-threatens-ex-nn",
+    "title": "C’River man held over ex-employer’s death after machete attack",
+    "link": "https://punchng.com/criver-man-held-over-ex-employers-death-after-machete-attack/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Cross River police arrest a 27-year-old man, Moses Edem Edem, for allegedly hacking his ex-employer to death in Odukpani during an altercation. Read More: https://punchng.com/criver-man-held-over-ex-employers-death-after",
     "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T22:00:36+00:00"
+    "published": "2026-11-24T00:10:23+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "‎Court orders Jimmy Odukoya to appear November 26 over church dispute",
+    "link": "https://punchng.com/court-orders-jimmy-odukoya-to-appear-november-26-over-church-dispute/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "A Lagos High Court has ordered Pastor Jimmy Odukoya to appear on November 26 and allowed substituted service of processes in the Fountain of Life Church di Read More: https://punchng.com/court-orders-jimmy-odukoya-to-app",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:09:34+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Abbas urges states to commit N1bn for SMEs",
+    "link": "https://punchng.com/abbas-urges-states-to-commit-n1bn-for-smes/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Speaker Tajudeen Abbas urges state governments to set aside N1bn monthly for SMEs, faulting red tape and poor support despite higher federal allocations. Read More: https://punchng.com/abbas-urges-states-to-commit-n1bn-f",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:09:16+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Adamawa man jailed 10 years for defrauding bizman N7.4m",
+    "link": "https://punchng.com/adamawa-man-jailed-10-years-for-defrauding-bizman-n7-4m/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "An Adamawa High Court in Yola has jailed Shuaibu Usman for 10 years for defrauding a businessman of N7.48m in a fake digital mining investment, the EFCC sa Read More: https://punchng.com/adamawa-man-jailed-10-years-for-d",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:07:45+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Dangote wins Awolowo leadership prize",
+    "link": "https://punchng.com/dangote-wins-awolowo-leadership-prize/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The Obafemi Awolowo Foundation has named Aliko Dangote winner of the 2026 Awolowo Prize for Leadership, with Iyinoluwa Aboyeji also honoured. Read More: https://punchng.com/dangote-wins-awolowo-leadership-prize/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:07:12+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "CBN may hold interest rate over naira pressure",
+    "link": "https://punchng.com/cbn-may-hold-interest-rate-over-naira-pressure/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Analysts say CBN interest rate may stay at 23 per cent at the November MPC meeting as naira pressure builds and FX reserves decline despite falling inflati Read More: https://punchng.com/cbn-may-hold-interest-rate-over-n",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:06:57+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "NIBSS remains Africa’s only mature inclusive payment switch",
+    "link": "https://punchng.com/nibss-remains-africas-only-mature-inclusive-payment-switch/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NIBSS Instant Payment retains its place as Africa’s only mature inclusive instant payments switch in AfricaNenda’s SIIPS 2026 report assessing 39 systems. Read More: https://punchng.com/nibss-remains-africas-only-mature-",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:05:33+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Makinde names nine into key Oyo govt positions",
+    "link": "https://punchng.com/makinde-names-nine-into-key-oyo-govt-positions/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Oyo Governor Seyi Makinde approves nine appointments, including a special adviser on budget and council members, with immediate effect, a statement said. Read More: https://punchng.com/makinde-names-nine-into-key-oyo-gov",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:04:35+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "INEC selects 17,676 polling units for mock BVAS exercise",
+    "link": "https://punchng.com/inec-selects-17676-polling-units-for-mock-bvas-exercise/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "INEC has selected 17,676 polling units for its nationwide mock BVAS accreditation and result upload exercise on November 28 ahead of the 2027 elections. Read More: https://punchng.com/inec-selects-17676-polling-units-for",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:04:05+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Dangote IPO: SEC approves share allocation after 300% subscription",
+    "link": "https://punchng.com/dangote-ipo-sec-approves-share-allocation-after-300-subscription/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "SEC approves share allocation for the Dangote refinery IPO, which drew subscriptions about three times its size, clearing the way for an NGX listing. Read More: https://punchng.com/dangote-ipo-sec-approves-share-allocati",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:03:02+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Two Nigerians qualify for African mountain biking championships",
+    "link": "https://punchng.com/two-nigerians-qualify-for-african-mountain-biking-championships/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Mary Samuel and Fanen Rumun won the XCO races at the Abuja Chaingang Mountain Bike Festival to qualify for the 2027 African Mountain Bike Championships. Read More: https://punchng.com/two-nigerians-qualify-for-african-mo",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:02:39+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "APC disowns fake letter asking INEC to guarantee Tinubu’s victory",
+    "link": "https://punchng.com/apc-disowns-fake-letter-asking-inec-to-guarantee-tinubus-victory/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "The APC disowns a fake letter allegedly from Nentawe Yilwatda asking INEC to ensure Tinubu’s 2027 victory, calling it a malicious fabrication. Read More: https://punchng.com/apc-disowns-fake-letter-asking-inec-to-guarant",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:02:29+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Tinubu woos Igbo voters in Lagos",
+    "link": "https://punchng.com/tinubu-woos-igbo-voters-in-lagos/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "President Tinubu urged Igbo traders and leaders in Lagos to back his 2027 re-election bid, pledging inclusive governance at a town hall in Iganmu. Read More: https://punchng.com/tinubu-woos-igbo-voters-in-lagos/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:02:24+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "APC, opposition clash over Tinubu’s 2027 Lagos prospects",
+    "link": "https://punchng.com/apc-opposition-clash-over-tinubus-2027-lagos-prospects/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Lagos APC says it is fixing lapses behind Tinubu’s 2023 defeat in the state, as opposition parties say economic hardship will cost him votes in 2027. Read More: https://punchng.com/apc-opposition-clash-over-tinubus-2027-",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:02:02+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "2027: Police must be fair, neutral",
+    "link": "https://punchng.com/2027-police-must-be-fair-neutral/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "As IG Olatunji Disu assures readiness for the 2027 general election, Punch says the police must prosecute offenders and ensure a credible poll. Read More: https://punchng.com/2027-police-must-be-fair-neutral/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:01:39+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Joshua talks retirement ahead Fury fight",
+    "link": "https://punchng.com/joshua-talks-retirement-ahead-fury-fight/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Anthony Joshua says retirement is coming ‘pretty soon’, with about three weeks to his fight against Tyson Fury. His uncle says the family is happy. Read More: https://punchng.com/joshua-talks-retirement-ahead-fury-fight/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:01:38+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Why many Nigerians relocate: My baptism of fire in Canada",
+    "link": "https://punchng.com/why-many-nigerians-relocate-my-baptism-of-fire-in-canada/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Why Nigerians relocate: Azuka Onwuka contrasts Canada’s emergency response to an injured Nigerian student with road, safety and insecurity failures at home Read More: https://punchng.com/why-many-nigerians-relocate-my-ba",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:01:32+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Identify the figure of speech in ‘Nollywood is contributing its quota to Nigeria’s GDP.’",
+    "link": "https://punchng.com/identify-the-figure-of-speech-in-nollywood-is-contributing-its-quota-to-nigerias-gdp/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Is ‘Nollywood is contributing its quota to Nigeria’s GDP’ irony, litotes or personification? This English lesson explains why metonymy fits best. Read More: https://punchng.com/identify-the-figure-of-speech-in-nollywood-",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:00:54+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Oyo charges alumni to equip public schools for digital learning",
+    "link": "https://punchng.com/oyo-charges-alumni-to-equip-public-schools-for-digital-learning/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Oyo government urges alumni and philanthropists to invest in digital learning for public schools as Lagelu Grammar School’s 1996 set donates an e-library. Read More: https://punchng.com/oyo-charges-alumni-to-equip-public",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:00:53+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Guinea Insurance reaffirms financial resilience, growth outlook",
+    "link": "https://punchng.com/guinea-insurance-reaffirms-financial-resilience-growth-outlook/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "Guinea Insurance AGM: shareholders approved 2025 results as shareholders’ funds rose 11.8% to N5.84bn and investment income doubled to N656.3m. Read More: https://punchng.com/guinea-insurance-reaffirms-financial-resilien",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:00:52+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "NDPC warns businesses against operating without data protection officers",
+    "link": "https://punchng.com/ndpc-warns-businesses-against-operating-without-data-protection-officers/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "NDPC’s Vincent Olatunji says data controllers and processors must engage data protection officers under Section 32, warning of regulatory action for non-co Read More: https://punchng.com/ndpc-warns-businesses-against-ope",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:00:51+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "eTranzact boosts shareholder returns with 50k dividend",
+    "link": "https://punchng.com/etranzact-boosts-shareholder-returns-with-50k-dividend/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "eTranzact recommends a 50 kobo per share dividend for 2025 after revenue rose 2.39 per cent to N30.61bn and profit before tax reached N4.2bn. Read More: https://punchng.com/etranzact-boosts-shareholder-returns-with-50k-d",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:00:49+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Punch",
+    "title": "Medical schools urged to prioritise empathy over exam scores",
+    "link": "https://punchng.com/medical-schools-urged-to-prioritise-empathy-over-exam-scores/?utm_source=rss.punchng.com&utm_medium=web",
+    "summary": "St. George’s University’s Dr Marios Loukas says medical schools should prioritise empathy and resilience over exam scores when training doctors. Read More: https://punchng.com/medical-schools-urged-to-prioritise-empathy-",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+    "published": "2026-11-24T00:00:48+00:00"
+   },
+   {
+    "cat": "nat",
+    "source": "Vanguard",
+    "title": "FG seeks stronger food policies to curb malnutrition, NCDs",
+    "link": "https://www.vanguardngr.com/2026/11/fg-seeks-stronger-food-policies-to-curb-malnutrition-ncds/",
+    "summary": "By Chidinma Chukwu, Abuja The Federal Government has called for stronger implementation of healthy food policies to address malnutrition, micronutrient deficiencies and the rising burden of diet-related non-communicable",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-4.10.56-PM-1-1024x683.jpeg",
+    "published": "2026-11-23T23:27:00+00:00"
    },
    {
     "cat": "nat",
@@ -4905,42 +5112,6 @@
     "summary": "By Omeiza Ajayi The National Universities Commission NUC has proposed that universities adopt a three-to-four-week break to accommodate the 2027 general election, saying the entire election cycle will last no more than f",
     "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/02/NUC.jpg",
     "published": "2026-11-23T21:48:29+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Ogun poly to graduate 4,817 students at 50th anniversary",
-    "link": "https://punchng.com/ogun-poly-to-graduate-4817-students-at-50th-anniversary/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Ogun State Polytechnic of Health and Allied Sciences will graduate 4,817 students at its 4th combined convocation as it marks 50 years, says the rector. Read More: https://punchng.com/ogun-poly-to-graduate-4817-students-",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T21:45:32+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Gombe community seeks justice for three killed by Air Force personnel",
-    "link": "https://punchng.com/gombe-community-seeks-justice-for-three-killed-by-air-force-personnel/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Lawanti Community Development Foundation demands an independent probe and prosecution over the alleged killing of three residents by Air Force personnel in Read More: https://punchng.com/gombe-community-seeks-justice-for",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T21:40:18+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "UK, 13 nations acknowledge ICJ ruling on Rohingya genocide",
-    "link": "https://punchng.com/uk-13-nations-acknowledge-icj-ruling-on-rohingya-genocide/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "The UK and 13 other countries acknowledged the ICJ ruling that Myanmar committed Rohingya genocide, as London announced new sanctions on five military figu Read More: https://punchng.com/uk-13-nations-acknowledge-icj-rul",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T21:35:21+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Senate intervenes in 50-year Ogun communities, Army land dispute",
-    "link": "https://punchng.com/senate-intervenes-in-50-year-ogun-communities-army-land-dispute/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Senate Ethics Committee chair Neda Imasuen assures 16 Ogun communities of a resolution to their 50-year land dispute with the Nigerian Army. Read More: https://punchng.com/senate-intervenes-in-50-year-ogun-communities-ar",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T21:17:58+00:00"
    },
    {
     "cat": "nat",
@@ -4980,75 +5151,12 @@
    },
    {
     "cat": "nat",
-    "source": "Punch",
-    "title": "‘Pastor Jimmy has impacted our lives’: church members speak amid leadership crisis",
-    "link": "https://punchng.com/pastor-jimmy-has-impacted-our-lives-church-members-speak-amid-leadership-crisis/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Fountain of Life Church members voice support for Pastor Jimmy Odukoya amid the leadership crisis, saying his ministry has impacted their lives. Read More: https://punchng.com/pastor-jimmy-has-impacted-our-lives-church-m",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T20:42:03+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "So This Happened (EP 445) reviews: Tinubu reveals water stopped during shaving",
-    "link": "https://punchng.com/so-this-happened-ep-445-reviews-tinubu-reveals-water-stopped-during-shaving/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "President Tinubu says water stopped while he was shaving, raising fresh questions about basic infrastructure as Nigerians battle water and power problems. Read More: https://punchng.com/so-this-happened-ep-445-reviews-ti",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T20:37:14+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Vanguard",
     "title": "Delta govt imposes curfew in Ughelli North after campaign rally violence",
     "link": "https://www.vanguardngr.com/2026/11/delta-govt-imposes-curfew-in-ughelli-north-after-campaign-rally-violence/",
     "summary": "The Delta State Government has imposed a dusk-to-dawn curfew in Ughelli North Local Government Area following reported violence at a campaign rally of the National Democratic Congress (NDC) in Uduere Community, which all",
     "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-201642.jpg",
     "published": "2026-11-23T20:35:16+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "So This Happened (EP 445) reviews: Tourist accuses Daura Emir of sexual misconduct",
-    "link": "https://punchng.com/so-this-happened-ep-445-reviews-tourist-accuses-daura-emir-of-sexual-misconduct/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "A foreign tourist has accused the Emir of Daura of sexual misconduct during a palace visit, sparking reactions and calls for an investigation. Read More: https://punchng.com/so-this-happened-ep-445-reviews-tourist-accuse",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T20:34:37+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "So This Happened (EP 445) reviews: Jimmy Odukoya takes Fountain of Life crisis to court",
-    "link": "https://punchng.com/so-this-happened-ep-445-reviews-jimmy-odukoya-takes-fountain-of-life-crisis-to-court/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Pastor Jimmy Odukoya challenges his removal as Senior Pastor of Fountain of Life Church in court, amid disputes over meetings, church rules and authority. Read More: https://punchng.com/so-this-happened-ep-445-reviews-ji",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T20:32:18+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Plateau gov loses elder brother",
-    "link": "https://punchng.com/plateau-gov-loses-elder-brother/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Plateau governor Caleb Mutfwang has lost his elder brother, Morris Mutfwang, after a protracted illness. Burial is fixed for Thursday, November 26, 2026. Read More: https://punchng.com/plateau-gov-loses-elder-brother/",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T20:31:40+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Police arrest fake NGO operator, others over N1.5m baby sale",
-    "link": "https://punchng.com/police-arrest-fake-ngo-operator-others-over-n1-5m-baby-sale/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Osun police arrest a fake NGO operator and others over the N1.5m baby sale, as the newborn is recovered in Akure after a probe spanning three states. Read More: https://punchng.com/police-arrest-fake-ngo-operator-others-",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T20:25:50+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Police arrest woman for assaulting officer in Abia",
-    "link": "https://punchng.com/police-arrest-woman-for-assaulting-officer-in-abia/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Abia police arrest Ettoh Barkerk for allegedly assaulting an officer and tearing his uniform during a disturbance over fireworks at a church in Aba. Read More: https://punchng.com/police-arrest-woman-for-assaulting-offic",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T20:25:46+00:00"
    },
    {
     "cat": "nat",
@@ -5061,33 +5169,6 @@
    },
    {
     "cat": "nat",
-    "source": "Punch",
-    "title": "2027: Tinubu woos Igbo, recalls 2023 defeat in Lagos",
-    "link": "https://punchng.com/2027-tinubu-woos-igbo-recalls-2023-defeat-in-lagos/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Tinubu appealed to Igbo stakeholders in Lagos to back his 2027 re-election bid, recalling his 2023 loss to Peter Obi in the state at the Onikan rally. Read More: https://punchng.com/2027-tinubu-woos-igbo-recalls-2023-def",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T20:15:47+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "EXPLAINER: Why Nigerians are pushing back against ‘lazy youths’ narrative",
-    "link": "https://punchng.com/explainer-why-nigerians-are-pushing-back-against-lazy-youths-narrative/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Nigerians push back against the ‘lazy youths’ narrative after a resurfaced Enioluwa Adeoluwa speech, citing low pay, job scarcity and rising living costs. Read More: https://punchng.com/explainer-why-nigerians-are-pushin",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T20:01:31+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Akwa Ibom gov inaugurates new LG secretariat",
-    "link": "https://punchng.com/akwa-ibom-gov-inaugurates-new-lg-secretariat/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Governor Umo Eno inaugurates the new Ika Local Government Secretariat in Akwa Ibom and says the 2027 budget will fund 10km of roads in each of 31 LGAs. Read More: https://punchng.com/akwa-ibom-gov-inaugurates-new-lg-secr",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T19:46:27+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Vanguard",
     "title": "Caregiver Salami shot dead in US weeks before starting Nursing school",
     "link": "https://www.vanguardngr.com/2026/11/caregiver-salami-shot-dead-in-us-weeks-before-starting-nursing-school/",
@@ -5097,30 +5178,12 @@
    },
    {
     "cat": "nat",
-    "source": "Punch",
-    "title": "Greece reopens Acropolis museum after $11m renovation",
-    "link": "https://punchng.com/greece-reopens-acropolis-museum-after-11m-renovation/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Greece reopens the Old Acropolis Museum after a 10m-euro renovation, as PM Mitsotakis repeats his demand for Britain to return the Parthenon sculptures. Read More: https://punchng.com/greece-reopens-acropolis-museum-afte",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T19:39:36+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Vanguard",
     "title": "Mock accreditation: INEC publishes 17,656 selected PUs across 36 states, FCT",
     "link": "https://www.vanguardngr.com/2026/11/mock-accreditation-inec-publishes-17656-selected-pus-across-36-states-fct/",
     "summary": "The Independent National Electoral Commission INEC has published the list of polling units selected for its nationwide mock accreditation exercise, naming 17,656 locations across the 36 states and the Federal Capital Ter",
     "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/10/INEC.png",
     "published": "2026-11-23T19:32:25+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Okpebholo promises third Benin flyover if Tinubu wins re-election",
-    "link": "https://punchng.com/okpebholo-promises-third-benin-flyover-if-tinubu-wins-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Edo Governor Monday Okpebholo pledges a third Benin City flyover linking Agbor Road to Sakpoba Road if Tinubu wins the 2027 presidential election. Read More: https://punchng.com/okpebholo-promises-third-benin-flyover-if-",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T19:18:40+00:00"
    },
    {
     "cat": "nat",
@@ -5139,51 +5202,6 @@
     "summary": "Sinner, 25, has been struggling with persistent inflammation in his right knee, which forced him to end his 2026 season prematurely. The post Sinner set to undergo knee surgery, might miss Australian Open appeared first",
     "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/10/AFP__20261006__D2CE9WE__v1__MidRes__FilesTennisItaSinner-1024x684.jpg",
     "published": "2026-11-23T19:12:54+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Bayelsa boat tragedy death toll rises to 32, police warn operators",
-    "link": "https://punchng.com/bayelsa-boat-tragedy-death-toll-rises-to-32-police-warn-operators/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "The Bayelsa boat tragedy death toll has risen to 32, as police warn operators and passengers against overloading and ignoring life-jacket rules. Read More: https://punchng.com/bayelsa-boat-tragedy-death-toll-rises-to-32-",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T19:12:22+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "FG moves to fast-track drug trials, seize traffickers’ assets",
-    "link": "https://punchng.com/fg-moves-to-fast-track-drug-trials-seize-traffickers-assets/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Fagbemi says the FG will speed up drug trials and confiscate traffickers’ assets under the National Drug Control Master Plan 2026–2030 launched in Abuja. Read More: https://punchng.com/fg-moves-to-fast-track-drug-trials-",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T19:04:47+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Fubara mourns victims of Bayelsa boat accident",
-    "link": "https://punchng.com/fubara-mourns-victims-of-bayelsa-boat-accident/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Rivers Governor Siminalayi Fubara commiserates with Bayelsa over the Southern Ijaw boat accident, which authorities say has killed 29 people. Read More: https://punchng.com/fubara-mourns-victims-of-bayelsa-boat-accident/",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T19:03:26+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Omo-Agege’s camp alleges four killed in Delta attack",
-    "link": "https://punchng.com/omo-ageges-camp-alleges-four-killed-in-delta-attack/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Omo-Agege’s campaign says four were killed and four critically injured in an attack on his entourage in Ughelli North, Delta. The claims are unverified. Read More: https://punchng.com/omo-ageges-camp-alleges-four-killed-",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T19:00:09+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Punch",
-    "title": "Plateau blames dam repairs for water shortage in Jos",
-    "link": "https://punchng.com/plateau-blames-dam-repairs-for-water-shortage-in-jos/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Plateau government says ongoing rehabilitation of Yakubu Gowon and Liberty dams is behind the Jos water shortage, with an 18-month completion timeline. Read More: https://punchng.com/plateau-blames-dam-repairs-for-water-",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T18:58:18+00:00"
    },
    {
     "cat": "nat",
@@ -5232,15 +5250,6 @@
    },
    {
     "cat": "nat",
-    "source": "Punch",
-    "title": "Gombe gov promises N3.6bn hospital, urges support for Tinubu",
-    "link": "https://punchng.com/gombe-gov-promises-n3-6bn-hospital-urges-support-for-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
-    "summary": "Gombe Governor Muhammadu Yahaya promises a N3.6bn general hospital in Billiri and urges residents to back Tinubu and APC candidates in the 2027 elections. Read More: https://punchng.com/gombe-gov-promises-n3-6bn-hospital",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-    "published": "2026-11-23T18:30:55+00:00"
-   },
-   {
-    "cat": "nat",
     "source": "Vanguard",
     "title": "Navy intercepts 89,000 litres of stolen crude, illegal diesel in Rivers",
     "link": "https://www.vanguardngr.com/2026/11/navy-intercepts-89000-litres-of-stolen-crude-illegal-diesel-in-rivers/",
@@ -5260,20 +5269,11 @@
    {
     "cat": "nat",
     "source": "Vanguard",
-    "title": "Electoral Act not responsible for rising campaign violence — Adegbonmire",
-    "link": "https://www.vanguardngr.com/2026/11/electoral-act-not-responsible-for-rising-campaign-violence-adegbonmire/",
-    "summary": "By Cynthia Alo & Kafayat Kokumo Chairman of the Senate Ad Hoc Committee on Electoral Reforms, Adeniyi Adegbonmire, has said the Electoral Act is not responsible for rising cases of campaign violence across the country, i",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/05/Adeniyi-Adegbonmire.png",
-    "published": "2026-11-23T18:08:41+00:00"
-   },
-   {
-    "cat": "nat",
-    "source": "Vanguard",
-    "title": "Instagram removes Polish tourist’s video accusing Daura Emir of sexual assault",
-    "link": "https://www.vanguardngr.com/2026/11/instagram-removes-polish-tourists-video-accusing-daura-emir-of-sexual-assault/",
-    "summary": "Cze disclosed the removal in a post on her Instagram page on Monday, saying she believed the video was taken down after several users reported it. The post Instagram removes Polish tourist’s video accusing Daura Emir of",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Emir-Of-Daura.png",
-    "published": "2026-11-23T18:07:58+00:00"
+    "title": "2027: NOA mobilises Benue communities against voter apathy, vote buying, electoral violence",
+    "link": "https://www.vanguardngr.com/2026/11/2027-noa-mobilises-benue-communities-against-voter-apathy-vote-buying-electoral-violence/",
+    "summary": "The National Orientation Agency (NOA) in Benue State has unveiled plans to intensify grassroots mobilisation across the 23 local government areas of the state ahead of the 2027 general elections, warning voters against a",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/noa.jpeg",
+    "published": "2026-11-23T18:14:00+00:00"
    }
   ],
   "ZA": [
